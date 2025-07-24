@@ -1,17 +1,19 @@
-// Đổi repo gốc ở đây 1 lần
-const BASE_PATH = ''; // ví dụ '/lib/' nếu đổi tên
+// Nếu chưa có BASE_PATH thì mặc định
+window.BASE_PATH = window.BASE_PATH || './';
 
-// Thêm thẻ <base> động vào <head>
+// Tạo <base> tag
 const base = document.createElement('base');
 base.href = BASE_PATH;
 document.head.prepend(base);
 
+// Load header/footer
 async function loadComponent(id, url) {
   const el = document.getElementById(id);
-  const res = await fetch(url);
+  const res = await fetch(BASE_PATH + url);
   const text = await res.text();
   el.innerHTML = text;
 }
 
 loadComponent('header', 'components/header.html');
 loadComponent('footer', 'components/footer.html');
+
