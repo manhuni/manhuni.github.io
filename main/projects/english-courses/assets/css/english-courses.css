@@ -1,0 +1,53 @@
+/* english-courses.css */
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.course-list h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+  font-weight: 600;
+}
+
+.course-category {
+  margin-bottom: 40px;
+}
+
+.course-category h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #007BFF;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+.lesson-list {
+  list-style: none;
+  padding: 0;
+}
+
+.lesson-list li {
+  margin-bottom: 12px;
+}
+
+.lesson-list li a {
+  text-decoration: none;
+  color: #007BFF;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.lesson-list li a:hover {
+  color: #0056b3;
+}
