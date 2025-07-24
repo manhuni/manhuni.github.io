@@ -1,0 +1,30 @@
+.vocab-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+.vocab-table th,
+.vocab-table td {
+  border: 1px solid #ddd;
+  padding: 0.5rem 1rem;
+  text-align: left;
+}
+
+.vocab-table th {
+  background: #f0f0f0;
+}
+
+.example-block {
+  background: #eef7ff;
+  padding: 1rem;
+  border-left: 4px solid #0077cc;
+  margin: 1rem 0;
+}
+
+.note {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #fff3cd;
+  border-left: 4px solid #ffc107;
+}
