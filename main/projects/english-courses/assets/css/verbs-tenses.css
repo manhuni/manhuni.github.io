@@ -28,3 +28,17 @@
   background: #fff3cd;
   border-left: 4px solid #ffc107;
 }
+
+#quiz-form button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background: #0077cc;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#quiz-form p#quiz-result {
+    margin-top: 1rem;
+    font-weight: bold;
+}
