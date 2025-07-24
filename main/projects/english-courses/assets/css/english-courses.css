@@ -1,53 +1,65 @@
-/* english-courses.css */
-
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #f9f9f9;
+  background: #f5f7fa;
   color: #333;
   line-height: 1.6;
 }
 
 .container {
-  max-width: 960px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 40px 20px;
 }
 
+.course-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+}
+
 .course-list h1 {
+  grid-column: 1/-1;
   text-align: center;
   font-size: 2.5rem;
   margin-bottom: 40px;
   font-weight: 600;
 }
 
-.course-category {
-  margin-bottom: 40px;
+.study-item {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.course-category h2 {
-  font-size: 1.8rem;
-  margin-bottom: 20px;
-  border-bottom: 2px solid #007BFF;
-  display: inline-block;
-  padding-bottom: 5px;
+.study-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
 }
 
-.lesson-list {
-  list-style: none;
-  padding: 0;
-}
-
-.lesson-list li {
+.study-item h3 {
+  font-size: 1.4rem;
   margin-bottom: 12px;
 }
 
-.lesson-list li a {
-  text-decoration: none;
-  color: #007BFF;
-  font-weight: 500;
-  transition: color 0.3s ease;
+.study-item p {
+  margin-bottom: 16px;
+  color: #555;
 }
 
-.lesson-list li a:hover {
-  color: #0056b3;
+.study-item .btn {
+  display: inline-block;
+  padding: 8px 16px;
+  background: #007BFF;
+  color: #fff;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.3s ease;
+}
+
+.study-item .btn:hover {
+  background: #0056b3;
 }
