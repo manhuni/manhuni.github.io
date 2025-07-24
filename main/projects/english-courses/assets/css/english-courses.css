@@ -1,65 +1,46 @@
-body {
-  font-family: 'Inter', sans-serif;
-  background: #f5f7fa;
-  color: #333;
-  line-height: 1.6;
-}
+/* study.css - Style riêng cho trang Study */
 
-.container {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 40px 20px;
-}
-
-.course-list {
+.study-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 24px;
-}
-
-.course-list h1 {
-  grid-column: 1/-1;
-  text-align: center;
-  font-size: 2.5rem;
-  margin-bottom: 40px;
-  font-weight: 600;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
 }
 
 .study-item {
   background: #fff;
-  border: 1px solid #ddd;
   border-radius: 8px;
-  padding: 24px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .study-item:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
 }
 
 .study-item h3 {
-  font-size: 1.4rem;
-  margin-bottom: 12px;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
 }
 
 .study-item p {
-  margin-bottom: 16px;
+  font-size: 0.95rem;
   color: #555;
 }
 
-.study-item .btn {
+.btn {
   display: inline-block;
-  padding: 8px 16px;
-  background: #007BFF;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #17a2b8;
   color: #fff;
   border-radius: 4px;
-  text-decoration: none;
-  font-weight: 500;
-  transition: background 0.3s ease;
+  font-size: 0.9rem;
+  transition: background 0.2s ease;
 }
 
-.study-item .btn:hover {
-  background: #0056b3;
+.btn:hover {
+  background: #138496;
 }
