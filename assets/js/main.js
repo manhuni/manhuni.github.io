@@ -1,12 +1,5 @@
-// Nếu chưa có BASE_PATH thì mặc định
-window.BASE_PATH = window.BASE_PATH || './';
+const BASE_PATH = '/'; // gốc domain
 
-// Tạo <base> tag
-const base = document.createElement('base');
-base.href = BASE_PATH;
-document.head.prepend(base);
-
-// Load header/footer
 async function loadComponent(id, url) {
   const el = document.getElementById(id);
   const res = await fetch(BASE_PATH + url);
@@ -16,4 +9,3 @@ async function loadComponent(id, url) {
 
 loadComponent('header', 'components/header.html');
 loadComponent('footer', 'components/footer.html');
-
