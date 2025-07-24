@@ -9,7 +9,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   buttons.forEach(btn => {
     btn.addEventListener('click', event => {
-      event.preventDefault();
       const courseName = btn.closest('.study-item').querySelector('h3').textContent;
       console.log(`Bạn vừa chọn: ${courseName}`);
       // Sau này có thể redirect hoặc mở chi tiết
