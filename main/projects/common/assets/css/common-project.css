@@ -1,0 +1,50 @@
+/* Common Project Page Specific Style */
+
+.common-hero {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: #f9fafb;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
+
+.common-hero h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+
+.common-hero p {
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.common-links {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.common-links h2 {
+  margin-bottom: 1rem;
+}
+
+.common-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.common-links li {
+  margin-bottom: 0.75rem;
+}
+
+.common-links a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.common-links a:hover {
+  color: #0056b3;
+}
