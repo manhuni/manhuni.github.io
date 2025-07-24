@@ -5,17 +5,14 @@ console.log('english courses Page Loaded.');
 // english-courses.js
 
 document.addEventListener('DOMContentLoaded', () => {
-  console.log('English Courses page loaded!');
+  const buttons = document.querySelectorAll('.study-item .btn');
 
-  // Ví dụ: Bắt sự kiện click (có thể mở modal, tải bài học chi tiết, v.v.)
-  const lessonLinks = document.querySelectorAll('.lesson-list a');
-
-  lessonLinks.forEach(link => {
-    link.addEventListener('click', event => {
+  buttons.forEach(btn => {
+    btn.addEventListener('click', event => {
       event.preventDefault();
-      const lessonName = link.textContent.trim();
-      console.log(`You clicked on: ${lessonName}`);
-      // Sau này có thể chuyển sang trang chi tiết hoặc load AJAX
+      const courseName = btn.closest('.study-item').querySelector('h3').textContent;
+      console.log(`Bạn vừa chọn: ${courseName}`);
+      // Sau này có thể redirect hoặc mở chi tiết
     });
   });
 });
