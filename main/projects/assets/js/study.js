@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const courses = document.querySelectorAll(".study-item");
   courses.forEach(course => {
     course.addEventListener("click", () => {
-      alert(`Bạn vừa chọn: ${course.querySelector("h3").innerText}`);
+      console.log(`Bạn vừa chọn: ${course.querySelector("h3").innerText}`);
     });
   });
 });

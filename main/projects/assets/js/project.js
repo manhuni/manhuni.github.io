@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const projects = document.querySelectorAll(".project-item");
   projects.forEach(project => {
     project.addEventListener("click", () => {
-      alert(`Bạn vừa chọn: ${project.querySelector("h3").innerText}`);
+      console.log(`Bạn vừa chọn: ${project.querySelector("h3").innerText}`);
     });
   });
 });
