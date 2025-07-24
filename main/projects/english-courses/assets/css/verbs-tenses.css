@@ -29,6 +29,15 @@
   border-left: 4px solid #ffc107;
 }
 
+#quiz-form {
+    margin-top: 1rem;
+}
+
+#quiz-form label {
+    display: block;
+    margin: 0.5rem 0;
+}
+
 #quiz-form button {
     margin-top: 1rem;
     padding: 0.5rem 1rem;
