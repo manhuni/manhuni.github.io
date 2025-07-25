@@ -9,34 +9,39 @@ const audioData = {
   ],
   // Thêm các IPA khác ...
 };
+// Gán click cho mọi <tr>
+document.querySelectorAll(".ipa-row").forEach(row => {
+  row.addEventListener("click", () => {
+    const ipaId = row.dataset.ipaId;
+    const ipaLabel = row.querySelector("td").innerText.trim(); // Lấy text IPA
 
-document.querySelectorAll(".ipa-sound").forEach(el => {
-  el.addEventListener("click", () => {
-    const ipaId = el.dataset.ipaId;  // Lấy ID
-    const ipaLabel = el.innerText;   // Lấy label để show
     const list = audioData[ipaId] || [];
+    const title = document.getElementById("popup-title");
+    const listContainer = document.getElementById("audio-list");
 
-    document.getElementById("popup-title").innerText = `IPA: ${ipaLabel}`;
+    title.innerText = `IPA: ${ipaLabel}`;
+    listContainer.innerHTML = "";
 
-    const ul = document.getElementById("audio-list");
-    ul.innerHTML = "";
-
-    list.forEach(item => {
-      const li = document.createElement("li");
-      const btn = document.createElement("button");
-      btn.innerText = `Play ${item.name}`;
-      btn.addEventListener("click", () => {
-        new Audio(item.file).play();
+    if (list.length === 0) {
+      listContainer.innerHTML = "<li>Chưa có audio</li>";
+    } else {
+      list.forEach(item => {
+        const li = document.createElement("li");
+        const btn = document.createElement("button");
+        btn.innerText = `▶ ${item.name}`;
+        btn.addEventListener("click", () => {
+          new Audio(item.file).play();
+        });
+        li.appendChild(btn);
+        listContainer.appendChild(li);
       });
-      li.appendChild(btn);
-      ul.appendChild(li);
-    });
+    }
 
     document.getElementById("ipa-popup").classList.remove("hidden");
   });
 });
 
-
+// Đóng popup
 document.getElementById("popup-close").addEventListener("click", () => {
   document.getElementById("ipa-popup").classList.add("hidden");
 });
