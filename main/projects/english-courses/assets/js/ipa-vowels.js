@@ -1,11 +1,11 @@
 // Ví dụ bạn có sẵn audio map:
 const audioData = {
   "iː": [
-    { name: "seat", file: "audio/seat.mp3" },
-    { name: "see", file: "audio/see.mp3" }
+    { name: "seat", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/seat0001.mp3" },
+    { name: "see", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/see00001.mp3" }
   ],
   "ɪ": [
-    { name: "sit", file: "audio/sit.mp3" }
+    { name: "sit", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/sit00001.mp3" }
   ],
   // Thêm các IPA khác ...
 };
