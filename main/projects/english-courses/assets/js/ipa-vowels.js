@@ -518,16 +518,7 @@ const audioData = {
     { ipa: "/w/", name: "win", wordIpa: "/wɪn/", file: "/main/projects/english-courses/assets/data/ipa-consonants/audio/win.mp3" },
     { ipa: "/w/", name: "warm", wordIpa: "/wɔːm/", file: "/main/projects/english-courses/assets/data/ipa-consonants/audio/warm.mp3" }
   ]
-};
-let words = [];
-for (let key in audioData) {
-  if (audioData.hasOwnProperty(key)) {
-    audioData[key].forEach((v) => {
-      words.push(v.name);
-    })
-  }
-}
-debugger
+}; 
 document.querySelectorAll(".ipa-row").forEach(row => {
   row.addEventListener("click", () => {
     const ipaId = row.dataset.ipaId;
