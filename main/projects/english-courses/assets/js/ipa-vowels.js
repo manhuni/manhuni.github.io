@@ -1,24 +1,23 @@
-// Ví dụ bạn có sẵn audio map:
 const audioData = {
   "ipa_01": [
-    { name: "seat", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/seat0001.mp3" },
-    { name: "see", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/see00001.mp3" }
+    { ipa: "/iː/", name: "seat", wordIpa: "/siːt/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/seat0001.mp3" },
+    { ipa: "/iː/", name: "see", wordIpa: "/siː/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/see00001.mp3" }
   ],
   "ipa_02": [
-    { name: "sit", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/sit00001.mp3" }
+    { ipa: "/ɪ/", name: "sit", wordIpa: "/sɪt/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/sit00001.mp3" }
   ],
-  // Thêm các IPA khác ...
+  // Các IPA khác ...
 };
-// Gán click cho mọi <tr>
+
 document.querySelectorAll(".ipa-row").forEach(row => {
   row.addEventListener("click", () => {
     const ipaId = row.dataset.ipaId;
     const td = row.querySelector("td");
-    if (!td) return; // Không chạy nếu không có TD
+    if (!td) return;
 
     const ipaLabel = td.innerText.trim();
-
     const list = audioData[ipaId] || [];
+
     const title = document.getElementById("popup-title");
     const listContainer = document.getElementById("audio-list");
 
@@ -31,7 +30,8 @@ document.querySelectorAll(".ipa-row").forEach(row => {
       list.forEach(item => {
         const li = document.createElement("li");
         const btn = document.createElement("button");
-        btn.innerText = `▶ ${item.name}`;
+        // ✔️ Hiển thị rõ: Từ (IPA) => Phiên âm đầy đủ
+        btn.innerText = `▶ ${item.name} (${item.ipa}) ⇒ ${item.wordIpa}`;
         btn.addEventListener("click", () => {
           new Audio(item.file).play();
         });
