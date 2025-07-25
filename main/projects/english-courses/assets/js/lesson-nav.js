@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
     "verbs-tenses.html",
     "adjectives-adverbs.html",
     "ipa-vowels.html",
-    "word-stress.html"
+    "think-english.html"
   ];
 
   // Lấy tên file hiện tại

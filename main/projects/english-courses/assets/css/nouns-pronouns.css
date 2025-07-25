@@ -78,21 +78,4 @@
     padding: 1rem;
     background: #fff3cd;
     border-left: 4px solid #ffc107;
-}
-.lesson-nav {
-  margin-top: 40px;
-  display: flex;
-  justify-content: space-between;
-}
-
-.lesson-nav .btn {
-  padding: 10px 20px;
-  background: #007acc;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 4px;
-}
-
-.lesson-nav .btn:hover {
-  background: #005fa3;
-}
+} 

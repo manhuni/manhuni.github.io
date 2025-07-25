@@ -1,5 +1,4 @@
-/* ======= ipa-vowels.css ======= */
-
+/* ======= think-english.css ======= */
 .vocab-table {
   width: 100%;
   border-collapse: collapse;
@@ -36,10 +35,6 @@
 
 .hero h1 {
   font-size: 2rem;
-}
-.highlight-ipa {
-  background-color: #d1eaff;
-  font-weight: bold;
 }
 
 .hero p {
