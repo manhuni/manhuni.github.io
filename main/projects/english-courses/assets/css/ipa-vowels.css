@@ -69,13 +69,30 @@
 /* ======= POPUP ======= */
 #ipa-popup {
   position: fixed;
-  top: 0; left: 0; right: 0; bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   background: rgba(0, 0, 0, 0.5);
 
-  display: flex;              /* Căn giữa bằng flex */
+  display: none;
+  /* Ẩn mặc định */
   justify-content: center;
   align-items: center;
 
+  z-index: 999;
+} 
+
+#ipa-popup:not(.hidden) {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  justify-content: center;
+  align-items: center;
   z-index: 999;
 }
 
@@ -95,6 +112,7 @@
     transform: translateY(-20px);
     opacity: 0;
   }
+
   to {
     transform: translateY(0);
     opacity: 1;
