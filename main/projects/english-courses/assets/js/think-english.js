@@ -18,11 +18,11 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 async function loadThinkEnglish() {
-  const index = await fetch('/assets/data/think-english/phrases-index.json').then(r => r.json());
+  const index = await fetch('main/projects/english-courses/assets/data/think-english/phrases-index.json').then(r => r.json());
   const allPhrases = [];
 
   for (const group of index) {
-    const groupData = await fetch(`/assets/data/think-english/${group.file}`).then(r => r.json());
+    const groupData = await fetch(`main/projects/english-courses/assets/data/think-english/${group.file}`).then(r => r.json());
     allPhrases.push({
       category: group.category,
       description: group.description,
