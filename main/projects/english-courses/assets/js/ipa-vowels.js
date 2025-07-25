@@ -29,15 +29,33 @@ document.querySelectorAll(".ipa-row").forEach(row => {
     } else {
       list.forEach(item => {
         const li = document.createElement("li");
+
+        const word = document.createElement("strong");
+        word.innerText = item.name;
+
+        const ipaSpan = document.createElement("span");
+        ipaSpan.style.marginLeft = "8px";
+        ipaSpan.innerText = `IPA: ${item.ipa}`;
+
+        const wordIpa = document.createElement("span");
+        wordIpa.style.marginLeft = "8px";
+        wordIpa.innerText = `Word IPA: ${item.wordIpa}`;
+
         const btn = document.createElement("button");
-        // ✔️ Hiển thị rõ: Từ (IPA) => Phiên âm đầy đủ
-        btn.innerText = `▶ ${item.name} (${item.ipa}) ⇒ ${item.wordIpa}`;
+        btn.innerText = "▶ Play";
+        btn.style.marginLeft = "8px";
         btn.addEventListener("click", () => {
           new Audio(item.file).play();
         });
+
+        li.appendChild(word);
+        li.appendChild(ipaSpan);
+        li.appendChild(wordIpa);
         li.appendChild(btn);
+
         listContainer.appendChild(li);
       });
+
     }
 
     document.getElementById("ipa-popup").classList.remove("hidden");
