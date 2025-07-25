@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
     "nouns-pronouns.html",
     "verbs-tenses.html",
     "adjectives-adverbs.html",
-    "vowel-sounds.html",
+    "ipa-vowels.html",
     "word-stress.html"
   ];
 

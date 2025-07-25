@@ -1,0 +1,75 @@
+/* ======= ipa-vowels.css ======= */
+
+.vocab-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.vocab-table thead {
+  background-color: #f5f5f5;
+}
+
+.vocab-table th,
+.vocab-table td {
+  padding: 12px 16px;
+  border: 1px solid #ddd;
+}
+
+.vocab-table tbody tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+.vocab-table tbody tr:hover {
+  background-color: #f0f8ff;
+}
+
+.note {
+  background: #fffbea;
+  border-left: 4px solid #f7c948;
+  padding: 1rem;
+  margin-top: 1.5rem;
+  border-radius: 4px;
+}
+
+.hero h1 {
+  font-size: 2rem;
+}
+.highlight-ipa {
+  background-color: #d1eaff;
+  font-weight: bold;
+}
+
+.hero p {
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+}
+
+.lesson-content h2 {
+  margin-top: 2rem;
+  color: #2a7ae2;
+}
+
+.lesson-content h3 {
+  margin-top: 1.5rem;
+  color: #555;
+}
+.lesson-nav {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.lesson-nav .btn {
+  padding: 10px 20px;
+  background: #007acc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.lesson-nav .btn:hover {
+  background: #005fa3;
+}
