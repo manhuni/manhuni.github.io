@@ -1,0 +1,122 @@
+[
+  {
+    "phrase": "Where is the nearest hotel?",
+    "ipa": "/wɛər ɪz ðə ˈnɪərɪst hoʊˈtɛl/",
+    "meaning": "Khách sạn gần nhất ở đâu?",
+    "context": "Hỏi đường"
+  },
+  {
+    "phrase": "How much is a ticket?",
+    "ipa": "/haʊ mʌʧ ɪz ə ˈtɪkɪt/",
+    "meaning": "Vé bao nhiêu tiền?",
+    "context": "Hỏi giá vé"
+  },
+  {
+    "phrase": "Could you help me, please?",
+    "ipa": "/kʊd ju hɛlp mi pliːz/",
+    "meaning": "Bạn giúp tôi được không?",
+    "context": "Nhờ giúp đỡ"
+  },
+  {
+    "phrase": "I’d like to check in.",
+    "ipa": "/aɪd laɪk tə tʃɛk ɪn/",
+    "meaning": "Tôi muốn làm thủ tục nhận phòng.",
+    "context": "Khách sạn"
+  },
+  {
+    "phrase": "I’d like to check out.",
+    "ipa": "/aɪd laɪk tə tʃɛk aʊt/",
+    "meaning": "Tôi muốn trả phòng.",
+    "context": "Khách sạn"
+  },
+  {
+    "phrase": "Is breakfast included?",
+    "ipa": "/ɪz ˈbrɛkfəst ɪnˈkluːdɪd/",
+    "meaning": "Có bao gồm bữa sáng không?",
+    "context": "Khách sạn"
+  },
+  {
+    "phrase": "How do I get to the airport?",
+    "ipa": "/haʊ du aɪ ɡɛt tə ði ˈɛərpɔːrt/",
+    "meaning": "Làm sao đi ra sân bay?",
+    "context": "Hỏi đường"
+  },
+  {
+    "phrase": "Where can I buy a ticket?",
+    "ipa": "/wɛər kæn aɪ baɪ ə ˈtɪkɪt/",
+    "meaning": "Tôi có thể mua vé ở đâu?",
+    "context": "Hỏi vé"
+  },
+  {
+    "phrase": "How long does it take?",
+    "ipa": "/haʊ lɔːŋ dʌz ɪt teɪk/",
+    "meaning": "Mất bao lâu?",
+    "context": "Hỏi thời gian"
+  },
+  {
+    "phrase": "Is it far from here?",
+    "ipa": "/ɪz ɪt fɑːr frəm hɪər/",
+    "meaning": "Có xa không?",
+    "context": "Hỏi khoảng cách"
+  },
+  {
+    "phrase": "Can I have the menu, please?",
+    "ipa": "/kæn aɪ hæv ðə ˈmɛnju pliːz/",
+    "meaning": "Cho tôi xin thực đơn.",
+    "context": "Nhà hàng"
+  },
+  {
+    "phrase": "Could I have the bill, please?",
+    "ipa": "/kʊd aɪ hæv ðə bɪl pliːz/",
+    "meaning": "Cho tôi tính tiền nhé.",
+    "context": "Nhà hàng"
+  },
+  {
+    "phrase": "Is there Wi-Fi here?",
+    "ipa": "/ɪz ðɛər ˈwaɪfaɪ hɪər/",
+    "meaning": "Ở đây có Wi-Fi không?",
+    "context": "Hỏi dịch vụ"
+  },
+  {
+    "phrase": "Do you speak English?",
+    "ipa": "/du ju spiːk ˈɪŋɡlɪʃ/",
+    "meaning": "Bạn có nói tiếng Anh không?",
+    "context": "Giao tiếp"
+  },
+  {
+    "phrase": "Could you repeat that, please?",
+    "ipa": "/kʊd ju rɪˈpiːt ðæt pliːz/",
+    "meaning": "Bạn có thể lặp lại không?",
+    "context": "Nghe không rõ"
+  },
+  {
+    "phrase": "Can I pay by card?",
+    "ipa": "/kæn aɪ peɪ baɪ kɑːrd/",
+    "meaning": "Tôi trả bằng thẻ được không?",
+    "context": "Thanh toán"
+  },
+  {
+    "phrase": "I’d like to make a reservation.",
+    "ipa": "/aɪd laɪk tə meɪk ə ˌrɛzərˈveɪʃən/",
+    "meaning": "Tôi muốn đặt chỗ.",
+    "context": "Đặt chỗ"
+  },
+  {
+    "phrase": "Where is the restroom?",
+    "ipa": "/wɛər ɪz ðə ˈrɛstruːm/",
+    "meaning": "Nhà vệ sinh ở đâu?",
+    "context": "Hỏi nhà vệ sinh"
+  },
+  {
+    "phrase": "Could you call a taxi for me?",
+    "ipa": "/kʊd ju kɔːl ə ˈtæksi fər miː/",
+    "meaning": "Bạn gọi giúp tôi taxi được không?",
+    "context": "Nhờ taxi"
+  },
+  {
+    "phrase": "Is there a pharmacy nearby?",
+    "ipa": "/ɪz ðɛər ə ˈfɑːrməsi ˈnɪərbaɪ/",
+    "meaning": "Có tiệm thuốc nào gần đây không?",
+    "context": "Hỏi hiệu thuốc"
+  }
+]

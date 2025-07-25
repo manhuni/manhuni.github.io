@@ -1,104 +1,152 @@
 [
-  {
-    "phrase": "Let’s get straight to the point.",
-    "ipa": "/lets ɡet streɪt tə ðə pɔɪnt/",
-    "meaning": "Vào thẳng vấn đề.",
-    "context": "Mở đầu đàm phán"
-  },
-  {
-    "phrase": "Could you clarify that?",
-    "ipa": "/kʊd ju ˈklærɪfaɪ ðæt/",
-    "meaning": "Bạn làm rõ giúp tôi nhé?",
-    "context": "Làm rõ"
-  },
-  {
-    "phrase": "From my perspective, …",
-    "ipa": "/frəm maɪ pəˈspɛktɪv/",
-    "meaning": "Theo quan điểm của tôi,…",
-    "context": "Đưa quan điểm"
-  },
-  {
-    "phrase": "How about we…?",
-    "ipa": "/haʊ əˈbaʊt wi/",
-    "meaning": "Chúng ta thử…?",
-    "context": "Đề xuất"
-  },
-  {
-    "phrase": "I’m afraid that won’t work for us.",
-    "ipa": "/aɪm əˈfreɪd ðæt woʊnt wɜːrk fər ʌs/",
-    "meaning": "Rất tiếc, điều đó không phù hợp với chúng tôi.",
-    "context": "Từ chối khéo"
-  },
-  {
-    "phrase": "What’s your best offer?",
-    "ipa": "/wɒts jɔːr bɛst ˈɒfər/",
-    "meaning": "Đâu là đề xuất tốt nhất của bạn?",
-    "context": "Thương lượng giá"
-  },
-  {
-    "phrase": "Could you do better than that?",
-    "ipa": "/kʊd ju du ˈbɛtər ðæn ðæt/",
-    "meaning": "Bạn có thể ra giá tốt hơn không?",
-    "context": "Ép giá nhẹ"
-  },
-  {
-    "phrase": "Is there any room for flexibility?",
-    "ipa": "/ɪz ðɛr ˈɛni ruːm fər flɛksəˈbɪləti/",
-    "meaning": "Có không gian linh hoạt không?",
-    "context": "Mở đàm phán"
-  },
-  {
-    "phrase": "Let’s find a middle ground.",
-    "ipa": "/lets faɪnd ə ˈmɪdl ɡraʊnd/",
-    "meaning": "Hãy tìm điểm chung nhé.",
-    "context": "Thỏa hiệp"
-  },
-  {
-    "phrase": "What if we…?",
-    "ipa": "/wɒt ɪf wi/",
-    "meaning": "Nếu chúng ta… thì sao?",
-    "context": "Đề xuất điều chỉnh"
-  },
-  {
-    "phrase": "Can we agree on that?",
-    "ipa": "/kæn wi əˈɡri ɒn ðæt/",
-    "meaning": "Chúng ta đồng ý điểm này chứ?",
-    "context": "Xác nhận"
-  },
-  {
-    "phrase": "Could we revisit this later?",
-    "ipa": "/kʊd wi ˌriːˈvɪzɪt ðɪs ˈleɪtər/",
-    "meaning": "Chúng ta bàn lại điểm này sau nhé?",
-    "context": "Hoãn mềm"
-  },
-  {
-    "phrase": "That’s not quite what we had in mind.",
-    "ipa": "/ðæts nɒt kwaɪt wɒt wi hæd ɪn maɪnd/",
-    "meaning": "Điều đó chưa đúng ý chúng tôi lắm.",
-    "context": "Phản biện"
-  },
-  {
-    "phrase": "We’d need more details on that.",
-    "ipa": "/wiːd niːd mɔː ˈdiːteɪlz ɒn ðæt/",
-    "meaning": "Chúng tôi cần thêm chi tiết.",
-    "context": "Yêu cầu thông tin"
-  },
-  {
-    "phrase": "Let’s review the key points.",
-    "ipa": "/lets rɪˈvjuː ðə kiː pɔɪnts/",
-    "meaning": "Hãy tổng kết các điểm chính.",
-    "context": "Tóm tắt"
-  },
-  {
-    "phrase": "Thanks for your cooperation.",
-    "ipa": "/θæŋks fər jɔːr koʊˌɒpəˈreɪʃən/",
-    "meaning": "Cảm ơn sự hợp tác của bạn.",
-    "context": "Đóng đàm phán"
-  },
-  {
-    "phrase": "Looking forward to working together.",
-    "ipa": "/ˈlʊkɪŋ ˈfɔːrwərd tə ˈwɜːrkɪŋ təˈɡɛðər/",
-    "meaning": "Mong được hợp tác cùng bạn.",
-    "context": "Kết thúc đẹp"
-  }
+    {
+        "phrase": "Let’s get straight to the point.",
+        "ipa": "/lets ɡet streɪt tə ðə pɔɪnt/",
+        "meaning": "Vào thẳng vấn đề.",
+        "context": "Mở đầu đàm phán"
+    },
+    {
+        "phrase": "Could you clarify that?",
+        "ipa": "/kʊd ju ˈklærɪfaɪ ðæt/",
+        "meaning": "Bạn làm rõ giúp tôi nhé?",
+        "context": "Làm rõ"
+    },
+    {
+        "phrase": "From my perspective, …",
+        "ipa": "/frəm maɪ pəˈspɛktɪv/",
+        "meaning": "Theo quan điểm của tôi,…",
+        "context": "Đưa quan điểm"
+    },
+    {
+        "phrase": "How about we…?",
+        "ipa": "/haʊ əˈbaʊt wi/",
+        "meaning": "Chúng ta thử…?",
+        "context": "Đề xuất"
+    },
+    {
+        "phrase": "How about me?",
+        "ipa": "/haʊ əˈbaʊt mi/",
+        "meaning": "Còn tôi thì sao?",
+        "context": "Hỏi ý kiến / tình huống cá nhân"
+    },
+    {
+        "phrase": "How about you?",
+        "ipa": "/haʊ əˈbaʊt juː/",
+        "meaning": "Còn bạn thì sao?",
+        "context": "Hỏi ý kiến / đáp lại câu hỏi"
+    },
+    {
+        "phrase": "How about him?",
+        "ipa": "/haʊ əˈbaʊt hɪm/",
+        "meaning": "Còn anh ấy thì sao?",
+        "context": "Hỏi về người khác"
+    },
+    {
+        "phrase": "How about her?",
+        "ipa": "/haʊ əˈbaʊt hɜːr/",
+        "meaning": "Còn cô ấy thì sao?",
+        "context": "Hỏi về người khác"
+    },
+    {
+        "phrase": "How about us?",
+        "ipa": "/haʊ əˈbaʊt ʌs/",
+        "meaning": "Còn chúng tôi thì sao?",
+        "context": "Hỏi ý kiến nhóm"
+    },
+    {
+        "phrase": "How about we…?",
+        "ipa": "/haʊ əˈbaʊt wi/",
+        "meaning": "Chúng ta thử…?",
+        "context": "Đề xuất"
+    },
+    {
+        "phrase": "How about going out?",
+        "ipa": "/haʊ əˈbaʊt ˈɡəʊɪŋ aʊt/",
+        "meaning": "Hay là đi ra ngoài?",
+        "context": "Gợi ý hành động"
+    },
+    {
+        "phrase": "How about having lunch?",
+        "ipa": "/haʊ əˈbaʊt ˈhævɪŋ lʌntʃ/",
+        "meaning": "Hay là ăn trưa nhé?",
+        "context": "Gợi ý hành động"
+    },
+    {
+        "phrase": "I’m afraid that won’t work for us.",
+        "ipa": "/aɪm əˈfreɪd ðæt woʊnt wɜːrk fər ʌs/",
+        "meaning": "Rất tiếc, điều đó không phù hợp với chúng tôi.",
+        "context": "Từ chối khéo"
+    },
+    {
+        "phrase": "What’s your best offer?",
+        "ipa": "/wɒts jɔːr bɛst ˈɒfər/",
+        "meaning": "Đâu là đề xuất tốt nhất của bạn?",
+        "context": "Thương lượng giá"
+    },
+    {
+        "phrase": "Could you do better than that?",
+        "ipa": "/kʊd ju du ˈbɛtər ðæn ðæt/",
+        "meaning": "Bạn có thể ra giá tốt hơn không?",
+        "context": "Ép giá nhẹ"
+    },
+    {
+        "phrase": "Is there any room for flexibility?",
+        "ipa": "/ɪz ðɛr ˈɛni ruːm fər flɛksəˈbɪləti/",
+        "meaning": "Có không gian linh hoạt không?",
+        "context": "Mở đàm phán"
+    },
+    {
+        "phrase": "Let’s find a middle ground.",
+        "ipa": "/lets faɪnd ə ˈmɪdl ɡraʊnd/",
+        "meaning": "Hãy tìm điểm chung nhé.",
+        "context": "Thỏa hiệp"
+    },
+    {
+        "phrase": "What if we…?",
+        "ipa": "/wɒt ɪf wi/",
+        "meaning": "Nếu chúng ta… thì sao?",
+        "context": "Đề xuất điều chỉnh"
+    },
+    {
+        "phrase": "Can we agree on that?",
+        "ipa": "/kæn wi əˈɡri ɒn ðæt/",
+        "meaning": "Chúng ta đồng ý điểm này chứ?",
+        "context": "Xác nhận"
+    },
+    {
+        "phrase": "Could we revisit this later?",
+        "ipa": "/kʊd wi ˌriːˈvɪzɪt ðɪs ˈleɪtər/",
+        "meaning": "Chúng ta bàn lại điểm này sau nhé?",
+        "context": "Hoãn mềm"
+    },
+    {
+        "phrase": "That’s not quite what we had in mind.",
+        "ipa": "/ðæts nɒt kwaɪt wɒt wi hæd ɪn maɪnd/",
+        "meaning": "Điều đó chưa đúng ý chúng tôi lắm.",
+        "context": "Phản biện"
+    },
+    {
+        "phrase": "We’d need more details on that.",
+        "ipa": "/wiːd niːd mɔː ˈdiːteɪlz ɒn ðæt/",
+        "meaning": "Chúng tôi cần thêm chi tiết.",
+        "context": "Yêu cầu thông tin"
+    },
+    {
+        "phrase": "Let’s review the key points.",
+        "ipa": "/lets rɪˈvjuː ðə kiː pɔɪnts/",
+        "meaning": "Hãy tổng kết các điểm chính.",
+        "context": "Tóm tắt"
+    },
+    {
+        "phrase": "Thanks for your cooperation.",
+        "ipa": "/θæŋks fər jɔːr koʊˌɒpəˈreɪʃən/",
+        "meaning": "Cảm ơn sự hợp tác của bạn.",
+        "context": "Đóng đàm phán"
+    },
+    {
+        "phrase": "Looking forward to working together.",
+        "ipa": "/ˈlʊkɪŋ ˈfɔːrwərd tə ˈwɜːrkɪŋ təˈɡɛðər/",
+        "meaning": "Mong được hợp tác cùng bạn.",
+        "context": "Kết thúc đẹp"
+    }
 ]

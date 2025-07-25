@@ -78,5 +78,30 @@
         "category": "Promotion",
         "file": "phrases-promotion.json",
         "description": "Cụm từ xin thăng chức, đề xuất, đàm phán vị trí."
+    }, 
+    {
+        "category": "Greetings",
+        "file": "phrases-greetings.json",
+        "description": "Cụm từ chào hỏi và bắt chuyện."
+    },
+    {
+        "category": "Apologies",
+        "file": "phrases-apologies.json",
+        "description": "Cụm từ xin lỗi, bày tỏ sự tiếc nuối."
+    },
+    {
+        "category": "Suggestions",
+        "file": "phrases-suggestions.json",
+        "description": "Cụm từ gợi ý, đề xuất ý tưởng."
+    },
+    {
+        "category": "Travel",
+        "file": "phrases-travel.json",
+        "description": "Cụm từ giao tiếp khi du lịch."
+    },
+    {
+        "category": "Restaurant",
+        "file": "phrases-restaurant.json",
+        "description": "Cụm từ đặt món, gọi đồ ăn, thanh toán."
     }
 ]

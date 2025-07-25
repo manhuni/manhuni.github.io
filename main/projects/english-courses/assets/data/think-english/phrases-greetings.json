@@ -1,0 +1,188 @@
+[
+  {
+    "phrase": "How’s it going?",
+    "ipa": "/haʊz ɪt ˈɡoʊɪŋ/",
+    "meaning": "Dạo này thế nào?",
+    "context": "Chào hỏi thường ngày"
+  },
+  {
+    "phrase": "Long time no see!",
+    "ipa": "/lɔːŋ taɪm noʊ siː/",
+    "meaning": "Lâu rồi không gặp!",
+    "context": "Gặp bạn cũ"
+  },
+  {
+    "phrase": "What’s up?",
+    "ipa": "/wʌts ʌp/",
+    "meaning": "Có gì mới không?",
+    "context": "Chào thân mật"
+  },
+  {
+    "phrase": "Catch you later!",
+    "ipa": "/kætʃ ju ˈleɪtər/",
+    "meaning": "Gặp lại sau nhé!",
+    "context": "Tạm biệt thân mật"
+  },
+  {
+    "phrase": "No worries.",
+    "ipa": "/noʊ ˈwʌriz/",
+    "meaning": "Không sao đâu.",
+    "context": "Đáp lại lời xin lỗi"
+  },
+  {
+    "phrase": "Sounds good.",
+    "ipa": "/saʊndz ɡʊd/",
+    "meaning": "Nghe ổn đấy.",
+    "context": "Đồng ý nhanh"
+  },
+  {
+    "phrase": "Take care!",
+    "ipa": "/teɪk keər/",
+    "meaning": "Bảo trọng nhé!",
+    "context": "Chúc tạm biệt"
+  },
+  {
+    "phrase": "I’m in.",
+    "ipa": "/aɪm ɪn/",
+    "meaning": "Tôi tham gia nhé!",
+    "context": "Đồng ý tham gia"
+  },
+  {
+    "phrase": "I’m on my way.",
+    "ipa": "/aɪm ɒn maɪ weɪ/",
+    "meaning": "Tôi đang tới.",
+    "context": "Thông báo sắp đến"
+  },
+  {
+    "phrase": "It’s up to you.",
+    "ipa": "/ɪts ʌp tə ju/",
+    "meaning": "Tuỳ bạn quyết định.",
+    "context": "Nhường quyền quyết"
+  },
+  {
+    "phrase": "Fingers crossed!",
+    "ipa": "/ˈfɪŋɡərz krɔːst/",
+    "meaning": "Cầu may nhé!",
+    "context": "Chúc may mắn"
+  },
+  {
+    "phrase": "Hang in there!",
+    "ipa": "/hæŋ ɪn ðeər/",
+    "meaning": "Cố lên nhé!",
+    "context": "Động viên"
+  },
+  {
+    "phrase": "Same here.",
+    "ipa": "/seɪm hɪər/",
+    "meaning": "Tôi cũng vậy.",
+    "context": "Đồng ý"
+  },
+  {
+    "phrase": "No big deal.",
+    "ipa": "/noʊ bɪɡ diːl/",
+    "meaning": "Không có gì to tát.",
+    "context": "Trấn an"
+  },
+  {
+    "phrase": "You bet!",
+    "ipa": "/ju bɛt/",
+    "meaning": "Chắc chắn rồi!",
+    "context": "Khẳng định"
+  },
+  {
+    "phrase": "Nice to see you!",
+    "ipa": "/naɪs tə siː juː/",
+    "meaning": "Rất vui gặp bạn!",
+    "context": "Chào hỏi"
+  },
+  {
+    "phrase": "Good to see you again!",
+    "ipa": "/ɡʊd tə siː ju əˈɡɛn/",
+    "meaning": "Vui được gặp lại bạn!",
+    "context": "Gặp lại"
+  },
+  {
+    "phrase": "How have you been?",
+    "ipa": "/haʊ hæv ju bɪn/",
+    "meaning": "Dạo này bạn sao rồi?",
+    "context": "Hỏi thăm"
+  },
+  {
+    "phrase": "What’s new?",
+    "ipa": "/wʌts njuː/",
+    "meaning": "Có gì mới không?",
+    "context": "Chào hỏi"
+  },
+  {
+    "phrase": "How’s everything?",
+    "ipa": "/haʊz ˈɛvrɪθɪŋ/",
+    "meaning": "Mọi thứ thế nào?",
+    "context": "Chào hỏi"
+  },
+  {
+    "phrase": "Good morning!",
+    "ipa": "/ɡʊd ˈmɔːrnɪŋ/",
+    "meaning": "Chào buổi sáng!",
+    "context": "Chào hỏi buổi sáng"
+  },
+  {
+    "phrase": "Good afternoon!",
+    "ipa": "/ɡʊd ˌæftərˈnuːn/",
+    "meaning": "Chào buổi chiều!",
+    "context": "Chào hỏi buổi chiều"
+  },
+  {
+    "phrase": "Good evening!",
+    "ipa": "/ɡʊd ˈiːvnɪŋ/",
+    "meaning": "Chào buổi tối!",
+    "context": "Chào hỏi buổi tối"
+  },
+  {
+    "phrase": "Have a good one!",
+    "ipa": "/hæv ə ɡʊd wʌn/",
+    "meaning": "Chúc một ngày tốt lành!",
+    "context": "Chúc"
+  },
+  {
+    "phrase": "See you soon!",
+    "ipa": "/siː ju suːn/",
+    "meaning": "Hẹn gặp lại sớm nhé!",
+    "context": "Tạm biệt"
+  },
+  {
+    "phrase": "See ya!",
+    "ipa": "/siː jə/",
+    "meaning": "Gặp lại nhé!",
+    "context": "Tạm biệt thân mật"
+  },
+  {
+    "phrase": "Talk to you later.",
+    "ipa": "/tɔːk tə ju ˈleɪtər/",
+    "meaning": "Nói chuyện sau nhé.",
+    "context": "Tạm biệt"
+  },
+  {
+    "phrase": "Good night!",
+    "ipa": "/ɡʊd naɪt/",
+    "meaning": "Chúc ngủ ngon!",
+    "context": "Chào tạm biệt buổi tối"
+  },
+  {
+    "phrase": "Sweet dreams!",
+    "ipa": "/swiːt driːmz/",
+    "meaning": "Mơ đẹp nhé!",
+    "context": "Chúc ngủ ngon"
+  },
+  {
+    "phrase": "All the best!",
+    "ipa": "/ɔːl ðə bɛst/",
+    "meaning": "Chúc mọi điều tốt lành!",
+    "context": "Chúc"
+  },
+  {
+    "phrase": "Take it easy!",
+    "ipa": "/teɪk ɪt ˈiːzi/",
+    "meaning": "Thoải mái nhé!",
+    "context": "Tạm biệt/Trấn an"
+  }
+]
