@@ -1,0 +1,32 @@
+[
+    {
+        "category": "Meeting",
+        "file": "phrases-meeting.json",
+        "description": "Cụm từ trong họp, điều phối, nhắc nhở, chốt."
+    },
+    {
+        "category": "Negotiation",
+        "file": "phrases-negotiation.json",
+        "description": "Cụm từ đàm phán, thương lượng, thoả thuận."
+    },
+    {
+        "category": "Email",
+        "file": "phrases-email.json",
+        "description": "Cụm từ soạn email lịch sự, hiệu quả."
+    },
+    {
+        "category": "Small Talk",
+        "file": "phrases-smalltalk.json",
+        "description": "Cụm từ trò chuyện xã giao, hỏi thăm tự nhiên."
+    },
+    {
+        "category": "Daily Use",
+        "file": "phrases-daily.json",
+        "description": "Cụm từ hay dùng hàng ngày."
+    },
+    {
+        "category": "Other",
+        "file": "phrases-other.json",
+        "description": "Nhóm khác."
+    }
+]
