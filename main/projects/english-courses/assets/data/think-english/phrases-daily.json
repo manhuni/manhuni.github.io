@@ -1,0 +1,92 @@
+[
+  {
+    "phrase": "How’s it going?",
+    "ipa": "/haʊz ɪt ˈɡoʊɪŋ/",
+    "meaning": "Dạo này thế nào?",
+    "context": "Chào hỏi thường ngày"
+  },
+  {
+    "phrase": "Long time no see!",
+    "ipa": "/lɔːŋ taɪm noʊ siː/",
+    "meaning": "Lâu rồi không gặp!",
+    "context": "Gặp bạn cũ"
+  },
+  {
+    "phrase": "What’s up?",
+    "ipa": "/wʌts ʌp/",
+    "meaning": "Có gì mới không?",
+    "context": "Chào thân mật"
+  },
+  {
+    "phrase": "Catch you later!",
+    "ipa": "/kætʃ ju ˈleɪtər/",
+    "meaning": "Gặp lại sau nhé!",
+    "context": "Tạm biệt thân mật"
+  },
+  {
+    "phrase": "No worries.",
+    "ipa": "/noʊ ˈwʌriz/",
+    "meaning": "Không sao đâu.",
+    "context": "Đáp lại lời xin lỗi"
+  },
+  {
+    "phrase": "Sounds good.",
+    "ipa": "/saʊndz ɡʊd/",
+    "meaning": "Nghe ổn đấy.",
+    "context": "Đồng ý nhanh"
+  },
+  {
+    "phrase": "Take care!",
+    "ipa": "/teɪk keər/",
+    "meaning": "Bảo trọng nhé!",
+    "context": "Chúc tạm biệt"
+  },
+  {
+    "phrase": "I’m in.",
+    "ipa": "/aɪm ɪn/",
+    "meaning": "Tôi tham gia nhé!",
+    "context": "Đồng ý tham gia"
+  },
+  {
+    "phrase": "I’m on my way.",
+    "ipa": "/aɪm ɒn maɪ weɪ/",
+    "meaning": "Tôi đang tới.",
+    "context": "Thông báo sắp đến"
+  },
+  {
+    "phrase": "It’s up to you.",
+    "ipa": "/ɪts ʌp tə ju/",
+    "meaning": "Tuỳ bạn quyết định.",
+    "context": "Nhường quyền quyết"
+  },
+  {
+    "phrase": "Fingers crossed!",
+    "ipa": "/ˈfɪŋɡərz krɔːst/",
+    "meaning": "Cầu may nhé!",
+    "context": "Chúc may mắn"
+  },
+  {
+    "phrase": "Hang in there!",
+    "ipa": "/hæŋ ɪn ðeər/",
+    "meaning": "Cố lên nhé!",
+    "context": "Động viên"
+  },
+  {
+    "phrase": "Same here.",
+    "ipa": "/seɪm hɪər/",
+    "meaning": "Tôi cũng vậy.",
+    "context": "Đồng ý"
+  },
+  {
+    "phrase": "No big deal.",
+    "ipa": "/noʊ bɪɡ diːl/",
+    "meaning": "Không có gì to tát.",
+    "context": "Trấn an"
+  },
+  {
+    "phrase": "You bet!",
+    "ipa": "/ju bɛt/",
+    "meaning": "Chắc chắn rồi!",
+    "context": "Khẳng định"
+  }
+]
