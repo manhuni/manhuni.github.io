@@ -13,7 +13,10 @@ const audioData = {
 document.querySelectorAll(".ipa-row").forEach(row => {
   row.addEventListener("click", () => {
     const ipaId = row.dataset.ipaId;
-    const ipaLabel = row.querySelector("td").innerText.trim(); // Lấy text IPA
+    const td = row.querySelector("td");
+    if (!td) return; // Không chạy nếu không có TD
+
+    const ipaLabel = td.innerText.trim();
 
     const list = audioData[ipaId] || [];
     const title = document.getElementById("popup-title");
