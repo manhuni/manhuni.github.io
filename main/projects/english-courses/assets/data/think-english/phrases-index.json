@@ -128,5 +128,10 @@
         "category": "Modifiers",
         "file": "phrases-modifiers.json",
         "description": "Tổng hợp bổ sung, như trạng từ quite, rather, almost, nearly…"
+    },
+    {
+        "category": "Degree Modifiers",
+        "file": "phrases-degree.json",
+        "description": "Các cụm từ diễn tả mức độ: so, too, very, quite, rather, pretty, fairly, enough… Dễ nhầm lẫn khi nói và viết tiếng Anh."
     }
 ]
