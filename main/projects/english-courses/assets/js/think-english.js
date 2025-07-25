@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 async function initThinkEnglish() {
-  const index = await fetch('/main/projects/english-courses/assets/data/think-english/phrases-index.json').then(r => r.json());
+  const index = await fetch('/main/projects/english-courses/assets/data/think-english/json/phrases-index.json').then(r => r.json());
   const groupContainer = document.getElementById('phrase-groups');
 
   index.forEach(group => {
@@ -23,7 +23,7 @@ async function initThinkEnglish() {
         // Mở: nếu chưa có dữ liệu thì fetch
         if (!content.dataset.loaded) {
           content.innerHTML = `<p>⏳ Đang tải...</p>`;
-          const groupData = await fetch(`/main/projects/english-courses/assets/data/think-english/${group.file}`).then(r => r.json());
+          const groupData = await fetch(`/main/projects/english-courses/assets/data/think-english/json/${group.file}`).then(r => r.json());
           content.innerHTML = `
             <table class="vocab-table">
               <thead>
