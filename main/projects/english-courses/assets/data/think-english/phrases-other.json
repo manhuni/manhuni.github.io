@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "phrase": "Sorry for the short notice.",
+    "ipa": "/ˈsɒri fər ðə ʃɔːrt ˈnoʊtɪs/",
+    "meaning": "Xin lỗi vì thông báo gấp.",
+    "context": "Xin lỗi lịch sự"
+  },
+  {
+    "phrase": "Thanks for your understanding.",
+    "ipa": "/θæŋks fər jɔːr ˌʌndərˈstændɪŋ/",
+    "meaning": "Cảm ơn vì đã thông cảm.",
+    "context": "Xoa dịu"
+  },
+  {
+    "phrase": "I appreciate your help.",
+    "ipa": "/aɪ əˈpriːʃieɪt jɔːr hɛlp/",
+    "meaning": "Tôi rất trân trọng sự giúp đỡ của bạn.",
+    "context": "Biết ơn"
+  },
+  {
+    "phrase": "Feel free to reach out.",
+    "ipa": "/fiːl fri tə riːtʃ aʊt/",
+    "meaning": "Cứ thoải mái liên hệ nhé.",
+    "context": "Khuyến khích phản hồi"
+  },
+  {
+    "phrase": "Hope that helps.",
+    "ipa": "/hoʊp ðæt hɛlps/",
+    "meaning": "Hy vọng điều đó giúp ích.",
+    "context": "Kết thư, trả lời"
+  },
+  {
+    "phrase": "Take your time.",
+    "ipa": "/teɪk jɔːr taɪm/",
+    "meaning": "Cứ từ từ nhé.",
+    "context": "Trấn an"
+  },
+  {
+    "phrase": "It’s up to you.",
+    "ipa": "/ɪts ʌp tə ju/",
+    "meaning": "Tùy bạn quyết định.",
+    "context": "Nhường quyền"
+  },
+  {
+    "phrase": "That makes sense.",
+    "ipa": "/ðæt meɪks sɛns/",
+    "meaning": "Điều đó hợp lý đấy.",
+    "context": "Ghi nhận"
+  },
+  {
+    "phrase": "Good luck with that!",
+    "ipa": "/ɡʊd lʌk wɪð ðæt/",
+    "meaning": "Chúc bạn may mắn nhé!",
+    "context": "Khích lệ"
+  },
+  {
+    "phrase": "No worries at all.",
+    "ipa": "/noʊ ˈwɜːriz æt ɔːl/",
+    "meaning": "Không sao đâu.",
+    "context": "Trấn an"
+  },
+  {
+    "phrase": "Better late than never.",
+    "ipa": "/ˈbɛtər leɪt ðæn ˈnɛvər/",
+    "meaning": "Muộn còn hơn không.",
+    "context": "Làm mềm tình huống"
+  },
+  {
+    "phrase": "Let’s play it by ear.",
+    "ipa": "/lets pleɪ ɪt baɪ ɪər/",
+    "meaning": "Tùy cơ ứng biến.",
+    "context": "Linh hoạt"
+  },
+  {
+    "phrase": "Fingers crossed!",
+    "ipa": "/ˈfɪŋɡərz krɒst/",
+    "meaning": "Cầu may nhé!",
+    "context": "Chúc may mắn"
+  },
+  {
+    "phrase": "No hard feelings.",
+    "ipa": "/noʊ hɑːrd ˈfiːlɪŋz/",
+    "meaning": "Không có gì phải buồn nhé.",
+    "context": "Làm hoà"
+  },
+  {
+    "phrase": "Long story short, …",
+    "ipa": "/lɒŋ ˈstɔːri ʃɔːrt/",
+    "meaning": "Nói ngắn gọn thì…",
+    "context": "Tóm ý"
+  }
+]

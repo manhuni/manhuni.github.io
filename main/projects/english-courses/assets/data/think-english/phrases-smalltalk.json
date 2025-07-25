@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "phrase": "How’s it going?",
+    "ipa": "/haʊz ɪt ˈɡoʊɪŋ/",
+    "meaning": "Dạo này thế nào?",
+    "context": "Mở đầu"
+  },
+  {
+    "phrase": "Long time no see!",
+    "ipa": "/lɔːŋ taɪm noʊ siː/",
+    "meaning": "Lâu rồi không gặp!",
+    "context": "Gặp lại"
+  },
+  {
+    "phrase": "What have you been up to?",
+    "ipa": "/wɒt hæv ju bɪn ʌp tə/",
+    "meaning": "Dạo này bạn làm gì?",
+    "context": "Hỏi thăm"
+  },
+  {
+    "phrase": "Lovely weather today, isn’t it?",
+    "ipa": "/ˈlʌvli ˈwɛðər təˈdeɪ ˈɪznt ɪt/",
+    "meaning": "Hôm nay thời tiết đẹp nhỉ?",
+    "context": "Bắt chuyện"
+  },
+  {
+    "phrase": "Did you catch the game last night?",
+    "ipa": "/dɪd ju kæʧ ðə ɡeɪm læst naɪt/",
+    "meaning": "Tối qua bạn có xem trận đấu không?",
+    "context": "Tán gẫu"
+  },
+  {
+    "phrase": "How was your weekend?",
+    "ipa": "/haʊ wəz jɔːr ˈwiːkˌɛnd/",
+    "meaning": "Cuối tuần bạn thế nào?",
+    "context": "Hỏi thăm"
+  },
+  {
+    "phrase": "Any plans for the holiday?",
+    "ipa": "/ˈɛni plænz fər ðə ˈhɒləˌdeɪ/",
+    "meaning": "Bạn có kế hoạch gì dịp lễ không?",
+    "context": "Hỏi thăm"
+  },
+  {
+    "phrase": "Can’t complain!",
+    "ipa": "/kænt kəmˈpleɪn/",
+    "meaning": "Ổn cả thôi mà!",
+    "context": "Phản hồi xã giao"
+  },
+  {
+    "phrase": "Same old, same old.",
+    "ipa": "/seɪm oʊld seɪm oʊld/",
+    "meaning": "Vẫn thế thôi.",
+    "context": "Phản hồi xã giao"
+  },
+  {
+    "phrase": "Small world, isn’t it?",
+    "ipa": "/smɔːl wɜːrld ˈɪznt ɪt/",
+    "meaning": "Đúng là trái đất tròn nhỉ!",
+    "context": "Bất ngờ tình cờ"
+  },
+  {
+    "phrase": "Time flies!",
+    "ipa": "/taɪm flaɪz/",
+    "meaning": "Thời gian trôi nhanh thật!",
+    "context": "Nói chuyện vu vơ"
+  },
+  {
+    "phrase": "It’s been ages!",
+    "ipa": "/ɪts bɪn ˈeɪʤɪz/",
+    "meaning": "Lâu lắm rồi đấy!",
+    "context": "Gặp lại"
+  },
+  {
+    "phrase": "What brings you here?",
+    "ipa": "/wɒt brɪŋz ju hɪr/",
+    "meaning": "Sao bạn lại đến đây?",
+    "context": "Hỏi xã giao"
+  },
+  {
+    "phrase": "You look great today!",
+    "ipa": "/ju lʊk ɡreɪt təˈdeɪ/",
+    "meaning": "Hôm nay trông bạn tuyệt đấy!",
+    "context": "Khen xã giao"
+  },
+  {
+    "phrase": "It’s good to see you.",
+    "ipa": "/ɪts ɡʊd tə siː ju/",
+    "meaning": "Gặp bạn vui thật đấy.",
+    "context": "Mở đầu thân thiện"
+  }
+]

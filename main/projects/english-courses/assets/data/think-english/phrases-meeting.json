@@ -1,14 +1,98 @@
 [
   {
-    "phrase": "Let’s get straight to the point.",
-    "ipa": "/lets ɡet streɪt tə ðə pɔɪnt/",
-    "meaning": "Vào thẳng vấn đề.",
-    "context": "Họp"
+    "phrase": "Let’s kick things off.",
+    "ipa": "/lets kɪk θɪŋz ɒf/",
+    "meaning": "Hãy bắt đầu cuộc họp.",
+    "context": "Mở đầu"
+  },
+  {
+    "phrase": "Thanks everyone for joining.",
+    "ipa": "/θæŋks ˈɛvrɪwʌn fər ˈʤɔɪnɪŋ/",
+    "meaning": "Cảm ơn mọi người đã tham gia.",
+    "context": "Mở đầu"
+  },
+  {
+    "phrase": "Can everyone hear me?",
+    "ipa": "/kæn ˈɛvrɪwʌn hɪr mi/",
+    "meaning": "Mọi người nghe rõ không?",
+    "context": "Check âm thanh"
+  },
+  {
+    "phrase": "Let’s stick to the agenda.",
+    "ipa": "/lets stɪk tə ði əˈʤɛndə/",
+    "meaning": "Hãy bám sát nội dung nhé.",
+    "context": "Điều phối"
   },
   {
     "phrase": "Could you clarify that?",
     "ipa": "/kʊd ju ˈklærɪfaɪ ðæt/",
-    "meaning": "Bạn có thể làm rõ không?",
+    "meaning": "Bạn làm rõ giúp tôi nhé?",
     "context": "Hỏi lại"
+  },
+  {
+    "phrase": "Any thoughts on this?",
+    "ipa": "/ˈɛni θɔːts ɒn ðɪs/",
+    "meaning": "Có ý kiến gì không?",
+    "context": "Mời góp ý"
+  },
+  {
+    "phrase": "Feel free to jump in.",
+    "ipa": "/fiːl fri tə ʤʌmp ɪn/",
+    "meaning": "Cứ tự nhiên chia sẻ nhé.",
+    "context": "Khuyến khích nói"
+  },
+  {
+    "phrase": "Let’s park that for now.",
+    "ipa": "/lets pɑːrk ðæt fər naʊ/",
+    "meaning": "Tạm gác vấn đề đó nhé.",
+    "context": "Tránh lan man"
+  },
+  {
+    "phrase": "We’re running out of time.",
+    "ipa": "/wɪər ˈrʌnɪŋ aʊt əv taɪm/",
+    "meaning": "Chúng ta sắp hết giờ rồi.",
+    "context": "Nhắc tiến độ"
+  },
+  {
+    "phrase": "Could you summarize that?",
+    "ipa": "/kʊd ju ˈsʌməraɪz ðæt/",
+    "meaning": "Bạn tóm tắt lại giúp nhé.",
+    "context": "Kết thúc phần"
+  },
+  {
+    "phrase": "Let’s wrap it up.",
+    "ipa": "/lets ræp ɪt ʌp/",
+    "meaning": "Kết thúc thôi nhé.",
+    "context": "Kết thúc"
+  },
+  {
+    "phrase": "Thanks for your valuable input.",
+    "ipa": "/θæŋks fər jɔːr ˈvæljuəbl ˈɪnpʊt/",
+    "meaning": "Cảm ơn đóng góp quý báu của mọi người.",
+    "context": "Ghi nhận"
+  },
+  {
+    "phrase": "I’ll share the minutes later.",
+    "ipa": "/aɪl ʃɛr ðə ˈmɪnɪts ˈleɪtər/",
+    "meaning": "Tôi sẽ gửi biên bản họp sau.",
+    "context": "Thông báo"
+  },
+  {
+    "phrase": "Does that work for everyone?",
+    "ipa": "/dʌz ðæt wɜːrk fər ˈɛvrɪwʌn/",
+    "meaning": "Mọi người thấy ổn không?",
+    "context": "Xác nhận"
+  },
+  {
+    "phrase": "We’ll circle back next week.",
+    "ipa": "/wiːl ˈsɜːrkl bæk nɛkst wiːk/",
+    "meaning": "Tuần sau ta sẽ bàn tiếp.",
+    "context": "Hẹn lần sau"
+  },
+  {
+    "phrase": "See you all next time!",
+    "ipa": "/siː ju ɔːl nɛkst taɪm/",
+    "meaning": "Hẹn gặp lại mọi người!",
+    "context": "Chào tạm biệt"
   }
 ]

@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "phrase": "Nice to meet you!",
+    "ipa": "/naɪs tə miːt ju/",
+    "meaning": "Rất vui được gặp bạn!",
+    "context": "Gặp gỡ"
+  },
+  {
+    "phrase": "Where are you from?",
+    "ipa": "/wɛr ɑːr ju frʌm/",
+    "meaning": "Bạn đến từ đâu?",
+    "context": "Làm quen"
+  },
+  {
+    "phrase": "What do you do for fun?",
+    "ipa": "/wɒt də ju du fər fʌn/",
+    "meaning": "Bạn thường làm gì lúc rảnh?",
+    "context": "Tạo không khí"
+  },
+  {
+    "phrase": "Do you come here often?",
+    "ipa": "/du ju kʌm hɪr ˈɒfn/",
+    "meaning": "Bạn thường đến đây không?",
+    "context": "Bắt chuyện"
+  },
+  {
+    "phrase": "Let’s grab a coffee sometime.",
+    "ipa": "/lets ɡræb ə ˈkɒfi ˈsʌmtaɪm/",
+    "meaning": "Khi nào uống cà phê nhé!",
+    "context": "Mở lời gặp lại"
+  },
+  {
+    "phrase": "Are you on social media?",
+    "ipa": "/ɑːr ju ɒn ˈsoʊʃəl ˈmiːdiə/",
+    "meaning": "Bạn có dùng mạng xã hội không?",
+    "context": "Kết nối"
+  },
+  {
+    "phrase": "Let’s stay in touch.",
+    "ipa": "/lets steɪ ɪn tʌʧ/",
+    "meaning": "Giữ liên lạc nhé.",
+    "context": "Chốt cuộc gặp"
+  },
+  {
+    "phrase": "What do you think about this place?",
+    "ipa": "/wɒt də ju θɪŋk əˈbaʊt ðɪs pleɪs/",
+    "meaning": "Bạn thấy chỗ này thế nào?",
+    "context": "Mở đầu câu chuyện"
+  },
+  {
+    "phrase": "I’d love to hear more about that.",
+    "ipa": "/aɪd lʌv tə hɪr mɔːr əˈbaʊt ðæt/",
+    "meaning": "Mình muốn nghe thêm về điều đó.",
+    "context": "Khuyến khích chia sẻ"
+  },
+  {
+    "phrase": "You should join us next time!",
+    "ipa": "/ju ʃʊd ʤɔɪn ʌs nɛkst taɪm/",
+    "meaning": "Lần sau bạn tham gia cùng nhé!",
+    "context": "Mời tham gia"
+  },
+  {
+    "phrase": "It was great talking to you.",
+    "ipa": "/ɪt wəz ɡreɪt ˈtɔːkɪŋ tə ju/",
+    "meaning": "Nói chuyện với bạn thật tuyệt.",
+    "context": "Kết thúc thân thiện"
+  },
+  {
+    "phrase": "Hope to see you around!",
+    "ipa": "/hoʊp tə siː ju əˈraʊnd/",
+    "meaning": "Hy vọng sẽ gặp bạn nữa!",
+    "context": "Tạm biệt"
+  },
+  {
+    "phrase": "Take care!",
+    "ipa": "/teɪk keər/",
+    "meaning": "Bảo trọng nhé!",
+    "context": "Tạm biệt"
+  },
+  {
+    "phrase": "Say hi to everyone for me!",
+    "ipa": "/seɪ haɪ tə ˈɛvrɪwʌn fər mi/",
+    "meaning": "Gửi lời chào mọi người giúp tôi nhé!",
+    "context": "Nhắn gửi"
+  },
+  {
+    "phrase": "Cheers!",
+    "ipa": "/ʧɪrz/",
+    "meaning": "Chúc sức khỏe! (cạn ly)",
+    "context": "Nâng ly, chúc tụng"
+  }
+]

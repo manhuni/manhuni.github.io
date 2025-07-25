@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "phrase": "Hope this email finds you well.",
+    "ipa": "/hoʊp ðɪs ˈiːmeɪl faɪndz ju wɛl/",
+    "meaning": "Hy vọng bạn vẫn khỏe.",
+    "context": "Mở đầu email"
+  },
+  {
+    "phrase": "I’m writing to follow up on...",
+    "ipa": "/aɪm ˈraɪtɪŋ tə ˈfɑːloʊ ʌp ɒn/",
+    "meaning": "Tôi viết để theo dõi về...",
+    "context": "Theo dõi công việc"
+  },
+  {
+    "phrase": "Please find attached...",
+    "ipa": "/pliːz faɪnd əˈtætʃt/",
+    "meaning": "Xin vui lòng xem file đính kèm...",
+    "context": "Gửi file"
+  },
+  {
+    "phrase": "Could you please confirm receipt?",
+    "ipa": "/kʊd ju pliːz kənˈfɜːrm rɪˈsiːt/",
+    "meaning": "Bạn vui lòng xác nhận đã nhận được?",
+    "context": "Xác nhận"
+  },
+  {
+    "phrase": "Thank you for your prompt response.",
+    "ipa": "/θæŋk ju fər jɔːr prɒmpt rɪˈspɒns/",
+    "meaning": "Cảm ơn bạn đã phản hồi nhanh.",
+    "context": "Biết ơn"
+  },
+  {
+    "phrase": "Looking forward to your reply.",
+    "ipa": "/ˈlʊkɪŋ ˈfɔːrwərd tə jɔːr rɪˈplaɪ/",
+    "meaning": "Mong nhận phản hồi của bạn.",
+    "context": "Kết email"
+  },
+  {
+    "phrase": "Should you have any questions, feel free to ask.",
+    "ipa": "/ʃʊd ju hæv ˈɛni ˈkwɛsʧənz, fiːl fri tə æsk/",
+    "meaning": "Nếu có câu hỏi gì, xin cứ hỏi thoải mái.",
+    "context": "Hỗ trợ"
+  },
+  {
+    "phrase": "Best regards,",
+    "ipa": "/bɛst rɪˈɡɑːrdz/",
+    "meaning": "Trân trọng.",
+    "context": "Chào kết"
+  },
+  {
+    "phrase": "Sorry for the late reply.",
+    "ipa": "/ˈsɒri fər ðə leɪt rɪˈplaɪ/",
+    "meaning": "Xin lỗi vì phản hồi muộn.",
+    "context": "Xin lỗi"
+  },
+  {
+    "phrase": "I’ll get back to you as soon as possible.",
+    "ipa": "/aɪl ɡet bæk tə ju əz suːn əz ˈpɒsəbl/",
+    "meaning": "Tôi sẽ phản hồi bạn sớm nhất.",
+    "context": "Cam kết phản hồi"
+  }
+]
