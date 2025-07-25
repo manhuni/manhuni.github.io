@@ -22,8 +22,50 @@ const audioData = {
     { ipa: "/iː/", name: "week", wordIpa: "/wiːk/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/week0001.mp3" }
   ],
   "ipa_02": [
-    { ipa: "/ɪ/", name: "sit", wordIpa: "/sɪt/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/sit00001.mp3" }
+    { ipa: "/ɪ/", name: "sit", wordIpa: "/sɪt/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/sit0001.mp3" },
+    { ipa: "/ɪ/", name: "bit", wordIpa: "/bɪt/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/bit0001.mp3" },
+    { ipa: "/ɪ/", name: "hit", wordIpa: "/hɪt/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/hit0001.mp3" },
+    { ipa: "/ɪ/", name: "fit", wordIpa: "/fɪt/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/fit0001.mp3" },
+    { ipa: "/ɪ/", name: "lid", wordIpa: "/lɪd/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/lid0001.mp3" },
+    { ipa: "/ɪ/", name: "milk", wordIpa: "/mɪlk/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/milk0001.mp3" },
+    { ipa: "/ɪ/", name: "ship", wordIpa: "/ʃɪp/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/ship0001.mp3" },
+    { ipa: "/ɪ/", name: "fish", wordIpa: "/fɪʃ/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/fish0001.mp3" },
+    { ipa: "/ɪ/", name: "this", wordIpa: "/ðɪs/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/this0001.mp3" },
+    { ipa: "/ɪ/", name: "pick", wordIpa: "/pɪk/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/pick0001.mp3" },
+    { ipa: "/ɪ/", name: "kick", wordIpa: "/kɪk/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/kick0001.mp3" },
+    { ipa: "/ɪ/", name: "win", wordIpa: "/wɪn/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/win0001.mp3" },
+    { ipa: "/ɪ/", name: "big", wordIpa: "/bɪɡ/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/big0001.mp3" },
+    { ipa: "/ɪ/", name: "hill", wordIpa: "/hɪl/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/hill0001.mp3" },
+    { ipa: "/ɪ/", name: "bill", wordIpa: "/bɪl/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/bill0001.mp3" },
+    { ipa: "/ɪ/", name: "chill", wordIpa: "/tʃɪl/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/chill0001.mp3" },
+    { ipa: "/ɪ/", name: "fill", wordIpa: "/fɪl/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/fill0001.mp3" },
+    { ipa: "/ɪ/", name: "rich", wordIpa: "/rɪtʃ/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/rich0001.mp3" },
+    { ipa: "/ɪ/", name: "lip", wordIpa: "/lɪp/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/lip0001.mp3" },
+    { ipa: "/ɪ/", name: "quick", wordIpa: "/kwɪk/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/quick0001.mp3" }
   ],
+  "ipa_03": [
+    { ipa: "/e/", name: "bed", wordIpa: "/bed/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/bed0001.mp3" },
+    { ipa: "/e/", name: "pen", wordIpa: "/pen/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/pen0001.mp3" },
+    { ipa: "/e/", name: "red", wordIpa: "/red/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/red0001.mp3" },
+    { ipa: "/e/", name: "men", wordIpa: "/men/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/men0001.mp3" },
+    { ipa: "/e/", name: "ten", wordIpa: "/ten/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/ten0001.mp3" },
+    { ipa: "/e/", name: "head", wordIpa: "/hed/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/head0001.mp3" },
+    { ipa: "/e/", name: "said", wordIpa: "/sed/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/said0001.mp3" },
+    { ipa: "/e/", name: "send", wordIpa: "/send/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/send0001.mp3" },
+    { ipa: "/e/", name: "get", wordIpa: "/ɡet/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/get0001.mp3" },
+    { ipa: "/e/", name: "yes", wordIpa: "/jes/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/yes0001.mp3" },
+    { ipa: "/e/", name: "best", wordIpa: "/best/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/best0001.mp3" },
+    { ipa: "/e/", name: "next", wordIpa: "/nekst/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/next0001.mp3" },
+    { ipa: "/e/", name: "check", wordIpa: "/tʃek/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/check0001.mp3" },
+    { ipa: "/e/", name: "dress", wordIpa: "/dres/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/dress0001.mp3" },
+    { ipa: "/e/", name: "left", wordIpa: "/left/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/left0001.mp3" },
+    { ipa: "/e/", name: "step", wordIpa: "/step/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/step0001.mp3" },
+    { ipa: "/e/", name: "spell", wordIpa: "/spel/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/spell0001.mp3" },
+    { ipa: "/e/", name: "pet", wordIpa: "/pet/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/pet0001.mp3" },
+    { ipa: "/e/", name: "sell", wordIpa: "/sel/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/sell0001.mp3" },
+    { ipa: "/e/", name: "egg", wordIpa: "/eɡ/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/egg0001.mp3" }
+  ],
+
   // Các IPA khác ...
 };
 
