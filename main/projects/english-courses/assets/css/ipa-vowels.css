@@ -1,5 +1,4 @@
-/* ======= ipa-vowels.css ======= */
-
+/* ======= BẢNG TỪ VỰNG ======= */
 .vocab-table {
   width: 100%;
   border-collapse: collapse;
@@ -24,22 +23,15 @@
 
 .vocab-table tbody tr:hover {
   background-color: #f0f8ff;
+  cursor: pointer;
 }
 
-.note {
-  background: #fffbea;
-  border-left: 4px solid #f7c948;
-  padding: 1rem;
-  margin-top: 1.5rem;
-  border-radius: 4px;
+.ipa-row:hover {
+  background: #eef5ff;
 }
 
 .hero h1 {
   font-size: 2rem;
-}
-.highlight-ipa {
-  background-color: #d1eaff;
-  font-weight: bold;
 }
 
 .hero p {
@@ -55,44 +47,93 @@
 .lesson-content h3 {
   margin-top: 1.5rem;
   color: #555;
-} 
-.hidden { display: none; } 
-#popup-close {
-  position: absolute;
-  top: 10px; right: 10px;
-  cursor: pointer;
 }
-.ipa-row:hover {
-  background: #f0f0f0;
-  cursor: pointer;
+
+.note {
+  background: #fffbea;
+  border-left: 4px solid #f7c948;
+  padding: 1rem;
+  margin-top: 1.5rem;
+  border-radius: 4px;
 }
+
+.highlight-ipa {
+  background-color: #d1eaff;
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
+
+/* ======= POPUP ======= */
 #ipa-popup {
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0,0,0,0.5);
+  background: rgba(0, 0, 0, 0.5);
 
-  display: flex;              /* Dùng flexbox */
-  align-items: center;        /* Căn giữa dọc */
-  justify-content: center;    /* Căn giữa ngang */
+  display: flex;              /* Căn giữa bằng flex */
+  justify-content: center;
+  align-items: center;
+
+  z-index: 999;
 }
 
 .popup-content {
-  background: white;
-  width: 300px;
+  background: #fff;
+  width: 350px;
   max-width: 90%;
-  padding: 20px;
-  border-radius: 8px;
+  padding: 20px 30px;
+  border-radius: 10px;
   position: relative;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  animation: popup-fade 0.3s ease-out;
 }
+
+@keyframes popup-fade {
+  from {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
 #popup-close {
   position: absolute;
-  top: 10px; right: 10px;
-  cursor: pointer;
-  font-size: 20px;
+  top: 10px;
+  right: 15px;
+  font-size: 22px;
   font-weight: bold;
   color: #333;
+  cursor: pointer;
 }
+
 #popup-close:hover {
-  color: red;
+  color: #e00;
+}
+
+#audio-list {
+  margin-top: 1rem;
+  list-style: none;
+  padding: 0;
+}
+
+#audio-list li {
+  margin-bottom: 0.5rem;
+}
+
+#audio-list button {
+  background: #2a7ae2;
+  border: none;
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#audio-list button:hover {
+  background: #155ab6;
 }
