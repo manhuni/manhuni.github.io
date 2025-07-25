@@ -1,10 +1,10 @@
 // Ví dụ bạn có sẵn audio map:
 const audioData = {
-  "iː": [
+  "ipa_01": [
     { name: "seat", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/seat0001.mp3" },
     { name: "see", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/see00001.mp3" }
   ],
-  "ɪ": [
+  "ipa_02": [
     { name: "sit", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/sit00001.mp3" }
   ],
   // Thêm các IPA khác ...
@@ -12,10 +12,11 @@ const audioData = {
 
 document.querySelectorAll(".ipa-sound").forEach(el => {
   el.addEventListener("click", () => {
-    const ipa = el.dataset.ipa;
-    const list = audioData[ipa] || [];
+    const ipaId = el.dataset.ipaId;  // Lấy ID
+    const ipaLabel = el.innerText;   // Lấy label để show
+    const list = audioData[ipaId] || [];
 
-    document.getElementById("popup-title").innerText = `IPA: /${ipa}/`;
+    document.getElementById("popup-title").innerText = `IPA: ${ipaLabel}`;
 
     const ul = document.getElementById("audio-list");
     ul.innerHTML = "";
@@ -34,6 +35,7 @@ document.querySelectorAll(".ipa-sound").forEach(el => {
     document.getElementById("ipa-popup").classList.remove("hidden");
   });
 });
+
 
 document.getElementById("popup-close").addEventListener("click", () => {
   document.getElementById("ipa-popup").classList.add("hidden");
