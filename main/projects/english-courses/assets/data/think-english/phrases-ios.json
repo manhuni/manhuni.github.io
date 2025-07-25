@@ -1,0 +1,86 @@
+[
+  {
+    "phrase": "Is this compatible with the latest iOS?",
+    "ipa": "/ɪz ðɪs kəmˈpætəbl wɪð ðə ˈleɪtɪst aɪ oʊ ɛs/",
+    "meaning": "Cái này có tương thích iOS mới nhất không?",
+    "context": "iOS"
+  },
+  {
+    "phrase": "Did you check the Xcode build?",
+    "ipa": "/dɪd ju ʧɛk ði ɛkskoʊd bɪld/",
+    "meaning": "Bạn kiểm tra build Xcode chưa?",
+    "context": "iOS"
+  },
+  {
+    "phrase": "Let’s update the provisioning profile.",
+    "ipa": "/lets ˈʌpdeɪt ðə prəˈvɪʒənɪŋ ˈproʊfaɪl/",
+    "meaning": "Hãy cập nhật provisioning profile.",
+    "context": "iOS"
+  },
+  {
+    "phrase": "Can you upload it to TestFlight?",
+    "ipa": "/kæn ju ˈʌploʊd ɪt tə tɛstflaɪt/",
+    "meaning": "Bạn up lên TestFlight được không?",
+    "context": "iOS"
+  },
+  {
+    "phrase": "It works fine on my device.",
+    "ipa": "/ɪt wɜːrks faɪn ɒn maɪ dɪˈvaɪs/",
+    "meaning": "Chạy ổn trên máy tôi.",
+    "context": "iOS"
+  },
+  {
+    "phrase": "Let’s test on a real device.",
+    "ipa": "/lets tɛst ɒn ə riːl dɪˈvaɪs/",
+    "meaning": "Hãy test trên thiết bị thật.",
+    "context": "iOS"
+  },
+  {
+    "phrase": "Did Apple reject the build?",
+    "ipa": "/dɪd ˈæpl rɪˈʤɛkt ðə bɪld/",
+    "meaning": "Apple có từ chối bản build không?",
+    "context": "iOS"
+  },
+  {
+    "phrase": "We need to fix the App Store metadata.",
+    "ipa": "/wi niːd tə fɪks ði æp stɔːr ˈmɛtəˌdeɪtə/",
+    "meaning": "Phải sửa metadata trên App Store.",
+    "context": "iOS"
+  },
+  {
+    "phrase": "What’s the minimum iOS version?",
+    "ipa": "/wɒts ðə ˈmɪnɪməm aɪ oʊ ɛs ˈvɜːrʒən/",
+    "meaning": "Phiên bản iOS tối thiểu là gì?",
+    "context": "iOS"
+  },
+  {
+    "phrase": "Is SwiftUI stable enough?",
+    "ipa": "/ɪz swɪft ju aɪ ˈsteɪbl ɪˈnʌf/",
+    "meaning": "SwiftUI đã ổn định chưa?",
+    "context": "iOS"
+  },
+  {
+    "phrase": "Does it pass App Review?",
+    "ipa": "/dʌz ɪt pæs æp rɪˈvjuː/",
+    "meaning": "Cái này qua duyệt App chưa?",
+    "context": "iOS"
+  },
+  {
+    "phrase": "Let’s fix the UI constraints.",
+    "ipa": "/lets fɪks ðə ju aɪ kənˈstreɪnts/",
+    "meaning": "Hãy sửa lại constraints UI.",
+    "context": "iOS"
+  },
+  {
+    "phrase": "Can you generate a new certificate?",
+    "ipa": "/kæn ju ˈʤɛnəˌreɪt ə nuː sərˈtɪfɪkət/",
+    "meaning": "Bạn tạo certificate mới được không?",
+    "context": "iOS"
+  },
+  {
+    "phrase": "Let’s submit the build tonight.",
+    "ipa": "/lets səbˈmɪt ðə bɪld təˈnaɪt/",
+    "meaning": "Tối nay submit build nhé.",
+    "context": "iOS"
+  }
+]

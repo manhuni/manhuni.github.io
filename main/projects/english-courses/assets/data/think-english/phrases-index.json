@@ -28,5 +28,55 @@
         "category": "Other",
         "file": "phrases-other.json",
         "description": "Nhóm khác."
+    },
+    {
+        "category": "Developer",
+        "description": "Cụm từ cho lập trình viên",
+        "file": "phrases-developer.json"
+    },
+    {
+        "category": "Game Dev",
+        "description": "Cụm từ cho lập trình game",
+        "file": "phrases-game.json"
+    },
+    {
+        "category": "App Dev",
+        "description": "Cụm từ cho lập trình ứng dụng",
+        "file": "phrases-app.json"
+    },
+    {
+        "category": "Android",
+        "description": "Cụm từ cho lập trình Android",
+        "file": "phrases-android.json"
+    },
+    {
+        "category": "iOS",
+        "description": "Cụm từ cho lập trình iOS",
+        "file": "phrases-ios.json"
+    },
+    {
+        "category": "Interview",
+        "file": "phrases-interview.json",
+        "description": "Cụm từ phỏng vấn xin việc, trả lời, hỏi ngược."
+    },
+    {
+        "category": "Offer",
+        "file": "phrases-offer.json",
+        "description": "Cụm từ offer lương, điều kiện, đàm phán."
+    },
+    {
+        "category": "Career",
+        "file": "phrases-career.json",
+        "description": "Cụm từ về định hướng sự nghiệp, mục tiêu."
+    },
+    {
+        "category": "HR",
+        "file": "phrases-hr.json",
+        "description": "Cụm từ HR trao đổi nội bộ, quản lý nhân sự."
+    },
+    {
+        "category": "Promotion",
+        "file": "phrases-promotion.json",
+        "description": "Cụm từ xin thăng chức, đề xuất, đàm phán vị trí."
     }
 ]
