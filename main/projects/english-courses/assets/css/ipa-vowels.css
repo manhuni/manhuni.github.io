@@ -155,3 +155,40 @@
 #audio-list button:hover {
   background: #155ab6;
 }
+#audio-list {
+  margin-top: 1rem;
+  list-style: none;
+  padding: 0;
+  max-height: 300px;  /* hoặc 200px, tùy bạn */
+  overflow-y: auto;   /* Cho phép cuộn */
+  border-top: 1px solid #ddd;
+}
+
+#audio-list li {
+  display: flex;
+  align-items: center;
+  padding: 6px 0;
+  border-bottom: 1px dashed #eee;
+}
+
+#audio-list li strong {
+  flex-shrink: 0;
+}
+
+#audio-list button {
+  background: #2a7ae2;
+  border: none;
+  color: #fff;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#audio-list button:hover {
+  background: #155ab6;
+}
+
+#audio-list span {
+  font-size: 0.9rem;
+  color: #333;
+}
