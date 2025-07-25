@@ -78,7 +78,7 @@
         "category": "Promotion",
         "file": "phrases-promotion.json",
         "description": "Cụm từ xin thăng chức, đề xuất, đàm phán vị trí."
-    }, 
+    },
     {
         "category": "Greetings",
         "file": "phrases-greetings.json",
@@ -103,5 +103,30 @@
         "category": "Restaurant",
         "file": "phrases-restaurant.json",
         "description": "Cụm từ đặt món, gọi đồ ăn, thanh toán."
+    },
+    {
+        "category": "Quantifiers",
+        "file": "phrases-quantifiers.json",
+        "description": "Cụm mẫu câu dùng much, many, few, little, more, a lot of…"
+    },
+    {
+        "category": "Intensifiers",
+        "file": "phrases-intensifiers.json",
+        "description": "Cụm mẫu câu dùng so, such, too, enough, very…"
+    },
+    {
+        "category": "Determiners",
+        "file": "phrases-determiners.json",
+        "description": "Tổng hợp các từ this, that, these, those, each, every, some, any… với mẫu câu"
+    },
+    {
+        "category": "Comparatives & Superlatives",
+        "file": "phrases-comparatives.json",
+        "description": "Mẫu câu so sánh hơn / nhất: more, most, less, least…"
+    },
+    {
+        "category": "Modifiers",
+        "file": "phrases-modifiers.json",
+        "description": "Tổng hợp bổ sung, như trạng từ quite, rather, almost, nearly…"
     }
 ]

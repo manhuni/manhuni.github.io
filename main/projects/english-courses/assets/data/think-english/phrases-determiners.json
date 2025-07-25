@@ -1,0 +1,152 @@
+[
+  {
+    "phrase": "This book is new.",
+    "ipa": "/ðɪs bʊk ɪz nuː/",
+    "meaning": "Cuốn sách này mới.",
+    "context": "This - chỉ gần"
+  },
+  {
+    "phrase": "That idea sounds great.",
+    "ipa": "/ðæt aɪˈdiə saʊndz ɡreɪt/",
+    "meaning": "Ý tưởng đó nghe tuyệt.",
+    "context": "That - chỉ xa"
+  },
+  {
+    "phrase": "These shoes are mine.",
+    "ipa": "/ðiz ʃuz ɑr maɪn/",
+    "meaning": "Đôi giày này là của tôi.",
+    "context": "These - số nhiều gần"
+  },
+  {
+    "phrase": "Those houses are old.",
+    "ipa": "/ðoʊz ˈhaʊzɪz ɑr oʊld/",
+    "meaning": "Những ngôi nhà đó đã cũ.",
+    "context": "Those - số nhiều xa"
+  },
+  {
+    "phrase": "Each student has a locker.",
+    "ipa": "/iːʧ ˈstjuːdənt hæz ə ˈlɒkər/",
+    "meaning": "Mỗi học sinh có 1 tủ đồ.",
+    "context": "Each - từng cá nhân"
+  },
+  {
+    "phrase": "Every child loves stories.",
+    "ipa": "/ˈɛvri ʧaɪld lʌvz ˈstɔriz/",
+    "meaning": "Mọi đứa trẻ đều thích truyện.",
+    "context": "Every - chung chung"
+  },
+  {
+    "phrase": "Some people never change.",
+    "ipa": "/sʌm ˈpipəl ˈnɛvər ʧeɪnʤ/",
+    "meaning": "Một số người không bao giờ thay đổi.",
+    "context": "Some - 1 phần"
+  },
+  {
+    "phrase": "Is there any water left?",
+    "ipa": "/ɪz ðɛər ˈɛni ˈwɔtər lɛft/",
+    "meaning": "Còn nước không?",
+    "context": "Any - hỏi"
+  },
+  {
+    "phrase": "All kids must register.",
+    "ipa": "/ɔːl kɪdz mʌst ˈrɛʤɪstər/",
+    "meaning": "Tất cả trẻ em phải đăng ký.",
+    "context": "All - toàn bộ"
+  },
+  {
+    "phrase": "Both answers are fine.",
+    "ipa": "/boʊθ ˈænsərz ɑr faɪn/",
+    "meaning": "Cả hai câu trả lời đều ổn.",
+    "context": "Both - 2 đối tượng"
+  },
+  {
+    "phrase": "Neither plan works.",
+    "ipa": "/ˈniðər plæn wɜrks/",
+    "meaning": "Không kế hoạch nào hiệu quả.",
+    "context": "Neither - phủ định 2 lựa chọn"
+  },
+  {
+    "phrase": "Either option is good.",
+    "ipa": "/ˈiðər ˈɑpʃən ɪz ɡʊd/",
+    "meaning": "Lựa chọn nào cũng được.",
+    "context": "Either - 1 trong 2"
+  },
+  {
+    "phrase": "Another chance will come.",
+    "ipa": "/əˈnʌðər ʧæns wɪl kʌm/",
+    "meaning": "Cơ hội khác sẽ đến.",
+    "context": "Another - 1 cái khác"
+  },
+  {
+    "phrase": "I have no money.",
+    "ipa": "/aɪ hæv noʊ ˈmʌni/",
+    "meaning": "Tôi không có tiền.",
+    "context": "No - phủ định hoàn toàn"
+  },
+  {
+    "phrase": "No one knows the answer.",
+    "ipa": "/noʊ wʌn noʊz ði ˈænsər/",
+    "meaning": "Không ai biết câu trả lời.",
+    "context": "No one - không ai"
+  },
+  {
+    "phrase": "Much work is left.",
+    "ipa": "/mʌʧ wɜrk ɪz lɛft/",
+    "meaning": "Vẫn còn nhiều việc.",
+    "context": "Much - không đếm được"
+  },
+  {
+    "phrase": "Many students joined.",
+    "ipa": "/ˈmɛni ˈstjuːdənts ʤɔɪnd/",
+    "meaning": "Nhiều học sinh đã tham gia.",
+    "context": "Many - đếm được"
+  },
+  {
+    "phrase": "Each of them was late.",
+    "ipa": "/iːʧ əv ðɛm wəz leɪt/",
+    "meaning": "Mỗi người trong số họ đều trễ.",
+    "context": "Each of - chỉ nhóm"
+  },
+  {
+    "phrase": "Every one of you matters.",
+    "ipa": "/ˈɛvri wʌn əv ju ˈmætərz/",
+    "meaning": "Mỗi người các bạn đều quan trọng.",
+    "context": "Every one of"
+  },
+  {
+    "phrase": "Other people may disagree.",
+    "ipa": "/ˈʌðər ˈpipəl meɪ ˌdɪsəˈɡriː/",
+    "meaning": "Những người khác có thể không đồng ý.",
+    "context": "Other - khác"
+  },
+  {
+    "phrase": "Some of them left early.",
+    "ipa": "/sʌm əv ðɛm lɛft ˈɜrli/",
+    "meaning": "Một vài người đã về sớm.",
+    "context": "Some of"
+  },
+  {
+    "phrase": "I need another pen.",
+    "ipa": "/aɪ nid əˈnʌðər pɛn/",
+    "meaning": "Tôi cần thêm 1 cây bút khác.",
+    "context": "Another - 1 cái nữa"
+  },
+  {
+    "phrase": "Is there any news?",
+    "ipa": "/ɪz ðɛər ˈɛni nuz/",
+    "meaning": "Có tin gì không?",
+    "context": "Any - hỏi tin tức"
+  },
+  {
+    "phrase": "No students were absent.",
+    "ipa": "/noʊ ˈstjuːdənts wɜr ˈæbsənt/",
+    "meaning": "Không học sinh nào vắng mặt.",
+    "context": "No - phủ định"
+  },
+  {
+    "phrase": "Each person should sign.",
+    "ipa": "/iʧ ˈpɜrsən ʃʊd saɪn/",
+    "meaning": "Mỗi người nên ký tên.",
+    "context": "Each"
+  }
+]

@@ -132,6 +132,66 @@
         "context": "Yêu cầu thông tin"
     },
     {
+        "phrase": "I have no money.",
+        "ipa": "/aɪ hæv noʊ ˈmʌni/",
+        "meaning": "Tôi không có tiền.",
+        "context": "Negation"
+    },
+    {
+        "phrase": "I don’t have any money.",
+        "ipa": "/aɪ doʊnt hæv ˈɛni ˈmʌni/",
+        "meaning": "Tôi không có đồng nào.",
+        "context": "Negation"
+    },
+    {
+        "phrase": "I have no idea.",
+        "ipa": "/aɪ hæv noʊ aɪˈdiə/",
+        "meaning": "Tôi không biết.",
+        "context": "Negation"
+    },
+    {
+        "phrase": "I don’t have a clue.",
+        "ipa": "/aɪ doʊnt hæv ə kluː/",
+        "meaning": "Tôi không có manh mối nào.",
+        "context": "Negation"
+    },
+    {
+        "phrase": "I have no time.",
+        "ipa": "/aɪ hæv noʊ taɪm/",
+        "meaning": "Tôi không có thời gian.",
+        "context": "Negation"
+    },
+    {
+        "phrase": "I don’t have any time.",
+        "ipa": "/aɪ doʊnt hæv ˈɛni taɪm/",
+        "meaning": "Tôi không có chút thời gian nào.",
+        "context": "Negation"
+    },
+    {
+        "phrase": "I have no choice.",
+        "ipa": "/aɪ hæv noʊ ʧɔɪs/",
+        "meaning": "Tôi không có lựa chọn nào khác.",
+        "context": "Negation"
+    },
+    {
+        "phrase": "I have no doubt.",
+        "ipa": "/aɪ hæv noʊ daʊt/",
+        "meaning": "Tôi không nghi ngờ gì.",
+        "context": "Negation"
+    },
+    {
+        "phrase": "I don’t have enough food.",
+        "ipa": "/aɪ doʊnt hæv ɪˈnʌf fuːd/",
+        "meaning": "Tôi không có đủ đồ ăn.",
+        "context": "Negation"
+    },
+    {
+        "phrase": "She doesn’t have any friends here.",
+        "ipa": "/ʃi ˈdʌzənt hæv ˈɛni frɛndz hɪr/",
+        "meaning": "Cô ấy không có bạn nào ở đây.",
+        "context": "Negation"
+    },
+    {
         "phrase": "Let’s review the key points.",
         "ipa": "/lets rɪˈvjuː ðə kiː pɔɪnts/",
         "meaning": "Hãy tổng kết các điểm chính.",
