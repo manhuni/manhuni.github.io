@@ -524,10 +524,8 @@ document.querySelectorAll(".ipa-row").forEach(row => {
     const ipaId = row.dataset.ipaId;
     const td = row.querySelector("td");
     if (!td) return;
-
     const ipaLabel = td.innerText.trim();
-    const list = audioData[ipaId] || [];
-
+    const list = audioData[ipaId] || []; 
     const title = document.getElementById("popup-title");
     const listContainer = document.getElementById("audio-list");
 
