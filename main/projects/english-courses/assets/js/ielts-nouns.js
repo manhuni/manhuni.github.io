@@ -832,7 +832,7 @@ document.querySelectorAll(".noun-row").forEach(row => {
         const li = document.createElement("li");
 
         const word = document.createElement("strong");
-        word.innerText = item.name;
+        word.innerText = item.word;
 
         const ipaSpan = document.createElement("span");
         ipaSpan.style.marginLeft = "8px";
