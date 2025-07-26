@@ -1,7 +1,6 @@
 const audioData = {
   "ipa_01": [
     { ipa: "/iː/", name: "seat", wordIpa: "/siːt/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/seat.mp3" },
-    { ipa: "/iː/", name: "seat", wordIpa: "/siːt/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/seat.mp3" },
     { ipa: "/iː/", name: "see", wordIpa: "/siː/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/see.mp3" },
     { ipa: "/iː/", name: "tea", wordIpa: "/tiː/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/tea.mp3" },
     { ipa: "/iː/", name: "tree", wordIpa: "/triː/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/tree.mp3" },

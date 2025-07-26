@@ -805,7 +805,7 @@ const words = [];
 for (let key in audioData) {
   if (audioData.hasOwnProperty(key)) {
     audioData[key].forEach((v) => {
-      words.push(v.name);
+      words.push(v.word);
     })
   }
 }
