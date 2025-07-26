@@ -1,6 +1,17 @@
 /* ===============================
    1️⃣ Base Layout: Header - Nav - Footer
    =============================== */
+.site-header,
+.site-footer {
+  width: 100%;
+}
+
+.header-inner,
+.site-footer .container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
 .site-header {
   background: #fff;
