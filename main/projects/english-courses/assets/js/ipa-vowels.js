@@ -521,10 +521,10 @@ const audioData = {
   ]
 };
 const words = [];
-for(let key in audioData){
-  if(audioData.hasOwnProperty(key)){
-    audioData[key].forEach((v)=>{
-      words.push(v);
+for (let key in audioData) {
+  if (audioData.hasOwnProperty(key)) {
+    audioData[key].forEach((v) => {
+      words.push(v.name);
     })
   }
 }
@@ -535,7 +535,7 @@ document.querySelectorAll(".ipa-row").forEach(row => {
     const td = row.querySelector("td");
     if (!td) return;
     const ipaLabel = td.innerText.trim();
-    const list = audioData[ipaId] || []; 
+    const list = audioData[ipaId] || [];
     const title = document.getElementById("popup-title");
     const listContainer = document.getElementById("audio-list");
 
