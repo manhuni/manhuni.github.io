@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>12 Thì Tiếng Anh | My Library</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../../../../assets/css/base.css" />
+  <link rel="stylesheet" href="../../../../assets/css/theme.css" />
+  <link rel="stylesheet" href="../assets/css/tenses.css" />
+  <link rel="stylesheet" href="../assets/css/lesson-common-nav.css" />
+
+</head>
+
+<body>
+  <div id="header"></div>
+
+  <main class="site-main container">
+    <section class="hero dashboard-hero">
+      <h1>📘 Ngữ pháp: 12 Thì Tiếng Anh</h1>
+      <p>Học cách nhận biết & áp dụng các thì tiếng Anh, tránh lỗi cơ bản mà người Việt thường mắc.</p>
+    </section>
+
+    <section class="lesson-content">
+      <h2>1️⃣ Vì sao người Việt hay nhầm thì?</h2>
+      <p>Tiếng Việt không chia thì rõ ràng như tiếng Anh, nhiều khi chỉ dùng một câu cho cả quá khứ, hiện tại hoặc tương
+        lai, nên người học hay:</p>
+      <ul>
+        <li>❌ Quên thêm <code>-s/-es</code> cho ngôi thứ 3 số ít (He go → He goes)</li>
+        <li>❌ Lẫn lộn thì hiện tại tiếp diễn và hiện tại đơn</li>
+        <li>❌ Không phân biệt thì hoàn thành & quá khứ đơn</li>
+      </ul>
+
+      <h2>2️⃣ Bảng 12 thì cơ bản</h2>
+      <table class="vocab-table">
+        <thead>
+          <tr>
+            <th>Thì</th>
+            <th>Chức năng</th>
+            <th>Dấu hiệu</th>
+            <th>Ví dụ</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Present Simple</td>
+            <td>Thói quen, sự thật</td>
+            <td>always, every day</td>
+            <td>She goes to school every day.</td>
+          </tr>
+          <tr>
+            <td>Present Continuous</td>
+            <td>Đang xảy ra</td>
+            <td>now, at the moment</td>
+            <td>I am studying now.</td>
+          </tr>
+          <tr>
+            <td>Past Simple</td>
+            <td>Hành động đã xảy ra</td>
+            <td>yesterday, last week</td>
+            <td>They watched TV last night.</td>
+          </tr>
+          <tr>
+            <td>Past Continuous</td>
+            <td>Đang xảy ra tại 1 thời điểm quá khứ</td>
+            <td>while, when</td>
+            <td>She was cooking when I came.</td>
+          </tr>
+          <tr>
+            <td>Present Perfect</td>
+            <td>Hành động đã xảy ra, còn liên quan</td>
+            <td>just, already, yet</td>
+            <td>I have finished my work.</td>
+          </tr>
+          <tr>
+            <td>Past Perfect</td>
+            <td>Xảy ra trước 1 hành động quá khứ</td>
+            <td>before, after</td>
+            <td>She had left before I arrived.</td>
+          </tr>
+          <tr>
+            <td>Future Simple</td>
+            <td>Dự đoán, quyết định tức thì</td>
+            <td>tomorrow, next week</td>
+            <td>He will call you later.</td>
+          </tr>
+          <tr>
+            <td>Future Continuous</td>
+            <td>Đang xảy ra tại 1 thời điểm tương lai</td>
+            <td>this time tomorrow</td>
+            <td>I will be waiting for you at 8.</td>
+          </tr>
+          <tr>
+            <td>Present Perfect Continuous</td>
+            <td>Bắt đầu trong quá khứ, kéo dài tới hiện tại</td>
+            <td>for, since</td>
+            <td>I have been studying for 2 hours.</td>
+          </tr>
+          <tr>
+            <td>Past Perfect Continuous</td>
+            <td>Kéo dài trước 1 mốc quá khứ</td>
+            <td>for, since</td>
+            <td>They had been talking for hours.</td>
+          </tr>
+          <tr>
+            <td>Future Perfect</td>
+            <td>Hoàn thành trước 1 mốc tương lai</td>
+            <td>by, before</td>
+            <td>I will have finished by 5 PM.</td>
+          </tr>
+          <tr>
+            <td>Future Perfect Continuous</td>
+            <td>Kéo dài tới 1 mốc tương lai</td>
+            <td>for, by</td>
+            <td>By next year, I will have been working here for 10 years.</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h2>3️⃣ Bài tập nhỏ</h2>
+      <p>Điền dạng đúng:</p>
+      <p><strong>He ____ (go) to school every day.</strong></p>
+      <form id="quiz-form">
+        <label><input type="radio" name="q1" value="go" /> go</label><br />
+        <label><input type="radio" name="q1" value="goes" /> goes</label><br />
+        <label><input type="radio" name="q1" value="going" /> going</label><br />
+        <button type="button" id="check-answer">Kiểm tra</button>
+        <p id="quiz-result"></p>
+      </form>
+      <h2>📊 Thống kê mức độ sử dụng</h2>
+      <p>Trong giao tiếp hàng ngày, 4 thì dưới đây chiếm ~90%:</p>
+      <ul>
+        <li>✅ Hiện tại đơn (~50%)</li>
+        <li>✅ Hiện tại tiếp diễn (~15%)</li>
+        <li>✅ Quá khứ đơn (~15%)</li>
+        <li>✅ Hiện tại hoàn thành (~10%)</li>
+      </ul>
+      <p><strong>Mẹo:</strong> Học chắc 4 thì này trước, sau đó mới học các thì nâng cao khác.</p>
+      <h2>🚫 Các lỗi sai thường gặp</h2>
+
+      <h2>🚫 Bảng các lỗi dùng thì thường gặp</h2>
+
+      <table class="vocab-table">
+        <thead>
+          <tr>
+            <th>Lỗi</th>
+            <th>Ví dụ sai</th>
+            <th>Ví dụ đúng</th>
+            <th>Nguyên nhân</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Quên -s/-es (ngôi 3 số ít)</td>
+            <td>He go to school every day.</td>
+            <td>He goes to school every day.</td>
+            <td>Tiếng Việt không chia động từ theo ngôi.</td>
+          </tr>
+          <tr>
+            <td>Bỏ “be” trong thì tiếp diễn</td>
+            <td>She reading now.</td>
+            <td>She is reading now.</td>
+            <td>Thói quen dịch word-by-word, lược be.</td>
+          </tr>
+          <tr>
+            <td>Quên “have/has” trong thì hoàn thành</td>
+            <td>I seen that movie.</td>
+            <td>I have seen that movie.</td>
+            <td>Nhầm thì quá khứ đơn với hoàn thành.</td>
+          </tr>
+          <tr>
+            <td>Nhầm thì hiện tại tiếp diễn – hiện tại đơn</td>
+            <td>I watch TV now.</td>
+            <td>I am watching TV now.</td>
+            <td>Không phân biệt “bây giờ” và “thói quen”.</td>
+          </tr>
+          <tr>
+            <td>Dùng present perfect với mốc quá khứ</td>
+            <td>I have seen him yesterday.</td>
+            <td>I saw him yesterday.</td>
+            <td>Present perfect không đi với yesterday, last week...</td>
+          </tr>
+          <tr>
+            <td>Nhầm thì quá khứ đơn – quá khứ hoàn thành</td>
+            <td>When I arrived, they leave.</td>
+            <td>When I arrived, they had left.</td>
+            <td>Không nhận ra “hành động xảy ra trước”.</td>
+          </tr>
+          <tr>
+            <td>Dùng hiện tại thay vì tương lai</td>
+            <td>Tomorrow I go to Hanoi.</td>
+            <td>Tomorrow I will go to Hanoi.</td>
+            <td>Dịch y nguyên từ tiếng Việt.</td>
+          </tr>
+          <tr>
+            <td>Nhầm thì tiếp diễn – tương lai tiếp diễn</td>
+            <td>Tomorrow at 8 I work.</td>
+            <td>Tomorrow at 8 I will be working.</td>
+            <td>Thiếu dạng “will be + V-ing”.</td>
+          </tr>
+          <tr>
+            <td>Dùng quá khứ đơn thay vì hiện tại hoàn thành</td>
+            <td>I lost my key. (ý muốn nói vẫn chưa tìm thấy)</td>
+            <td>I have lost my key.</td>
+            <td>Hiện tại hoàn thành – ảnh hưởng đến hiện tại.</td>
+          </tr>
+          <tr>
+            <td>Dùng sai thì với since/for</td>
+            <td>I live here since 2010.</td>
+            <td>I have lived here since 2010.</td>
+            <td>Không dùng thì hiện tại đơn với since/for.</td>
+          </tr>
+          <tr>
+            <td>Thiếu động từ chính trong câu</td>
+            <td>He always late.</td>
+            <td>He is always late.</td>
+            <td>Quên “to be” vì tiếng Việt không cần.</td>
+          </tr>
+          <tr>
+            <td>Dùng “will” thay vì “be going to”</td>
+            <td>I will buy some food. (khi đã lên kế hoạch)</td>
+            <td>I am going to buy some food.</td>
+            <td>“Will” = quyết định ngay; “be going to” = đã có ý định.</td>
+          </tr>
+          <tr>
+            <td>Nhầm hiện tại tiếp diễn với thì tương lai</td>
+            <td>I am leaving tomorrow. (nhiều người không dùng)</td>
+            <td>I am leaving tomorrow. (✔ dùng đúng khi đã lên kế hoạch)</td>
+            <td>Hiện tại tiếp diễn có thể diễn tả kế hoạch chắc chắn.</td>
+          </tr>
+          <tr>
+            <td>Dùng thì đơn thay vì câu điều kiện</td>
+            <td>If I will have time, I will call you.</td>
+            <td>If I have time, I will call you.</td>
+            <td>Trong mệnh đề If, không dùng will.</td>
+          </tr>
+          <tr>
+            <td>Nhầm thì hiện tại hoàn thành với hiện tại đơn</td>
+            <td>I know him for 5 years.</td>
+            <td>I have known him for 5 years.</td>
+            <td>Hành động bắt đầu quá khứ, kéo dài đến hiện tại.</td>
+          </tr>
+          <tr>
+            <td>Không đổi thì khi chuyển gián tiếp</td>
+            <td>She said she is tired.</td>
+            <td>She said she was tired.</td>
+            <td>Quá khứ gián tiếp → lùi thì.</td>
+          </tr>
+          <tr>
+            <td>Dùng thì hiện tại khi câu cần thì tương lai</td>
+            <td>When I will see him, I will tell him.</td>
+            <td>When I see him, I will tell him.</td>
+            <td>Trong mệnh đề chỉ thời gian (when), không dùng will.</td>
+          </tr>
+          <tr>
+            <td>Nhầm câu wish – sai thì</td>
+            <td>I wish I have more money.</td>
+            <td>I wish I had more money.</td>
+            <td>Wish → lùi thì.</td>
+          </tr>
+          <tr>
+            <td>Nhầm cấu trúc “used to”</td>
+            <td>I use to play football.</td>
+            <td>I used to play football.</td>
+            <td>“Used to” → thói quen quá khứ.</td>
+          </tr>
+          <tr>
+            <td>Dùng hiện tại tiếp diễn thay vì hiện tại đơn (tình huống không tiếp diễn)</td>
+            <td>I am knowing him.</td>
+            <td>I know him.</td>
+            <td>Động từ “state verb” (know, like...) không chia tiếp diễn.</td>
+          </tr>
+          <tr>
+            <td>Nhầm thì với câu bị động</td>
+            <td>The book writes by him.</td>
+            <td>The book is written by him.</td>
+            <td>Bị động cần be + V3.</td>
+          </tr>
+          <tr>
+            <td>Nhầm thì quá khứ tiếp diễn – quá khứ đơn</td>
+            <td>I cooked when he came. (ý: đang nấu)</td>
+            <td>I was cooking when he came.</td>
+            <td>Hành động đang diễn ra → quá khứ tiếp diễn.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm giữa “be going to” và thì hiện tại tiếp diễn</td>
+            <td>I am going to London tomorrow. (✔) — nhưng nhiều người nhầm dùng be going to cho mọi loại dự định.</td>
+            <td>I am flying to London tomorrow. (dùng present continuous cho kế hoạch chắc chắn)</td>
+            <td>Hiện tại tiếp diễn + thời gian tương lai = kế hoạch chắc chắn.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm thì với động từ thường + always</td>
+            <td>He is always coming late.</td>
+            <td>He always comes late.</td>
+            <td>“Always” + động từ chỉ thói quen → dùng hiện tại đơn.</td>
+          </tr>
+
+          <tr>
+            <td>Dùng thì tiếp diễn với state verb</td>
+            <td>I am loving this song.</td>
+            <td>I love this song.</td>
+            <td>State verb (love, like, know...) → không chia tiếp diễn.</td>
+          </tr>
+
+          <tr>
+            <td>Không chia động từ theo chủ ngữ số nhiều</td>
+            <td>People loves music.</td>
+            <td>People love music.</td>
+            <td>“People” là số nhiều.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm thì trong câu điều kiện loại 2</td>
+            <td>If I will have money, I will travel.</td>
+            <td>If I had money, I would travel.</td>
+            <td>Điều kiện không có thật → lùi thì quá khứ, dùng would.</td>
+          </tr>
+
+          <tr>
+            <td>Dùng sai thì với “by the time”</td>
+            <td>By the time he comes, I eat dinner.</td>
+            <td>By the time he comes, I will have eaten dinner.</td>
+            <td>“By the time” + mốc tương lai → Future Perfect.</td>
+          </tr>
+
+          <tr>
+            <td>Không lùi thì trong gián tiếp quá khứ</td>
+            <td>She said she is happy.</td>
+            <td>She said she was happy.</td>
+            <td>Reported speech → lùi thì.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm giữa “has been” và “had been”</td>
+            <td>Before he arrived, I have been here.</td>
+            <td>Before he arrived, I had been there.</td>
+            <td>Hành động trước 1 mốc quá khứ → past perfect (had been).</td>
+          </tr>
+
+          <tr>
+            <td>Dùng “did” + V2</td>
+            <td>I did went to school.</td>
+            <td>I went to school.</td>
+            <td>“Did” đã mang thì quá khứ → động từ về V1.</td>
+          </tr>
+          <tr>
+            <td>Nhầm thì trong câu điều kiện loại 3</td>
+            <td>If I would have known, I would have helped.</td>
+            <td>If I had known, I would have helped.</td>
+            <td>Điều kiện không có thật quá khứ: If + past perfect, would have V3.</td>
+          </tr>
+
+          <tr>
+            <td>Dùng thì hiện tại với ever/never</td>
+            <td>I ever eat sushi.</td>
+            <td>I have ever eaten sushi. (Thường: I have never eaten sushi.)</td>
+            <td>Ever/Never → thường đi với hiện tại hoàn thành.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm “for” với quá khứ đơn</td>
+            <td>I lived here for 3 years. (ý: vẫn sống)</td>
+            <td>I have lived here for 3 years.</td>
+            <td>For + khoảng thời gian → dùng hiện tại hoàn thành (nếu còn tiếp tục).</td>
+          </tr>
+
+          <tr>
+            <td>Dùng hiện tại hoàn thành cho hành động đã kết thúc</td>
+            <td>I have eaten dinner an hour ago.</td>
+            <td>I ate dinner an hour ago.</td>
+            <td>Ago → mốc quá khứ → quá khứ đơn.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm tương lai gần với thì tiếp diễn</td>
+            <td>I am go to buy it soon.</td>
+            <td>I am going to buy it soon.</td>
+            <td>Be going to + V1 → nói dự định.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm thì với used to/be used to</td>
+            <td>I am used to play football.</td>
+            <td>I am used to playing football.</td>
+            <td>Be used to + V-ing (quen với việc gì).</td>
+          </tr>
+
+          <tr>
+            <td>Dùng will trong mệnh đề when/after/before</td>
+            <td>After you will finish, call me.</td>
+            <td>After you finish, call me.</td>
+            <td>Mệnh đề thời gian: không dùng will.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm thì tương lai hoàn thành</td>
+            <td>By next month, I finish this project.</td>
+            <td>By next month, I will have finished this project.</td>
+            <td>By + mốc tương lai → Future Perfect.</td>
+          </tr>
+
+          <tr>
+            <td>Quên chia thì với passive voice (bị động)</td>
+            <td>The cake eat by him.</td>
+            <td>The cake is eaten by him.</td>
+            <td>Bị động = be + V3, phải chia be đúng thì.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm thì trong wish quá khứ</td>
+            <td>I wish I didn’t eat that cake. (ý: tiếc đã ăn)</td>
+            <td>I wish I hadn’t eaten that cake.</td>
+            <td>Wish quá khứ → dùng past perfect.</td>
+          </tr>
+          <tr>
+            <td>Dùng Present Perfect thay vì Past Perfect</td>
+            <td>She left before I have arrived.</td>
+            <td>She left before I had arrived.</td>
+            <td>Hành động xảy ra trước 1 mốc quá khứ → Past Perfect.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm giữa quá khứ hoàn thành tiếp diễn & quá khứ đơn</td>
+            <td>I worked there for 5 years before I quit.</td>
+            <td>I had been working there for 5 years before I quit.</td>
+            <td>Nhấn mạnh quá trình kéo dài trước 1 mốc quá khứ.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm giữa Future Continuous và Future Simple</td>
+            <td>At 8PM I will watch TV.</td>
+            <td>At 8PM I will be watching TV.</td>
+            <td>Hành động đang diễn ra tại 1 mốc tương lai → Future Continuous.</td>
+          </tr>
+
+          <tr>
+            <td>Không chia thì đúng trong wish tương lai</td>
+            <td>I wish it will stop raining.</td>
+            <td>I wish it would stop raining.</td>
+            <td>Wish tương lai → dùng would.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm thì với cấu trúc “It’s time…”</td>
+            <td>It’s time we go home.</td>
+            <td>It’s time we went home.</td>
+            <td>It’s time + past tense (mang nghĩa khuyên, giả định).</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm thì với “Suppose…”</td>
+            <td>Suppose he comes tomorrow.</td>
+            <td>Suppose he came tomorrow.</td>
+            <td>Suppose + past tense (giả định không chắc).</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm thì trong “As if…”</td>
+            <td>He talks as if he knows everything.</td>
+            <td>He talks as if he knew everything.</td>
+            <td>As if + past tense (giả định không thật).</td>
+          </tr>
+
+          <tr>
+            <td>Dùng will trong mệnh đề Before</td>
+            <td>Before he will call me, I will finish this.</td>
+            <td>Before he calls me, I will finish this.</td>
+            <td>Mệnh đề Before không dùng will.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm thì trong “Rather…”</td>
+            <td>I’d rather we leave now.</td>
+            <td>I’d rather we left now.</td>
+            <td>Rather + past tense → ý giả định.</td>
+          </tr>
+
+          <tr>
+            <td>Nhầm cấu trúc “It’s been…”</td>
+            <td>It’s two years I last saw him.</td>
+            <td>It’s been two years since I last saw him.</td>
+            <td>It’s been + time + since + past simple.</td>
+          </tr>
+
+        </tbody>
+      </table>
+
+      <h3>🗝️ Mẹo nhỏ:</h3>
+      <div class="note">
+        ✅ Luôn kiểm tra xem câu nói có mốc thời gian không.<br>
+        ✅ Luyện thói quen nói đủ <strong>be</strong>, <strong>have</strong>.<br>
+        ✅ Nói ngắn gọn nhưng đúng cấu trúc.
+      </div>
+
+      <h3>💡 Mẹo ghi nhớ</h3>
+      <div class="note">
+        ✅ Hiện tại đơn: thói quen & sự thật → luôn thêm <code>-s</code> nếu là He/She/It.<br>
+        ✅ Thì hoàn thành: luôn có <strong>have/has/had + V3</strong>.<br>
+        ✅ Thì tiếp diễn: luôn có <strong>be + V-ing</strong>.
+      </div>
+    </section>
+
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="../../../../assets/js/main.js"></script>
+  <script src="../assets/js/tenses.js"></script>
+  <script src="../assets/js/lesson-common-nav.js"></script>
+
+</body>
+
+</html>
