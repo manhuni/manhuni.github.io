@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>12 Thì Tiếng Anh | My Library</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../../../assets/css/base.css" />
+  <link rel="stylesheet" href="../../../assets/css/theme.css" />
+  <link rel="stylesheet" href="assets/css/tenses.css" />
+  <link rel="stylesheet" href="assets/css/lesson-nav.css" />
+
+</head>
+
+<body>
+  <div id="header"></div>
+
+  <main class="site-main container">
+    <section class="hero dashboard-hero">
+      <h1>📘 Ngữ pháp: 12 Thì Tiếng Anh</h1>
+      <p>Học cách nhận biết & áp dụng các thì tiếng Anh, tránh lỗi cơ bản mà người Việt thường mắc.</p>
+    </section>
+
+    <section class="lesson-content">
+      <h2>1️⃣ Vì sao người Việt hay nhầm thì?</h2>
+      <p>Tiếng Việt không chia thì rõ ràng như tiếng Anh, nhiều khi chỉ dùng một câu cho cả quá khứ, hiện tại hoặc tương
+        lai, nên người học hay:</p>
+      <ul>
+        <li>❌ Quên thêm <code>-s/-es</code> cho ngôi thứ 3 số ít (He go → He goes)</li>
+        <li>❌ Lẫn lộn thì hiện tại tiếp diễn và hiện tại đơn</li>
+        <li>❌ Không phân biệt thì hoàn thành & quá khứ đơn</li>
+      </ul>
+
+      <h2>2️⃣ Bảng 12 thì cơ bản</h2>
+      <table class="vocab-table">
+        <thead>
+          <tr>
+            <th>Thì</th>
+            <th>Chức năng</th>
+            <th>Dấu hiệu</th>
+            <th>Ví dụ</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Present Simple</td>
+            <td>Thói quen, sự thật</td>
+            <td>always, every day</td>
+            <td>She goes to school every day.</td>
+          </tr>
+          <tr>
+            <td>Present Continuous</td>
+            <td>Đang xảy ra</td>
+            <td>now, at the moment</td>
+            <td>I am studying now.</td>
+          </tr>
+          <tr>
+            <td>Past Simple</td>
+            <td>Hành động đã xảy ra</td>
+            <td>yesterday, last week</td>
+            <td>They watched TV last night.</td>
+          </tr>
+          <tr>
+            <td>Past Continuous</td>
+            <td>Đang xảy ra tại 1 thời điểm quá khứ</td>
+            <td>while, when</td>
+            <td>She was cooking when I came.</td>
+          </tr>
+          <tr>
+            <td>Present Perfect</td>
+            <td>Hành động đã xảy ra, còn liên quan</td>
+            <td>just, already, yet</td>
+            <td>I have finished my work.</td>
+          </tr>
+          <tr>
+            <td>Past Perfect</td>
+            <td>Xảy ra trước 1 hành động quá khứ</td>
+            <td>before, after</td>
+            <td>She had left before I arrived.</td>
+          </tr>
+          <tr>
+            <td>Future Simple</td>
+            <td>Dự đoán, quyết định tức thì</td>
+            <td>tomorrow, next week</td>
+            <td>He will call you later.</td>
+          </tr>
+          <tr>
+            <td>Future Continuous</td>
+            <td>Đang xảy ra tại 1 thời điểm tương lai</td>
+            <td>this time tomorrow</td>
+            <td>I will be waiting for you at 8.</td>
+          </tr>
+          <tr>
+            <td>Present Perfect Continuous</td>
+            <td>Bắt đầu trong quá khứ, kéo dài tới hiện tại</td>
+            <td>for, since</td>
+            <td>I have been studying for 2 hours.</td>
+          </tr>
+          <tr>
+            <td>Past Perfect Continuous</td>
+            <td>Kéo dài trước 1 mốc quá khứ</td>
+            <td>for, since</td>
+            <td>They had been talking for hours.</td>
+          </tr>
+          <tr>
+            <td>Future Perfect</td>
+            <td>Hoàn thành trước 1 mốc tương lai</td>
+            <td>by, before</td>
+            <td>I will have finished by 5 PM.</td>
+          </tr>
+          <tr>
+            <td>Future Perfect Continuous</td>
+            <td>Kéo dài tới 1 mốc tương lai</td>
+            <td>for, by</td>
+            <td>By next year, I will have been working here for 10 years.</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h2>3️⃣ Bài tập nhỏ</h2>
+      <p>Điền dạng đúng:</p>
+      <p><strong>He ____ (go) to school every day.</strong></p>
+      <form id="quiz-form">
+        <label><input type="radio" name="q1" value="go" /> go</label><br />
+        <label><input type="radio" name="q1" value="goes" /> goes</label><br />
+        <label><input type="radio" name="q1" value="going" /> going</label><br />
+        <button type="button" id="check-answer">Kiểm tra</button>
+        <p id="quiz-result"></p>
+      </form>
+
+      <h3>💡 Mẹo ghi nhớ</h3>
+      <div class="note">
+        ✅ Hiện tại đơn: thói quen & sự thật → luôn thêm <code>-s</code> nếu là He/She/It.<br>
+        ✅ Thì hoàn thành: luôn có <strong>have/has/had + V3</strong>.<br>
+        ✅ Thì tiếp diễn: luôn có <strong>be + V-ing</strong>.
+      </div>
+    </section>
+
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="../../../assets/js/main.js"></script>
+  <script src="assets/js/tenses.js"></script>
+  <script src="assets/js/lesson-nav.js"></script>
+
+</body>
+
+</html>

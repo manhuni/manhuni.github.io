@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const lessons = [
     "nouns-pronouns.html",
     "verbs-tenses.html",
+    "tenses.html",
     "adjectives-adverbs.html",
     "ipa-vowels.html",
     "think-english.html"
