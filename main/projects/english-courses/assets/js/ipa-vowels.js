@@ -1,6 +1,7 @@
 const audioData = {
   "ipa_01": [
     { ipa: "/iː/", name: "seat", wordIpa: "/siːt/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/seat.mp3" },
+    { ipa: "/iː/", name: "seat", wordIpa: "/siːt/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/seat.mp3" },
     { ipa: "/iː/", name: "see", wordIpa: "/siː/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/see.mp3" },
     { ipa: "/iː/", name: "tea", wordIpa: "/tiː/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/tea.mp3" },
     { ipa: "/iː/", name: "tree", wordIpa: "/triː/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/tree.mp3" },
@@ -518,7 +519,16 @@ const audioData = {
     { ipa: "/w/", name: "win", wordIpa: "/wɪn/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/win.mp3" },
     { ipa: "/w/", name: "warm", wordIpa: "/wɔːm/", file: "/main/projects/english-courses/assets/data/ipa-vowels/audio/warm.mp3" }
   ]
-}; 
+};
+const words = [];
+for(let key in audioData){
+  if(audioData.hasOwnProperty(key)){
+    audioData[key].forEach((v)=>{
+      words.push(v);
+    })
+  }
+}
+console.log(JSON.stringify(words));
 document.querySelectorAll(".ipa-row").forEach(row => {
   row.addEventListener("click", () => {
     const ipaId = row.dataset.ipaId;
