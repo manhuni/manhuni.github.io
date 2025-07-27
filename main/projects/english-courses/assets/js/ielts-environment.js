@@ -23,26 +23,26 @@ console.log(JSON.stringify(words));
 document.addEventListener("DOMContentLoaded", () => {
   const tbody = document.querySelector(".vocab-table tbody");
 
-  for (let key in audioData) {
+ for (let key in audioData) {
     if (!audioData.hasOwnProperty(key)) continue;
 
     const wordList = audioData[key];
-    wordList.forEach(item => {
-      const tr = document.createElement("tr");
-      tr.classList.add("ipa-row");
-      tr.dataset.ipaId = key;
+    const item = wordList[0]; // Chỉ lấy từ đầu tiên làm đại diện
 
-      tr.innerHTML = `
-        <td>${item.name}</td>
-        <td>${item.ipa}</td>
-        <td>${item.type}</td>
-        <td>${item.meaning}</td>
-        <td>${item.example}</td>
-        <td>${item.context}</td>
-      `;
+    const tr = document.createElement("tr");
+    tr.classList.add("ipa-row");
+    tr.dataset.ipaId = key;
 
-      tbody.appendChild(tr);
-    });
+    tr.innerHTML = `
+    <td>${item.name}</td>
+    <td>${item.ipa}</td>
+    <td>${item.wordIpa}</td>
+    <td>${item.meaning}</td>
+    <td>${item.example}</td>
+    <td>${item.context}</td>
+  `;
+
+    tbody.appendChild(tr);
   }
 
   // Add popup handler
