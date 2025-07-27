@@ -11,47 +11,102 @@ $baseUrl = "https://media.merriam-webster.com/audio/prons/en/us/mp3"
 
 # Danh sách từ
 $words = @(
-    "information","analysis","development","approach","environment","policy","evidence","research","issue","economy","role","strategy","benefit","factor","source","method","area","income","community","individual","structure","function","process","issue","authority","impact","policy","context","region","trend","concept","sector","labour","resources","procedure","principle","period","response","commission","aspect","credit","culture","design","element","investment","maintenance","normal","outcome","pattern","percent","policy","priority","promotion","range","region","regulation","requirement","role","section","security","strategy","structure","technology","theory","tradition","transition","trend","variable","version","welfare","access","accommodation","adjustment","agreement","aid","alternative","aspect","assembly","assessment","assistance","assumption","attempt","attitude","background","benefit","capacity","category","circumstance","comment","commission","community","complaint","component","concept","conclusion","conduct","conflict","consequence","construction","contribution"
+"agreement",
+"assumption",
+"background",
+"component",
+"labor",
+"maintenance",
+"procedure",
+"requirement"
 )
 
 foreach ($word in $words) {
+    $outputFile = "$downloadDir\$word.mp3"
+
+    # Bỏ qua nếu file đã tồn tại
+    if (Test-Path $outputFile) {
+        Write-Host "Skipped (already exists): $word.mp3" -ForegroundColor Cyan
+        continue
+    }
+
     $firstLetter = $word.Substring(0,1).ToLower()
     $success = $false
 
-    $number = "1"  # Bắt đầu
+    $number = "1"
     $lastTriedUrl = ""
 
+    # --- Step 1: Try normal numbering ---
     for ($i = 0; $i -le 10; $i++) {
         $fileName = "$word$number.mp3"
         $url = "$baseUrl/$firstLetter/$fileName"
-        $outputFile = "$downloadDir\$word.mp3"
 
         Write-Host "Trying: $fileName ..."
         try {
             Invoke-WebRequest -Uri $url -OutFile $outputFile -ErrorAction Stop
-            Write-Host "✅ Success: saved as $word.mp3" -ForegroundColor Green
+            Write-Host "Success: saved as $word.mp3" -ForegroundColor Green
             $success = $true
             break
         } catch {
-            Write-Host "❌ Failed: $fileName" -ForegroundColor Yellow
+            Write-Host "Failed: $fileName" -ForegroundColor Yellow
             $lastTriedUrl = $url
             $number = "0" + $number
         }
     }
 
+    # --- Step 2: 6-letter prefix + remaining count ---
+    if (-not $success -and $word.Length -gt 6) {
+        $prefix = $word.Substring(0, 6)
+        $remainingCount = $word.Length - 6
+        $suffixNumber = "{0:D2}" -f $remainingCount
+        $specialFileName = "$prefix$suffixNumber.mp3"
+        $specialUrl = "$baseUrl/$firstLetter/$specialFileName"
+
+        Write-Host "Trying fallback format 1: $specialFileName ..."
+        try {
+            Invoke-WebRequest -Uri $specialUrl -OutFile $outputFile -ErrorAction Stop
+            Write-Host "Success with fallback format 1: saved as $word.mp3" -ForegroundColor Green
+            $success = $true
+        } catch {
+            Write-Host "Fallback format 1 failed: $specialFileName" -ForegroundColor Yellow
+            $lastTriedUrl = $specialUrl
+        }
+    }
+
+    # --- Step 3: prefix01 to prefix10 ---
+    if (-not $success -and $word.Length -gt 6) {
+        $prefix = $word.Substring(0, 6)
+        for ($i = 1; $i -le 10; $i++) {
+            $suffix = "{0:D2}" -f $i
+            $fileName = "$prefix$suffix.mp3"
+            $url = "$baseUrl/$firstLetter/$fileName"
+
+            Write-Host "Trying fallback format 2: $fileName ..."
+            try {
+                Invoke-WebRequest -Uri $url -OutFile $outputFile -ErrorAction Stop
+                Write-Host "Success with fallback format 2: saved as $word.mp3" -ForegroundColor Green
+                $success = $true
+                break
+            } catch {
+                Write-Host "Fallback format 2 failed: $fileName" -ForegroundColor Yellow
+                $lastTriedUrl = $url
+            }
+        }
+    }
+
+    # --- Save metadata if all failed ---
     if (-not $success) {
-        Write-Host "🚫 Could not download any valid file for: $word" -ForegroundColor Red
-        # Tạo file .metadata
+        Write-Host "Could not download any valid file for: $word" -ForegroundColor Red
         $metaFile = "$downloadDir\$word.metadata"
         $metaContent = @"
 Word: $word
 LastTriedUrl: $lastTriedUrl
 Status: Failed to download
 "@
-        $metaContent | Out-File -Encoding UTF8 $metaFile
-        Write-Host "🗂️ Metadata saved: $metaFile" -ForegroundColor Cyan
+        $metaContent | Out-File -Encoding ASCII $metaFile
+        Write-Host "Metadata saved: $metaFile" -ForegroundColor Cyan
     }
 }
 
-Write-Host "`n✅ Done! Files saved to: $downloadDir" -ForegroundColor Green
+Write-Host "`nDone! Files saved to: $downloadDir" -ForegroundColor Green
 Read-Host -Prompt "Press Enter to exit"

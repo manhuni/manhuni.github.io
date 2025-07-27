@@ -257,10 +257,10 @@ const audioData = {
   ],
   "noun_33": [
     {
-      word: "labour",
+      word: "labor",
       ipa: "/ˈleɪbə/",
       wordIpa: "/ˈleɪbə/",
-      file: "/main/projects/english-courses/assets/data/ielts/nouns/audio/labour.mp3"
+      file: "/main/projects/english-courses/assets/data/ielts/nouns/audio/labor.mp3"
     }
   ],
   "noun_34": [
