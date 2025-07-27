@@ -842,18 +842,34 @@ document.querySelectorAll(".noun-row").forEach(row => {
         wordIpa.style.marginLeft = "8px";
         wordIpa.innerText = `Word IPA: ${item.wordIpa}`;
 
+         const status = document.createElement("span");
+        status.innerText = "🔄 Đang kiểm tra...";
+        status.style.fontStyle = "italic";
+        status.style.marginLeft = "auto";
         const btn = document.createElement("button");
         btn.innerText = "▶ Play";
         btn.style.marginLeft = "auto";  // đẩy nút ra cuối hàng
         btn.addEventListener("click", () => {
           new Audio(item.file).play();
         });
-
+        // Kiểm tra file tồn tại
+        fetch(item.file, { method: 'HEAD' })
+          .then(res => {
+            if (res.ok) {
+              status.innerText = "✅";
+              btn.disabled = false;
+            } else {
+              status.innerText = "❌";
+            }
+          })
+          .catch(err => {
+            status.innerText = "⚠️ Lỗi mạng";
+          });
         li.appendChild(word);
         li.appendChild(ipaSpan);
         li.appendChild(wordIpa);
         li.appendChild(btn);
-
+        li.appendChild(status);
         listContainer.appendChild(li);
       });
 

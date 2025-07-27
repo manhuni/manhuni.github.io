@@ -11,14 +11,7 @@ $baseUrl = "https://media.merriam-webster.com/audio/prons/en/us/mp3"
 
 # Danh sách từ
 $words = @(
-"agreement",
-"assumption",
-"background",
-"component",
-"labor",
-"maintenance",
-"procedure",
-"requirement"
+"education","student","teacher","classroom","curriculum","exam","homework","assignment","lecture","notebook","pen","university","degree","diploma","qualification","syllabus","knowledge","literacy","numeracy","preschool","scholarship","tuition","enrolment","attendance","discipline","graduate","dropout","bullying","semester","academic","IQ","learning style","revision","extracurricular","plagiarism","presentation","research","internship","mentor","online course","curriculum","syllabus","examiner","cheating","peer","group work","deadline","gap year","vocational training","public school","private","school","boarding","school","home","schooling","lifelong","learning","language","barrier","standardized","test","critical","thinking","digital","literacy","student","loan","certificate","diploma","syllabus","university","institution","fee","tuition","lecture","report","pressure","classmate","voucher","staff","enrolment","campus","educator","accountable"
 )
 
 foreach ($word in $words) {
