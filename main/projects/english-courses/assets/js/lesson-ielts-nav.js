@@ -1,13 +1,18 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
   // Danh sách các bài học theo thứ tự
   const lessons = [
-    "ielts-nouns.html", 
-    "ielts-education.html", 
-    "ielts-environment.html", 
-    "ielts-technology.html", 
-    "ielts-health.html", 
-    "ielts-work-career.html", 
-    "ielts-global-issues.html", 
+    "ielts-nouns.html",
+    "ielts-education.html",
+    "ielts-environment.html",
+    "ielts-technology.html",
+    "ielts-health.html",
+    "ielts-work-career.html",
+    "ielts-global-issues.html",
+    "ielts-culture-society.html",
+    "ielts-crime-law.html",
+    "ielts-media-advertising.html",
+    "ielts-urbanisation.html",
+    "ielts-transport.html",
   ];
 
   // Lấy tên file hiện tại
