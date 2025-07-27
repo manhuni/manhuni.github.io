@@ -5,6 +5,9 @@ document.addEventListener("DOMContentLoaded", function() {
     "ielts-education.html", 
     "ielts-environment.html", 
     "ielts-technology.html", 
+    "ielts-health.html", 
+    "ielts-work-career.html", 
+    "ielts-global-issues.html", 
   ];
 
   // Lấy tên file hiện tại
