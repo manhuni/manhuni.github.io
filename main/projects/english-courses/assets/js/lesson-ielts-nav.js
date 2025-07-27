@@ -3,6 +3,8 @@ document.addEventListener("DOMContentLoaded", function() {
   const lessons = [
     "ielts-nouns.html", 
     "ielts-education.html", 
+    "ielts-environment.html", 
+    "ielts-technology.html", 
   ];
 
   // Lấy tên file hiện tại
@@ -20,12 +22,12 @@ document.addEventListener("DOMContentLoaded", function() {
 
   // Link Bài trước
   if (idx > 0) {
-    nav.innerHTML += `<a href="/main/projects/english-courses/common/${lessons[idx - 1]}" class="btn">⬅️ Bài trước</a>`;
+    nav.innerHTML += `<a href="/main/projects/english-courses/ielts/${lessons[idx - 1]}" class="btn">⬅️ Bài trước</a>`;
   }
 
   // Link Bài tiếp theo
   if (idx >= 0 && idx < lessons.length - 1) {
-    nav.innerHTML += `<a href="/main/projects/english-courses/common/${lessons[idx + 1]}" class="btn">➡️ Bài tiếp theo</a>`;
+    nav.innerHTML += `<a href="/main/projects/english-courses/ielts/${lessons[idx + 1]}" class="btn">➡️ Bài tiếp theo</a>`;
   }
 
   // Gắn nav vào cuối <main>
