@@ -8,8 +8,8 @@
 
 .header-inner,
 .site-footer .container {
-  width: 90%;
-  max-width: 1200px;
+  width: 100%;
+  /* max-width: 1200px; */
   margin: 0 auto;
 }
 
@@ -53,8 +53,8 @@
 /* ===============================
    2️⃣ Main Container
    =============================== */
-.site-main {
-  padding: 2rem 0;
+.site-main { 
+  padding: 1rem 0;
 }
 
 /* ===============================
@@ -165,8 +165,8 @@
    6️⃣ Responsive Utilities
    =============================== */
 .container {
-  width: 90%;
-  max-width: 1200px;
+  width: 100%;
+  /* max-width: 1280px; */
   margin: 0 auto;
 }
 .dashboard-card {
