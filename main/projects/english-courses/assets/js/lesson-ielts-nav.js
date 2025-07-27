@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
   // Danh sách các bài học theo thứ tự
   const lessons = [
     "ielts-nouns.html", 
-    "ielts-noun2.html", 
+    "ielts-education.html", 
   ];
 
   // Lấy tên file hiện tại
