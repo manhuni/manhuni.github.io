@@ -1,0 +1,46 @@
+/* Hero giữ nguyên như cũ */
+
+/* Table style */
+.cocos-table {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.cocos-table h2 {
+  margin-bottom: 1rem;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background: #f0f4f8;
+}
+
+th, td {
+  padding: 0.75rem 1rem;
+  border: 1px solid #ddd;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  font-weight: 600;
+}
+
+td a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+td a:hover {
+  text-decoration: underline;
+}
