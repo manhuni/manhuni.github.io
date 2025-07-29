@@ -199,3 +199,59 @@
 .dashboard-card .btn:hover {
   background: #0056b3;
 }
+.professional-header {
+  background-color: #fff;
+  border-bottom: 1px solid #eee;
+  padding: 1rem 0;
+}
+
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.branding {
+  display: flex;
+  align-items: center;
+} 
+
+.brand-text .logo {
+  margin: 0;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.brand-text .tagline {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 1.2rem;
+}
+
+.nav a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #333;
+  transition: color 0.2s ease;
+}
+
+.nav a:hover {
+  color: #007bff;
+}
+
+.nav .btn-contact {
+  background-color: #007bff;
+  color: white !important;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+}

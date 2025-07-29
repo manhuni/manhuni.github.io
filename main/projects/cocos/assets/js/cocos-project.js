@@ -1,4 +1,10 @@
-console.log('Common Project Page Loaded.');
+console.log('🚀 project.js loaded from main/projects/assets/js/project.js');
 
-// Đây là nơi bạn có thể thêm script JS riêng cho Common
-// Ví dụ: Load API, fetch repo, xử lý dynamic link sau này
+document.addEventListener("DOMContentLoaded", () => {
+  const projects = document.querySelectorAll(".project-item");
+  projects.forEach(project => {
+    project.addEventListener("click", () => {
+      console.log(`Bạn vừa chọn: ${project.querySelector("h3").innerText}`);
+    });
+  });
+});

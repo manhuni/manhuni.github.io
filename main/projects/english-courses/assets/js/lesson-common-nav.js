@@ -1,38 +1,31 @@
-document.addEventListener("DOMContentLoaded", function() {
-  // Danh sách các bài học theo thứ tự
+document.addEventListener("DOMContentLoaded", function () {
   const lessons = [
-    "nouns-pronouns.html",
-    "verbs-tenses.html",
-    "tenses.html",
-    "adjectives-adverbs.html",
-    "ipa-vowels.html",
-    "think-english.html"
+    { path: "nouns-pronouns.html", label: "Danh từ & Đại từ" },
+    { path: "verbs-tenses.html", label: "Động từ & Thì" },
+    { path: "tenses.html", label: "Các thì trong tiếng Anh" },
+    { path: "adjectives-adverbs.html", label: "Tính từ & Trạng từ" },
+    { path: "ipa-vowels.html", label: "Nguyên âm IPA" },
+    { path: "think-english.html", label: "Tư duy tiếng Anh" },
   ];
 
-  // Lấy tên file hiện tại
   const current = window.location.pathname.split("/").pop();
-
-  // Tìm vị trí bài học hiện tại
-  const idx = lessons.indexOf(current);
-
-  // Tạo thẻ nav
+  const idx = lessons.findIndex(l => l.path === current);
   const nav = document.createElement("nav");
   nav.className = "lesson-nav";
 
-  // Thêm link Trang chủ
-  nav.innerHTML += `<a href="/main/projects/english-courses/index.html" class="btn">🏠 Trang chủ</a>`;
-
-  // Link Bài trước
+ 
+  // Link trước
   if (idx > 0) {
-    nav.innerHTML += `<a href="/main/projects/english-courses/common/${lessons[idx - 1]}" class="btn">⬅️ Bài trước</a>`;
+    const prev = lessons[idx - 1];
+    nav.innerHTML += `<a href="/main/projects/english-courses/common/${prev.path}" class="btn">← ${prev.label}</a>`;
   }
 
-  // Link Bài tiếp theo
+  // Link sau
   if (idx >= 0 && idx < lessons.length - 1) {
-    nav.innerHTML += `<a href="/main/projects/english-courses/common/${lessons[idx + 1]}" class="btn">➡️ Bài tiếp theo</a>`;
+    const next = lessons[idx + 1];
+    nav.innerHTML += `<a href="/main/projects/english-courses/common/${next.path}" class="btn">${next.label} →</a>`;
   }
 
-  // Gắn nav vào cuối <main>
   const main = document.querySelector("main");
   if (main) {
     main.appendChild(nav);

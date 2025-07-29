@@ -1,44 +1,37 @@
 document.addEventListener("DOMContentLoaded", function () {
-  // Danh sách các bài học theo thứ tự
   const lessons = [
-    "ielts-nouns.html",
-    "ielts-education.html",
-    "ielts-environment.html",
-    "ielts-technology.html",
-    "ielts-health.html",
-    "ielts-work-career.html",
-    "ielts-global-issues.html",
-    "ielts-culture-society.html",
-    "ielts-crime-law.html",
-    "ielts-media-advertising.html",
-    "ielts-urbanisation.html",
-    "ielts-transport.html",
+    { path: "ielts-nouns.html", label: "Nouns" },
+    { path: "ielts-education.html", label: "Education" },
+    { path: "ielts-environment.html", label: "Environment" },
+    { path: "ielts-technology.html", label: "Technology" },
+    { path: "ielts-health.html", label: "Health" },
+    { path: "ielts-work-career.html", label: "Work & Career" },
+    { path: "ielts-global-issues.html", label: "Global Issues" },
+    { path: "ielts-culture-society.html", label: "Culture & Society" },
+    { path: "ielts-crime-law.html", label: "Crime & Law" },
+    { path: "ielts-media-advertising.html", label: "Media & Advertising" },
+    { path: "ielts-urbanisation.html", label: "Urbanisation" },
+    { path: "ielts-transport.html", label: "Transport" },
   ];
 
-  // Lấy tên file hiện tại
   const current = window.location.pathname.split("/").pop();
-
-  // Tìm vị trí bài học hiện tại
-  const idx = lessons.indexOf(current);
-
-  // Tạo thẻ nav
+  const idx = lessons.findIndex(l => l.path === current);
   const nav = document.createElement("nav");
   nav.className = "lesson-nav";
 
-  // Thêm link Trang chủ
-  nav.innerHTML += `<a href="/main/projects/english-courses/index.html" class="btn">🏠 Trang chủ</a>`;
-
-  // Link Bài trước
+  
+  // Link trước
   if (idx > 0) {
-    nav.innerHTML += `<a href="/main/projects/english-courses/ielts/${lessons[idx - 1]}" class="btn">⬅️ Bài trước</a>`;
+    const prev = lessons[idx - 1];
+    nav.innerHTML += `<a href="/main/projects/english-courses/ielts/${prev.path}" class="btn">← ${prev.label}</a>`;
   }
 
-  // Link Bài tiếp theo
+  // Link sau
   if (idx >= 0 && idx < lessons.length - 1) {
-    nav.innerHTML += `<a href="/main/projects/english-courses/ielts/${lessons[idx + 1]}" class="btn">➡️ Bài tiếp theo</a>`;
+    const next = lessons[idx + 1];
+    nav.innerHTML += `<a href="/main/projects/english-courses/ielts/${next.path}" class="btn">${next.label} →</a>`;
   }
 
-  // Gắn nav vào cuối <main>
   const main = document.querySelector("main");
   if (main) {
     main.appendChild(nav);

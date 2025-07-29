@@ -3,86 +3,49 @@
 
 <head>
   <meta charset="UTF-8" />
-  <title>Unity Project | My Library</title>
+  <title>My Library - Cocos Creator Projects</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/assets/css/base.css" />
   <link rel="stylesheet" href="/assets/css/theme.css" />
+  <!-- CSS riêng Projects -->
+    <link rel="stylesheet" href="/main/projects/assets/css/projects-nav.css" />
   <link rel="stylesheet" href="assets/css/unity-project.css" />
-  <link rel="stylesheet" href="/main/projects/assets/css/projects-nav.css" />
 </head>
 
 <body>
   <div id="header"></div>
+
   <main class="site-main container">
-    <section class="unity-table">
-      <h2>📑 Danh sách dự án Unity</h2>
-      <div class="table-wrapper">
-        <table>
-          <thead>
-            <tr>
-              <th>#</th>
-              <th>Tên Dự Án</th>
-              <th>Phiên Bản</th>
-              <th>Nền Tảng</th>
-              <th>Link Web</th>
-              <th>Path Thư Mục</th>
-              <th>Git Repo</th>
-              <th>CDN</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>1</td>
-              <td>3D Runner Demo</td>
-              <td>2022.3 LTS</td>
-              <td>iOS / Android</td>
-              <td><a href="https://demo.mylibrary.com/runner" target="_blank">Xem Web</a></td>
-              <td>/projects/unity/3d-runner</td>
-              <td><a href="https://gitlab.com/myrepo/3d-runner" target="_blank">Repo</a></td>
-              <td><a href="https://cdn.mylibrary.com/3d-runner" target="_blank">CDN</a></td>
-            </tr>
-            <tr>
-              <td>2</td>
-              <td>AR Museum Guide</td>
-              <td>2021.3 LTS</td>
-              <td>iOS / Android</td>
-              <td><a href="https://demo.mylibrary.com/ar-museum" target="_blank">Xem Web</a></td>
-              <td>/projects/unity/ar-museum</td>
-              <td><a href="https://gitlab.com/myrepo/ar-museum" target="_blank">Repo</a></td>
-              <td><a href="https://cdn.mylibrary.com/ar-museum" target="_blank">CDN</a></td>
-            </tr>
-            <tr>
-              <td>3</td>
-              <td>VR Training Sim</td>
-              <td>2020.3 LTS</td>
-              <td>PC / VR</td>
-              <td><a href="https://demo.mylibrary.com/vr-training" target="_blank">Xem Web</a></td>
-              <td>/projects/unity/vr-training</td>
-              <td><a href="https://gitlab.com/myrepo/vr-training" target="_blank">Repo</a></td>
-              <td><a href="https://cdn.mylibrary.com/vr-training" target="_blank">CDN</a></td>
-            </tr>
-            <tr>
-              <td>4</td>
-              <td>Slot Game 3D</td>
-              <td>2021.3 LTS</td>
-              <td>H5</td>
-              <td><a href="https://demo.mylibrary.com/slot-3d" target="_blank">Xem Web</a></td>
-              <td>/projects/unity/slot-3d</td>
-              <td><a href="https://gitlab.com/myrepo/slot-3d" target="_blank">Repo</a></td>
-              <td><a href="https://cdn.mylibrary.com/slot-3d" target="_blank">CDN</a></td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
+    <section class="hero dashboard-hero">
+      <h1>🚀 Projects Hub</h1>
+      <p>Kho lưu trữ các dự án quan trọng: công việc, học tập, nghiên cứu.</p>
     </section>
+    <div class="project-list">
+
+      <section class="project-item">
+        <h3>🧩 Cocos Creator Build Extensions</h3>
+        <p>Thư viện mở rộng hỗ trợ quá trình build game trên nhiều nền tảng. Bao gồm custom template, hook xử lý
+          trước/sau build, và tự động hóa cấu hình native.</p>
+        <a href="\main\projects\cocos\build-extension\index.html" class="btn">Xem chi tiết</a>
+      </section>
+
+      <section class="project-item">
+        <h3>🎯 Bubble Shooter Game</h3>
+        <p>Một trò chơi casual đơn giản sử dụng Cocos Creator. Tập trung vào cơ chế bắn bóng, xử lý va chạm và animation
+          hiệu ứng hấp dẫn.</p>
+        <a href="/main/projects/cocos/bubble-shooter/index.html" class="btn">Xem dự án</a>
+      </section>
+
+
+    </div>
   </main>
 
   <div id="footer"></div>
-
   <script src="/assets/js/main.js"></script>
   <script src="assets/js/unity-project.js"></script>
-  <script src="/main/projects/assets/js/projects-nav.js"></script>
+  
+    <script src="/main/projects/assets/js/projects-nav.js"></script>
 </body>
 
 </html>
