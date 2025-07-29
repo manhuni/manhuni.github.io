@@ -10,6 +10,11 @@ const slideshow2_images = [
 ];
 
 window.addEventListener("DOMContentLoaded", () => {
-  createSlideshow("#slideshow1", slideshow1_images );
-  createSlideshow("#slideshow2", slideshow2_images );
+  initPhotoViewer();
+  createSlideshow("#slideshow1", slideshow1_images , {
+      onImageClick: (src) => openPhotoViewer(src)
+    });
+  createSlideshow("#slideshow2", slideshow2_images , {
+      onImageClick: (src) => openPhotoViewer(src)
+    });
 });

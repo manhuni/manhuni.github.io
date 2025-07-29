@@ -22,7 +22,7 @@
   object-fit: cover;
   flex-shrink: 0;
   user-select: none;
-  pointer-events: none;
+  pointer-events: auto;
   background-color: #222;
   border-radius: 12px; /* ✅ khớp với container */
 }
@@ -48,4 +48,4 @@
 .slideshow .indicator-dot.active {
   background-color: white;
   transform: scale(1.2);
-}
+} 

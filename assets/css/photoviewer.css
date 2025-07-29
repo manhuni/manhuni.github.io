@@ -1,0 +1,50 @@
+/* main/projects/shared/css/photoviewer.css */
+.photo-viewer {
+  position: fixed; top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  background: rgba(0, 0, 0, 0.95);
+  display: flex; align-items: center; justify-content: center;
+  z-index: 9999;
+}
+.photo-viewer.hidden { display: none; }
+
+.viewer-content {
+  position: relative;
+  max-width: 90vw;
+  max-height: 90vh;
+  overflow: hidden;
+  display: flex; align-items: center; justify-content: center;
+}
+
+.viewer-content img {
+  max-width: 100%;
+  max-height: 100%;
+  cursor: grab;
+  transition: transform 0.2s ease;
+}
+
+.button-group {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.2rem;
+  z-index: 1;
+}
+
+.button-group button {
+  font-size: 1.5rem;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 4px;
+  padding: 0.3rem 0.6rem;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.button-group button:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
