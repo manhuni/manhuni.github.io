@@ -18,7 +18,7 @@ audioData.forEach((v) => {
     words.push(v2.name);
   })
 })
-console.log(JSON.stringify(words));
+console.log(`total: ${words.length} - content: ${JSON.stringify(words)}`);
 document.addEventListener("DOMContentLoaded", () => {
   const tbody = document.querySelector(".vocab-table tbody");
 
@@ -63,32 +63,72 @@ document.addEventListener("DOMContentLoaded", () => {
         listContainer.innerHTML = "<li>Chưa có audio</li>";
       } else {
         list.forEach(item => {
-          const li = document.createElement("li");
+  const li = document.createElement("li");
+  li.style.display = "flex";
+  li.style.justifyContent = "space-between";
+  li.style.alignItems = "flex-start";
+  li.style.padding = "12px";
+  li.style.marginBottom = "12px";
+  li.style.border = "1px solid #ddd";
+  li.style.borderRadius = "8px";
+  li.style.background = "#fafafa";
 
-          const word = document.createElement("strong");
-          word.innerText = item.name;
+  // Container bên trái cho thông tin
+  const infoContainer = document.createElement("div");
+  infoContainer.style.display = "flex";
+  infoContainer.style.flexDirection = "column";
+  infoContainer.style.gap = "4px";
 
-          const ipaSpan = document.createElement("span");
-          ipaSpan.style.marginLeft = "8px";
-          ipaSpan.innerText = `IPA: ${item.ipa}`;
+  // Từ
+  const word = document.createElement("strong");
+  word.innerText = `Word: ${item.name}`;
 
-          const wordIpa = document.createElement("span");
-          wordIpa.style.marginLeft = "8px";
-          wordIpa.innerText = `Word IPA: ${item.wordIpa}`;
+  // IPA
+  const ipaSpan = document.createElement("span");
+  ipaSpan.innerText = `IPA: ${item.ipa}`;
 
-          const btn = document.createElement("button");
-          btn.innerText = "▶ Play";
-          btn.style.marginLeft = "auto";
-          btn.addEventListener("click", () => {
-            new Audio(item.file).play();
-          });
+  // Word IPA
+  const wordIpa = document.createElement("span");
+  wordIpa.innerText = `Word IPA: ${item.wordIpa}`;
 
-          li.appendChild(word);
-          li.appendChild(ipaSpan);
-          li.appendChild(wordIpa);
-          li.appendChild(btn);
-          listContainer.appendChild(li);
-        });
+  // Meaning
+  const meaningSpan = document.createElement("span");
+  meaningSpan.innerText = `Meaning: ${item.meaning}`;
+
+  // Example
+  const exampleSpan = document.createElement("span");
+  exampleSpan.innerText = `Example: ${item.example}`;
+
+  // Context
+  const contextSpan = document.createElement("span");
+  contextSpan.innerText = `Type: ${item.context}`;
+
+  // Thêm các span vào container
+  infoContainer.appendChild(word);
+  infoContainer.appendChild(ipaSpan);
+  infoContainer.appendChild(wordIpa);
+  infoContainer.appendChild(meaningSpan);
+  infoContainer.appendChild(exampleSpan);
+  infoContainer.appendChild(contextSpan);
+
+  // Nút play
+  const btn = document.createElement("button");
+  btn.innerText = "▶ Play";
+  btn.style.padding = "8px 12px";
+  btn.style.marginLeft = "16px";
+  btn.style.flexShrink = "0";
+  btn.style.cursor = "pointer";
+  btn.addEventListener("click", () => {
+    new Audio(item.file).play();
+  });
+
+  // Thêm vào li
+  li.appendChild(infoContainer);
+  li.appendChild(btn);
+
+  listContainer.appendChild(li);
+});
+
       }
 
       document.getElementById("ipa-popup").classList.remove("hidden");
