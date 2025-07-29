@@ -8,7 +8,7 @@ const audioData = [
     meaning: "thông tin",
     example: "The report contains useful information.",
     context: "Noun"
-  }], 
+  }],
 ];
 
 
@@ -22,7 +22,7 @@ console.log(`total: ${words.length} - content: ${JSON.stringify(words)}`);
 document.addEventListener("DOMContentLoaded", () => {
   const tbody = document.querySelector(".vocab-table tbody");
 
- for (let key in audioData) {
+  for (let key in audioData) {
     if (!audioData.hasOwnProperty(key)) continue;
 
     const wordList = audioData[key];
@@ -63,71 +63,71 @@ document.addEventListener("DOMContentLoaded", () => {
         listContainer.innerHTML = "<li>Chưa có audio</li>";
       } else {
         list.forEach(item => {
-  const li = document.createElement("li");
-  li.style.display = "flex";
-  li.style.justifyContent = "space-between";
-  li.style.alignItems = "flex-start";
-  li.style.padding = "12px";
-  li.style.marginBottom = "12px";
-  li.style.border = "1px solid #ddd";
-  li.style.borderRadius = "8px";
-  li.style.background = "#fafafa";
+          const li = document.createElement("li");
+          li.style.display = "flex";
+          li.style.justifyContent = "space-between";
+          li.style.alignItems = "flex-start";
+          li.style.padding = "12px";
+          li.style.marginBottom = "12px";
+          li.style.border = "1px solid #ddd";
+          li.style.borderRadius = "8px";
+          li.style.background = "#fafafa";
 
-  // Container bên trái cho thông tin
-  const infoContainer = document.createElement("div");
-  infoContainer.style.display = "flex";
-  infoContainer.style.flexDirection = "column";
-  infoContainer.style.gap = "4px";
+          // Container bên trái cho thông tin
+          const infoContainer = document.createElement("div");
+          infoContainer.style.display = "flex";
+          infoContainer.style.flexDirection = "column";
+          infoContainer.style.gap = "4px";
 
-  // Từ
-  const word = document.createElement("strong");
-  word.innerText = `Word: ${item.name}`;
+          // Từ
+          const word = document.createElement("strong");
+          word.innerText = `Word: ${item.name}`;
 
-  // IPA
-  const ipaSpan = document.createElement("span");
-  ipaSpan.innerText = `IPA: ${item.ipa}`;
+          // IPA
+          const ipaSpan = document.createElement("span");
+          ipaSpan.innerText = `IPA: ${item.ipa}`;
 
-  // Word IPA
-  const wordIpa = document.createElement("span");
-  wordIpa.innerText = `Word IPA: ${item.wordIpa}`;
+          // Word IPA
+          const wordIpa = document.createElement("span");
+          wordIpa.innerText = `Word IPA: ${item.wordIpa}`;
 
-  // Meaning
-  const meaningSpan = document.createElement("span");
-  meaningSpan.innerText = `Meaning: ${item.meaning}`;
+          // Meaning
+          const meaningSpan = document.createElement("span");
+          meaningSpan.innerText = `Meaning: ${item.meaning}`;
 
-  // Example
-  const exampleSpan = document.createElement("span");
-  exampleSpan.innerText = `Example: ${item.example}`;
+          // Example
+          const exampleSpan = document.createElement("span");
+          exampleSpan.innerText = `Example: ${item.example}`;
 
-  // Context
-  const contextSpan = document.createElement("span");
-  contextSpan.innerText = `Type: ${item.context}`;
+          // Context
+          const contextSpan = document.createElement("span");
+          contextSpan.innerText = `Type: ${item.context}`;
 
-  // Thêm các span vào container
-  infoContainer.appendChild(word);
-  infoContainer.appendChild(ipaSpan);
-  infoContainer.appendChild(wordIpa);
-  infoContainer.appendChild(meaningSpan);
-  infoContainer.appendChild(exampleSpan);
-  infoContainer.appendChild(contextSpan);
+          // Thêm các span vào container
+          infoContainer.appendChild(word);
+          infoContainer.appendChild(ipaSpan);
+          infoContainer.appendChild(wordIpa);
+          infoContainer.appendChild(meaningSpan);
+          infoContainer.appendChild(exampleSpan);
+          infoContainer.appendChild(contextSpan);
 
-  // Nút play
-  const btn = document.createElement("button");
-  btn.innerText = "▶ Play";
-  btn.style.padding = "8px 12px";
-  btn.style.marginLeft = "16px";
-  btn.style.flexShrink = "0";
-  btn.style.cursor = "pointer";
-  btn.addEventListener("click", () => {
-    new Audio(item.file).play();
-  });
+          // Nút play
+          const btn = document.createElement("button");
+          btn.innerText = "▶ Play";
+          btn.style.padding = "8px 12px";
+          btn.style.marginLeft = "16px";
+          btn.style.flexShrink = "0";
+          btn.style.cursor = "pointer";
+          btn.addEventListener("click", () => {
+            new Audio(item.file).play();
+          });
 
-  // Thêm vào li
-  li.appendChild(infoContainer);
-  li.appendChild(btn);
+          // Thêm vào li
+          li.appendChild(infoContainer);
+          li.appendChild(btn);
 
-  listContainer.appendChild(li);
-});
+          listContainer.appendChild(li);
+        });
 
       }
 

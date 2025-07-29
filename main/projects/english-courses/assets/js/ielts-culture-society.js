@@ -720,109 +720,314 @@ const audioData = [
     }
   ]
   ,
-[
-  {
-    name: "media",
-    ipa: "/ˈmiːdiə/",
-    wordIpa: "/ˈmiːdiə/",
-    file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/media.mp3",
-    type: "Noun",
-    meaning: "truyền thông",
-    example: "The media influences society.",
-    context: "Noun"
-  },
-  {
-    name: "journalism",
-    ipa: "/ˈdʒɜːnəlɪzəm/",
-    wordIpa: "/ˈdʒɜːnəlɪzəm/",
-    file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/journalism.mp3",
-    type: "Noun",
-    meaning: "nghề báo",
-    example: "He studied journalism at university.",
-    context: "Noun"
-  },
-  {
-    name: "propaganda",
-    ipa: "/ˌprɒpəˈɡændə/",
-    wordIpa: "/ˌprɒpəˈɡændə/",
-    file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/propaganda.mp3",
-    type: "Noun",
-    meaning: "tuyên truyền",
-    example: "The government spread propaganda.",
-    context: "Noun"
-  },
-  {
-    name: "censorship",
-    ipa: "/ˈsensəʃɪp/",
-    wordIpa: "/ˈsensəʃɪp/",
-    file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/censorship.mp3",
-    type: "Noun",
-    meaning: "kiểm duyệt",
-    example: "Censorship limits freedom of speech.",
-    context: "Noun"
-  },
-  {
-    name: "broadcast",
-    ipa: "/ˈbrɔːdkɑːst/",
-    wordIpa: "/ˈbrɔːdkɑːst/",
-    file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/broadcast.mp3",
-    type: "Noun",
-    meaning: "phát sóng",
-    example: "The news broadcast starts at 7 pm.",
-    context: "Noun"
-  },
-  {
-    name: "publication",
-    ipa: "/ˌpʌblɪˈkeɪʃən/",
-    wordIpa: "/ˌpʌblɪˈkeɪʃən/",
-    file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/publication.mp3",
-    type: "Noun",
-    meaning: "ấn phẩm",
-    example: "This is a monthly publication.",
-    context: "Noun"
-  },
-  {
-    name: "press",
-    ipa: "/pres/",
-    wordIpa: "/pres/",
-    file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/press.mp3",
-    type: "Noun",
-    meaning: "báo chí",
-    example: "The press reported the incident.",
-    context: "Noun"
-  },
-  {
-    name: "headline",
-    ipa: "/ˈhedlaɪn/",
-    wordIpa: "/ˈhedlaɪn/",
-    file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/headline.mp3",
-    type: "Noun",
-    meaning: "tiêu đề",
-    example: "It was the main headline today.",
-    context: "Noun"
-  },
-  {
-    name: "tabloid",
-    ipa: "/ˈtæblɔɪd/",
-    wordIpa: "/ˈtæblɔɪd/",
-    file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/tabloid.mp3",
-    type: "Noun",
-    meaning: "báo lá cải",
-    example: "Tabloids focus on gossip.",
-    context: "Noun"
-  },
-  {
-    name: "journal",
-    ipa: "/ˈdʒɜːnəl/",
-    wordIpa: "/ˈdʒɜːnəl/",
-    file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/journal.mp3",
-    type: "Noun",
-    meaning: "tạp chí",
-    example: "He published an article in a scientific journal.",
-    context: "Noun"
-  }
-]
-,
+  [
+    {
+      name: "media",
+      ipa: "/ˈmiːdiə/",
+      wordIpa: "/ˈmiːdiə/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/media.mp3",
+      type: "Noun",
+      meaning: "truyền thông",
+      example: "The media influences society.",
+      context: "Noun"
+    },
+    {
+      name: "journalism",
+      ipa: "/ˈdʒɜːnəlɪzəm/",
+      wordIpa: "/ˈdʒɜːnəlɪzəm/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/journalism.mp3",
+      type: "Noun",
+      meaning: "nghề báo",
+      example: "He studied journalism at university.",
+      context: "Noun"
+    },
+    {
+      name: "propaganda",
+      ipa: "/ˌprɒpəˈɡændə/",
+      wordIpa: "/ˌprɒpəˈɡændə/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/propaganda.mp3",
+      type: "Noun",
+      meaning: "tuyên truyền",
+      example: "The government spread propaganda.",
+      context: "Noun"
+    },
+    {
+      name: "censorship",
+      ipa: "/ˈsensəʃɪp/",
+      wordIpa: "/ˈsensəʃɪp/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/censorship.mp3",
+      type: "Noun",
+      meaning: "kiểm duyệt",
+      example: "Censorship limits freedom of speech.",
+      context: "Noun"
+    },
+    {
+      name: "broadcast",
+      ipa: "/ˈbrɔːdkɑːst/",
+      wordIpa: "/ˈbrɔːdkɑːst/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/broadcast.mp3",
+      type: "Noun",
+      meaning: "phát sóng",
+      example: "The news broadcast starts at 7 pm.",
+      context: "Noun"
+    },
+    {
+      name: "publication",
+      ipa: "/ˌpʌblɪˈkeɪʃən/",
+      wordIpa: "/ˌpʌblɪˈkeɪʃən/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/publication.mp3",
+      type: "Noun",
+      meaning: "ấn phẩm",
+      example: "This is a monthly publication.",
+      context: "Noun"
+    },
+    {
+      name: "press",
+      ipa: "/pres/",
+      wordIpa: "/pres/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/press.mp3",
+      type: "Noun",
+      meaning: "báo chí",
+      example: "The press reported the incident.",
+      context: "Noun"
+    },
+    {
+      name: "headline",
+      ipa: "/ˈhedlaɪn/",
+      wordIpa: "/ˈhedlaɪn/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/headline.mp3",
+      type: "Noun",
+      meaning: "tiêu đề",
+      example: "It was the main headline today.",
+      context: "Noun"
+    },
+    {
+      name: "tabloid",
+      ipa: "/ˈtæblɔɪd/",
+      wordIpa: "/ˈtæblɔɪd/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/tabloid.mp3",
+      type: "Noun",
+      meaning: "báo lá cải",
+      example: "Tabloids focus on gossip.",
+      context: "Noun"
+    },
+    {
+      name: "journal",
+      ipa: "/ˈdʒɜːnəl/",
+      wordIpa: "/ˈdʒɜːnəl/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/journal.mp3",
+      type: "Noun",
+      meaning: "tạp chí",
+      example: "He published an article in a scientific journal.",
+      context: "Noun"
+    }
+  ]
+  ,
+  [
+    {
+      name: "heritage",
+      ipa: "/ˈherɪtɪdʒ/",
+      wordIpa: "/ˈherɪtɪdʒ/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/heritage.mp3",
+      type: "Noun",
+      meaning: "di sản",
+      example: "The city has a rich cultural heritage.",
+      context: "Noun"
+    },
+    {
+      name: "tradition",
+      ipa: "/trəˈdɪʃən/",
+      wordIpa: "/trəˈdɪʃən/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/tradition.mp3",
+      type: "Noun",
+      meaning: "truyền thống",
+      example: "They follow an old tradition.",
+      context: "Noun"
+    },
+    {
+      name: "custom",
+      ipa: "/ˈkʌstəm/",
+      wordIpa: "/ˈkʌstəm/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/custom.mp3",
+      type: "Noun",
+      meaning: "phong tục",
+      example: "It is a local custom to greet with a bow.",
+      context: "Noun"
+    },
+    {
+      name: "ritual",
+      ipa: "/ˈrɪtʃuəl/",
+      wordIpa: "/ˈrɪtʃuəl/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/ritual.mp3",
+      type: "Noun",
+      meaning: "nghi lễ",
+      example: "The wedding ritual lasted three days.",
+      context: "Noun"
+    },
+    {
+      name: "ceremony",
+      ipa: "/ˈserəməni/",
+      wordIpa: "/ˈserəməni/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/ceremony.mp3",
+      type: "Noun",
+      meaning: "buổi lễ",
+      example: "The award ceremony was held yesterday.",
+      context: "Noun"
+    },
+    {
+      name: "festival",
+      ipa: "/ˈfestɪvəl/",
+      wordIpa: "/ˈfestɪvəl/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/festival.mp3",
+      type: "Noun",
+      meaning: "lễ hội",
+      example: "They celebrate the harvest festival every year.",
+      context: "Noun"
+    },
+    {
+      name: "folklore",
+      ipa: "/ˈfəʊklɔː/",
+      wordIpa: "/ˈfəʊklɔː/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/folklore.mp3",
+      type: "Noun",
+      meaning: "văn hóa dân gian",
+      example: "Folklore is passed down through generations.",
+      context: "Noun"
+    },
+    {
+      name: "legend",
+      ipa: "/ˈledʒənd/",
+      wordIpa: "/ˈledʒənd/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/legend.mp3",
+      type: "Noun",
+      meaning: "huyền thoại",
+      example: "King Arthur is a famous legend.",
+      context: "Noun"
+    },
+    {
+      name: "myth",
+      ipa: "/mɪθ/",
+      wordIpa: "/mɪθ/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/myth.mp3",
+      type: "Noun",
+      meaning: "thần thoại",
+      example: "Greek myths are fascinating.",
+      context: "Noun"
+    },
+    {
+      name: "superstition",
+      ipa: "/ˌsuːpəˈstɪʃən/",
+      wordIpa: "/ˌsuːpəˈstɪʃən/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/superstition.mp3",
+      type: "Noun",
+      meaning: "mê tín",
+      example: "Some people believe in old superstitions.",
+      context: "Noun"
+    }
+  ]
+  ,
+  [
+    {
+      name: "art",
+      ipa: "/ɑːt/",
+      wordIpa: "/ɑːt/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/art.mp3",
+      type: "Noun",
+      meaning: "nghệ thuật",
+      example: "Modern art can be abstract.",
+      context: "Noun"
+    },
+    {
+      name: "craft",
+      ipa: "/krɑːft/",
+      wordIpa: "/krɑːft/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/craft.mp3",
+      type: "Noun",
+      meaning: "thủ công",
+      example: "They sell handmade crafts.",
+      context: "Noun"
+    },
+    {
+      name: "sculpture",
+      ipa: "/ˈskʌlptʃə/",
+      wordIpa: "/ˈskʌlptʃə/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/sculpture.mp3",
+      type: "Noun",
+      meaning: "điêu khắc",
+      example: "The museum has many sculptures.",
+      context: "Noun"
+    },
+    {
+      name: "painting",
+      ipa: "/ˈpeɪntɪŋ/",
+      wordIpa: "/ˈpeɪntɪŋ/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/painting.mp3",
+      type: "Noun",
+      meaning: "tranh vẽ",
+      example: "She sold her first painting.",
+      context: "Noun"
+    },
+    {
+      name: "literature",
+      ipa: "/ˈlɪtərətʃə/",
+      wordIpa: "/ˈlɪtərətʃə/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/literature.mp3",
+      type: "Noun",
+      meaning: "văn học",
+      example: "He loves English literature.",
+      context: "Noun"
+    },
+    {
+      name: "architecture",
+      ipa: "/ˈɑːkɪtektʃə/",
+      wordIpa: "/ˈɑːkɪtektʃə/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/architecture.mp3",
+      type: "Noun",
+      meaning: "kiến trúc",
+      example: "The architecture is unique.",
+      context: "Noun"
+    },
+    {
+      name: "performance",
+      ipa: "/pəˈfɔːməns/",
+      wordIpa: "/pəˈfɔːməns/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/performance.mp3",
+      type: "Noun",
+      meaning: "buổi biểu diễn",
+      example: "The performance was amazing.",
+      context: "Noun"
+    },
+    {
+      name: "exhibition",
+      ipa: "/ˌeksɪˈbɪʃən/",
+      wordIpa: "/ˌeksɪˈbɪʃən/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/exhibition.mp3",
+      type: "Noun",
+      meaning: "triển lãm",
+      example: "They visited the art exhibition.",
+      context: "Noun"
+    },
+    {
+      name: "gallery",
+      ipa: "/ˈɡæləri/",
+      wordIpa: "/ˈɡæləri/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/gallery.mp3",
+      type: "Noun",
+      meaning: "phòng trưng bày",
+      example: "The gallery is open to the public.",
+      context: "Noun"
+    },
+    {
+      name: "mural",
+      ipa: "/ˈmjʊərəl/",
+      wordIpa: "/ˈmjʊərəl/",
+      file: "/main/projects/english-courses/assets/data/ielts/culture-society/audio/mural.mp3",
+      type: "Noun",
+      meaning: "bức tranh tường",
+      example: "They painted a mural on the wall.",
+      context: "Noun"
+    }
+  ]
 
 ];
 
