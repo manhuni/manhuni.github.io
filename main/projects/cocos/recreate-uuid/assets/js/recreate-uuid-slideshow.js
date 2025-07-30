@@ -1,9 +1,9 @@
 const slideshow1_images = [
-  "/main/projects/cocos/recreate-uuid/assets/images/demo/structure.jpg",
-  "/main/projects/cocos/recreate-uuid/assets/images/demo/panel.jpg",
+  "/main/projects/cocos/recreate-uuid/assets/images/demo/structure-folder.jpg",
+  "/main/projects/cocos/recreate-uuid/assets/images/demo/panel-location.jpg",
 ];
 const slideshow2_images = [
-  "/main/projects/cocos/recreate-uuid/assets/images/demo/structure.jpg",
+  "/main/projects/cocos/recreate-uuid/assets/images/demo/structure-folder.jpg",
 ];
 
 window.addEventListener("DOMContentLoaded", () => {
