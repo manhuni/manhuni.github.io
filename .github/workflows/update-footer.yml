@@ -16,6 +16,7 @@ jobs:
       - name: Update footer.html
         run: |
           COMMIT_HASH=$(git rev-parse --short HEAD)
+          export TZ="Asia/Ho_Chi_Minh"
           DATE=$(date '+%Y-%m-%d %H:%M:%S')
           sed -i "s|<p>.*</p>|<p>© Github. Last updated: $DATE — Commit: $COMMIT_HASH</p>|" components/footer.html
 
