@@ -9,27 +9,16 @@ window.createSlideshow = function (selector, images = [], options = {}) {
     container.appendChild(slidesDiv);
   }
 
-  let wasDragged = false;
-
   images.forEach(src => {
     const img = document.createElement('img');
     img.src = src;
     img.draggable = false;
     img.style.pointerEvents = 'auto';
-
-    img.addEventListener('click', (e) => {
-      e.stopPropagation();
-      if (wasDragged) return;
-      if (typeof options.onImageClick === 'function') {
-        options.onImageClick(src);
-      }
-    });
-
     slidesDiv.appendChild(img);
   });
 
   const slides = slidesDiv.querySelectorAll('img');
-  let currentIndex = 0, isDragging = false, startX = 0, currentX = 0;
+  let currentIndex = 0, isDragging = false, startX = 0, currentX = 0, wasDragged = false;
 
   const indicator = document.createElement("div");
   indicator.className = "indicator";
@@ -65,7 +54,6 @@ window.createSlideshow = function (selector, images = [], options = {}) {
 
   function onTouchStart(e) {
     if (e.target.closest('.photo-viewer')) return;
-    e.preventDefault();
     isDragging = true;
     wasDragged = false;
     startX = e.touches ? e.touches[0].clientX : e.clientX;
@@ -80,7 +68,7 @@ window.createSlideshow = function (selector, images = [], options = {}) {
     setPosition((currentX / container.offsetWidth) * 100);
   }
 
-  function onTouchEnd() {
+  function onTouchEnd(e) {
     if (!isDragging) return;
     isDragging = false;
     const movedPercent = (currentX / container.offsetWidth) * 100;
@@ -90,13 +78,26 @@ window.createSlideshow = function (selector, images = [], options = {}) {
     snap();
   }
 
+  slides.forEach(img => {
+    img.addEventListener('click', e => {
+      e.stopPropagation();
+      if (wasDragged) return;
+      if (typeof options.onImageClick === 'function') options.onImageClick(img.src);
+    });
+
+    img.addEventListener('touchend', e => {
+      if (wasDragged) return;
+      if (typeof options.onImageClick === 'function') options.onImageClick(img.src);
+    }, { passive: true });
+  });
+
   container.addEventListener('mousedown', onTouchStart, { passive: false });
   container.addEventListener('mousemove', onTouchMove);
   container.addEventListener('mouseup', onTouchEnd);
   container.addEventListener('mouseleave', onTouchEnd);
 
   container.addEventListener('touchstart', onTouchStart, { passive: false });
-  container.addEventListener('touchmove', onTouchMove);
+  container.addEventListener('touchmove', onTouchMove, { passive: false });
   container.addEventListener('touchend', onTouchEnd);
 
   snap();

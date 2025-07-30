@@ -17,10 +17,10 @@ window.initPhotoViewer = function () {
       </div>
     </div>
   `;
-
   document.body.appendChild(viewer);
 
   const img = viewer.querySelector('img');
+  const infoDiv = viewer.querySelector('.image-info');
   const closeBtn = viewer.querySelector('.close-btn');
   const resetBtn = viewer.querySelector('.reset-btn');
   const centerBtn = viewer.querySelector('.center-btn');
@@ -34,19 +34,14 @@ window.initPhotoViewer = function () {
     img.style.transform = `scale(${scale}) translate(${panX}px, ${panY}px)`;
   }
 
-  const infoDiv = viewer.querySelector('.image-info');
-
   window.openPhotoViewer = function (src) {
     viewer.classList.remove('hidden');
     img.src = src;
     scale = 1; panX = 0; panY = 0;
     applyTransform();
-
-    img.onload = function () {
+    img.onload = () => {
       const fileName = src.split('/').pop();
-      const width = img.naturalWidth;
-      const height = img.naturalHeight;
-      infoDiv.textContent = `${fileName} — ${width}×${height}px`;
+      infoDiv.textContent = `${fileName} — ${img.naturalWidth}×${img.naturalHeight}px`;
     };
   };
 
@@ -55,17 +50,6 @@ window.initPhotoViewer = function () {
     if (e.key === 'Escape') viewer.classList.add('hidden');
   });
 
-  // Zoom buttons (for both desktop & mobile)
-  zoomInBtn.addEventListener('click', () => {
-    scale = Math.min(scale + 0.1, 5);
-    applyTransform();
-  });
-  zoomOutBtn.addEventListener('click', () => {
-    scale = Math.max(scale - 0.1, 1);
-    applyTransform();
-  });
-
-  // Mouse drag
   img.addEventListener('mousedown', e => {
     e.preventDefault();
     isPanning = true;
@@ -84,7 +68,6 @@ window.initPhotoViewer = function () {
 
   window.addEventListener('mouseup', () => isPanning = false);
 
-  // Touch drag
   img.addEventListener('touchstart', e => {
     if (e.touches.length === 1) {
       isPanning = true;
@@ -95,7 +78,7 @@ window.initPhotoViewer = function () {
 
   window.addEventListener('touchmove', e => {
     if (!isPanning || e.touches.length !== 1) return;
-    e.preventDefault(); // Chặn cuộn trang
+    e.preventDefault();
     panX += (e.touches[0].clientX - startX) / scale;
     panY += (e.touches[0].clientY - startY) / scale;
     startX = e.touches[0].clientX;
@@ -104,6 +87,16 @@ window.initPhotoViewer = function () {
   }, { passive: false });
 
   window.addEventListener('touchend', () => isPanning = false);
+
+  zoomInBtn.addEventListener('click', () => {
+    scale = Math.min(scale + 0.1, 5);
+    applyTransform();
+  });
+
+  zoomOutBtn.addEventListener('click', () => {
+    scale = Math.max(scale - 0.1, 1);
+    applyTransform();
+  });
 
   resetBtn.addEventListener('click', () => {
     scale = 1; panX = 0; panY = 0;
