@@ -3,7 +3,7 @@ name: Update Footer
 on:
   push:
     branches:
-      - main  # Đổi thành tên branch bạn dùng
+      - main   
 
 jobs:
   update-footer:
@@ -17,8 +17,7 @@ jobs:
         run: |
           COMMIT_HASH=$(git rev-parse --short HEAD)
           DATE=$(date '+%Y-%m-%d %H:%M:%S')
-          YEAR=$(date '+%Y')
-          sed -i "s|<p>.*</p>|<p>© $YEAR Github. Last updated: $DATE — Commit: $COMMIT_HASH</p>|" components/footer.html
+          sed -i "s|<p>.*</p>|<p>© Github. Last updated: $DATE — Commit: $COMMIT_HASH</p>|" components/footer.html
 
       - name: Commit and push
         run: |
