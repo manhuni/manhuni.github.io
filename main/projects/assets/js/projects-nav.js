@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   const lessons = [
     { path: "common/index.html", label: "Tài nguyên" },
-    { path: "cocos/index.html", label: "Cocos" }, 
+    { path: "cocos/index.html", label: "Cocos" },
   ];
 
   const parts = window.location.pathname.split("/");
@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const idx = lessons.findIndex(l => l.path === current);
   const nav = document.createElement("nav");
   nav.className = "lesson-nav";
-
+  nav.innerHTML += `<a href="/main/projects/project.html" class="btn">Projects Hub</a>`;
   if (idx > 0) {
     const prev = lessons[idx - 1];
     nav.innerHTML += `<a href="/main/projects/${prev.path}" class="btn">← ${prev.label}</a>`;

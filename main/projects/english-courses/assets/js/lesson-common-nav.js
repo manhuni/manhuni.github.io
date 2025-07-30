@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const idx = lessons.findIndex(l => l.path === current);
   const nav = document.createElement("nav");
   nav.className = "lesson-nav";
+  nav.innerHTML += `<a href="/main/projects/english-courses/index.html" class="btn">Khóa học Tiếng Anh</a>`;
 
  
   // Link trước

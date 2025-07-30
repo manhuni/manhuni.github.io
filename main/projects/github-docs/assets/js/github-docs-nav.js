@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const idx = lessons.findIndex(l => l.path === current);
   const nav = document.createElement("nav");
   nav.className = "lesson-nav";
+  nav.innerHTML += `<a href="/main/projects/github-docs/index.html" class="btn">Cocos Creator Projects Hub</a>`;
 
   if (idx > 0) {
     const prev = lessons[idx - 1];

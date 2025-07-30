@@ -19,7 +19,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const nav = document.createElement("nav");
   nav.className = "lesson-nav";
 
-  
+  nav.innerHTML += `<a href="/main/projects/english-courses/index.html" class="btn">Khóa học Tiếng Anh</a>`;
+
   // Link trước
   if (idx > 0) {
     const prev = lessons[idx - 1];
