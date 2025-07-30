@@ -1,8 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   const lessons = [
     { path: "common/index.html", label: "Tài nguyên" },
-    { path: "cocos/index.html", label: "Cocos" },
-    { path: "unity/index.html", label: "Unity" },
+    { path: "cocos/index.html", label: "Cocos" }, 
   ];
 
   const parts = window.location.pathname.split("/");
