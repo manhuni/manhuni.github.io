@@ -3,10 +3,14 @@
   overflow: hidden;
   position: relative;
   margin: 0 auto;
-  background: #111;
-  border-radius: 0; /* ❌ bỏ bo */
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
-  aspect-ratio: 16 / 9;
+
+  background: linear-gradient(145deg, #111, #000);
+  border-radius: 0;
+  box-shadow:
+    0 10px 30px rgba(0, 0, 0, 0.5),
+    0 0 0 2px rgba(255, 255, 255, 0.05);
+  aspect-ratio: 21 / 9;
+  margin-bottom: 2rem; /* Hoặc 32px, 3rem, tuỳ ý */
 }
 
 .slideshow .slides {
@@ -23,24 +27,31 @@
   flex-shrink: 0;
   user-select: none;
   pointer-events: auto;
-  background-color: #222;
-  border-radius: 0; /* ❌ bỏ bo */
+
+  border-radius: 0;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.6);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.slideshow .slides img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
 }
 
 .slideshow .indicator {
   position: absolute;
-  bottom: 16px;
+  bottom: 20px;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
   gap: 10px;
   z-index: 2;
-  padding: 6px 12px;
-  background: rgba(0, 0, 0, 0.4); /* ✅ dải nền đen mờ */
-  border-radius: 20px; /* bo cong đẹp */
-  backdrop-filter: blur(2px); /* kính mờ nếu thích */
+  padding: 8px 16px;
+  background: rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 30px;
+  backdrop-filter: blur(4px);
 }
-
 
 .slideshow .indicator-dot {
   width: 20px;
@@ -52,6 +63,6 @@
 }
 
 .slideshow .indicator-dot.active {
-  background-color: white;
-  transform: scale(1.2);
+  background-color: #fff;
+  transform: scale(1.4);
 }
