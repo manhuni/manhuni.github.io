@@ -1,8 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   const lessons = [
     { path: "recreate-uuid/index.html", label: "🔑 Recreate UUID - Cocos Creator Extensions" },
-    { path: "uuid-dependency-scanner/index.html", label: "🗂️ UUID & Dependency Scanner - Cocos Creator Extension" },
-    { path: "plugins/index.html", label: "Asset Tools & Plugins" },
+    { path: "uuid-dependency-scanner/index.html", label: "🗂️ UUID & Dependency Scanner - Cocos Creator Extension" }, 
   ];
 
   const parts = window.location.pathname.split("/");
