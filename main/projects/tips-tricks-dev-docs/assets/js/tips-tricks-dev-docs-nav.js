@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   const lessons = [
-    { path: "github-actions/index.html", label: "⚙️ GitHub Actions - Auto Update Footer" }, 
+    { path: "property-attributes-cocos/index.html", label: "🎮 Decorators trong Cocos Creator v3" }, 
+    { path: "git-submodule/index.html", label: "🔗 Git Submodule - Quản lý code phụ thuộc" }, 
   ];
 
   const parts = window.location.pathname.split("/");
@@ -13,12 +14,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
   if (idx > 0) {
     const prev = lessons[idx - 1];
-    nav.innerHTML += `<a href="/main/projects/cocos/${prev.path}" class="btn">← ${prev.label}</a>`;
+    nav.innerHTML += `<a href="/main/projects/tips-tricks-dev-docs/${prev.path}" class="btn">← ${prev.label}</a>`;
   }
 
   if (idx >= 0 && idx < lessons.length - 1) {
     const next = lessons[idx + 1];
-    nav.innerHTML += `<a href="/main/projects/github-docs/${next.path}" class="btn">${next.label} →</a>`;
+    nav.innerHTML += `<a href="/main/projects/tips-tricks-dev-docs/${next.path}" class="btn">${next.label} →</a>`;
   }
 
   const main = document.querySelector("main");

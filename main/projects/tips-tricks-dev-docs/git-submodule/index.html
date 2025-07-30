@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Git Submodule - Tích hợp thư viện trong Cocos Creator</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/css/base.css" />
+  <link rel="stylesheet" href="/assets/css/theme.css" />
+  <link rel="stylesheet" href="/assets/css/slideshow.css" />
+  <link rel="stylesheet" href="/assets/css/photoviewer.css" />
+  <link rel="stylesheet" href="assets/css/git-submodule.css" />
+  <link rel="stylesheet" href="/main/projects/tips-tricks-dev-docs/assets/css/tips-tricks-dev-docs-nav.css" />
+</head>
+
+<body>
+  <div id="header"></div>
+
+  <main class="site-main container">
+    <section class="project-hero">
+      <h1>🔗 Git Submodule - Tích hợp thư viện trong Cocos Creator</h1>
+      <p>Sử dụng <code>git submodule</code> để đưa mã nguồn từ repo khác vào project chính. Phù hợp khi dùng các module chia sẻ trong team hoặc tích hợp SDK, plugin vào Cocos Creator.</p>
+    </section>
+
+    <section class="project-section">
+      <h2>📌 Mục tiêu</h2>
+      <ul class="feature-list">
+        <li>✔️ Thêm submodule vào project hiện tại</li>
+        <li>✔️ Làm việc, commit, cập nhật submodule</li>
+        <li>✔️ Clone đúng cấu trúc và cập nhật đồng bộ</li>
+      </ul>
+    </section>
+
+    <section class="project-section">
+      <h2>➕ Thêm submodule vào dự án</h2>
+      <pre><code>git submodule add https://github.com/your-team/cocos-shared.git libs/cocos-shared</code></pre>
+      <ul>
+        <li>📁 <code>libs/</code> là thư mục chứa thư viện con</li>
+        <li>🧾 Tự động sinh file <code>.gitmodules</code></li>
+        <li>💾 Submodule được lưu với commit cố định</li>
+      </ul>
+    </section>
+
+    <section class="project-section">
+      <h2>🏗️ Cấu trúc thư mục gợi ý</h2>
+      <pre><code>my-project/
+ ├── assets/
+ ├── libs/
+ │   └── cocos-shared/   ← submodule ở đây
+ ├── .gitmodules
+ └── ...</code></pre>
+    </section>
+
+    <section class="project-section">
+      <h2>🛠️ Làm việc với submodule</h2>
+      <ul class="feature-list">
+        <li>✔️ Chỉnh sửa trong <code>libs/cocos-shared/</code> như repo bình thường</li>
+        <li>✔️ Khi thay đổi, phải vào đó và <code>git commit</code> riêng</li>
+        <li>✔️ Tại repo chính, sau khi thay đổi submodule thì phải commit pointer:</li>
+      </ul>
+      <pre><code>cd libs/cocos-shared
+# chỉnh sửa và commit
+git add . && git commit -m "Update logic"
+
+cd ../..
+git add libs/cocos-shared
+git commit -m "Update submodule pointer"</code></pre>
+    </section>
+
+    <section class="project-section">
+      <h2>⬇️ Clone đầy đủ với submodule</h2>
+      <p>Khi clone project lần đầu, cần thêm:</p>
+      <pre><code>git clone --recurse-submodules https://github.com/your-team/main-project.git</code></pre>
+      <p>Hoặc nếu đã clone rồi:</p>
+      <pre><code>git submodule update --init --recursive</code></pre>
+    </section>
+
+    <section class="project-section">
+      <h2>🔄 Cập nhật submodule từ remote</h2>
+      <pre><code>cd libs/cocos-shared
+git pull origin main</code></pre>
+      <p>Đừng quên commit lại pointer từ repo chính sau khi cập nhật.</p>
+    </section>
+
+    <section class="project-section">
+      <h2>🧼 Gỡ submodule (nếu cần)</h2>
+      <pre><code>git submodule deinit libs/cocos-shared
+git rm libs/cocos-shared
+rm -rf .git/modules/libs/cocos-shared</code></pre>
+      <p>Gỡ bỏ xong thì <code>git commit</code> lại repo chính.</p>
+    </section>
+
+    <section class="project-section">
+      <h2>📚 Tài liệu tham khảo</h2>
+      <ul>
+        <li><a href="https://git-scm.com/book/en/v2/Git-Tools-Submodules" target="_blank">Git Tools - Submodules</a></li>
+        <li><a href="https://docs.cocos.com/creator/" target="_blank">Cocos Creator Docs</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/photoViewer.js"></script>
+  <script src="/assets/js/slideshow.js"></script>
+  <script src="/main/projects/tips-tricks-dev-docs/assets/js/tips-tricks-dev-docs-nav.js"></script>
+</body>
+
+</html>

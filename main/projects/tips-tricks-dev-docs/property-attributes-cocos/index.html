@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Cocos Creator v3 - Decorator Attributes</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/css/base.css" />
+  <link rel="stylesheet" href="/assets/css/theme.css" />
+  <link rel="stylesheet" href="/assets/css/slideshow.css" />
+  <link rel="stylesheet" href="/assets/css/photoviewer.css" />
+  <link rel="stylesheet" href="assets/css/property-attributes-cocos.css" />
+  <link rel="stylesheet" href="/main/projects/tips-tricks-dev-docs/assets/css/tips-tricks-dev-docs-nav.css" />
+</head>
+
+<body>
+  <div id="header"></div>
+
+  <main class="site-main container">
+    <section class="project-hero">
+      <h1>🎮 Decorators trong Cocos Creator v3</h1>
+      <p>Tổng hợp các <code>decorator</code> phổ biến trong Cocos Creator như <code>@property</code>,
+        <code>@requireComponent</code>, <code>@disallowMultiple</code>... giúp bạn viết mã rõ ràng, dễ hiểu và tương
+        thích tốt với Editor.</p>
+    </section>
+
+    <!-- <section id="slideshow1" class="slideshow"></section> -->
+
+    <section class="project-section">
+      <h2>📌 Mục tiêu</h2>
+      <ul class="feature-list">
+        <li>✔️ Giải thích ý nghĩa và cách dùng của từng decorator</li>
+        <li>✔️ Cung cấp ví dụ thực tế dễ áp dụng</li>
+        <li>✔️ Tối ưu hóa trải nghiệm khi làm việc với Editor</li>
+      </ul>
+    </section>
+
+    <section class="project-section">
+      <h2>💡 Một số decorator tiêu biểu</h2>
+      <ul>
+        <li><strong>@property:</strong> Cho phép hiển thị trường dữ liệu trong Inspector.</li>
+        <li><strong>@requireComponent:</strong> Tự động thêm component phụ thuộc.</li>
+        <li><strong>@disallowMultiple:</strong> Không cho phép gắn nhiều instance lên cùng node.</li>
+        <li><strong>@executeInEditMode:</strong> Cho phép chạy script trong Edit Mode.</li>
+        <li><strong>@visible:</strong> Hiển thị có điều kiện.</li>
+        <li><strong>@menu:</strong> Gắn menu cho Component.</li>
+        <li><strong>@help:</strong> Gắn link tài liệu vào dấu hỏi trên Inspector.</li>
+      </ul>
+    </section>
+
+    <section class="project-section">
+      <h2>🧪 Ví dụ thực tế</h2>
+      <pre><code>import { _decorator, Component, Label, Collider2D } from 'cc';
+const { ccclass, property, requireComponent, disallowMultiple, executeInEditMode, menu, help } = _decorator;
+
+@ccclass('GameManager')
+@requireComponent(Collider2D)
+@disallowMultiple()
+@executeInEditMode
+@menu('Game/Managers/GameManager')
+@help('https://yourgame.dev/docs/GameManager')
+export class GameManager extends Component {
+  @property({ type: Label, tooltip: "Hiển thị điểm số" })
+  scoreLabel: Label = null;
+
+  @property
+  private enableDebug: boolean = false;
+
+  @property({ visible() { return this.enableDebug; } })
+  debugInfo: string = "";
+}</code></pre>
+    </section>
+
+    <section class="project-section">
+      <h2>🔍 Giải thích chi tiết</h2>
+      <ul>
+        <li><code>@property</code>: Cho phép kéo thả Label trong Editor.</li>
+        <li><code>visible()</code>: Dựa vào biến `enableDebug` để ẩn/hiện `debugInfo`.</li>
+        <li><code>@requireComponent(Collider2D)</code>: Tự thêm Collider2D nếu chưa có.</li>
+        <li><code>@menu</code>: Hiển thị thành “Game → Managers → GameManager”.</li>
+      </ul>
+    </section>
+
+    <section class="project-section">
+      <h2>📚 Tài liệu tham khảo</h2>
+      <ul>
+        <li><a href="https://docs.cocos.com/creator/manual/en/scripting/reference/attributes.html"
+            target="_blank">Attributes Manual</a></li>
+        <li><a href="https://docs.cocos.com/creator/api/en/" target="_blank">API Reference</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="/assets/js/main.js"></script>
+  <script src="assets/js/property-attributes-cocos.js"></script>
+  <script src="/assets/js/photoViewer.js"></script>
+  <script src="/assets/js/slideshow.js"></script>
+  <script src="assets/js/property-attributes-cocos-slideshow.js"></script>
+  <script src="/main/projects/tips-tricks-dev-docs/assets/js/tips-tricks-dev-docs-nav.js"></script>
+</body>
+
+</html>
