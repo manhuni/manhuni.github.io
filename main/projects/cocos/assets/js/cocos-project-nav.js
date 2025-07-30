@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const lessons = [
     { path: "recreate-uuid/index.html", label: "🔑 Recreate UUID - Cocos Creator Extensions" },
     { path: "uuid-dependency-scanner/index.html", label: "🗂️ UUID & Dependency Scanner - Cocos Creator Extension" }, 
+    { path: "admob-integration/index.html", label: "🎯 Google AdMob Android Integration - Cocos Creator Extension" }, 
   ];
 
   const parts = window.location.pathname.split("/");
