@@ -185,4 +185,5 @@ window.initPhotoViewer = function () {
       showPhoto();
     }
   });
+  
 };
