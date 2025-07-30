@@ -1,10 +1,10 @@
 window.initPhotoViewer = function () {
-  if (document.getElementById('photoViewer')) return;
+    if (document.getElementById('photoViewer')) return;
 
-  const viewer = document.createElement('div');
-  viewer.id = 'photoViewer';
-  viewer.className = 'photo-viewer hidden';
-  viewer.innerHTML = `
+    const viewer = document.createElement('div');
+    viewer.id = 'photoViewer';
+    viewer.className = 'photo-viewer hidden';
+    viewer.innerHTML = `
     <div class="viewer-content">
       <img src="" alt="Preview" />
       <div class="image-info"></div>
@@ -17,94 +17,101 @@ window.initPhotoViewer = function () {
       </div>
     </div>
   `;
-  document.body.appendChild(viewer);
+    document.body.appendChild(viewer);
 
-  const img = viewer.querySelector('img');
-  const infoDiv = viewer.querySelector('.image-info');
-  const closeBtn = viewer.querySelector('.close-btn');
-  const resetBtn = viewer.querySelector('.reset-btn');
-  const centerBtn = viewer.querySelector('.center-btn');
-  const zoomInBtn = viewer.querySelector('.zoom-in-btn');
-  const zoomOutBtn = viewer.querySelector('.zoom-out-btn');
+    const img = viewer.querySelector('img');
+    const infoDiv = viewer.querySelector('.image-info');
+    const closeBtn = viewer.querySelector('.close-btn');
+    const resetBtn = viewer.querySelector('.reset-btn');
+    const centerBtn = viewer.querySelector('.center-btn');
+    const zoomInBtn = viewer.querySelector('.zoom-in-btn');
+    const zoomOutBtn = viewer.querySelector('.zoom-out-btn');
 
-  let scale = 1, panX = 0, panY = 0;
-  let isPanning = false, startX = 0, startY = 0;
+    let scale = 1, panX = 0, panY = 0;
+    let isPanning = false, startX = 0, startY = 0;
 
-  function applyTransform() {
-    img.style.transform = `scale(${scale}) translate(${panX}px, ${panY}px)`;
-  }
-
-  window.openPhotoViewer = function (src) {
-    viewer.classList.remove('hidden');
-    img.src = src;
-    scale = 1; panX = 0; panY = 0;
-    applyTransform();
-    img.onload = () => {
-      const fileName = src.split('/').pop();
-      infoDiv.textContent = `${fileName} — ${img.naturalWidth}×${img.naturalHeight}px`;
-    };
-  };
-
-  closeBtn.addEventListener('click', () => viewer.classList.add('hidden'));
-  document.addEventListener('keydown', e => {
-    if (e.key === 'Escape') viewer.classList.add('hidden');
-  });
-
-  img.addEventListener('mousedown', e => {
-    e.preventDefault();
-    isPanning = true;
-    startX = e.clientX;
-    startY = e.clientY;
-  });
-
-  window.addEventListener('mousemove', e => {
-    if (!isPanning) return;
-    panX += (e.clientX - startX) / scale;
-    panY += (e.clientY - startY) / scale;
-    startX = e.clientX;
-    startY = e.clientY;
-    applyTransform();
-  });
-
-  window.addEventListener('mouseup', () => isPanning = false);
-
-  img.addEventListener('touchstart', e => {
-    if (e.touches.length === 1) {
-      isPanning = true;
-      startX = e.touches[0].clientX;
-      startY = e.touches[0].clientY;
+    function applyTransform() {
+        img.style.transform = `scale(${scale}) translate(${panX}px, ${panY}px)`;
     }
-  }, { passive: false });
 
-  window.addEventListener('touchmove', e => {
-    if (!isPanning || e.touches.length !== 1) return;
-    e.preventDefault();
-    panX += (e.touches[0].clientX - startX) / scale;
-    panY += (e.touches[0].clientY - startY) / scale;
-    startX = e.touches[0].clientX;
-    startY = e.touches[0].clientY;
-    applyTransform();
-  }, { passive: false });
+    window.openPhotoViewer = function (src) {
+        viewer.classList.remove('hidden');
+        img.src = src;
+        scale = 1; panX = 0; panY = 0;
+        applyTransform();
+        img.onload = () => {
+            const fileName = src.split('/').pop();
+            infoDiv.textContent = `${fileName} — ${img.naturalWidth}×${img.naturalHeight}px`;
+        };
+    };
 
-  window.addEventListener('touchend', () => isPanning = false);
+    closeBtn.addEventListener('click', () => viewer.classList.add('hidden'));
+    document.addEventListener('keydown', e => {
+        if (e.key === 'Escape') viewer.classList.add('hidden');
+    });
 
-  zoomInBtn.addEventListener('click', () => {
-    scale = Math.min(scale + 0.1, 5);
-    applyTransform();
-  });
+    img.addEventListener('mousedown', e => {
+        e.preventDefault();
+        isPanning = true;
+        startX = e.clientX;
+        startY = e.clientY;
+    }); 
 
-  zoomOutBtn.addEventListener('click', () => {
-    scale = Math.max(scale - 0.1, 1);
-    applyTransform();
-  });
+    img.addEventListener('wheel', e => {
+        e.preventDefault();
+        const delta = e.deltaY > 0 ? -0.1 : 0.1;
+        scale = Math.min(Math.max(1, scale + delta), 5);
+        applyTransform();
+    }, { passive: false });
 
-  resetBtn.addEventListener('click', () => {
-    scale = 1; panX = 0; panY = 0;
-    applyTransform();
-  });
+    window.addEventListener('mousemove', e => {
+        if (!isPanning) return;
+        panX += (e.clientX - startX) / scale;
+        panY += (e.clientY - startY) / scale;
+        startX = e.clientX;
+        startY = e.clientY;
+        applyTransform();
+    });
 
-  centerBtn.addEventListener('click', () => {
-    panX = 0; panY = 0;
-    applyTransform();
-  });
+    window.addEventListener('mouseup', () => isPanning = false);
+
+    img.addEventListener('touchstart', e => {
+        if (e.touches.length === 1) {
+            isPanning = true;
+            startX = e.touches[0].clientX;
+            startY = e.touches[0].clientY;
+        }
+    }, { passive: false });
+
+    window.addEventListener('touchmove', e => {
+        if (!isPanning || e.touches.length !== 1) return;
+        e.preventDefault();
+        panX += (e.touches[0].clientX - startX) / scale;
+        panY += (e.touches[0].clientY - startY) / scale;
+        startX = e.touches[0].clientX;
+        startY = e.touches[0].clientY;
+        applyTransform();
+    }, { passive: false });
+
+    window.addEventListener('touchend', () => isPanning = false);
+
+    zoomInBtn.addEventListener('click', () => {
+        scale = Math.min(scale + 0.1, 5);
+        applyTransform();
+    });
+
+    zoomOutBtn.addEventListener('click', () => {
+        scale = Math.max(scale - 0.1, 1);
+        applyTransform();
+    });
+
+    resetBtn.addEventListener('click', () => {
+        scale = 1; panX = 0; panY = 0;
+        applyTransform();
+    });
+
+    centerBtn.addEventListener('click', () => {
+        panX = 0; panY = 0;
+        applyTransform();
+    });
 };
