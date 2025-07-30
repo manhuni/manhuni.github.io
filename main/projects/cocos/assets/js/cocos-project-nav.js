@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   const lessons = [
-    { path: "recreate-uuid/index.html", label: "Cocos Creator Build Extensions" },
-    { path: "bubble-shooter/index.html", label: "Bubble Shooter Game" },
+    { path: "recreate-uuid/index.html", label: "🔑 Recreate UUID - Cocos Creator Extensions" },
+    { path: "uuid-dependency-scanner/index.html", label: "🗂️ UUID & Dependency Scanner - Cocos Creator Extension" },
     { path: "plugins/index.html", label: "Asset Tools & Plugins" },
   ];
 

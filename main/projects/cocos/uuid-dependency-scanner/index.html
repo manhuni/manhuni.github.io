@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>UUID & Dependency Scanner - Cocos Creator Extension</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/css/base.css" />
+  <link rel="stylesheet" href="/assets/css/theme.css" />
+  <link rel="stylesheet" href="/assets/css/slideshow.css" />
+  <link rel="stylesheet" href="/assets/css/photoviewer.css" />
+  <link rel="stylesheet" href="assets/css/uuid-dependency-scanner.css" />
+  <link rel="stylesheet" href="/main/projects/cocos/assets/css/cocos-project-nav.css" />
+</head>
+
+<body>
+  <div id="header"></div>
+
+  <main class="site-main container">
+    <section class="project-hero">
+      <h1>🗂️ UUID & Dependency Scanner - Cocos Creator Extension</h1>
+      <p>Một tiện ích mở rộng Cocos Creator giúp bạn quét toàn bộ asset, tái tạo UUID nếu cần, hiển thị cây phụ thuộc và phân loại asset theo type để quản lý dễ dàng.</p>
+    </section>
+
+    <section id="slideshow1" class="slideshow"></section>
+
+    <section class="project-section">
+      <h2>🎯 Tính năng chính</h2>
+      <ul class="feature-list">
+        <li>✔️ Quét toàn bộ thư mục asset để tìm và liệt kê UUID</li>
+        <li>✔️ Phát hiện các mối phụ thuộc (dependencies) giữa các asset</li>
+        <li>✔️ Hiển thị kết quả dưới dạng cây (tree) trực quan</li>
+        <li>✔️ Lọc và nhóm asset theo loại (Prefab, Scene, Texture...)</li>
+        <li>✔️ Hỗ trợ quét UUID nén và thay thế nếu cần</li>
+      </ul>
+    </section>
+
+    <section class="project-section">
+      <h2>🗂️ Cấu trúc thư mục</h2>
+      <pre><code>
+uuid-dependency-scanner/
+├── extension.json
+├── main.ts
+├── static/
+│   ├── template/
+│   └── style/
+├── assets/
+├── hooks/
+│   ├── recreateUUID.ts
+│   └── utils.ts
+      </code></pre>
+    </section>
+
+    <section class="project-section">
+      <h2>🚀 Hướng dẫn sử dụng</h2>
+      <ol>
+        <li>Copy thư mục <code>uuid-dependency-scanner</code> vào thư mục <code>extensions</code> của dự án Cocos Creator.</li>
+        <li>Khởi động lại Cocos Creator để extension được load.</li>
+        <li>Truy cập menu: <strong>Extension → UUID & Dependency Scanner</strong>.</li>
+        <li>Chọn thư mục hoặc asset cần quét.</li>
+        <li>Nhấn thao tác và xem kết quả phân tích, log chi tiết sẽ hiển thị trong Panel.</li>
+      </ol>
+    </section>
+
+    <section class="project-section">
+      <h2>📌 Ghi chú</h2>
+      <p>Dự án này mang tính minh hoạ — bạn có thể chỉnh sửa hoặc phát triển thêm các tính năng khác theo nhu cầu thực tế.</p>
+      <p>Đóng góp hoặc phản hồi xin gửi về 📧 <strong><a href="/main/projects/profile.html">Profile</a></strong>. Vui lòng không thương mại hoá khi chưa được phép.</p>
+    </section>
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="/assets/js/main.js"></script>
+  <script src="assets/js/uuid-dependency-scanner.js"></script>
+  <script src="/assets/js/photoViewer.js"></script>
+  <script src="/assets/js/slideshow.js"></script>
+  <script src="assets/js/uuid-dependency-scanner-slideshow.js"></script>
+  <script src="/main/projects/cocos/assets/js/cocos-project-nav.js"></script>
+</body>
+
+</html>
