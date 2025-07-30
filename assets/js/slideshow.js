@@ -9,26 +9,27 @@ window.createSlideshow = function (selector, images = [], options = {}) {
     container.appendChild(slidesDiv);
   }
 
-  images.forEach(src => {
+  images.forEach((src, index) => { // 🟢 SỬ DỤNG index
     const img = document.createElement('img');
     img.src = src;
     img.draggable = false;
-    img.dataset.ok = '1'; // Đánh dấu OK
-    img.style.pointerEvents = 'none'; // ❌ Tạm disable click cho đến khi load OK
+    img.dataset.ok = '1';
+    img.style.pointerEvents = 'none';
 
     img.onload = () => {
-      img.style.pointerEvents = 'auto'; // ✅ OK, cho click
+      img.style.pointerEvents = 'auto';
       img.addEventListener('click', e => {
         e.stopPropagation();
         if (wasDragged) return;
         if (typeof options.onImageClick === 'function') {
-          options.onImageClick(img.src);
+          // ✅ TRUYỀN LUÔN index + src (hoặc relative nếu muốn)
+          options.onImageClick(src, index);
         }
       });
       img.addEventListener('touchend', e => {
         if (wasDragged) return;
         if (typeof options.onImageClick === 'function') {
-          options.onImageClick(img.src);
+          options.onImageClick(src, index);
         }
       }, { passive: true });
     };
@@ -36,8 +37,8 @@ window.createSlideshow = function (selector, images = [], options = {}) {
     img.onerror = () => {
       img.dataset.ok = '0';
       img.classList.add('broken');
-      img.style.pointerEvents = 'none'; // ✅ Không click
-      img.style.opacity = '0.3'; // ✅ Làm mờ
+      img.style.pointerEvents = 'none';
+      img.style.opacity = '0.3';
       img.style.filter = 'grayscale(1)';
     };
 

@@ -10,10 +10,10 @@ const slideshow2_images = [
 window.addEventListener("DOMContentLoaded", () => {
   initPhotoViewer();
   createSlideshow("#slideshow1", slideshow1_images, {
-    onImageClick: (src) => openPhotoViewer(src, slideshow1_images)
+    onImageClick: (src, index) => openPhotoViewerByIndex(index, slideshow1_images)
   });
   createSlideshow("#slideshow2", slideshow2_images, {
-    onImageClick: (src) => openPhotoViewer(src, slideshow2_images)
+    onImageClick: (src, index) => openPhotoViewerByIndex(index, slideshow2_images)
   });
 
 });

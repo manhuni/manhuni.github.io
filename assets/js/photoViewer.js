@@ -20,6 +20,13 @@ window.initPhotoViewer = function () {
     </div>
   `;
   document.body.appendChild(viewer);
+  // Đóng khi click ra ngoài
+  viewer.addEventListener('click', (e) => {
+    // Nếu click chính vùng đen (viewer) mà KHÔNG phải content con
+    if (e.target === viewer) {
+      closeViewer();
+    }
+  });
 
   const img = viewer.querySelector('img');
   const infoDiv = viewer.querySelector('.image-info');
@@ -86,16 +93,16 @@ window.initPhotoViewer = function () {
     nextBtn.style.display = (currentIndex >= currentList.length - 1) ? 'none' : 'flex';
   }
 
-  window.openPhotoViewer = function (src, list = []) {
+  window.openPhotoViewerByIndex = function (index, list = []) {
     viewer.classList.remove('hidden');
     document.body.classList.add('no-scroll');
 
     currentList = list;
-    currentIndex = list.indexOf(src);
-    if (currentIndex === -1) currentIndex = 0;
+    currentIndex = index;
 
     showPhoto();
   };
+
 
   function closeViewer() {
     viewer.classList.add('hidden');
@@ -185,5 +192,5 @@ window.initPhotoViewer = function () {
       showPhoto();
     }
   });
-  
+
 };
