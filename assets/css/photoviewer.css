@@ -39,19 +39,25 @@
 }
 
 .button-group button {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
   font-size: 1.5rem;
-  background: rgba(255, 255, 255, 0.1);
-  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
   border: 1px solid rgba(255, 255, 255, 0.3);
-  border-radius: 4px;
-  padding: 0.3rem 0.6rem;
+  border-radius: 50%;
   cursor: pointer;
-  transition: background 0.2s ease;
+  transition: background 0.2s ease, transform 0.2s ease;
 }
 
+
 .button-group button:hover {
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(0, 0, 0, 0.7);
+  transform: scale(1.1);
 }
+
 .image-info {
   position: absolute;
   bottom: 1rem;
@@ -62,4 +68,39 @@
   padding: 0.3rem 0.6rem;
   border-radius: 4px;
   pointer-events: none;
+}
+.viewer-content .prev-btn,
+.viewer-content .next-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-size: 2.5rem;
+  width: 48px;
+  height: 48px;
+  line-height: 48px;
+  border: none;
+  border-radius: 50%; /* TRÒN 100% */
+  cursor: pointer;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s, transform 0.2s;
+  z-index: 2; /* Đảm bảo nằm TRÊN ảnh */
+}
+
+.viewer-content .prev-btn {
+  left: 20px; /* Cách mép trái */
+}
+
+.viewer-content .next-btn {
+  right: 20px; /* Cách mép phải */
+}
+
+.viewer-content .prev-btn:hover,
+.viewer-content .next-btn:hover {
+  background: rgba(0, 0, 0, 0.8);
+  transform: translateY(-50%) scale(1.1);
 }

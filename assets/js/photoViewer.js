@@ -6,7 +6,9 @@ window.initPhotoViewer = function () {
   viewer.className = 'photo-viewer hidden';
   viewer.innerHTML = `
     <div class="viewer-content">
+      <button class="prev-btn" title="Previous">&#10094;</button>
       <img src="" alt="Preview" />
+      <button class="next-btn" title="Next">&#10095;</button>
       <div class="image-info"></div>
       <div class="button-group">
         <button class="zoom-in-btn" title="Zoom In">+</button>
@@ -26,29 +28,63 @@ window.initPhotoViewer = function () {
   const centerBtn = viewer.querySelector('.center-btn');
   const zoomInBtn = viewer.querySelector('.zoom-in-btn');
   const zoomOutBtn = viewer.querySelector('.zoom-out-btn');
+  const nextBtn = viewer.querySelector('.next-btn');
+  const prevBtn = viewer.querySelector('.prev-btn');
 
   let scale = 1, panX = 0, panY = 0;
   let isPanning = false, startX = 0, startY = 0;
 
+  let currentIndex = 0;
+  let currentList = [];
+
   function applyTransform() {
     img.style.transform = `scale(${scale}) translate(${panX}px, ${panY}px)`;
   }
+  function showPhoto() {
+    if (!currentList.length) return; // Không có list thì thoát
 
-  window.openPhotoViewer = function (src) {
-    viewer.classList.remove('hidden');
-    document.body.classList.add('no-scroll'); // ✅ Chặn cuộn khi mở
+    if (currentIndex < 0) currentIndex = 0;
+    if (currentIndex >= currentList.length) currentIndex = currentList.length - 1;
+
+    const src = currentList[currentIndex];
+    if (!src) return; // fallback an toàn
+
     img.src = src;
     scale = 1; panX = 0; panY = 0;
     applyTransform();
+
     img.onload = () => {
       const fileName = src.split('/').pop();
       infoDiv.textContent = `${fileName} — ${img.naturalWidth}×${img.naturalHeight}px`;
     };
+
+    updateNavButtons();
+  }
+
+
+  function updateNavButtons() {
+    if (!currentList.length) return;
+
+    prevBtn.style.display = (currentIndex <= 0) ? 'none' : 'flex';
+    nextBtn.style.display = (currentIndex >= currentList.length - 1) ? 'none' : 'flex';
+  }
+
+  window.openPhotoViewer = function (src, list = []) {
+    viewer.classList.remove('hidden');
+    document.body.classList.add('no-scroll');
+
+    currentList = list || [];
+    currentIndex = list.indexOf(src);
+
+    if (currentIndex === -1) currentIndex = 0; // fallback an toàn
+
+    showPhoto();
   };
+
 
   function closeViewer() {
     viewer.classList.add('hidden');
-    document.body.classList.remove('no-scroll'); // ✅ Gỡ chặn cuộn khi đóng
+    document.body.classList.remove('no-scroll');
   }
 
   closeBtn.addEventListener('click', closeViewer);
@@ -63,13 +99,6 @@ window.initPhotoViewer = function () {
     startY = e.clientY;
   });
 
-  img.addEventListener('wheel', e => {
-    e.preventDefault();
-    const delta = e.deltaY > 0 ? -0.1 : 0.1;
-    scale = Math.min(Math.max(1, scale + delta), 5);
-    applyTransform();
-  }, { passive: false });
-
   window.addEventListener('mousemove', e => {
     if (!isPanning) return;
     panX += (e.clientX - startX) / scale;
@@ -80,6 +109,13 @@ window.initPhotoViewer = function () {
   });
 
   window.addEventListener('mouseup', () => isPanning = false);
+
+  img.addEventListener('wheel', e => {
+    e.preventDefault();
+    const delta = e.deltaY > 0 ? -0.1 : 0.1;
+    scale = Math.min(Math.max(1, scale + delta), 5);
+    applyTransform();
+  }, { passive: false });
 
   img.addEventListener('touchstart', e => {
     if (e.touches.length === 1) {
@@ -120,4 +156,20 @@ window.initPhotoViewer = function () {
     panX = 0; panY = 0;
     applyTransform();
   });
+
+  nextBtn.addEventListener('click', () => {
+    if (currentIndex < currentList.length - 1) {
+      currentIndex++;
+      showPhoto();
+    }
+  });
+
+  prevBtn.addEventListener('click', () => {
+    if (currentIndex > 0) {
+      currentIndex--;
+      showPhoto();
+    }
+  });
+
+
 };

@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   const lessons = [
-    { path: "build-extension/index.html", label: "Cocos Creator Build Extensions" },
+    { path: "recreate-uuid/index.html", label: "Cocos Creator Build Extensions" },
     { path: "bubble-shooter/index.html", label: "Bubble Shooter Game" },
     { path: "shader/index.html", label: "Asset Tools & Plugins" },
   ];

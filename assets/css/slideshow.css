@@ -4,7 +4,7 @@
   position: relative;
   margin: 0 auto;
   background: #111;
-  border-radius: 12px; /* ✅ bo nhẹ 12px */
+  border-radius: 0; /* ❌ bỏ bo */
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
   aspect-ratio: 16 / 9;
 }
@@ -24,8 +24,9 @@
   user-select: none;
   pointer-events: auto;
   background-color: #222;
-  border-radius: 12px; /* ✅ khớp với container */
+  border-radius: 0; /* ❌ bỏ bo */
 }
+
 .slideshow .indicator {
   position: absolute;
   bottom: 16px;
@@ -34,7 +35,12 @@
   display: flex;
   gap: 10px;
   z-index: 2;
+  padding: 6px 12px;
+  background: rgba(0, 0, 0, 0.4); /* ✅ dải nền đen mờ */
+  border-radius: 20px; /* bo cong đẹp */
+  backdrop-filter: blur(2px); /* kính mờ nếu thích */
 }
+
 
 .slideshow .indicator-dot {
   width: 20px;
@@ -48,4 +54,4 @@
 .slideshow .indicator-dot.active {
   background-color: white;
   transform: scale(1.2);
-} 
+}
