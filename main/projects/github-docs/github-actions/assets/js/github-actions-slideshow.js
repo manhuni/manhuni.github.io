@@ -1,6 +1,7 @@
 const slideshow1_images = [ 
   "/main/projects/github-docs/github-actions/assets/images/demo/structure.jpg",
   "/main/projects/github-docs/github-actions/assets/images/demo/settings.jpg",
+  "/main/projects/github-docs/github-actions/assets/images/demo/pages_build_and_deploy.jpg",
   "/main/projects/github-docs/github-actions/assets/images/demo/footer.jpg",
 ]; 
 
