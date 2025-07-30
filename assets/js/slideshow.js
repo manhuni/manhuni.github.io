@@ -13,6 +13,7 @@ window.createSlideshow = function (selector, images = [], options = {}) {
     const img = document.createElement('img');
     img.src = src;
     img.draggable = false;
+    img.dataset.ok = '1'; // Đánh dấu OK
     img.style.pointerEvents = 'none'; // ❌ Tạm disable click cho đến khi load OK
 
     img.onload = () => {
@@ -33,6 +34,7 @@ window.createSlideshow = function (selector, images = [], options = {}) {
     };
 
     img.onerror = () => {
+      img.dataset.ok = '0';
       img.classList.add('broken');
       img.style.pointerEvents = 'none'; // ✅ Không click
       img.style.opacity = '0.3'; // ✅ Làm mờ
