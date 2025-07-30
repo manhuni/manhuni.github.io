@@ -1,76 +1,21 @@
 /* ===============================
-   1️⃣ Base Layout: Header - Nav - Footer
+   📌 CONTAINER
    =============================== */
-.site-header,
-.site-footer {
-  width: 100%;
-}
 
-.header-inner,
-.site-footer .container {
+.container {
   width: 100%;
-  /* max-width: 1200px; */
   margin: 0 auto;
 }
 
-.site-header {
-  background: #fff;
-  border-bottom: 1px solid #ddd;
-}
-
-.header-inner {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem 0;
-}
-
-.logo {
-  font-size: 1.5rem;
-  font-weight: 600;
-}
-
-.nav ul {
-  display: flex;
-  gap: 1rem;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.nav a {
-  padding: 0.5rem;
-  border-radius: 4px;
-  text-decoration: none;
-  color: #333;
-  transition: background 0.2s;
-}
-
-.nav a:hover {
-  background: #eee;
-}
-
 /* ===============================
-   2️⃣ Main Container
+   📌 MAIN CONTAINER
    =============================== */
-.site-main { 
+.site-main {
   padding: 1rem 0;
 }
 
 /* ===============================
-   3️⃣ Footer
-   =============================== */
-.site-footer {
-  background: #fff;
-  border-top: 1px solid #ddd;
-  padding: 1rem 0;
-  text-align: center;
-  color: #666;
-  font-size: 0.9rem;
-}
-
-/* ===============================
-   4️⃣ Hero Section (Home, Dashboard)
+   📌 HERO SECTION
    =============================== */
 .hero {
   text-align: center;
@@ -108,14 +53,13 @@
   background: #0056b3;
 }
 
-/* Hero variant cho Dashboard (chỉ khác padding + bg) */
 .dashboard-hero {
   padding: 3rem 1rem;
   background: #f9fafb;
 }
 
 /* ===============================
-   5️⃣ Grid Layout: Links, Cards
+   📌 GRID: Links, Cards
    =============================== */
 .links-grid,
 .dashboard-grid {
@@ -124,7 +68,6 @@
   gap: 2rem;
 }
 
-/* Card style dùng chung */
 .link-card,
 .dashboard-card {
   display: block;
@@ -155,30 +98,11 @@
   margin-bottom: 1rem;
 }
 
-/* Nếu dashboard-card có btn */
-.dashboard-card .btn {
-  display: inline-block;
-  margin-top: 0.5rem;
-}
-
-/* ===============================
-   6️⃣ Responsive Utilities
-   =============================== */
-.container {
-  width: 100%;
-  /* max-width: 1280px; */
-  margin: 0 auto;
-}
 .dashboard-card {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   text-align: center;
-  background: #ffffff;
-  padding: 2rem;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .dashboard-card p {
@@ -199,59 +123,3 @@
 .dashboard-card .btn:hover {
   background: #0056b3;
 }
-.professional-header {
-  background-color: #fff;
-  border-bottom: 1px solid #eee;
-  padding: 1rem 0;
-}
-
-.header-inner {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-.branding {
-  display: flex;
-  align-items: center;
-} 
-
-.brand-text .logo {
-  margin: 0;
-  font-size: 1.4rem;
-  font-weight: 600;
-}
-
-.brand-text .tagline {
-  margin: 0;
-  font-size: 0.9rem;
-  color: #666;
-}
-
-.nav ul {
-  display: flex;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  gap: 1.2rem;
-}
-
-.nav a {
-  text-decoration: none;
-  font-weight: 500;
-  color: #333;
-  transition: color 0.2s ease;
-}
-
-.nav a:hover {
-  color: #007bff;
-}
-
-.nav .btn-contact {
-  background-color: #007bff;
-  color: white !important;
-  padding: 0.4rem 0.8rem;
-  border-radius: 6px;
-  font-size: 0.9rem;
-} 

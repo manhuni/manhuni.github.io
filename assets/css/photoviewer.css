@@ -15,6 +15,10 @@
   overflow: hidden;
   display: flex; align-items: center; justify-content: center;
 }
+.no-scroll {
+  overflow: hidden;
+  touch-action: none; /* iOS Safari */
+}
 
 .viewer-content img {
   max-width: 100%;
