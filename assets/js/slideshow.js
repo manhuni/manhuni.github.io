@@ -13,7 +13,32 @@ window.createSlideshow = function (selector, images = [], options = {}) {
     const img = document.createElement('img');
     img.src = src;
     img.draggable = false;
-    img.style.pointerEvents = 'auto';
+    img.style.pointerEvents = 'none'; // ❌ Tạm disable click cho đến khi load OK
+
+    img.onload = () => {
+      img.style.pointerEvents = 'auto'; // ✅ OK, cho click
+      img.addEventListener('click', e => {
+        e.stopPropagation();
+        if (wasDragged) return;
+        if (typeof options.onImageClick === 'function') {
+          options.onImageClick(img.src);
+        }
+      });
+      img.addEventListener('touchend', e => {
+        if (wasDragged) return;
+        if (typeof options.onImageClick === 'function') {
+          options.onImageClick(img.src);
+        }
+      }, { passive: true });
+    };
+
+    img.onerror = () => {
+      img.classList.add('broken');
+      img.style.pointerEvents = 'none'; // ✅ Không click
+      img.style.opacity = '0.3'; // ✅ Làm mờ
+      img.style.filter = 'grayscale(1)';
+    };
+
     slidesDiv.appendChild(img);
   });
 
@@ -77,19 +102,6 @@ window.createSlideshow = function (selector, images = [], options = {}) {
     currentX = 0;
     snap();
   }
-
-  slides.forEach(img => {
-    img.addEventListener('click', e => {
-      e.stopPropagation();
-      if (wasDragged) return;
-      if (typeof options.onImageClick === 'function') options.onImageClick(img.src);
-    });
-
-    img.addEventListener('touchend', e => {
-      if (wasDragged) return;
-      if (typeof options.onImageClick === 'function') options.onImageClick(img.src);
-    }, { passive: true });
-  });
 
   container.addEventListener('mousedown', onTouchStart, { passive: false });
   container.addEventListener('mousemove', onTouchMove);
