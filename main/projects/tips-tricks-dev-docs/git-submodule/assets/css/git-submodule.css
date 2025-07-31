@@ -50,15 +50,7 @@
   color: #333;
 }
 
-.feature-list li::before,
-.project-section ul li::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0.1rem;
-  font-size: 1rem;
-  color: #26a69a;
-}
+ 
 
 .project-section pre {
   background: #f9f9f9;

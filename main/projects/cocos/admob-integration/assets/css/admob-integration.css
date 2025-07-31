@@ -42,16 +42,7 @@
   line-height: 1.6;
 }
 
-.feature-list li::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0.4rem;
-  width: 0.8rem;
-  height: 0.8rem;
-  background-color: #26a69a;
-  border-radius: 50%;
-}
+ 
 
 .project-section pre {
   background: #f1f1f1;
