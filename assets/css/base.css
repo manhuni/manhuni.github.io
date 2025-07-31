@@ -21,3 +21,11 @@ a {
   margin: 0 auto;
   padding: 0 1rem;
 }
+body {
+  padding-top: 70px;    /* Header height */
+  padding-bottom: 50px; /* Footer height */
+}
+
+.site-main {
+  padding: 1rem 0; /* Nội dung thêm khoảng cách bên trong */
+}

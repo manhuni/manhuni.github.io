@@ -3,6 +3,9 @@
    =============================== */
 
 .site-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
   width: 100%;
   background: #fff;
   border-top: 1px solid #ddd;
@@ -10,7 +13,9 @@
   text-align: center;
   color: #666;
   font-size: 0.9rem;
+  z-index: 1000; /* Đảm bảo đè lên backdrop nếu có */
 }
+
 
 .site-footer .container {
   width: 100%;

@@ -1,10 +1,5 @@
-.profile-container {
-  max-width: 760px;
-  margin: 3rem auto;
-  padding: 2rem;
-  background: #fff;
-  border-radius: 1rem;
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.05);
+.profile-container { 
+  padding: 2rem; 
   font-family: 'Inter', sans-serif;
 }
 
