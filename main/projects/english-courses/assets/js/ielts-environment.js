@@ -1138,9 +1138,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
           listContainer.appendChild(li);
         });
-
       }
-
       document.getElementById("ipa-popup").classList.remove("hidden");
     });
   });
