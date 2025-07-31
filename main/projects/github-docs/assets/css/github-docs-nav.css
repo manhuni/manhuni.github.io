@@ -9,6 +9,11 @@
 }
 
 .lesson-nav a.btn {
+  display: inline-block;
+  max-width: 240px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
   padding: 0.6rem 1.2rem;
   background-color: #f0f0f0;
   color: #333;
@@ -18,6 +23,7 @@
   transition: background-color 0.2s ease;
   font-weight: 500;
 }
+
 
 .lesson-nav a.btn:hover {
   background-color: #e5e5e5;
