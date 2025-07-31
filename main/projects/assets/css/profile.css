@@ -1,5 +1,6 @@
-.profile-container { 
-  padding: 2rem; 
+/* Vẫn giữ phần cơ bản */
+.profile-container {
+  padding: 2rem;
   font-family: 'Inter', sans-serif;
 }
 
@@ -38,59 +39,143 @@
   margin: 0 auto 1.4rem auto;
 }
 
-.profile-links {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.8rem;
-}
-
-.profile-links a {
-  background-color: #f5f5f5;
-  border-radius: 6px;
-  padding: 0.4rem 0.8rem;
-  color: #007bff;
-  text-decoration: none;
-  font-weight: 500;
-  transition: all 0.2s ease;
-}
-
-.profile-links a:hover {
-  background-color: #e0f0ff;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 10px rgba(0, 123, 255, 0.1);
-}
-
 .profile-section {
-  margin-top: 2.5rem;
+  margin-top: 2rem;
+}
+
+.box {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  border: 1px solid #eee;
 }
 
 .profile-section h2 {
   font-size: 1.2rem;
-  margin-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 0.8rem;
   border-left: 4px solid #007bff;
   padding-left: 0.6rem;
   font-weight: 600;
-  color: #333;
 }
 
-.skills-list {
+.profile-section p {
+  line-height: 1.7;
+  color: #444;
+  text-align: justify;  /* <-- Đây là điểm quan trọng */
+}
+
+.profile-section ul {
   list-style: none;
   padding-left: 1rem;
-  line-height: 1.8;
+  margin: 0;
 }
 
-.skills-list li {
+.profile-section ul li {
   position: relative;
   padding-left: 1.2rem;
-  margin-bottom: 0.6rem;
-  color: #444;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+ 
+.contact-links  { 
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 20px; 
 }
 
-.skills-list li::before {
-  content: '✔';
-  position: absolute;
-  left: 0;
-  color: #00b894;
-  font-size: 0.9rem;
+.contact-links a {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  background-color: var(--background-color);
+  border-radius: 5px;
+  text-decoration: none;
+  color: var(--text-color);
+  transition: transform var(--transition-time);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.contact-links a:hover {
+  transform: translateY(-2px);
+}
+:root {
+  --primary-color: #007bff;
+  --card-bg: #f5f8ff;
+  --card-border: #e1eaff;
+}
+.achievements-list,
+.projects-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr; /* 1 cột mobile */
+  gap: 12px;
+}
+
+@media (min-width: 600px) {
+  .projects-list {
+    grid-template-columns: 1fr 1fr; /* 2 cột khi rộng */
+  }
+}
+
+.achievements-list li ,
+.projects-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  padding: 14px 18px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+  transition: transform 0.2s;
+}
+
+.achievements-list li:hover ,
+.projects-list li:hover {
+  transform: translateY(-3px);
+}
+
+.achievements-list .icon ,
+.projects-list .icon {
+  font-size: 1.4rem;
+  line-height: 1;
+}
+.hobbies-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+
+@media (min-width: 600px) {
+  .hobbies-list {
+    grid-template-columns: 1fr 1fr 1fr; /* 3 cột nếu rộng */
+  }
+}
+
+.hobbies-list li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #fafafa; 
+  padding: 14px 16px;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  transition: transform 0.2s;
+}
+
+.hobbies-list li:hover {
+  transform: translateY(-2px);
+}
+
+.hobbies-list .icon {
+  font-size: 1.5rem;
+  flex-shrink: 0;
 }
