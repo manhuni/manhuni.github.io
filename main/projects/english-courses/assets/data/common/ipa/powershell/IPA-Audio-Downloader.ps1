@@ -11,7 +11,7 @@ $baseUrl = "https://media.merriam-webster.com/audio/prons/en/us/mp3"
 
 # Danh sách từ
 $words = @(
-    "climate change","global warming","carbon footprint","greenhouse gases","fossil fuels","renewable energy","deforestation","sea level rise","sustainability","environmental impact","poverty","inequality","homelessness","unemployment","refugee","migration","overpopulation","illiteracy","human rights","social welfare","pollution","contamination","toxic","waste","landfill","emissions","deforestation","greenhouse gases","recycling","biodegradable","war","conflict","refugee","violence","displacement","arms","civilian","ceasefire","military","peacekeeping","globalization","outsourcing","multinational","interdependence","cultural exchange","trade barrier","global workforce","economic integration","export","import","human rights","equality","freedom of speech","discrimination","minority","refugee","oppression","activist","violation","liberty","displacement","refugee","asylum","evacuation","internally displaced person","flee","host country","migration crisis","relocation","conflict zone","globalization","multinational","outsourcing","trade barrier","export","import","economic inequality","developed country","developing country","global workforce","epidemic","contagious","quarantine","pandemic","vaccination","outbreak","transmission","preventive","symptom","immune","migration","refugee","asylum","displacement","resettlement","emigration","immigration","border control","citizenship","visa"
+    "media","mass media","broadcast","journalism","headline","press","coverage","editor","news outlet","censorship","advertising","commercial","slogan","target audience","promotion","brand","marketing","sponsor","viral marketing","celebrity endorsement","influence","persuade","impact","manipulate","bias","public perception","stereotype","trigger","awareness","psychological","journalism","reporter","headline","broadcast","editor","press","coverage","publication","fact-checking","freedom of the press","digital media","viral","streaming","influencer","clickbait","podcast","content creator","hashtag","subscribe","platform","mass media","newspaper","broadcast","headline","journalism","press","censorship","coverage","editor","tabloid","consumer behavior","target audience","purchase decision","customer loyalty","brand perception","market segmentation","impulse buying","consumer trust","psychological tactics","buyer's journey","news consumption","breaking news","news outlet","media literacy","24-hour news cycle","headline","clickbait","opinion piece","news anchor","factual reporting","slogan","branding","tagline","recognition","identity","trademark","logo","campaign","message","iconic","influence","persuasion","manipulate","impact","bias","spin","viewer","consumer","trend","perception"
 )
 
 $totalWords = $words.Count
@@ -31,7 +31,7 @@ foreach ($word in $words) {
     }
     $metaFile = "$downloadDir\$word.metadata"
 
-    if (Test-Path $outputFile -or Test-Path $metaFile) {
+    if ( Test-Path $metaFile) {
         Write-Host "Skipped (already exists): $word.(mp3/metadata)" -ForegroundColor Cyan
         continue
     }
