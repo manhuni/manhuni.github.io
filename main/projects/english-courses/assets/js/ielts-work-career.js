@@ -815,109 +815,312 @@ const audioData = [
       context: "Work & Career - Advancement"
     }
   ],
-[
-  {
-    name: "job satisfaction",
-    ipa: "/ˈdʒɒb ˌsæt.ɪsˈfæk.ʃən/",
-    wordIpa: "/ˈdʒɒb ˌsæt.ɪsˈfæk.ʃən/",
-    file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/job_satisfaction.mp3",
-    type: "Noun",
-    meaning: "sự hài lòng trong công việc",
-    example: "Flexible hours can increase job satisfaction.",
-    context: "Work & Career - Job Satisfaction"
-  },
-  {
-    name: "work-life balance",
-    ipa: "/ˌwɜːk.laɪf ˈbæl.əns/",
-    wordIpa: "/ˌwɜːk.laɪf ˈbæl.əns/",
-    file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/work_life_balance.mp3",
-    type: "Noun",
-    meaning: "cân bằng giữa công việc và cuộc sống",
-    example: "Work-life balance is crucial for mental health.",
-    context: "Work & Career - Job Satisfaction"
-  },
-  {
-    name: "motivation",
-    ipa: "/ˌməʊ.tɪˈveɪ.ʃən/",
-    wordIpa: "/ˌməʊ.tɪˈveɪ.ʃən/",
-    file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/motivation.mp3",
-    type: "Noun",
-    meaning: "sự thúc đẩy, động lực",
-    example: "A supportive environment improves motivation.",
-    context: "Work & Career - Job Satisfaction"
-  },
-  {
-    name: "burnout",
-    ipa: "/ˈbɜːn.aʊt/",
-    wordIpa: "/ˈbɜːn.aʊt/",
-    file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/burnout.mp3",
-    type: "Noun",
-    meaning: "kiệt sức vì công việc",
-    example: "Working overtime for months led to burnout.",
-    context: "Work & Career - Job Satisfaction"
-  },
-  {
-    name: "stress management",
-    ipa: "/stres ˈmæn.ɪdʒ.mənt/",
-    wordIpa: "/stres ˈmæn.ɪdʒ.mənt/",
-    file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/stress_management.mp3",
-    type: "Noun",
-    meaning: "quản lý căng thẳng",
-    example: "Workshops on stress management are held weekly.",
-    context: "Work & Career - Job Satisfaction"
-  },
-  {
-    name: "employee benefits",
-    ipa: "/ɪmˈplɔɪ.i ˈben.ɪ.fɪts/",
-    wordIpa: "/ɪmˈplɔɪ.i ˈben.ɪ.fɪts/",
-    file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/employee_benefits.mp3",
-    type: "Noun",
-    meaning: "phúc lợi nhân viên",
-    example: "Health insurance is one of the employee benefits.",
-    context: "Work & Career - Job Satisfaction"
-  },
-  {
-    name: "positive feedback",
-    ipa: "/ˈpɒz.ə.tɪv ˈfiːd.bæk/",
-    wordIpa: "/ˈpɒz.ə.tɪv ˈfiːd.bæk/",
-    file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/positive_feedback.mp3",
-    type: "Noun",
-    meaning: "phản hồi tích cực",
-    example: "Positive feedback motivates staff to perform better.",
-    context: "Work & Career - Job Satisfaction"
-  },
-  {
-    name: "toxic workplace",
-    ipa: "/ˈtɒk.sɪk ˈwɜːk.pleɪs/",
-    wordIpa: "/ˈtɒk.sɪk ˈwɜːk.pleɪs/",
-    file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/toxic_workplace.mp3",
-    type: "Noun",
-    meaning: "môi trường làm việc độc hại",
-    example: "A toxic workplace can lead to high turnover.",
-    context: "Work & Career - Job Satisfaction"
-  },
-  {
-    name: "engagement",
-    ipa: "/ɪnˈɡeɪdʒ.mənt/",
-    wordIpa: "/ɪnˈɡeɪdʒ.mənt/",
-    file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/engagement.mp3",
-    type: "Noun",
-    meaning: "sự gắn kết (của nhân viên)",
-    example: "Employee engagement is key to productivity.",
-    context: "Work & Career - Job Satisfaction"
-  },
-  {
-    name: "recognition",
-    ipa: "/ˌrek.əɡˈnɪʃ.ən/",
-    wordIpa: "/ˌrek.əɡˈnɪʃ.ən/",
-    file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/recognition.mp3",
-    type: "Noun",
-    meaning: "sự công nhận",
-    example: "Recognition of hard work boosts morale.",
-    context: "Work & Career - Job Satisfaction"
-  }
-]
-
+  [
+    {
+      name: "job satisfaction",
+      ipa: "/ˈdʒɒb ˌsæt.ɪsˈfæk.ʃən/",
+      wordIpa: "/ˈdʒɒb ˌsæt.ɪsˈfæk.ʃən/",
+      file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/job_satisfaction.mp3",
+      type: "Noun",
+      meaning: "sự hài lòng trong công việc",
+      example: "Flexible hours can increase job satisfaction.",
+      context: "Work & Career - Job Satisfaction"
+    },
+    {
+      name: "work-life balance",
+      ipa: "/ˌwɜːk.laɪf ˈbæl.əns/",
+      wordIpa: "/ˌwɜːk.laɪf ˈbæl.əns/",
+      file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/work_life_balance.mp3",
+      type: "Noun",
+      meaning: "cân bằng giữa công việc và cuộc sống",
+      example: "Work-life balance is crucial for mental health.",
+      context: "Work & Career - Job Satisfaction"
+    },
+    {
+      name: "motivation",
+      ipa: "/ˌməʊ.tɪˈveɪ.ʃən/",
+      wordIpa: "/ˌməʊ.tɪˈveɪ.ʃən/",
+      file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/motivation.mp3",
+      type: "Noun",
+      meaning: "sự thúc đẩy, động lực",
+      example: "A supportive environment improves motivation.",
+      context: "Work & Career - Job Satisfaction"
+    },
+    {
+      name: "burnout",
+      ipa: "/ˈbɜːn.aʊt/",
+      wordIpa: "/ˈbɜːn.aʊt/",
+      file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/burnout.mp3",
+      type: "Noun",
+      meaning: "kiệt sức vì công việc",
+      example: "Working overtime for months led to burnout.",
+      context: "Work & Career - Job Satisfaction"
+    },
+    {
+      name: "stress management",
+      ipa: "/stres ˈmæn.ɪdʒ.mənt/",
+      wordIpa: "/stres ˈmæn.ɪdʒ.mənt/",
+      file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/stress_management.mp3",
+      type: "Noun",
+      meaning: "quản lý căng thẳng",
+      example: "Workshops on stress management are held weekly.",
+      context: "Work & Career - Job Satisfaction"
+    },
+    {
+      name: "employee benefits",
+      ipa: "/ɪmˈplɔɪ.i ˈben.ɪ.fɪts/",
+      wordIpa: "/ɪmˈplɔɪ.i ˈben.ɪ.fɪts/",
+      file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/employee_benefits.mp3",
+      type: "Noun",
+      meaning: "phúc lợi nhân viên",
+      example: "Health insurance is one of the employee benefits.",
+      context: "Work & Career - Job Satisfaction"
+    },
+    {
+      name: "positive feedback",
+      ipa: "/ˈpɒz.ə.tɪv ˈfiːd.bæk/",
+      wordIpa: "/ˈpɒz.ə.tɪv ˈfiːd.bæk/",
+      file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/positive_feedback.mp3",
+      type: "Noun",
+      meaning: "phản hồi tích cực",
+      example: "Positive feedback motivates staff to perform better.",
+      context: "Work & Career - Job Satisfaction"
+    },
+    {
+      name: "toxic workplace",
+      ipa: "/ˈtɒk.sɪk ˈwɜːk.pleɪs/",
+      wordIpa: "/ˈtɒk.sɪk ˈwɜːk.pleɪs/",
+      file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/toxic_workplace.mp3",
+      type: "Noun",
+      meaning: "môi trường làm việc độc hại",
+      example: "A toxic workplace can lead to high turnover.",
+      context: "Work & Career - Job Satisfaction"
+    },
+    {
+      name: "engagement",
+      ipa: "/ɪnˈɡeɪdʒ.mənt/",
+      wordIpa: "/ɪnˈɡeɪdʒ.mənt/",
+      file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/engagement.mp3",
+      type: "Noun",
+      meaning: "sự gắn kết (của nhân viên)",
+      example: "Employee engagement is key to productivity.",
+      context: "Work & Career - Job Satisfaction"
+    },
+    {
+      name: "recognition",
+      ipa: "/ˌrek.əɡˈnɪʃ.ən/",
+      wordIpa: "/ˌrek.əɡˈnɪʃ.ən/",
+      file: "/main/projects/english-courses/assets/data/ielts/work-career/audio/recognition.mp3",
+      type: "Noun",
+      meaning: "sự công nhận",
+      example: "Recognition of hard work boosts morale.",
+      context: "Work & Career - Job Satisfaction"
+    }
+  ],
+  [
+    {
+      name: "promotion",
+      ipa: "/prəˈməʊ.ʃən/",
+      wordIpa: "/prəˈməʊ.ʃən/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/promotion.mp3",
+      type: "Noun",
+      meaning: "sự thăng chức",
+      example: "She received a promotion after just one year.",
+      context: "Work & Career - Advancement"
+    },
+    {
+      name: "raise",
+      ipa: "/reɪz/",
+      wordIpa: "/reɪz/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/raise.mp3",
+      type: "Noun",
+      meaning: "tăng lương",
+      example: "He asked for a raise due to his excellent performance.",
+      context: "Work & Career - Advancement"
+    },
+    {
+      name: "recognition",
+      ipa: "/ˌrek.əɡˈnɪʃ.ən/",
+      wordIpa: "/ˌrek.əɡˈnɪʃ.ən/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/recognition.mp3",
+      type: "Noun",
+      meaning: "sự công nhận",
+      example: "Employees value recognition for their efforts.",
+      context: "Work & Career - Advancement"
+    },
+    {
+      name: "bonus",
+      ipa: "/ˈbəʊ.nəs/",
+      wordIpa: "/ˈbəʊ.nəs/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/bonus.mp3",
+      type: "Noun",
+      meaning: "tiền thưởng",
+      example: "The staff received a bonus for meeting the sales target.",
+      context: "Work & Career - Advancement"
+    },
+    {
+      name: "achievement",
+      ipa: "/əˈtʃiːv.mənt/",
+      wordIpa: "/əˈtʃiːv.mənt/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/achievement.mp3",
+      type: "Noun",
+      meaning: "thành tựu",
+      example: "Publishing the book was her greatest achievement.",
+      context: "Work & Career - Advancement"
+    },
+    {
+      name: "rewarding",
+      ipa: "/rɪˈwɔː.dɪŋ/",
+      wordIpa: "/rɪˈwɔː.dɪŋ/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/rewarding.mp3",
+      type: "Adjective",
+      meaning: "bổ ích, đáng làm",
+      example: "Teaching can be a very rewarding career.",
+      context: "Work & Career - Advancement"
+    },
+    {
+      name: "goal",
+      ipa: "/ɡəʊl/",
+      wordIpa: "/ɡəʊl/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/goal.mp3",
+      type: "Noun",
+      meaning: "mục tiêu",
+      example: "Setting clear goals is key to career success.",
+      context: "Work & Career - Advancement"
+    },
+    {
+      name: "aspiration",
+      ipa: "/ˌæs.pəˈreɪ.ʃən/",
+      wordIpa: "/ˌæs.pəˈreɪ.ʃən/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/aspiration.mp3",
+      type: "Noun",
+      meaning: "khát vọng",
+      example: "He has aspirations to become a CEO.",
+      context: "Work & Career - Advancement"
+    },
+    {
+      name: "incentive",
+      ipa: "/ɪnˈsen.tɪv/",
+      wordIpa: "/ɪnˈsen.tɪv/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/incentive.mp3",
+      type: "Noun",
+      meaning: "động lực",
+      example: "Bonuses are used as incentives to boost productivity.",
+      context: "Work & Career - Advancement"
+    },
+    {
+      name: "milestone",
+      ipa: "/ˈmaɪl.stəʊn/",
+      wordIpa: "/ˈmaɪl.stəʊn/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/milestone.mp3",
+      type: "Noun",
+      meaning: "cột mốc",
+      example: "Getting the first promotion is a milestone in any career.",
+      context: "Work & Career - Advancement"
+    }
+  ],
+  [
+    {
+      name: "resignation",
+      ipa: "/ˌrez.ɪɡˈneɪ.ʃən/",
+      wordIpa: "/ˌrez.ɪɡˈneɪ.ʃən/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/resignation.mp3",
+      type: "Noun",
+      meaning: "sự từ chức",
+      example: "His sudden resignation surprised everyone.",
+      context: "Work & Career - Exit"
+    },
+    {
+      name: "redundancy",
+      ipa: "/rɪˈdʌn.dən.si/",
+      wordIpa: "/rɪˈdʌn.dən.si/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/redundancy.mp3",
+      type: "Noun",
+      meaning: "sự sa thải (do dư thừa nhân sự)",
+      example: "Many workers faced redundancy during the crisis.",
+      context: "Work & Career - Exit"
+    },
+    {
+      name: "layoff",
+      ipa: "/ˈleɪ.ɒf/",
+      wordIpa: "/ˈleɪ.ɒf/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/layoff.mp3",
+      type: "Noun",
+      meaning: "sự cho nghỉ việc",
+      example: "The company announced massive layoffs.",
+      context: "Work & Career - Exit"
+    },
+    {
+      name: "retire",
+      ipa: "/rɪˈtaɪər/",
+      wordIpa: "/rɪˈtaɪər/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/retire.mp3",
+      type: "Verb",
+      meaning: "nghỉ hưu",
+      example: "She plans to retire at 60.",
+      context: "Work & Career - Exit"
+    },
+    {
+      name: "pension",
+      ipa: "/ˈpen.ʃən/",
+      wordIpa: "/ˈpen.ʃən/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/pension.mp3",
+      type: "Noun",
+      meaning: "lương hưu",
+      example: "He lives comfortably on his pension.",
+      context: "Work & Career - Exit"
+    },
+    {
+      name: "termination",
+      ipa: "/ˌtɜː.mɪˈneɪ.ʃən/",
+      wordIpa: "/ˌtɜː.mɪˈneɪ.ʃən/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/termination.mp3",
+      type: "Noun",
+      meaning: "sự chấm dứt hợp đồng",
+      example: "His contract was terminated without notice.",
+      context: "Work & Career - Exit"
+    },
+    {
+      name: "handover",
+      ipa: "/ˈhændˌəʊ.vər/",
+      wordIpa: "/ˈhændˌəʊ.vər/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/handover.mp3",
+      type: "Noun",
+      meaning: "bàn giao công việc",
+      example: "He prepared a detailed handover before leaving.",
+      context: "Work & Career - Exit"
+    },
+    {
+      name: "exit interview",
+      ipa: "/ˈek.sɪt ˈɪn.tə.vjuː/",
+      wordIpa: "/ˈek.sɪt ˈɪn.tə.vjuː/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/exit_interview.mp3",
+      type: "Noun",
+      meaning: "phỏng vấn nghỉ việc",
+      example: "The HR department conducted an exit interview.",
+      context: "Work & Career - Exit"
+    },
+    {
+      name: "severance",
+      ipa: "/ˈsev.ər.əns/",
+      wordIpa: "/ˈsev.ər.əns/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/severance.mp3",
+      type: "Noun",
+      meaning: "tiền trợ cấp nghỉ việc",
+      example: "He received a severance package after leaving.",
+      context: "Work & Career - Exit"
+    },
+    {
+      name: "career break",
+      ipa: "/kəˈrɪər breɪk/",
+      wordIpa: "/kəˈrɪər breɪk/",
+      file: "/main/projects/english-courses/assets/data/ielts/work/audio/career_break.mp3",
+      type: "Noun",
+      meaning: "khoảng nghỉ trong sự nghiệp",
+      example: "She took a career break to travel the world.",
+      context: "Work & Career - Exit"
+    }
+  ]
 ];
 
 
