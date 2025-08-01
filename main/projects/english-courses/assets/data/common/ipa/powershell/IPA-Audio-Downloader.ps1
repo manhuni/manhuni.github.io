@@ -11,7 +11,7 @@ $baseUrl = "https://media.merriam-webster.com/audio/prons/en/us/mp3"
 
 # Danh sách từ
 $words = @(
-"employment","employer","employee","unemployment","recruitment","job seeker","vacancy","position","resume","interview","career","profession","promotion","retirement","salary","bonus","colleague","workload","job satisfaction","career path","promotion","career ladder","raise","job title","leadership","advance","executive","recognition","seniority","reputation","salary","wage","bonus","benefits","overtime","deduction","pension","contract","annual income","job security","salary","wage","bonus","benefits","overtime","deduction","pension","contract","annual income","job security","training","apprenticeship","on-the-job training","mentor","intern","internship","certification","upskill","reskill","knowledge transfer","entrepreneurship","startup","investor","pitch","co-founder","scalability","venture capital","freelancer","self-employed","side hustle","promotion","career ladder","job title","pay raise","performance review","merit-based","job rotation","training program","employee recognition","succession planning","job satisfaction","work-life balance","motivation","burnout","stress management","employee benefits","positive feedback","toxic workplace","engagement","recognition","promotion","raise","recognition","bonus","achievement","rewarding","goal","aspiration","incentive","milestone","resignation","redundancy","layoff","retire","pension","termination","handover","exit interview","severance","career break"
+    "climate change","global warming","carbon footprint","greenhouse gases","fossil fuels","renewable energy","deforestation","sea level rise","sustainability","environmental impact","poverty","inequality","homelessness","unemployment","refugee","migration","overpopulation","illiteracy","human rights","social welfare","pollution","contamination","toxic","waste","landfill","emissions","deforestation","greenhouse gases","recycling","biodegradable","war","conflict","refugee","violence","displacement","arms","civilian","ceasefire","military","peacekeeping","globalization","outsourcing","multinational","interdependence","cultural exchange","trade barrier","global workforce","economic integration","export","import","human rights","equality","freedom of speech","discrimination","minority","refugee","oppression","activist","violation","liberty","displacement","refugee","asylum","evacuation","internally displaced person","flee","host country","migration crisis","relocation","conflict zone","globalization","multinational","outsourcing","trade barrier","export","import","economic inequality","developed country","developing country","global workforce","epidemic","contagious","quarantine","pandemic","vaccination","outbreak","transmission","preventive","symptom","immune","migration","refugee","asylum","displacement","resettlement","emigration","immigration","border control","citizenship","visa"
 )
 
 $totalWords = $words.Count
@@ -27,6 +27,12 @@ foreach ($word in $words) {
     # Bỏ qua nếu file đã tồn tại
     if (Test-Path $outputFile) {
         Write-Host "Skipped (already exists): $word.mp3" -ForegroundColor Cyan
+        continue
+    }
+    $metaFile = "$downloadDir\$word.metadata"
+
+    if (Test-Path $outputFile -or Test-Path $metaFile) {
+        Write-Host "Skipped (already exists): $word.(mp3/metadata)" -ForegroundColor Cyan
         continue
     }
 
