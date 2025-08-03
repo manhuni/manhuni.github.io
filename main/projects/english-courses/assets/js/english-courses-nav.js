@@ -1,3 +1,11 @@
+(() => {
+  const currentScript = document.currentScript;
+  if (currentScript && currentScript.src) {
+    const url = new URL(currentScript.src);
+    console.log(`${url.pathname} loaded`);
+  }
+})();
+
 document.addEventListener("DOMContentLoaded", function () {
   const lessons = [
     { path: "main/projects/english-courses/index.html", label: "Khóa học Tiếng Anh" },

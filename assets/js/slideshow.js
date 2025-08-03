@@ -1,3 +1,10 @@
+(() => {
+  const currentScript = document.currentScript;
+  if (currentScript && currentScript.src) {
+    const url = new URL(currentScript.src);
+    console.log(`${url.pathname} loaded`);
+  }
+})();
 window.createSlideshow = function (selector, images = [], options = {}) {
   const container = document.querySelector(selector);
   if (!container || images.length === 0) return;

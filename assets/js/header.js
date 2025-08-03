@@ -1,3 +1,10 @@
+(() => {
+  const currentScript = document.currentScript;
+  if (currentScript && currentScript.src) {
+    const url = new URL(currentScript.src);
+    console.log(`${url.pathname} loaded`);
+  }
+})();
 const toggle = document.querySelector('.menu-toggle');
 const navList = document.querySelector('.nav ul');
 const backdrop = document.querySelector('.menu-backdrop');

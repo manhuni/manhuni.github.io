@@ -1,1 +1,8 @@
-console.log('🚀 index.js loaded from /assets/js/index.js');
+(() => {
+  const currentScript = document.currentScript;
+  if (currentScript && currentScript.src) {
+    const url = new URL(currentScript.src);
+    console.log(`${url.pathname} loaded`);
+  }
+})();
+

@@ -1,4 +1,10 @@
-console.log('💼 work.js loaded from main/work/assets/js/work.js');
+(() => {
+  const currentScript = document.currentScript;
+  if (currentScript && currentScript.src) {
+    const url = new URL(currentScript.src);
+    console.log(`${url.pathname} loaded`);
+  }
+})();
 
 document.addEventListener("DOMContentLoaded", () => {
   const tasks = document.querySelectorAll(".work-item");

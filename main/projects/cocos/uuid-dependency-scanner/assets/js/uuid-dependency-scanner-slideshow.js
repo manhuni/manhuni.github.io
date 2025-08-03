@@ -1,3 +1,11 @@
+(() => {
+  const currentScript = document.currentScript;
+  if (currentScript && currentScript.src) {
+    const url = new URL(currentScript.src);
+    console.log(`${url.pathname} loaded`);
+  }
+})();
+
 const slideshow1_images = [
   "/main/projects/cocos/uuid-dependency-scanner/assets/images/demo/structure-folder.jpg",
   "/main/projects/cocos/uuid-dependency-scanner/assets/images/demo/panel-location.jpg",

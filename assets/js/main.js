@@ -1,3 +1,10 @@
+(() => {
+  const currentScript = document.currentScript;
+  if (currentScript && currentScript.src) {
+    const url = new URL(currentScript.src);
+    console.log(`${url.pathname} loaded`);
+  }
+})();
 const BASE_PATH = '/'; // gốc domain
 
 async function loadComponent(id, url) {

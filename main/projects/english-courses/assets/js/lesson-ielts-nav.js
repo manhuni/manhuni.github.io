@@ -1,3 +1,11 @@
+(() => {
+  const currentScript = document.currentScript;
+  if (currentScript && currentScript.src) {
+    const url = new URL(currentScript.src);
+    console.log(`${url.pathname} loaded`);
+  }
+})();
+
 document.addEventListener("DOMContentLoaded", function () {
   const lessons = [
     { path: "ielts-nouns.html", label: "Nouns" },
