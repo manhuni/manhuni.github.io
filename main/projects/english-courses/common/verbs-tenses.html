@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="/assets/css/theme.css" />
   <link rel="stylesheet" href="../assets/css/verbs-tenses.css" />
   <link rel="stylesheet" href="/main/projects/english-courses/assets/css/lesson-common-nav.css" />
+  <link rel="stylesheet" href="/assets/css/markdown.css" />
 
 </head>
 
@@ -23,6 +24,30 @@
     </section>
 
     <section class="lesson-content">
+      <article id="lesson1" class="markdown-body"></article>
+      <article id="lesson2" class="markdown-body"></article> 
+
+      <script>
+        const lessons = [
+          { id: "lesson1", file: "../assets/md/verbs-tenses/lesson1.md" },
+          { id: "lesson2", file: "../assets/md/verbs-tenses/lesson2.md" },
+        ];
+
+        lessons.forEach(({ id, file }) => {
+          fetch(file)
+            .then(res => res.text())
+            .then(md => {
+              const html = DOMPurify.sanitize(marked.parse(md));
+              document.getElementById(id).innerHTML = html;
+            })
+            .catch(err => {
+              document.getElementById(id).innerHTML =
+                "<p style='color:red'>Không thể tải file Markdown.</p>";
+              console.error(err);
+            });
+        });
+      </script>
+
       <h2>1️⃣ Động từ (Verbs) là gì?</h2>
       <p><strong>Động từ</strong> là từ mô tả hành động hoặc trạng thái của chủ ngữ.</p>
 
@@ -102,10 +127,11 @@
   </main>
 
   <div id="footer"></div>
-<script src="/assets/js/main.js"></script>
+  <script src="/assets/js/main.js"></script>
   <script src="../assets/js/verbs-tenses.js"></script>
   <script src="../assets/js/lesson-common-nav.js"></script>
-
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.7/dist/purify.min.js"></script>
 </body>
 
 </html>
