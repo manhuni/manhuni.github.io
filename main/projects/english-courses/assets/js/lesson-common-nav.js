@@ -14,6 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
     { path: "adjectives-adverbs.html", label: "Tính từ & Trạng từ" },
     { path: "ipa-vowels.html", label: "Nguyên âm IPA" },
     { path: "think-english.html", label: "Tư duy tiếng Anh" },
+    { path: "english-markdown-list.html", label: "Danh sách các bài md nhỏ" },
   ];
 
   const current = window.location.pathname.split("/").pop();
