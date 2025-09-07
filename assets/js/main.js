@@ -38,14 +38,16 @@ async function loadComponent(id, url) {
 loadComponent('header', 'components/header.html');
 loadComponent('footer', 'components/footer.html');
 // --- Dictionary lookup feature --- //
-let lookupBtn;
+let lookupMenu;
 
-document.addEventListener("selectionchange", () => {
+document.addEventListener("mouseup", (e) => {
+  // Nếu click vào trong menu thì bỏ qua
+  if (lookupMenu && lookupMenu.contains(e.target)) return;
+
   const selectedText = window.getSelection().toString().trim();
 
-  // Nếu không có text thì ẩn nút
   if (!selectedText) {
-    if (lookupBtn) lookupBtn.remove();
+    if (lookupMenu) lookupMenu.remove();
     return;
   }
 
@@ -55,49 +57,137 @@ document.addEventListener("selectionchange", () => {
   const range = selection.getRangeAt(0);
   const rect = range.getBoundingClientRect();
 
-  // URL Merriam-Webster
-  const dictUrl =
-    "https://www.merriam-webster.com/dictionary/" +
-    encodeURIComponent(selectedText);
+  const urls = [
+    {
+      name: "Merriam-Webster",
+      url:
+        "https://www.merriam-webster.com/dictionary/" +
+        encodeURIComponent(selectedText),
+    },
+    {
+      name: "Cambridge",
+      url:
+        "https://dictionary.cambridge.org/spellcheck/english/?q=" +
+        encodeURIComponent(selectedText),
+    },
+  ];
 
-  showLookupButton(rect.right, rect.top, dictUrl, selectedText);
+  showLookupMenu(rect, urls, selectedText);
 });
 
-function showLookupButton(x, y, url, word) {
-  // Xóa nút cũ
-  if (lookupBtn) lookupBtn.remove();
 
-  lookupBtn = document.createElement("div");
-  lookupBtn.id = "lookup-btn";
-  lookupBtn.textContent = `Tra từ "${word}"`;
+// Ẩn menu khi click/tap ra ngoài
+document.addEventListener("mousedown", (e) => {
+  if (lookupMenu && !lookupMenu.contains(e.target)) {
+    setTimeout(() => {
+      if (lookupMenu) lookupMenu.remove();
+    }, 50);
+  }
+});
+document.addEventListener("touchstart", (e) => {
+  if (lookupMenu && !lookupMenu.contains(e.target)) {
+    setTimeout(() => {
+      if (lookupMenu) lookupMenu.remove();
+    }, 50);
+  }
+});
 
-  // Style giống tooltip Chrome
-  Object.assign(lookupBtn.style, {
+function showLookupMenu(rect, urls, word) {
+  if (lookupMenu) lookupMenu.remove();
+
+  lookupMenu = document.createElement("div");
+  lookupMenu.id = "lookup-menu";
+
+  // --- iOS-style container ---
+  Object.assign(lookupMenu.style, {
     position: "fixed",
-    top: y - 30 + "px",
-    left: x + "px",
-    padding: "2px 8px",
-    background: "#f1f3f4",
-    color: "#202124",
-    border: "1px solid #dadce0",
-    borderRadius: "4px",
-    cursor: "pointer",
-    fontSize: "12px",
-    fontFamily: "Arial, sans-serif",
-    zIndex: 9999,
-    userSelect: "none",
-    pointerEvents: "auto",
-    whiteSpace: "nowrap",
+    background: "#ffffff",
+    border: "1px solid rgba(0,0,0,0.1)",
+    borderRadius: "12px",
+    boxShadow: "0 4px 12px rgba(0,0,0,0.15)",
+    zIndex: "2147483647", // 🔥 luôn top nhất
+    pointerEvents: "auto", // 🔥 nhận được click
+    fontFamily:
+      "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+    overflow: "hidden",
+    opacity: "0",
+    transform: "scale(0.95)",
+    transition: "opacity 0.15s ease, transform 0.15s ease",
   });
 
-  lookupBtn.addEventListener("mousedown", (ev) => {
-    ev.preventDefault(); // giữ nguyên selection
+  urls.forEach((item, idx) => {
+    const option = document.createElement("div");
+    option.textContent = `${item.name} — "${word}"`;
+
+    Object.assign(option.style, {
+      padding: "10px 16px",
+      fontSize: "15px",
+      color: "#000",
+      cursor: "pointer",
+      whiteSpace: "nowrap",
+      borderTop: idx > 0 ? "1px solid #e5e5ea" : "none",
+      background: "#fff",
+      transition: "background 0.2s ease",
+      userSelect: "none",
+      pointerEvents: "auto",
+    });
+
+    option.addEventListener("mouseenter", () => {
+      option.style.background = "#f2f2f7";
+    });
+    option.addEventListener("mouseleave", () => {
+      option.style.background = "#ffffff";
+    });
+
+    // Desktop click
+    option.addEventListener("click", (ev) => {
+      ev.stopPropagation();
+      console.log("CLICK:", item.url); // debug
+      window.open(item.url, "_blank");
+      if (lookupMenu) lookupMenu.remove();
+    });
+
+    // Mobile tap
+    option.addEventListener("touchend", (ev) => {
+      ev.stopPropagation();
+      console.log("TOUCH:", item.url); // debug
+      window.open(item.url, "_blank");
+      if (lookupMenu) lookupMenu.remove();
+    });
+
+    lookupMenu.appendChild(option);
   });
 
-  lookupBtn.addEventListener("click", () => {
-    window.open(url, "_blank");
-    lookupBtn.remove();
-  });
+  document.body.appendChild(lookupMenu);
 
-  document.body.appendChild(lookupBtn);
+  // --- Tính toán vị trí thông minh ---
+  const menuRect = lookupMenu.getBoundingClientRect();
+  let top, left;
+
+  if (rect.top - menuRect.height - 8 < 0) {
+    top = rect.bottom + 8; // dưới selection
+  } else {
+    top = rect.top - menuRect.height - 8; // trên selection
+  }
+
+  left = rect.left + rect.width / 2 - menuRect.width / 2;
+
+  if (left < 8) left = 8;
+  if (left + menuRect.width > window.innerWidth - 8) {
+    left = window.innerWidth - menuRect.width - 8;
+  }
+
+  if (top < 8) top = 8;
+  if (top + menuRect.height > window.innerHeight - 8) {
+    top = window.innerHeight - menuRect.height - 8;
+  }
+
+  lookupMenu.style.top = `${top}px`;
+  lookupMenu.style.left = `${left}px`;
+
+  // Trigger animation
+  requestAnimationFrame(() => {
+    lookupMenu.style.opacity = "1";
+    lookupMenu.style.transform = "scale(1)";
+  });
 }
