@@ -7,8 +7,7 @@
 })();
 
 document.addEventListener("DOMContentLoaded", function () {
-  const lessons = [
-    { path: "common/index.html", label: "Tài nguyên" },
+  const lessons = [ 
     { path: "cocos/index.html", label: "Cocos" },
   ];
 
