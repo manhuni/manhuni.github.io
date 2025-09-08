@@ -1,3 +1,5 @@
+// main.js
+
 (() => {
   const currentScript = document.currentScript;
   if (currentScript && currentScript.src) {
@@ -5,25 +7,26 @@
     console.log(`${url.pathname} loaded`);
   }
 })();
+
 const BASE_PATH = '/'; // gốc domain
 
+// ==================== COMPONENT LOADER ====================
 async function loadComponent(id, url) {
   const el = document.getElementById(id);
   const res = await fetch(BASE_PATH + url);
   const text = await res.text();
   el.innerHTML = text;
 
-  // Tìm tất cả <link rel="stylesheet"> bên trong component
+  // ✅ Chuyển <link rel="stylesheet"> trong component sang <head>
   el.querySelectorAll('link[rel="stylesheet"]').forEach(link => {
     const href = link.getAttribute('href');
-    // Tạo thẻ link mới
     const newLink = document.createElement('link');
     newLink.rel = 'stylesheet';
     newLink.href = href;
     document.head.appendChild(newLink);
-    // Xoá thẻ link cũ khỏi innerHTML để tránh trùng lặp
     link.remove();
   });
+
   // ✅ Load <script src="..."> thủ công
   el.querySelectorAll('script[src]').forEach(script => {
     const src = script.getAttribute('src');
@@ -37,17 +40,19 @@ async function loadComponent(id, url) {
 
 loadComponent('header', 'components/header.html');
 loadComponent('footer', 'components/footer.html');
+
+// ==================== LOOKUP FEATURE ====================
 let lookupMenu, lookupButton;
 
-// Desktop: mouseup
+// ✅ Desktop: mouseup
 document.addEventListener("mouseup", handleSelection);
 
-// Mobile: touchend
+// ✅ Mobile: touchend
 document.addEventListener("touchend", handleSelection);
 
 function handleSelection(e) {
-  // Nếu click vào menu thì bỏ qua
-  if ((lookupMenu && lookupMenu.contains(e.target)) || 
+  // Nếu click vào menu hoặc button → bỏ qua
+  if ((lookupMenu && lookupMenu.contains(e.target)) ||
       (lookupButton && lookupButton.contains(e.target))) return;
 
   const selectedText = window.getSelection().toString().trim();
@@ -62,14 +67,14 @@ function handleSelection(e) {
   const range = selection.getRangeAt(0);
   const rect = range.getBoundingClientRect();
 
-  // iOS check
+  // ✅ Check iOS
   const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
 
   if (isIOS) {
-    // 👉 Hiện nút nhỏ thay vì menu để không phá menu gốc
+    // 👉 iOS: hiện nút nhỏ để tránh conflict menu gốc
     showLookupButton(rect, selectedText);
   } else {
-    // 👉 Desktop & Android → show menu luôn
+    // 👉 Desktop & Android: hiện menu luôn
     showLookupMenu(rect, selectedText);
   }
 }
@@ -94,7 +99,8 @@ function showLookupButton(rect, word) {
     zIndex: 2147483647,
   });
 
-  lookupButton.addEventListener("click", () => {
+  lookupButton.addEventListener("click", (e) => {
+    e.stopPropagation();
     showLookupMenu(rect, word);
     lookupButton.remove();
   });
@@ -145,7 +151,8 @@ function showLookupMenu(rect, word) {
       background: "#fff",
       userSelect: "none",
     });
-    option.addEventListener("click", () => {
+    option.addEventListener("click", (e) => {
+      e.stopPropagation();
       window.open(item.url, "_blank");
       cleanup();
     });
@@ -154,6 +161,7 @@ function showLookupMenu(rect, word) {
 
   document.body.appendChild(lookupMenu);
 
+  // ✅ Tính toán vị trí
   const menuRect = lookupMenu.getBoundingClientRect();
   let top = rect.top - menuRect.height - 8;
   if (top < 0) top = rect.bottom + 8;
@@ -173,3 +181,25 @@ function cleanup() {
   lookupMenu = null;
   lookupButton = null;
 }
+
+// ==================== EXTRA FIXES ====================
+
+// Cho phép chọn text trong markdown-body
+const style = document.createElement("style");
+style.textContent = `
+  .markdown-body {
+    user-select: text !important;
+    -webkit-user-select: text !important;
+  }
+`;
+document.head.appendChild(style);
+
+// Ngăn recursion khi click menu / button
+document.addEventListener("click", (e) => {
+  if (lookupMenu && lookupMenu.contains(e.target)) {
+    e.stopPropagation();
+  }
+  if (lookupButton && lookupButton.contains(e.target)) {
+    e.stopPropagation();
+  }
+});
