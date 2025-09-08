@@ -53,7 +53,7 @@ document.addEventListener("touchend", handleSelection);
 function handleSelection(e) {
   // Nếu click vào menu hoặc button → bỏ qua
   if ((lookupMenu && lookupMenu.contains(e.target)) ||
-      (lookupButton && lookupButton.contains(e.target))) return;
+    (lookupButton && lookupButton.contains(e.target))) return;
 
   const selectedText = window.getSelection().toString().trim();
   if (!selectedText) {
@@ -67,16 +67,18 @@ function handleSelection(e) {
   const range = selection.getRangeAt(0);
   const rect = range.getBoundingClientRect();
 
-  // ✅ Check iOS
+  // ✅ Check platform
   const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+  const isAndroid = /Android/.test(navigator.userAgent);
 
-  if (isIOS) {
-    // 👉 iOS: hiện nút nhỏ để tránh conflict menu gốc
+  if (isIOS || isAndroid) {
+    // 👉 Mobile: hiện nút nhỏ để tránh conflict menu gốc
     showLookupButton(rect, selectedText);
   } else {
-    // 👉 Desktop & Android: hiện menu luôn
+    // 👉 Desktop: hiện menu luôn
     showLookupMenu(rect, selectedText);
   }
+
 }
 
 function showLookupButton(rect, word) {
