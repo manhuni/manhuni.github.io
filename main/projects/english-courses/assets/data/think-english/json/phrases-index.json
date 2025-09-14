@@ -133,5 +133,15 @@
         "category": "Degree Modifiers",
         "file": "phrases-degree.json",
         "description": "Các cụm từ diễn tả mức độ: so, too, very, quite, rather, pretty, fairly, enough… Dễ nhầm lẫn khi nói và viết tiếng Anh."
+    },
+    {
+        "category": "Common Adjectives & Adverbs",
+        "file": "adj-adv-phrases.json",
+        "description": "Tính từ và trạng từ phổ biến trong tiếng Anh, kèm IPA, nghĩa tiếng Việt và ví dụ minh họa."
+    },
+    {
+        "category": "Common Verbs",
+        "file": "verb-phrases.json",
+        "description": "Động từ phổ biến trong tiếng Anh, kèm IPA, nghĩa tiếng Việt, thì quá khứ, quá khứ phân từ và ví dụ minh họa."
     }
 ]

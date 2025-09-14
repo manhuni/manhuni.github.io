@@ -31,29 +31,49 @@ async function initThinkEnglish() {
         // Mở: nếu chưa có dữ liệu thì fetch
         if (!content.dataset.loaded) {
           content.innerHTML = `<p>⏳ Đang tải...</p>`;
-          const groupData = await fetch(`/main/projects/english-courses/assets/data/think-english/json/${group.file}`).then(r => r.json());
+
+          const groupData = await fetch(
+            `/main/projects/english-courses/assets/data/think-english/json/${group.file}`
+          ).then(r => r.json());
+
+          if (!Array.isArray(groupData) || groupData.length === 0) {
+            content.innerHTML = `<p>⚠️ Không có dữ liệu</p>`;
+            return;
+          }
+
+          // Lấy danh sách keys từ object đầu tiên
+          const keys = Object.keys(groupData[0]);
+
+          // Render header (thêm cột STT)
+          const thead = `
+        <thead>
+          <tr>
+            <th>STT</th>
+            ${keys.map(k => `<th>${k}</th>`).join('')}
+          </tr>
+        </thead>
+      `;
+
+          // Render body (thêm số thứ tự i+1)
+          const tbody = `
+        <tbody>
+          ${groupData.map((p, i) => `
+            <tr>
+              <td>${i + 1}</td>
+              ${keys.map(k => `<td>${p[k] || ''}</td>`).join('')}
+            </tr>
+          `).join('')}
+        </tbody>
+      `;
+
+          // Kết hợp thành bảng
           content.innerHTML = `
-            <table class="vocab-table">
-              <thead>
-                <tr>
-                  <th>Tiếng Anh</th>
-                  <th>IPA</th>
-                  <th>Ý nghĩa</th>
-                  <th>Tình huống</th>
-                </tr>
-              </thead>
-              <tbody>
-                ${groupData.map(p => `
-                  <tr>
-                    <td>${p.phrase}</td>
-                    <td>${p.ipa}</td>
-                    <td>${p.meaning}</td>
-                    <td>${p.context}</td>
-                  </tr>
-                `).join('')}
-              </tbody>
-            </table>
-          `;
+        <table class="vocab-table">
+          ${thead}
+          ${tbody}
+        </table>
+      `;
+
           content.dataset.loaded = 'true';
         }
         content.style.display = 'block';
@@ -62,6 +82,7 @@ async function initThinkEnglish() {
         content.style.display = 'none';
       }
     });
+
 
     wrapper.appendChild(btn);
     wrapper.appendChild(content);
