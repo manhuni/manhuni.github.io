@@ -143,5 +143,15 @@
         "category": "Common Verbs",
         "file": "verb-phrases.json",
         "description": "Động từ phổ biến trong tiếng Anh, kèm IPA, nghĩa tiếng Việt, thì quá khứ, quá khứ phân từ và ví dụ minh họa."
+    },
+    {
+        "category": "Common Nouns",
+        "file": "nouns-phrases.json",
+        "description": "Danh từ phổ biến trong tiếng Anh, kèm IPA, nghĩa tiếng Việt và ví dụ minh họa."
+    },
+    {
+        "category": "Common Phrasal Verbs",
+        "file": "phrasal-verbs.json",
+        "description": "Các cụm động từ phổ biến trong tiếng Anh, kèm IPA, nghĩa tiếng Việt và ví dụ minh họa. Ví dụ: think of, run out of, look after, give up…"
     }
 ]

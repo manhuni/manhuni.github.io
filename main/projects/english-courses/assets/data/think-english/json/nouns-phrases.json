@@ -1,0 +1,1992 @@
+[
+    {
+        "word": "book",
+        "ipa_word": "/bʊk/",
+        "type": "Noun",
+        "meaning_word": "sách",
+        "phrase": "I am reading a book.",
+        "ipa_phrase": "/aɪ æm ˈriː.dɪŋ ə bʊk/",
+        "meaning_phrase": "Tôi đang đọc một quyển sách.",
+        "context": "Học tập"
+    },
+    {
+        "word": "pen",
+        "ipa_word": "/pen/",
+        "type": "Noun",
+        "meaning_word": "bút",
+        "phrase": "This pen is blue.",
+        "ipa_phrase": "/ðɪs pen ɪz bluː/",
+        "meaning_phrase": "Cây bút này màu xanh.",
+        "context": "Đồ dùng học tập"
+    },
+    {
+        "word": "table",
+        "ipa_word": "/ˈteɪ.bəl/",
+        "type": "Noun",
+        "meaning_word": "cái bàn",
+        "phrase": "The table is made of wood.",
+        "ipa_phrase": "/ðə ˈteɪ.bəl ɪz meɪd əv wʊd/",
+        "meaning_phrase": "Cái bàn được làm bằng gỗ.",
+        "context": "Đồ nội thất"
+    },
+    {
+        "word": "chair",
+        "ipa_word": "/tʃeər/",
+        "type": "Noun",
+        "meaning_word": "cái ghế",
+        "phrase": "He is sitting on a chair.",
+        "ipa_phrase": "/hiː ɪz ˈsɪt.ɪŋ ɒn ə tʃeər/",
+        "meaning_phrase": "Anh ấy đang ngồi trên ghế.",
+        "context": "Đồ nội thất"
+    },
+    {
+        "word": "car",
+        "ipa_word": "/kɑːr/",
+        "type": "Noun",
+        "meaning_word": "xe hơi",
+        "phrase": "My father has a new car.",
+        "ipa_phrase": "/maɪ ˈfɑː.ðər hæz ə njuː kɑːr/",
+        "meaning_phrase": "Cha tôi có một chiếc xe hơi mới.",
+        "context": "Phương tiện"
+    },
+    {
+        "word": "bus",
+        "ipa_word": "/bʌs/",
+        "type": "Noun",
+        "meaning_word": "xe buýt",
+        "phrase": "We go to school by bus.",
+        "ipa_phrase": "/wiː ɡoʊ tuː skuːl baɪ bʌs/",
+        "meaning_phrase": "Chúng tôi đi học bằng xe buýt.",
+        "context": "Phương tiện"
+    },
+    {
+        "word": "house",
+        "ipa_word": "/haʊs/",
+        "type": "Noun",
+        "meaning_word": "ngôi nhà",
+        "phrase": "They live in a big house.",
+        "ipa_phrase": "/ðeɪ lɪv ɪn ə bɪɡ haʊs/",
+        "meaning_phrase": "Họ sống trong một ngôi nhà lớn.",
+        "context": "Nơi ở"
+    },
+    {
+        "word": "school",
+        "ipa_word": "/skuːl/",
+        "type": "Noun",
+        "meaning_word": "trường học",
+        "phrase": "Our school is very clean.",
+        "ipa_phrase": "/ˈaʊər skuːl ɪz ˈver.i kliːn/",
+        "meaning_phrase": "Trường học của chúng tôi rất sạch sẽ.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "teacher",
+        "ipa_word": "/ˈtiː.tʃər/",
+        "type": "Noun",
+        "meaning_word": "giáo viên",
+        "phrase": "The teacher is kind.",
+        "ipa_phrase": "/ðə ˈtiː.tʃər ɪz kaɪnd/",
+        "meaning_phrase": "Giáo viên thì tốt bụng.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "student",
+        "ipa_word": "/ˈstjuː.dənt/",
+        "type": "Noun",
+        "meaning_word": "học sinh, sinh viên",
+        "phrase": "She is a good student.",
+        "ipa_phrase": "/ʃiː ɪz ə ɡʊd ˈstjuː.dənt/",
+        "meaning_phrase": "Cô ấy là một học sinh giỏi.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "dog",
+        "ipa_word": "/dɒɡ/",
+        "type": "Noun",
+        "meaning_word": "chó",
+        "phrase": "The dog is barking.",
+        "ipa_phrase": "/ðə dɒɡ ɪz ˈbɑː.kɪŋ/",
+        "meaning_phrase": "Con chó đang sủa.",
+        "context": "Động vật"
+    },
+    {
+        "word": "cat",
+        "ipa_word": "/kæt/",
+        "type": "Noun",
+        "meaning_word": "mèo",
+        "phrase": "The cat is sleeping.",
+        "ipa_phrase": "/ðə kæt ɪz ˈsliː.pɪŋ/",
+        "meaning_phrase": "Con mèo đang ngủ.",
+        "context": "Động vật"
+    },
+    {
+        "word": "bird",
+        "ipa_word": "/bɜːd/",
+        "type": "Noun",
+        "meaning_word": "chim",
+        "phrase": "A bird is flying in the sky.",
+        "ipa_phrase": "/ə bɜːd ɪz ˈflaɪ.ɪŋ ɪn ðə skaɪ/",
+        "meaning_phrase": "Một con chim đang bay trên trời.",
+        "context": "Động vật"
+    },
+    {
+        "word": "water",
+        "ipa_word": "/ˈwɔː.tər/",
+        "type": "Noun",
+        "meaning_word": "nước",
+        "phrase": "I drink water every day.",
+        "ipa_phrase": "/aɪ drɪŋk ˈwɔː.tər ˈev.ri deɪ/",
+        "meaning_phrase": "Tôi uống nước mỗi ngày.",
+        "context": "Đồ uống"
+    },
+    {
+        "word": "food",
+        "ipa_word": "/fuːd/",
+        "type": "Noun",
+        "meaning_word": "thức ăn",
+        "phrase": "The food is delicious.",
+        "ipa_phrase": "/ðə fuːd ɪz dɪˈlɪʃ.əs/",
+        "meaning_phrase": "Thức ăn rất ngon.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "apple",
+        "ipa_word": "/ˈæp.l̩/",
+        "type": "Noun",
+        "meaning_word": "quả táo",
+        "phrase": "She eats an apple.",
+        "ipa_phrase": "/ʃiː iːts ən ˈæp.l̩/",
+        "meaning_phrase": "Cô ấy ăn một quả táo.",
+        "context": "Hoa quả"
+    },
+    {
+        "word": "banana",
+        "ipa_word": "/bəˈnɑː.nə/",
+        "type": "Noun",
+        "meaning_word": "chuối",
+        "phrase": "Monkeys like bananas.",
+        "ipa_phrase": "/ˈmʌŋ.kiz laɪk bəˈnɑː.nəz/",
+        "meaning_phrase": "Khỉ thích chuối.",
+        "context": "Hoa quả"
+    },
+    {
+        "word": "friend",
+        "ipa_word": "/frend/",
+        "type": "Noun",
+        "meaning_word": "bạn bè",
+        "phrase": "He is my best friend.",
+        "ipa_phrase": "/hiː ɪz maɪ best frend/",
+        "meaning_phrase": "Anh ấy là bạn thân của tôi.",
+        "context": "Quan hệ xã hội"
+    },
+    {
+        "word": "family",
+        "ipa_word": "/ˈfæm.əl.i/",
+        "type": "Noun",
+        "meaning_word": "gia đình",
+        "phrase": "My family is big.",
+        "ipa_phrase": "/maɪ ˈfæm.əl.i ɪz bɪɡ/",
+        "meaning_phrase": "Gia đình tôi đông người.",
+        "context": "Quan hệ xã hội"
+    },
+    {
+        "word": "child",
+        "ipa_word": "/tʃaɪld/",
+        "type": "Noun",
+        "meaning_word": "trẻ em",
+        "phrase": "The child is playing outside.",
+        "ipa_phrase": "/ðə tʃaɪld ɪz ˈpleɪ.ɪŋ ˌaʊtˈsaɪd/",
+        "meaning_phrase": "Đứa trẻ đang chơi ngoài trời.",
+        "context": "Cuộc sống hàng ngày"
+    },
+    {
+        "word": "time",
+        "ipa_word": "/taɪm/",
+        "type": "Noun",
+        "meaning_word": "thời gian",
+        "phrase": "Time flies quickly.",
+        "ipa_phrase": "/taɪm flaɪz ˈkwɪkli/",
+        "meaning_phrase": "Thời gian trôi nhanh.",
+        "context": "Nói về thời gian"
+    },
+    {
+        "word": "year",
+        "ipa_word": "/jɪr/",
+        "type": "Noun",
+        "meaning_word": "năm",
+        "phrase": "This year is special.",
+        "ipa_phrase": "/ðɪs jɪr ɪz ˈspɛʃəl/",
+        "meaning_phrase": "Năm nay thật đặc biệt.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "day",
+        "ipa_word": "/deɪ/",
+        "type": "Noun",
+        "meaning_word": "ngày",
+        "phrase": "Today is a sunny day.",
+        "ipa_phrase": "/təˈdeɪ ɪz ə ˈsʌni deɪ/",
+        "meaning_phrase": "Hôm nay là một ngày nắng.",
+        "context": "Thời tiết, thời gian"
+    },
+    {
+        "word": "week",
+        "ipa_word": "/wiːk/",
+        "type": "Noun",
+        "meaning_word": "tuần",
+        "phrase": "We will meet next week.",
+        "ipa_phrase": "/wi wɪl miːt nɛkst wiːk/",
+        "meaning_phrase": "Chúng ta sẽ gặp nhau tuần sau.",
+        "context": "Lịch hẹn"
+    },
+    {
+        "word": "month",
+        "ipa_word": "/mʌnθ/",
+        "type": "Noun",
+        "meaning_word": "tháng",
+        "phrase": "She was born last month.",
+        "ipa_phrase": "/ʃi wəz bɔrn læst mʌnθ/",
+        "meaning_phrase": "Cô ấy sinh tháng trước.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "life",
+        "ipa_word": "/laɪf/",
+        "type": "Noun",
+        "meaning_word": "cuộc sống",
+        "phrase": "Life is beautiful.",
+        "ipa_phrase": "/laɪf ɪz ˈbjuːtəfəl/",
+        "meaning_phrase": "Cuộc sống thật đẹp.",
+        "context": "Triết lý sống"
+    },
+    {
+        "word": "world",
+        "ipa_word": "/wɜːrld/",
+        "type": "Noun",
+        "meaning_word": "thế giới",
+        "phrase": "The world is changing.",
+        "ipa_phrase": "/ðə wɜːrld ɪz ˈʧeɪnʤɪŋ/",
+        "meaning_phrase": "Thế giới đang thay đổi.",
+        "context": "Xã hội, toàn cầu"
+    },
+    {
+        "word": "school",
+        "ipa_word": "/skuːl/",
+        "type": "Noun",
+        "meaning_word": "trường học",
+        "phrase": "My school is big.",
+        "ipa_phrase": "/maɪ skuːl ɪz bɪɡ/",
+        "meaning_phrase": "Trường của tôi rất lớn.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "student",
+        "ipa_word": "/ˈstuːdənt/",
+        "type": "Noun",
+        "meaning_word": "học sinh, sinh viên",
+        "phrase": "She is a good student.",
+        "ipa_phrase": "/ʃi ɪz ə ɡʊd ˈstuːdənt/",
+        "meaning_phrase": "Cô ấy là một học sinh giỏi.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "teacher",
+        "ipa_word": "/ˈtiːʧər/",
+        "type": "Noun",
+        "meaning_word": "giáo viên",
+        "phrase": "The teacher explains well.",
+        "ipa_phrase": "/ðə ˈtiːʧər ɪkˈspleɪnz wɛl/",
+        "meaning_phrase": "Giáo viên giảng rất hay.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "family",
+        "ipa_word": "/ˈfæməli/",
+        "type": "Noun",
+        "meaning_word": "gia đình",
+        "phrase": "Family comes first.",
+        "ipa_phrase": "/ˈfæməli kʌmz fɜrst/",
+        "meaning_phrase": "Gia đình là trên hết.",
+        "context": "Cuộc sống"
+    },
+    {
+        "word": "friend",
+        "ipa_word": "/frɛnd/",
+        "type": "Noun",
+        "meaning_word": "bạn bè",
+        "phrase": "He is my best friend.",
+        "ipa_phrase": "/hi ɪz maɪ bɛst frɛnd/",
+        "meaning_phrase": "Anh ấy là bạn thân của tôi.",
+        "context": "Quan hệ xã hội"
+    },
+    {
+        "word": "child",
+        "ipa_word": "/ʧaɪld/",
+        "type": "Noun",
+        "meaning_word": "trẻ em",
+        "phrase": "The child is playing outside.",
+        "ipa_phrase": "/ðə ʧaɪld ɪz ˈpleɪɪŋ ˈaʊtsaɪd/",
+        "meaning_phrase": "Đứa trẻ đang chơi bên ngoài.",
+        "context": "Gia đình, trẻ em"
+    },
+    {
+        "word": "parent",
+        "ipa_word": "/ˈpɛrənt/",
+        "type": "Noun",
+        "meaning_word": "cha mẹ",
+        "phrase": "Parents love their children.",
+        "ipa_phrase": "/ˈpɛrənts lʌv ðɛr ˈʧɪldrən/",
+        "meaning_phrase": "Cha mẹ yêu con cái.",
+        "context": "Gia đình"
+    },
+    {
+        "word": "food",
+        "ipa_word": "/fuːd/",
+        "type": "Noun",
+        "meaning_word": "thức ăn",
+        "phrase": "The food is delicious.",
+        "ipa_phrase": "/ðə fuːd ɪz dɪˈlɪʃəs/",
+        "meaning_phrase": "Món ăn rất ngon.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "water",
+        "ipa_word": "/ˈwɔːtər/",
+        "type": "Noun",
+        "meaning_word": "nước",
+        "phrase": "Water is essential for life.",
+        "ipa_phrase": "/ˈwɔːtər ɪz ɪˈsɛnʃəl fɔr laɪf/",
+        "meaning_phrase": "Nước rất cần thiết cho sự sống.",
+        "context": "Tự nhiên"
+    },
+    {
+        "word": "money",
+        "ipa_word": "/ˈmʌni/",
+        "type": "Noun",
+        "meaning_word": "tiền",
+        "phrase": "Money can’t buy happiness.",
+        "ipa_phrase": "/ˈmʌni kænt baɪ ˈhæpinəs/",
+        "meaning_phrase": "Tiền không mua được hạnh phúc.",
+        "context": "Kinh tế, cuộc sống"
+    },
+    {
+        "word": "job",
+        "ipa_word": "/ʤɑːb/",
+        "type": "Noun",
+        "meaning_word": "công việc",
+        "phrase": "He has a good job.",
+        "ipa_phrase": "/hi hæz ə ɡʊd ʤɑːb/",
+        "meaning_phrase": "Anh ấy có một công việc tốt.",
+        "context": "Công việc"
+    },
+    {
+        "word": "country",
+        "ipa_word": "/ˈkʌntri/",
+        "type": "Noun",
+        "meaning_word": "quốc gia",
+        "phrase": "Vietnam is my country.",
+        "ipa_phrase": "/ˌviːɛtˈnɑːm ɪz maɪ ˈkʌntri/",
+        "meaning_phrase": "Việt Nam là đất nước của tôi.",
+        "context": "Quốc gia"
+    },
+    {
+        "word": "city",
+        "ipa_word": "/ˈsɪti/",
+        "type": "Noun",
+        "meaning_word": "thành phố",
+        "phrase": "Ho Chi Minh City is large.",
+        "ipa_phrase": "/hoʊ ʧiː mɪn ˈsɪti ɪz lɑːrʤ/",
+        "meaning_phrase": "Thành phố Hồ Chí Minh rất lớn.",
+        "context": "Địa lý"
+    },
+    {
+        "word": "village",
+        "ipa_word": "/ˈvɪlɪʤ/",
+        "type": "Noun",
+        "meaning_word": "làng",
+        "phrase": "She lives in a small village.",
+        "ipa_phrase": "/ʃi lɪvz ɪn ə smɔːl ˈvɪlɪʤ/",
+        "meaning_phrase": "Cô ấy sống trong một ngôi làng nhỏ.",
+        "context": "Địa lý"
+    },
+    {
+        "word": "house",
+        "ipa_word": "/haʊs/",
+        "type": "Noun",
+        "meaning_word": "ngôi nhà",
+        "phrase": "This is my house.",
+        "ipa_phrase": "/ðɪs ɪz maɪ haʊs/",
+        "meaning_phrase": "Đây là ngôi nhà của tôi.",
+        "context": "Gia đình"
+    },
+    {
+        "word": "room",
+        "ipa_word": "/ruːm/",
+        "type": "Noun",
+        "meaning_word": "phòng",
+        "phrase": "The room is clean.",
+        "ipa_phrase": "/ðə ruːm ɪz kliːn/",
+        "meaning_phrase": "Căn phòng sạch sẽ.",
+        "context": "Nhà cửa"
+    },
+    {
+        "word": "street",
+        "ipa_word": "/striːt/",
+        "type": "Noun",
+        "meaning_word": "đường phố",
+        "phrase": "The street is crowded.",
+        "ipa_phrase": "/ðə striːt ɪz ˈkraʊdɪd/",
+        "meaning_phrase": "Con phố rất đông đúc.",
+        "context": "Thành phố"
+    },
+    {
+        "word": "car",
+        "ipa_word": "/kɑːr/",
+        "type": "Noun",
+        "meaning_word": "xe hơi",
+        "phrase": "He drives a red car.",
+        "ipa_phrase": "/hi draɪvz ə rɛd kɑːr/",
+        "meaning_phrase": "Anh ấy lái một chiếc xe đỏ.",
+        "context": "Phương tiện"
+    },
+    {
+        "word": "bus",
+        "ipa_word": "/bʌs/",
+        "type": "Noun",
+        "meaning_word": "xe buýt",
+        "phrase": "We took the bus to school.",
+        "ipa_phrase": "/wi tʊk ðə bʌs tə skuːl/",
+        "meaning_phrase": "Chúng tôi đi học bằng xe buýt.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "train",
+        "ipa_word": "/treɪn/",
+        "type": "Noun",
+        "meaning_word": "tàu hỏa",
+        "phrase": "The train is late.",
+        "ipa_phrase": "/ðə treɪn ɪz leɪt/",
+        "meaning_phrase": "Tàu hỏa bị trễ.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "airplane",
+        "ipa_word": "/ˈɛrpleɪn/",
+        "type": "Noun",
+        "meaning_word": "máy bay",
+        "phrase": "The airplane is flying high.",
+        "ipa_phrase": "/ði ˈɛrpleɪn ɪz ˈflaɪɪŋ haɪ/",
+        "meaning_phrase": "Chiếc máy bay đang bay cao.",
+        "context": "Hàng không"
+    },
+    {
+        "word": "bicycle",
+        "ipa_word": "/ˈbaɪsɪkl/",
+        "type": "Noun",
+        "meaning_word": "xe đạp",
+        "phrase": "She rides her bicycle to work.",
+        "ipa_phrase": "/ʃi raɪdz hɜr ˈbaɪsɪkl tə wɜrk/",
+        "meaning_phrase": "Cô ấy đi làm bằng xe đạp.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "motorbike",
+        "ipa_word": "/ˈmoʊtərbaɪk/",
+        "type": "Noun",
+        "meaning_word": "xe máy",
+        "phrase": "He bought a new motorbike.",
+        "ipa_phrase": "/hi bɔt ə nu ˈmoʊtərbaɪk/",
+        "meaning_phrase": "Anh ấy mua một chiếc xe máy mới.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "book",
+        "ipa_word": "/bʊk/",
+        "type": "Noun",
+        "meaning_word": "sách",
+        "phrase": "This book is interesting.",
+        "ipa_phrase": "/ðɪs bʊk ɪz ˈɪntrəstɪŋ/",
+        "meaning_phrase": "Cuốn sách này rất thú vị.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "pen",
+        "ipa_word": "/pɛn/",
+        "type": "Noun",
+        "meaning_word": "bút",
+        "phrase": "I need a blue pen.",
+        "ipa_phrase": "/aɪ nid ə blu pɛn/",
+        "meaning_phrase": "Tôi cần một cây bút màu xanh.",
+        "context": "Học tập"
+    },
+    {
+        "word": "bag",
+        "ipa_word": "/bæɡ/",
+        "type": "Noun",
+        "meaning_word": "cái túi",
+        "phrase": "Her bag is heavy.",
+        "ipa_phrase": "/hɜr bæɡ ɪz ˈhɛvi/",
+        "meaning_phrase": "Túi của cô ấy nặng.",
+        "context": "Vật dụng"
+    },
+    {
+        "word": "computer",
+        "ipa_word": "/kəmˈpjuːtər/",
+        "type": "Noun",
+        "meaning_word": "máy tính",
+        "phrase": "The computer is new.",
+        "ipa_phrase": "/ðə kəmˈpjuːtər ɪz nu/",
+        "meaning_phrase": "Máy tính này mới.",
+        "context": "Công nghệ"
+    },
+    {
+        "word": "phone",
+        "ipa_word": "/foʊn/",
+        "type": "Noun",
+        "meaning_word": "điện thoại",
+        "phrase": "My phone is broken.",
+        "ipa_phrase": "/maɪ foʊn ɪz ˈbroʊkən/",
+        "meaning_phrase": "Điện thoại của tôi bị hỏng.",
+        "context": "Công nghệ"
+    },
+    {
+        "word": "music",
+        "ipa_word": "/ˈmjuːzɪk/",
+        "type": "Noun",
+        "meaning_word": "âm nhạc",
+        "phrase": "She loves listening to music.",
+        "ipa_phrase": "/ʃi lʌvz ˈlɪsənɪŋ tə ˈmjuːzɪk/",
+        "meaning_phrase": "Cô ấy thích nghe nhạc.",
+        "context": "Giải trí"
+    },
+    {
+        "word": "movie",
+        "ipa_word": "/ˈmuːvi/",
+        "type": "Noun",
+        "meaning_word": "phim",
+        "phrase": "That movie is funny.",
+        "ipa_phrase": "/ðæt ˈmuːvi ɪz ˈfʌni/",
+        "meaning_phrase": "Bộ phim đó rất hài hước.",
+        "context": "Giải trí"
+    },
+    {
+        "word": "game",
+        "ipa_word": "/ɡeɪm/",
+        "type": "Noun",
+        "meaning_word": "trò chơi",
+        "phrase": "They are playing a game.",
+        "ipa_phrase": "/ðeɪ ɑr ˈpleɪɪŋ ə ɡeɪm/",
+        "meaning_phrase": "Họ đang chơi một trò chơi.",
+        "context": "Giải trí"
+    },
+    {
+        "word": "sport",
+        "ipa_word": "/spɔrt/",
+        "type": "Noun",
+        "meaning_word": "thể thao",
+        "phrase": "Football is a popular sport.",
+        "ipa_phrase": "/ˈfʊtbɔl ɪz ə ˈpɑpjələr spɔrt/",
+        "meaning_phrase": "Bóng đá là môn thể thao phổ biến.",
+        "context": "Thể thao"
+    },
+    {
+        "word": "story",
+        "ipa_word": "/ˈstɔːri/",
+        "type": "Noun",
+        "meaning_word": "câu chuyện",
+        "phrase": "He told me a funny story.",
+        "ipa_phrase": "/hi toʊld mi ə ˈfʌni ˈstɔːri/",
+        "meaning_phrase": "Anh ấy kể cho tôi một câu chuyện hài hước.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "teacher",
+        "ipa_word": "/ˈtiːʧər/",
+        "type": "Noun",
+        "meaning_word": "giáo viên",
+        "phrase": "The teacher is kind.",
+        "ipa_phrase": "/ðə ˈtiːʧər ɪz kaɪnd/",
+        "meaning_phrase": "Cô giáo rất tốt bụng.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "student",
+        "ipa_word": "/ˈstuːdənt/",
+        "type": "Noun",
+        "meaning_word": "học sinh, sinh viên",
+        "phrase": "The students are studying.",
+        "ipa_phrase": "/ðə ˈstuːdənts ɑr ˈstʌdiɪŋ/",
+        "meaning_phrase": "Các học sinh đang học.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "doctor",
+        "ipa_word": "/ˈdɑːktər/",
+        "type": "Noun",
+        "meaning_word": "bác sĩ",
+        "phrase": "The doctor is busy.",
+        "ipa_phrase": "/ðə ˈdɑːktər ɪz ˈbɪzi/",
+        "meaning_phrase": "Bác sĩ rất bận.",
+        "context": "Nghề nghiệp"
+    },
+    {
+        "word": "nurse",
+        "ipa_word": "/nɜrs/",
+        "type": "Noun",
+        "meaning_word": "y tá",
+        "phrase": "The nurse is helping the patient.",
+        "ipa_phrase": "/ðə nɜrs ɪz ˈhɛlpɪŋ ðə ˈpeɪʃənt/",
+        "meaning_phrase": "Y tá đang giúp đỡ bệnh nhân.",
+        "context": "Nghề nghiệp"
+    },
+    {
+        "word": "farmer",
+        "ipa_word": "/ˈfɑrmər/",
+        "type": "Noun",
+        "meaning_word": "nông dân",
+        "phrase": "The farmer works in the field.",
+        "ipa_phrase": "/ðə ˈfɑrmər wɜrks ɪn ðə fild/",
+        "meaning_phrase": "Người nông dân làm việc trên cánh đồng.",
+        "context": "Nghề nghiệp"
+    },
+    {
+        "word": "worker",
+        "ipa_word": "/ˈwɜrkər/",
+        "type": "Noun",
+        "meaning_word": "công nhân",
+        "phrase": "The workers are building a house.",
+        "ipa_phrase": "/ðə ˈwɜrkərz ɑr ˈbɪldɪŋ ə haʊs/",
+        "meaning_phrase": "Các công nhân đang xây dựng một ngôi nhà.",
+        "context": "Nghề nghiệp"
+    },
+    {
+        "word": "driver",
+        "ipa_word": "/ˈdraɪvər/",
+        "type": "Noun",
+        "meaning_word": "tài xế",
+        "phrase": "The driver is waiting in the car.",
+        "ipa_phrase": "/ðə ˈdraɪvər ɪz ˈweɪtɪŋ ɪn ðə kɑr/",
+        "meaning_phrase": "Người tài xế đang chờ trong xe.",
+        "context": "Nghề nghiệp"
+    },
+    {
+        "word": "police",
+        "ipa_word": "/pəˈliːs/",
+        "type": "Noun",
+        "meaning_word": "cảnh sát",
+        "phrase": "The police are coming.",
+        "ipa_phrase": "/ðə pəˈliːs ɑr ˈkʌmɪŋ/",
+        "meaning_phrase": "Cảnh sát đang đến.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "firefighter",
+        "ipa_word": "/ˈfaɪərˌfaɪtər/",
+        "type": "Noun",
+        "meaning_word": "lính cứu hỏa",
+        "phrase": "The firefighter saved the cat.",
+        "ipa_phrase": "/ðə ˈfaɪərˌfaɪtər seɪvd ðə kæt/",
+        "meaning_phrase": "Người lính cứu hỏa đã cứu con mèo.",
+        "context": "Nghề nghiệp"
+    },
+    {
+        "word": "singer",
+        "ipa_word": "/ˈsɪŋər/",
+        "type": "Noun",
+        "meaning_word": "ca sĩ",
+        "phrase": "The singer has a beautiful voice.",
+        "ipa_phrase": "/ðə ˈsɪŋər hæz ə ˈbjutəfəl vɔɪs/",
+        "meaning_phrase": "Ca sĩ có giọng hát hay.",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "dancer",
+        "ipa_word": "/ˈdænsər/",
+        "type": "Noun",
+        "meaning_word": "vũ công",
+        "phrase": "The dancer is very talented.",
+        "ipa_phrase": "/ðə ˈdænsər ɪz ˈvɛri ˈtæləntɪd/",
+        "meaning_phrase": "Vũ công rất tài năng.",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "actor",
+        "ipa_word": "/ˈæktər/",
+        "type": "Noun",
+        "meaning_word": "diễn viên nam",
+        "phrase": "The actor is famous.",
+        "ipa_phrase": "/ðə ˈæktər ɪz ˈfeɪməs/",
+        "meaning_phrase": "Nam diễn viên rất nổi tiếng.",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "actress",
+        "ipa_word": "/ˈæktrəs/",
+        "type": "Noun",
+        "meaning_word": "diễn viên nữ",
+        "phrase": "The actress won an award.",
+        "ipa_phrase": "/ði ˈæktrəs wʌn ən əˈwɔrd/",
+        "meaning_phrase": "Nữ diễn viên đã giành được giải thưởng.",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "cook",
+        "ipa_word": "/kʊk/",
+        "type": "Noun",
+        "meaning_word": "đầu bếp",
+        "phrase": "The cook is preparing dinner.",
+        "ipa_phrase": "/ðə kʊk ɪz prɪˈpɛrɪŋ ˈdɪnər/",
+        "meaning_phrase": "Đầu bếp đang chuẩn bị bữa tối.",
+        "context": "Nghề nghiệp"
+    },
+    {
+        "word": "shop",
+        "ipa_word": "/ʃɑp/",
+        "type": "Noun",
+        "meaning_word": "cửa hàng",
+        "phrase": "The shop is closed today.",
+        "ipa_phrase": "/ðə ʃɑp ɪz kloʊzd təˈdeɪ/",
+        "meaning_phrase": "Cửa hàng hôm nay đóng cửa.",
+        "context": "Thương mại"
+    },
+    {
+        "word": "market",
+        "ipa_word": "/ˈmɑrkɪt/",
+        "type": "Noun",
+        "meaning_word": "chợ",
+        "phrase": "The market is busy in the morning.",
+        "ipa_phrase": "/ðə ˈmɑrkɪt ɪz ˈbɪzi ɪn ðə ˈmɔrnɪŋ/",
+        "meaning_phrase": "Buổi sáng chợ rất đông đúc.",
+        "context": "Thương mại"
+    },
+    {
+        "word": "bank",
+        "ipa_word": "/bæŋk/",
+        "type": "Noun",
+        "meaning_word": "ngân hàng",
+        "phrase": "I need to go to the bank.",
+        "ipa_phrase": "/aɪ nid tə goʊ tə ðə bæŋk/",
+        "meaning_phrase": "Tôi cần đi đến ngân hàng.",
+        "context": "Tài chính"
+    },
+    {
+        "word": "hospital",
+        "ipa_word": "/ˈhɑspɪtl/",
+        "type": "Noun",
+        "meaning_word": "bệnh viện",
+        "phrase": "The hospital is full of patients.",
+        "ipa_phrase": "/ðə ˈhɑspɪtl ɪz fʊl əv ˈpeɪʃənts/",
+        "meaning_phrase": "Bệnh viện đầy bệnh nhân.",
+        "context": "Y tế"
+    },
+    {
+        "word": "school",
+        "ipa_word": "/skuːl/",
+        "type": "Noun",
+        "meaning_word": "trường học",
+        "phrase": "The school is near my house.",
+        "ipa_phrase": "/ðə skuːl ɪz nɪr maɪ haʊs/",
+        "meaning_phrase": "Trường học ở gần nhà tôi.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "university",
+        "ipa_word": "/ˌjuːnɪˈvɜrsɪti/",
+        "type": "Noun",
+        "meaning_word": "trường đại học",
+        "phrase": "She studies at a big university.",
+        "ipa_phrase": "/ʃi ˈstʌdiz æt ə bɪg ˌjuːnɪˈvɜrsɪti/",
+        "meaning_phrase": "Cô ấy học ở một trường đại học lớn.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "restaurant",
+        "ipa_word": "/ˈrɛstərɑːnt/",
+        "type": "Noun",
+        "meaning_word": "nhà hàng",
+        "phrase": "We had dinner at a restaurant.",
+        "ipa_phrase": "/wi hæd ˈdɪnər æt ə ˈrɛstərɑːnt/",
+        "meaning_phrase": "Chúng tôi đã ăn tối ở một nhà hàng.",
+        "context": "Ăn uống"
+    },
+    {
+        "word": "cafe",
+        "ipa_word": "/kæˈfeɪ/",
+        "type": "Noun",
+        "meaning_word": "quán cà phê",
+        "phrase": "Let's meet at the cafe.",
+        "ipa_phrase": "/lɛts miːt æt ðə kæˈfeɪ/",
+        "meaning_phrase": "Hãy gặp nhau tại quán cà phê.",
+        "context": "Ăn uống"
+    },
+    {
+        "word": "hotel",
+        "ipa_word": "/hoʊˈtɛl/",
+        "type": "Noun",
+        "meaning_word": "khách sạn",
+        "phrase": "We stayed at a luxury hotel.",
+        "ipa_phrase": "/wi steɪd æt ə ˈlʌkʃəri hoʊˈtɛl/",
+        "meaning_phrase": "Chúng tôi ở một khách sạn sang trọng.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "airport",
+        "ipa_word": "/ˈɛərpɔːrt/",
+        "type": "Noun",
+        "meaning_word": "sân bay",
+        "phrase": "The airport is very crowded.",
+        "ipa_phrase": "/ðə ˈɛərpɔːrt ɪz ˈvɛri ˈkraʊdɪd/",
+        "meaning_phrase": "Sân bay rất đông đúc.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "station",
+        "ipa_word": "/ˈsteɪʃən/",
+        "type": "Noun",
+        "meaning_word": "ga",
+        "phrase": "The train leaves the station at 9 am.",
+        "ipa_phrase": "/ðə treɪn liːvz ðə ˈsteɪʃən æt naɪn eɪˈɛm/",
+        "meaning_phrase": "Tàu rời ga lúc 9 giờ sáng.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "park",
+        "ipa_word": "/pɑːrk/",
+        "type": "Noun",
+        "meaning_word": "công viên",
+        "phrase": "We are walking in the park.",
+        "ipa_phrase": "/wi ɑr ˈwɔkɪŋ ɪn ðə pɑːrk/",
+        "meaning_phrase": "Chúng tôi đang đi dạo trong công viên.",
+        "context": "Giải trí"
+    },
+    {
+        "word": "library",
+        "ipa_word": "/ˈlaɪbrɛri/",
+        "type": "Noun",
+        "meaning_word": "thư viện",
+        "phrase": "The library is quiet.",
+        "ipa_phrase": "/ðə ˈlaɪbrɛri ɪz ˈkwaɪət/",
+        "meaning_phrase": "Thư viện rất yên tĩnh.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "museum",
+        "ipa_word": "/mjuːˈziːəm/",
+        "type": "Noun",
+        "meaning_word": "bảo tàng",
+        "phrase": "We visited the museum yesterday.",
+        "ipa_phrase": "/wi ˈvɪzɪtɪd ðə mjuːˈziːəm ˈjɛstərdeɪ/",
+        "meaning_phrase": "Chúng tôi đã tham quan bảo tàng hôm qua.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "beach",
+        "ipa_word": "/biːʧ/",
+        "type": "Noun",
+        "meaning_word": "bãi biển",
+        "phrase": "They went to the beach.",
+        "ipa_phrase": "/ðeɪ wɛnt tə ðə biːʧ/",
+        "meaning_phrase": "Họ đã đi đến bãi biển.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "mountain",
+        "ipa_word": "/ˈmaʊntən/",
+        "type": "Noun",
+        "meaning_word": "núi",
+        "phrase": "The mountain is covered with snow.",
+        "ipa_phrase": "/ðə ˈmaʊntən ɪz ˈkʌvərd wɪð snoʊ/",
+        "meaning_phrase": "Ngọn núi phủ đầy tuyết.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "river",
+        "ipa_word": "/ˈrɪvər/",
+        "type": "Noun",
+        "meaning_word": "sông",
+        "phrase": "The river flows fast.",
+        "ipa_phrase": "/ðə ˈrɪvər floʊz fæst/",
+        "meaning_phrase": "Con sông chảy nhanh.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "lake",
+        "ipa_word": "/leɪk/",
+        "type": "Noun",
+        "meaning_word": "hồ",
+        "phrase": "The lake is very deep.",
+        "ipa_phrase": "/ðə leɪk ɪz ˈvɛri diːp/",
+        "meaning_phrase": "Hồ rất sâu.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "tree",
+        "ipa_word": "/triː/",
+        "type": "Noun",
+        "meaning_word": "cây",
+        "phrase": "The tree is tall.",
+        "ipa_phrase": "/ðə triː ɪz tɔːl/",
+        "meaning_phrase": "Cây cao.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "flower",
+        "ipa_word": "/ˈflaʊər/",
+        "type": "Noun",
+        "meaning_word": "hoa",
+        "phrase": "The flower is beautiful.",
+        "ipa_phrase": "/ðə ˈflaʊər ɪz ˈbjuːtɪfəl/",
+        "meaning_phrase": "Bông hoa rất đẹp.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "animal",
+        "ipa_word": "/ˈænɪməl/",
+        "type": "Noun",
+        "meaning_word": "động vật",
+        "phrase": "The animal is wild.",
+        "ipa_phrase": "/ðə ˈænɪməl ɪz waɪld/",
+        "meaning_phrase": "Con vật này hoang dã.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "cat",
+        "ipa_word": "/kæt/",
+        "type": "Noun",
+        "meaning_word": "con mèo",
+        "phrase": "The cat is sleeping.",
+        "ipa_phrase": "/ðə kæt ɪz ˈsliːpɪŋ/",
+        "meaning_phrase": "Con mèo đang ngủ.",
+        "context": "Động vật"
+    },
+    {
+        "word": "dog",
+        "ipa_word": "/dɔːɡ/",
+        "type": "Noun",
+        "meaning_word": "con chó",
+        "phrase": "The dog is barking.",
+        "ipa_phrase": "/ðə dɔːɡ ɪz ˈbɑrkɪŋ/",
+        "meaning_phrase": "Con chó đang sủa.",
+        "context": "Động vật"
+    },
+    {
+        "word": "bird",
+        "ipa_word": "/bɜrd/",
+        "type": "Noun",
+        "meaning_word": "con chim",
+        "phrase": "The bird is singing.",
+        "ipa_phrase": "/ðə bɜrd ɪz ˈsɪŋɪŋ/",
+        "meaning_phrase": "Con chim đang hót.",
+        "context": "Động vật"
+    },
+    {
+        "word": "fish",
+        "ipa_word": "/fɪʃ/",
+        "type": "Noun",
+        "meaning_word": "con cá",
+        "phrase": "The fish swims in the pond.",
+        "ipa_phrase": "/ðə fɪʃ swɪmz ɪn ðə pɑnd/",
+        "meaning_phrase": "Con cá bơi trong ao.",
+        "context": "Động vật"
+    },
+    {
+        "word": "horse",
+        "ipa_word": "/hɔrs/",
+        "type": "Noun",
+        "meaning_word": "con ngựa",
+        "phrase": "The horse is running fast.",
+        "ipa_phrase": "/ðə hɔrs ɪz ˈrʌnɪŋ fæst/",
+        "meaning_phrase": "Con ngựa đang chạy nhanh.",
+        "context": "Động vật"
+    },
+    {
+        "word": "sun",
+        "ipa_word": "/sʌn/",
+        "type": "Noun",
+        "meaning_word": "mặt trời",
+        "phrase": "The sun is shining.",
+        "ipa_phrase": "/ðə sʌn ɪz ˈʃaɪnɪŋ/",
+        "meaning_phrase": "Mặt trời đang chiếu sáng.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "moon",
+        "ipa_word": "/muːn/",
+        "type": "Noun",
+        "meaning_word": "mặt trăng",
+        "phrase": "The moon is full tonight.",
+        "ipa_phrase": "/ðə muːn ɪz fʊl təˈnaɪt/",
+        "meaning_phrase": "Mặt trăng tròn tối nay.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "star",
+        "ipa_word": "/stɑːr/",
+        "type": "Noun",
+        "meaning_word": "ngôi sao",
+        "phrase": "The stars are bright.",
+        "ipa_phrase": "/ðə stɑːrz ɑr braɪt/",
+        "meaning_phrase": "Các ngôi sao sáng.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "cloud",
+        "ipa_word": "/klaʊd/",
+        "type": "Noun",
+        "meaning_word": "đám mây",
+        "phrase": "The clouds cover the sky.",
+        "ipa_phrase": "/ðə klaʊdz ˈkʌvər ðə skaɪ/",
+        "meaning_phrase": "Những đám mây che phủ bầu trời.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "rain",
+        "ipa_word": "/reɪn/",
+        "type": "Noun",
+        "meaning_word": "mưa",
+        "phrase": "The rain is falling.",
+        "ipa_phrase": "/ðə reɪn ɪz ˈfɔːlɪŋ/",
+        "meaning_phrase": "Cơn mưa đang rơi.",
+        "context": "Thời tiết"
+    },
+    {
+        "word": "snow",
+        "ipa_word": "/snoʊ/",
+        "type": "Noun",
+        "meaning_word": "tuyết",
+        "phrase": "The snow covers the mountain.",
+        "ipa_phrase": "/ðə snoʊ ˈkʌvərz ðə ˈmaʊntən/",
+        "meaning_phrase": "Tuyết phủ trên ngọn núi.",
+        "context": "Thời tiết"
+    },
+    {
+        "word": "wind",
+        "ipa_word": "/wɪnd/",
+        "type": "Noun",
+        "meaning_word": "gió",
+        "phrase": "The wind is strong today.",
+        "ipa_phrase": "/ðə wɪnd ɪz strɔŋ təˈdeɪ/",
+        "meaning_phrase": "Gió hôm nay thổi mạnh.",
+        "context": "Thời tiết"
+    },
+    {
+        "word": "storm",
+        "ipa_word": "/stɔːrm/",
+        "type": "Noun",
+        "meaning_word": "bão",
+        "phrase": "The storm damaged the house.",
+        "ipa_phrase": "/ðə stɔːrm ˈdæmɪdʒd ðə haʊs/",
+        "meaning_phrase": "Cơn bão làm hư hại ngôi nhà.",
+        "context": "Thời tiết"
+    },
+    {
+        "word": "water",
+        "ipa_word": "/ˈwɔːtər/",
+        "type": "Noun",
+        "meaning_word": "nước",
+        "phrase": "Water is essential for life.",
+        "ipa_phrase": "/ˈwɔːtər ɪz ɪˈsɛnʃəl fɔr laɪf/",
+        "meaning_phrase": "Nước là cần thiết cho sự sống.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "fire",
+        "ipa_word": "/ˈfaɪər/",
+        "type": "Noun",
+        "meaning_word": "lửa",
+        "phrase": "The fire is burning.",
+        "ipa_phrase": "/ðə ˈfaɪər ɪz ˈbɜrnɪŋ/",
+        "meaning_phrase": "Ngọn lửa đang cháy.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "earth",
+        "ipa_word": "/ɜːrθ/",
+        "type": "Noun",
+        "meaning_word": "trái đất",
+        "phrase": "Earth is our home.",
+        "ipa_phrase": "/ɜːrθ ɪz aʊər hoʊm/",
+        "meaning_phrase": "Trái đất là ngôi nhà của chúng ta.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "mountain range",
+        "ipa_word": "/ˈmaʊntən reɪndʒ/",
+        "type": "Noun",
+        "meaning_word": "dãy núi",
+        "phrase": "We hiked across the mountain range.",
+        "ipa_phrase": "/wi haɪkt əˈkrɔs ðə ˈmaʊntən reɪndʒ/",
+        "meaning_phrase": "Chúng tôi đi bộ xuyên qua dãy núi.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "forest",
+        "ipa_word": "/ˈfɔrɪst/",
+        "type": "Noun",
+        "meaning_word": "rừng",
+        "phrase": "The forest is dense.",
+        "ipa_phrase": "/ðə ˈfɔrɪst ɪz dɛns/",
+        "meaning_phrase": "Khu rừng rất rậm.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "tree trunk",
+        "ipa_word": "/triː trʌŋk/",
+        "type": "Noun",
+        "meaning_word": "thân cây",
+        "phrase": "The tree trunk is wide.",
+        "ipa_phrase": "/ðə triː trʌŋk ɪz waɪd/",
+        "meaning_phrase": "Thân cây rất rộng.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "leaf",
+        "ipa_word": "/liːf/",
+        "type": "Noun",
+        "meaning_word": "lá cây",
+        "phrase": "The leaf is green.",
+        "ipa_phrase": "/ðə liːf ɪz ɡriːn/",
+        "meaning_phrase": "Chiếc lá màu xanh.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "root",
+        "ipa_word": "/ruːt/",
+        "type": "Noun",
+        "meaning_word": "rễ cây",
+        "phrase": "The roots grow deep.",
+        "ipa_phrase": "/ðə ruːts ɡroʊ diːp/",
+        "meaning_phrase": "Rễ cây mọc sâu.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "branch",
+        "ipa_word": "/bræntʃ/",
+        "type": "Noun",
+        "meaning_word": "cành cây",
+        "phrase": "The bird is sitting on the branch.",
+        "ipa_phrase": "/ðə bɜrd ɪz ˈsɪtɪŋ ɑn ðə bræntʃ/",
+        "meaning_phrase": "Con chim đang đậu trên cành cây.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "soil",
+        "ipa_word": "/sɔɪl/",
+        "type": "Noun",
+        "meaning_word": "đất",
+        "phrase": "The soil is fertile.",
+        "ipa_phrase": "/ðə sɔɪl ɪz ˈfɜːrtəl/",
+        "meaning_phrase": "Đất rất màu mỡ.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "rock",
+        "ipa_word": "/rɑk/",
+        "type": "Noun",
+        "meaning_word": "đá",
+        "phrase": "The rock is heavy.",
+        "ipa_phrase": "/ðə rɑk ɪz ˈhɛvi/",
+        "meaning_phrase": "Tảng đá rất nặng.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "sand",
+        "ipa_word": "/sænd/",
+        "type": "Noun",
+        "meaning_word": "cát",
+        "phrase": "The sand is hot.",
+        "ipa_phrase": "/ðə sænd ɪz hɑt/",
+        "meaning_phrase": "Cát rất nóng.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "island",
+        "ipa_word": "/ˈaɪlənd/",
+        "type": "Noun",
+        "meaning_word": "hòn đảo",
+        "phrase": "They visited a tropical island.",
+        "ipa_phrase": "/ðeɪ ˈvɪzɪtɪd ə ˈtrɑpɪkəl ˈaɪlənd/",
+        "meaning_phrase": "Họ đã thăm một hòn đảo nhiệt đới.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "peninsula",
+        "ipa_word": "/pəˈnɪnsjʊlə/",
+        "type": "Noun",
+        "meaning_word": "bán đảo",
+        "phrase": "The country is located on a peninsula.",
+        "ipa_phrase": "/ðə ˈkʌntri ɪz ləˈkeɪtɪd ɑn ə pəˈnɪnsjʊlə/",
+        "meaning_phrase": "Quốc gia nằm trên một bán đảo.",
+        "context": "Địa lý"
+    },
+    {
+        "word": "valley",
+        "ipa_word": "/ˈvæli/",
+        "type": "Noun",
+        "meaning_word": "thung lũng",
+        "phrase": "The river flows through the valley.",
+        "ipa_phrase": "/ðə ˈrɪvər floʊz θru ðə ˈvæli/",
+        "meaning_phrase": "Con sông chảy qua thung lũng.",
+        "context": "Địa lý"
+    },
+    {
+        "word": "cave",
+        "ipa_word": "/keɪv/",
+        "type": "Noun",
+        "meaning_word": "hang động",
+        "phrase": "We explored the cave.",
+        "ipa_phrase": "/wi ɪkˈsplɔːrd ðə keɪv/",
+        "meaning_phrase": "Chúng tôi đã khám phá hang động.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "waterfall",
+        "ipa_word": "/ˈwɔːtərfɔːl/",
+        "type": "Noun",
+        "meaning_word": "thác nước",
+        "phrase": "The waterfall is breathtaking.",
+        "ipa_phrase": "/ðə ˈwɔːtərfɔːl ɪz ˈbrɛθˌteɪkɪŋ/",
+        "meaning_phrase": "Thác nước thật ngoạn mục.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "desert",
+        "ipa_word": "/ˈdɛzərt/",
+        "type": "Noun",
+        "meaning_word": "sa mạc",
+        "phrase": "The desert is extremely hot.",
+        "ipa_phrase": "/ðə ˈdɛzərt ɪz ɪkˈstrimli hɑt/",
+        "meaning_phrase": "Sa mạc cực kỳ nóng.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "forest path",
+        "ipa_word": "/ˈfɔrɪst pæθ/",
+        "type": "Noun",
+        "meaning_word": "đường mòn trong rừng",
+        "phrase": "We walked along the forest path.",
+        "ipa_phrase": "/wi wɔːkt əˈlɔŋ ðə ˈfɔrɪst pæθ/",
+        "meaning_phrase": "Chúng tôi đi bộ trên đường mòn trong rừng.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "hill",
+        "ipa_word": "/hɪl/",
+        "type": "Noun",
+        "meaning_word": "ngọn đồi",
+        "phrase": "The hill is covered with grass.",
+        "ipa_phrase": "/ðə hɪl ɪz ˈkʌvərd wɪð ɡræs/",
+        "meaning_phrase": "Ngọn đồi phủ đầy cỏ.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "cliff",
+        "ipa_word": "/klɪf/",
+        "type": "Noun",
+        "meaning_word": "vách đá",
+        "phrase": "The cliff overlooks the sea.",
+        "ipa_phrase": "/ðə klɪf ˌoʊvərˈlʊks ðə siː/",
+        "meaning_phrase": "Vách đá nhìn ra biển.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "volcano",
+        "ipa_word": "/vɑlˈkeɪnoʊ/",
+        "type": "Noun",
+        "meaning_word": "núi lửa",
+        "phrase": "The volcano erupted suddenly.",
+        "ipa_phrase": "/ðə vɑlˈkeɪnoʊ ɪˈrʌptɪd ˈsʌdənli/",
+        "meaning_phrase": "Ngọn núi lửa phun trào đột ngột.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "glacier",
+        "ipa_word": "/ˈɡleɪʃər/",
+        "type": "Noun",
+        "meaning_word": "sông băng",
+        "phrase": "The glacier is melting.",
+        "ipa_phrase": "/ðə ˈɡleɪʃər ɪz ˈmɛltɪŋ/",
+        "meaning_phrase": "Sông băng đang tan chảy.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "ocean",
+        "ipa_word": "/ˈoʊʃən/",
+        "type": "Noun",
+        "meaning_word": "đại dương",
+        "phrase": "The ocean is vast.",
+        "ipa_phrase": "/ðə ˈoʊʃən ɪz væst/",
+        "meaning_phrase": "Đại dương rộng lớn.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "sea",
+        "ipa_word": "/siː/",
+        "type": "Noun",
+        "meaning_word": "biển",
+        "phrase": "The sea is calm today.",
+        "ipa_phrase": "/ðə siː ɪz kɑːm təˈdeɪ/",
+        "meaning_phrase": "Biển hôm nay lặng sóng.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "bay",
+        "ipa_word": "/beɪ/",
+        "type": "Noun",
+        "meaning_word": "vịnh",
+        "phrase": "The bay is full of boats.",
+        "ipa_phrase": "/ðə beɪ ɪz fʊl ʌv boʊts/",
+        "meaning_phrase": "Vịnh đầy thuyền.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "harbor",
+        "ipa_word": "/ˈhɑːrbər/",
+        "type": "Noun",
+        "meaning_word": "cảng",
+        "phrase": "The harbor is busy.",
+        "ipa_phrase": "/ðə ˈhɑːrbər ɪz ˈbɪzi/",
+        "meaning_phrase": "Cảng rất nhộn nhịp.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "bridge",
+        "ipa_word": "/brɪdʒ/",
+        "type": "Noun",
+        "meaning_word": "cầu",
+        "phrase": "The bridge connects two cities.",
+        "ipa_phrase": "/ðə brɪdʒ kəˈnɛkts tu ˈsɪtiz/",
+        "meaning_phrase": "Cây cầu nối hai thành phố.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "road",
+        "ipa_word": "/roʊd/",
+        "type": "Noun",
+        "meaning_word": "con đường",
+        "phrase": "The road is long and winding.",
+        "ipa_phrase": "/ðə roʊd ɪz lɔːŋ ənd ˈwaɪndɪŋ/",
+        "meaning_phrase": "Con đường dài và quanh co.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "street",
+        "ipa_word": "/striːt/",
+        "type": "Noun",
+        "meaning_word": "phố, đường phố",
+        "phrase": "The street is full of people.",
+        "ipa_phrase": "/ðə striːt ɪz fʊl ʌv ˈpipəl/",
+        "meaning_phrase": "Đường phố đông người.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "alley",
+        "ipa_word": "/ˈæli/",
+        "type": "Noun",
+        "meaning_word": "hẻm",
+        "phrase": "The alley is narrow.",
+        "ipa_phrase": "/ðə ˈæli ɪz ˈnær.oʊ/",
+        "meaning_phrase": "Hẻm rất hẹp.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "crossroad",
+        "ipa_word": "/ˈkrɔːsˌroʊd/",
+        "type": "Noun",
+        "meaning_word": "ngã tư",
+        "phrase": "Stop at the crossroad.",
+        "ipa_phrase": "/stɑp æt ðə ˈkrɔːsˌroʊd/",
+        "meaning_phrase": "Dừng lại ở ngã tư.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "market",
+        "ipa_word": "/ˈmɑːrkɪt/",
+        "type": "Noun",
+        "meaning_word": "chợ",
+        "phrase": "We went to the market to buy vegetables.",
+        "ipa_phrase": "/wi wɛnt tu ðə ˈmɑːrkɪt tu baɪ ˈvɛdʒtəblz/",
+        "meaning_phrase": "Chúng tôi đi chợ để mua rau.",
+        "context": "Mua sắm"
+    },
+    {
+        "word": "supermarket",
+        "ipa_word": "/ˈsuːpərˌmɑːrkɪt/",
+        "type": "Noun",
+        "meaning_word": "siêu thị",
+        "phrase": "The supermarket is open until 10 PM.",
+        "ipa_phrase": "/ðə ˈsuːpərˌmɑːrkɪt ɪz ˈoʊpən ʌnˈtɪl tɛn piː ɛm/",
+        "meaning_phrase": "Siêu thị mở cửa đến 10 giờ tối.",
+        "context": "Mua sắm"
+    },
+    {
+        "word": "shop",
+        "ipa_word": "/ʃɑːp/",
+        "type": "Noun",
+        "meaning_word": "cửa hàng",
+        "phrase": "I bought a gift at the shop.",
+        "ipa_phrase": "/aɪ bɔːt ə ɡɪft æt ðə ʃɑːp/",
+        "meaning_phrase": "Tôi đã mua một món quà ở cửa hàng.",
+        "context": "Mua sắm"
+    },
+    {
+        "word": "store",
+        "ipa_word": "/stɔːr/",
+        "type": "Noun",
+        "meaning_word": "cửa hàng, kho",
+        "phrase": "The store has a large collection of books.",
+        "ipa_phrase": "/ðə stɔːr hæz ə lɑːrdʒ kəˈlɛkʃən ʌv bʊks/",
+        "meaning_phrase": "Cửa hàng có một bộ sưu tập sách lớn.",
+        "context": "Mua sắm"
+    },
+    {
+        "word": "mall",
+        "ipa_word": "/mɔːl/",
+        "type": "Noun",
+        "meaning_word": "trung tâm thương mại",
+        "phrase": "We spent the afternoon at the mall.",
+        "ipa_phrase": "/wi spɛnt ði ˈæftərˌnun æt ðə mɔːl/",
+        "meaning_phrase": "Chúng tôi đã dành buổi chiều ở trung tâm thương mại.",
+        "context": "Mua sắm"
+    },
+    {
+        "word": "restaurant",
+        "ipa_word": "/ˈrɛstərɑːnt/",
+        "type": "Noun",
+        "meaning_word": "nhà hàng",
+        "phrase": "We had dinner at a fancy restaurant.",
+        "ipa_phrase": "/wi hæd ˈdɪnər æt ə ˈfænsi ˈrɛstərɑːnt/",
+        "meaning_phrase": "Chúng tôi đã ăn tối ở một nhà hàng sang trọng.",
+        "context": "Nhà hàng"
+    },
+    {
+        "word": "cafe",
+        "ipa_word": "/kæˈfeɪ/",
+        "type": "Noun",
+        "meaning_word": "quán cà phê",
+        "phrase": "She likes to relax at a cafe.",
+        "ipa_phrase": "/ʃi laɪks tu rɪˈlæks æt ə kæˈfeɪ/",
+        "meaning_phrase": "Cô ấy thích thư giãn ở quán cà phê.",
+        "context": "Nhà hàng"
+    },
+    {
+        "word": "hotel",
+        "ipa_word": "/hoʊˈtɛl/",
+        "type": "Noun",
+        "meaning_word": "khách sạn",
+        "phrase": "We stayed at a hotel near the beach.",
+        "ipa_phrase": "/wi steɪd æt ə hoʊˈtɛl nɪr ðə biːʧ/",
+        "meaning_phrase": "Chúng tôi ở khách sạn gần bãi biển.",
+        "context": "Khách sạn"
+    },
+    {
+        "word": "airport",
+        "ipa_word": "/ˈɛərpɔːrt/",
+        "type": "Noun",
+        "meaning_word": "sân bay",
+        "phrase": "The airport is very busy today.",
+        "ipa_phrase": "/ðə ˈɛərpɔːrt ɪz ˈvɛri ˈbɪzi təˈdeɪ/",
+        "meaning_phrase": "Sân bay hôm nay rất đông.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "station",
+        "ipa_word": "/ˈsteɪʃən/",
+        "type": "Noun",
+        "meaning_word": "trạm, ga",
+        "phrase": "We arrived at the train station on time.",
+        "ipa_phrase": "/wi əˈraɪvd æt ðə treɪn ˈsteɪʃən ɑn taɪm/",
+        "meaning_phrase": "Chúng tôi đến ga tàu đúng giờ.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "bus stop",
+        "ipa_word": "/bʌs stɑːp/",
+        "type": "Noun",
+        "meaning_word": "trạm xe buýt",
+        "phrase": "Wait at the bus stop for ten minutes.",
+        "ipa_phrase": "/weɪt æt ðə bʌs stɑːp fɔr tɛn ˈmɪnɪts/",
+        "meaning_phrase": "Chờ ở trạm xe buýt trong mười phút.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "train",
+        "ipa_word": "/treɪn/",
+        "type": "Noun",
+        "meaning_word": "tàu",
+        "phrase": "The train leaves at 8 o'clock.",
+        "ipa_phrase": "/ðə treɪn liːvz æt eɪt əˈklɑk/",
+        "meaning_phrase": "Chuyến tàu khởi hành lúc 8 giờ.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "taxi",
+        "ipa_word": "/ˈtæksi/",
+        "type": "Noun",
+        "meaning_word": "xe taxi",
+        "phrase": "I called a taxi to go to the airport.",
+        "ipa_phrase": "/aɪ kɔːld ə ˈtæksi tu ɡoʊ tu ði ˈɛərpɔːrt/",
+        "meaning_phrase": "Tôi đã gọi một chiếc taxi để đi sân bay.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "bicycle",
+        "ipa_word": "/ˈbaɪsɪkl/",
+        "type": "Noun",
+        "meaning_word": "xe đạp",
+        "phrase": "He rides his bicycle every morning.",
+        "ipa_phrase": "/hi raɪdz hɪz ˈbaɪsɪkl ˈɛvri ˈmɔrnɪŋ/",
+        "meaning_phrase": "Anh ấy đi xe đạp mỗi sáng.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "motorcycle",
+        "ipa_word": "/ˈmoʊtərˌsaɪkl/",
+        "type": "Noun",
+        "meaning_word": "xe máy",
+        "phrase": "The motorcycle is parked outside.",
+        "ipa_phrase": "/ðə ˈmoʊtərˌsaɪkl ɪz pɑrkt ˈaʊtˌsaɪd/",
+        "meaning_phrase": "Chiếc xe máy đang đỗ bên ngoài.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "car",
+        "ipa_word": "/kɑːr/",
+        "type": "Noun",
+        "meaning_word": "xe hơi",
+        "phrase": "The car is very fast.",
+        "ipa_phrase": "/ðə kɑːr ɪz ˈvɛri fæst/",
+        "meaning_phrase": "Chiếc xe hơi rất nhanh.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "truck",
+        "ipa_word": "/trʌk/",
+        "type": "Noun",
+        "meaning_word": "xe tải",
+        "phrase": "The truck carries heavy goods.",
+        "ipa_phrase": "/ðə trʌk ˈkæriz ˈhɛvi ɡʊdz/",
+        "meaning_phrase": "Chiếc xe tải chở hàng nặng.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "boat",
+        "ipa_word": "/boʊt/",
+        "type": "Noun",
+        "meaning_word": "thuyền",
+        "phrase": "The boat is sailing on the river.",
+        "ipa_phrase": "/ðə boʊt ɪz ˈseɪlɪŋ ɑn ðə ˈrɪvər/",
+        "meaning_phrase": "Chiếc thuyền đang đi trên sông.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "ship",
+        "ipa_word": "/ʃɪp/",
+        "type": "Noun",
+        "meaning_word": "tàu lớn",
+        "phrase": "The ship docked at the harbor.",
+        "ipa_phrase": "/ðə ʃɪp dɑkt æt ðə ˈhɑːrbər/",
+        "meaning_phrase": "Chiếc tàu cập bến cảng.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "subway",
+        "ipa_word": "/ˈsʌbˌweɪ/",
+        "type": "Noun",
+        "meaning_word": "tàu điện ngầm",
+        "phrase": "We took the subway to the city center.",
+        "ipa_phrase": "/wi tʊk ðə ˈsʌbˌweɪ tu ðə ˈsɪti ˈsɛntər/",
+        "meaning_phrase": "Chúng tôi đi tàu điện ngầm đến trung tâm thành phố.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "school",
+        "ipa_word": "/skuːl/",
+        "type": "Noun",
+        "meaning_word": "trường học",
+        "phrase": "Children go to school every day.",
+        "ipa_phrase": "/ˈʧɪldrən ɡoʊ tu skuːl ˈɛvri deɪ/",
+        "meaning_phrase": "Trẻ em đi học mỗi ngày.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "university",
+        "ipa_word": "/ˌjuːnɪˈvɜːrsəti/",
+        "type": "Noun",
+        "meaning_word": "đại học",
+        "phrase": "She studies at a famous university.",
+        "ipa_phrase": "/ʃi ˈstʌdiz æt ə ˈfeɪməs ˌjuːnɪˈvɜːrsəti/",
+        "meaning_phrase": "Cô ấy học tại một trường đại học nổi tiếng.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "college",
+        "ipa_word": "/ˈkɑːlɪdʒ/",
+        "type": "Noun",
+        "meaning_word": "trường cao đẳng",
+        "phrase": "He graduated from college last year.",
+        "ipa_phrase": "/hi ˈɡrædʒueɪtɪd frʌm ˈkɑːlɪdʒ læst jɪr/",
+        "meaning_phrase": "Anh ấy tốt nghiệp cao đẳng năm ngoái.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "library",
+        "ipa_word": "/ˈlaɪbrəri/",
+        "type": "Noun",
+        "meaning_word": "thư viện",
+        "phrase": "I borrowed books from the library.",
+        "ipa_phrase": "/aɪ ˈbɑːroʊd bʊks frʌm ðə ˈlaɪbrəri/",
+        "meaning_phrase": "Tôi đã mượn sách từ thư viện.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "classroom",
+        "ipa_word": "/ˈklæsruːm/",
+        "type": "Noun",
+        "meaning_word": "lớp học",
+        "phrase": "The classroom is well-equipped.",
+        "ipa_phrase": "/ðə ˈklæsruːm ɪz wɛl ɪˈkwɪpt/",
+        "meaning_phrase": "Lớp học được trang bị đầy đủ.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "teacher",
+        "ipa_word": "/ˈtiːʧər/",
+        "type": "Noun",
+        "meaning_word": "giáo viên",
+        "phrase": "The teacher explains the lesson clearly.",
+        "ipa_phrase": "/ðə ˈtiːʧər ɪkˈspleɪnz ðə ˈlɛsən ˈklɪrli/",
+        "meaning_phrase": "Giáo viên giải thích bài học rõ ràng.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "student",
+        "ipa_word": "/ˈstuːdənt/",
+        "type": "Noun",
+        "meaning_word": "học sinh, sinh viên",
+        "phrase": "The students are studying for the exam.",
+        "ipa_phrase": "/ðə ˈstuːdənts ɑːr ˈstʌdiɪŋ fɔr ði ɪɡˈzæm/",
+        "meaning_phrase": "Các học sinh đang học cho kỳ thi.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "exam",
+        "ipa_word": "/ɪɡˈzæm/",
+        "type": "Noun",
+        "meaning_word": "kỳ thi",
+        "phrase": "I have an exam tomorrow.",
+        "ipa_phrase": "/aɪ hæv æn ɪɡˈzæm təˈmɑːroʊ/",
+        "meaning_phrase": "Tôi có kỳ thi vào ngày mai.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "notebook",
+        "ipa_word": "/ˈnoʊtbʊk/",
+        "type": "Noun",
+        "meaning_word": "vở",
+        "phrase": "She writes notes in her notebook.",
+        "ipa_phrase": "/ʃi raɪts noʊts ɪn hɜːr ˈnoʊtbʊk/",
+        "meaning_phrase": "Cô ấy viết ghi chú vào vở.",
+        "context": "Học tập"
+    },
+    {
+        "word": "pen",
+        "ipa_word": "/pɛn/",
+        "type": "Noun",
+        "meaning_word": "bút",
+        "phrase": "I need a pen to sign the document.",
+        "ipa_phrase": "/aɪ nid ə pɛn tu saɪn ðə ˈdɑkjumənt/",
+        "meaning_phrase": "Tôi cần một cây bút để ký tài liệu.",
+        "context": "Học tập"
+    },
+    {
+        "word": "pencil",
+        "ipa_word": "/ˈpɛnsəl/",
+        "type": "Noun",
+        "meaning_word": "bút chì",
+        "phrase": "He draws with a pencil.",
+        "ipa_phrase": "/hi drɔːz wɪð ə ˈpɛnsəl/",
+        "meaning_phrase": "Anh ấy vẽ bằng bút chì.",
+        "context": "Học tập"
+    },
+    {
+        "word": "eraser",
+        "ipa_word": "/ɪˈreɪsər/",
+        "type": "Noun",
+        "meaning_word": "cục tẩy",
+        "phrase": "I forgot my eraser at home.",
+        "ipa_phrase": "/aɪ fərˈɡɑːt maɪ ɪˈreɪsər æt hoʊm/",
+        "meaning_phrase": "Tôi quên cục tẩy ở nhà.",
+        "context": "Học tập"
+    },
+    {
+        "word": "desk",
+        "ipa_word": "/dɛsk/",
+        "type": "Noun",
+        "meaning_word": "bàn học",
+        "phrase": "The desk is near the window.",
+        "ipa_phrase": "/ðə dɛsk ɪz nɪr ðə ˈwɪndoʊ/",
+        "meaning_phrase": "Chiếc bàn học ở gần cửa sổ.",
+        "context": "Học tập"
+    },
+    {
+        "word": "chair",
+        "ipa_word": "/ʧɛr/",
+        "type": "Noun",
+        "meaning_word": "ghế",
+        "phrase": "He sat on the chair.",
+        "ipa_phrase": "/hi sæt ɑn ðə ʧɛr/",
+        "meaning_phrase": "Anh ấy ngồi trên ghế.",
+        "context": "Học tập"
+    },
+    {
+        "word": "board",
+        "ipa_word": "/bɔːrd/",
+        "type": "Noun",
+        "meaning_word": "bảng",
+        "phrase": "The teacher writes on the board.",
+        "ipa_phrase": "/ðə ˈtiːʧər raɪts ɑn ðə bɔːrd/",
+        "meaning_phrase": "Giáo viên viết trên bảng.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "chalk",
+        "ipa_word": "/ʧɔːk/",
+        "type": "Noun",
+        "meaning_word": "phấn",
+        "phrase": "The teacher uses chalk to write.",
+        "ipa_phrase": "/ðə ˈtiːʧər ˈjuːzɪz ʧɔːk tu raɪt/",
+        "meaning_phrase": "Giáo viên dùng phấn để viết.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "library card",
+        "ipa_word": "/ˈlaɪbrəri kɑːrd/",
+        "type": "Noun",
+        "meaning_word": "thẻ thư viện",
+        "phrase": "I applied for a library card.",
+        "ipa_phrase": "/aɪ əˈplaɪd fɔr ə ˈlaɪbrəri kɑːrd/",
+        "meaning_phrase": "Tôi đã đăng ký thẻ thư viện.",
+        "context": "Học tập"
+    },
+    {
+        "word": "textbook",
+        "ipa_word": "/ˈtɛkstbʊk/",
+        "type": "Noun",
+        "meaning_word": "sách giáo khoa",
+        "phrase": "I bought a new textbook.",
+        "ipa_phrase": "/aɪ bɔːt ə nuː ˈtɛkstbʊk/",
+        "meaning_phrase": "Tôi đã mua một cuốn sách giáo khoa mới.",
+        "context": "Học tập"
+    },
+    {
+        "word": "notepad",
+        "ipa_word": "/ˈnoʊtˌpæd/",
+        "type": "Noun",
+        "meaning_word": "sổ ghi chép",
+        "phrase": "She jots down ideas in her notepad.",
+        "ipa_phrase": "/ʃi ʤɑts daʊn aɪˈdiəz ɪn hɜr ˈnoʊtˌpæd/",
+        "meaning_phrase": "Cô ấy ghi lại ý tưởng trong sổ.",
+        "context": "Học tập"
+    },
+    {
+        "word": "computer",
+        "ipa_word": "/kəmˈpjuːtər/",
+        "type": "Noun",
+        "meaning_word": "máy tính",
+        "phrase": "I use my computer to study.",
+        "ipa_phrase": "/aɪ juz maɪ kəmˈpjuːtər tu ˈstʌdi/",
+        "meaning_phrase": "Tôi dùng máy tính để học.",
+        "context": "Học tập / Công nghệ"
+    },
+    {
+        "word": "laptop",
+        "ipa_word": "/ˈlæptɑːp/",
+        "type": "Noun",
+        "meaning_word": "máy tính xách tay",
+        "phrase": "She carries a laptop to work.",
+        "ipa_phrase": "/ʃi ˈkæriz ə ˈlæptɑːp tu wɜrk/",
+        "meaning_phrase": "Cô ấy mang máy tính xách tay đi làm.",
+        "context": "Công nghệ"
+    },
+    {
+        "word": "keyboard",
+        "ipa_word": "/ˈkiːbɔːrd/",
+        "type": "Noun",
+        "meaning_word": "bàn phím",
+        "phrase": "He types on the keyboard quickly.",
+        "ipa_phrase": "/hi taɪps ɑn ðə ˈkiːbɔːrd ˈkwɪkli/",
+        "meaning_phrase": "Anh ấy gõ bàn phím rất nhanh.",
+        "context": "Công nghệ"
+    },
+    {
+        "word": "mouse",
+        "ipa_word": "/maʊs/",
+        "type": "Noun",
+        "meaning_word": "chuột máy tính",
+        "phrase": "The mouse is not working.",
+        "ipa_phrase": "/ðə maʊs ɪz nɑt ˈwɜrkɪŋ/",
+        "meaning_phrase": "Chuột máy tính không hoạt động.",
+        "context": "Công nghệ"
+    },
+    {
+        "word": "screen",
+        "ipa_word": "/skriːn/",
+        "type": "Noun",
+        "meaning_word": "màn hình",
+        "phrase": "The screen is very clear.",
+        "ipa_phrase": "/ðə skriːn ɪz ˈvɛri klɪr/",
+        "meaning_phrase": "Màn hình rất rõ nét.",
+        "context": "Công nghệ"
+    },
+    {
+        "word": "phone",
+        "ipa_word": "/foʊn/",
+        "type": "Noun",
+        "meaning_word": "điện thoại",
+        "phrase": "She answered the phone quickly.",
+        "ipa_phrase": "/ʃi ˈænsərd ðə foʊn ˈkwɪkli/",
+        "meaning_phrase": "Cô ấy nhanh chóng trả lời điện thoại.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "tablet",
+        "ipa_word": "/ˈtæblɪt/",
+        "type": "Noun",
+        "meaning_word": "máy tính bảng",
+        "phrase": "He reads e-books on his tablet.",
+        "ipa_phrase": "/hi riːdz iː-bʊks ɑn hɪz ˈtæblɪt/",
+        "meaning_phrase": "Anh ấy đọc sách điện tử trên máy tính bảng.",
+        "context": "Công nghệ"
+    },
+    {
+        "word": "camera",
+        "ipa_word": "/ˈkæmrə/",
+        "type": "Noun",
+        "meaning_word": "máy ảnh",
+        "phrase": "I bought a new camera for travel.",
+        "ipa_phrase": "/aɪ bɔːt ə nuː ˈkæmrə fɔr ˈtrævəl/",
+        "meaning_phrase": "Tôi đã mua một chiếc máy ảnh mới để đi du lịch.",
+        "context": "Công nghệ / Du lịch"
+    },
+    {
+        "word": "headphones",
+        "ipa_word": "/ˈhɛdfəʊnz/",
+        "type": "Noun",
+        "meaning_word": "tai nghe",
+        "phrase": "He listens to music with headphones.",
+        "ipa_phrase": "/hi ˈlɪsənz tu ˈmjuzɪk wɪð ˈhɛdfəʊnz/",
+        "meaning_phrase": "Anh ấy nghe nhạc bằng tai nghe.",
+        "context": "Công nghệ / Giải trí"
+    },
+    {
+        "word": "speaker",
+        "ipa_word": "/ˈspiːkər/",
+        "type": "Noun",
+        "meaning_word": "loa",
+        "phrase": "The speaker is very loud.",
+        "ipa_phrase": "/ðə ˈspiːkər ɪz ˈvɛri laʊd/",
+        "meaning_phrase": "Loa rất to.",
+        "context": "Công nghệ / Giải trí"
+    },
+    {
+        "word": "television",
+        "ipa_word": "/ˈtɛlɪˌvɪʒən/",
+        "type": "Noun",
+        "meaning_word": "tivi",
+        "phrase": "She watches television every evening.",
+        "ipa_phrase": "/ʃi ˈwɑːʧɪz ˈtɛlɪˌvɪʒən ˈɛvri ˈivnɪŋ/",
+        "meaning_phrase": "Cô ấy xem tivi mỗi tối.",
+        "context": "Giải trí"
+    },
+    {
+        "word": "radio",
+        "ipa_word": "/ˈreɪdioʊ/",
+        "type": "Noun",
+        "meaning_word": "radio",
+        "phrase": "He listens to the radio in the morning.",
+        "ipa_phrase": "/hi ˈlɪsənz tu ðə ˈreɪdioʊ ɪn ðə ˈmɔrnɪŋ/",
+        "meaning_phrase": "Anh ấy nghe radio vào buổi sáng.",
+        "context": "Giải trí"
+    },
+    {
+        "word": "microwave",
+        "ipa_word": "/ˈmaɪkrəweɪv/",
+        "type": "Noun",
+        "meaning_word": "lò vi sóng",
+        "phrase": "I heat food in the microwave.",
+        "ipa_phrase": "/aɪ hiːt fuːd ɪn ðə ˈmaɪkrəweɪv/",
+        "meaning_phrase": "Tôi hâm nóng thức ăn trong lò vi sóng.",
+        "context": "Gia đình / Nhà bếp"
+    },
+    {
+        "word": "refrigerator",
+        "ipa_word": "/rɪˈfrɪdʒəˌreɪtər/",
+        "type": "Noun",
+        "meaning_word": "tủ lạnh",
+        "phrase": "The refrigerator is full of food.",
+        "ipa_phrase": "/ðə rɪˈfrɪdʒəˌreɪtər ɪz fʊl ʌv fuːd/",
+        "meaning_phrase": "Tủ lạnh đầy thức ăn.",
+        "context": "Gia đình / Nhà bếp"
+    },
+    {
+        "word": "oven",
+        "ipa_word": "/ˈʌvən/",
+        "type": "Noun",
+        "meaning_word": "lò nướng",
+        "phrase": "She bakes bread in the oven.",
+        "ipa_phrase": "/ʃi beɪks brɛd ɪn ði ˈʌvən/",
+        "meaning_phrase": "Cô ấy nướng bánh mì trong lò.",
+        "context": "Nhà bếp"
+    },
+    {
+        "word": "washing machine",
+        "ipa_word": "/ˈwɑːʃɪŋ məˌʃiːn/",
+        "type": "Noun",
+        "meaning_word": "máy giặt",
+        "phrase": "The washing machine is running.",
+        "ipa_phrase": "/ðə ˈwɑːʃɪŋ məˌʃiːn ɪz ˈrʌnɪŋ/",
+        "meaning_phrase": "Máy giặt đang hoạt động.",
+        "context": "Gia đình"
+    },
+    {
+        "word": "air conditioner",
+        "ipa_word": "/ɛər kənˈdɪʃənər/",
+        "type": "Noun",
+        "meaning_word": "máy điều hòa",
+        "phrase": "The air conditioner is very cold.",
+        "ipa_phrase": "/ðə ɛər kənˈdɪʃənər ɪz ˈvɛri koʊld/",
+        "meaning_phrase": "Máy điều hòa rất mát.",
+        "context": "Gia đình"
+    },
+    {
+        "word": "fan",
+        "ipa_word": "/fæn/",
+        "type": "Noun",
+        "meaning_word": "quạt",
+        "phrase": "I turned on the fan because it was hot.",
+        "ipa_phrase": "/aɪ tɜrnd ɑn ðə fæn bɪˈkɔːz ɪt wəz hɑt/",
+        "meaning_phrase": "Tôi bật quạt vì trời nóng.",
+        "context": "Gia đình"
+    },
+    {
+        "word": "lamp",
+        "ipa_word": "/læmp/",
+        "type": "Noun",
+        "meaning_word": "đèn",
+        "phrase": "The lamp lights up the room.",
+        "ipa_phrase": "/ðə læmp laɪts ʌp ðə ruːm/",
+        "meaning_phrase": "Chiếc đèn chiếu sáng căn phòng.",
+        "context": "Gia đình"
+    },
+    {
+        "word": "table",
+        "ipa_word": "/ˈteɪbl/",
+        "type": "Noun",
+        "meaning_word": "bàn",
+        "phrase": "The table is made of wood.",
+        "ipa_phrase": "/ðə ˈteɪbl ɪz meɪd ʌv wʊd/",
+        "meaning_phrase": "Chiếc bàn được làm bằng gỗ.",
+        "context": "Gia đình"
+    }
+]
