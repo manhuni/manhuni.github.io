@@ -5,13 +5,26 @@ on:
     branches:
       - main   
 
+# THÊM PERMISSIONS Ở ĐÂY
+permissions:
+  actions: write  # Quyền xóa workflow runs
+  contents: write # Quyền write cho repository
+
 jobs:
   update-footer:
     runs-on: ubuntu-latest
 
+    # Có thể thêm permissions ở job level nếu cần
+    permissions:
+      actions: write
+      contents: write
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          # Cần token có quyền write
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update footer.html
         run: |
@@ -28,12 +41,12 @@ jobs:
           git commit -m "chore: update footer [skip ci]" || echo "No changes"
           git push
 
-      - name: Xóa logs GitHub Actions cũ (Tự động)
+      - name: Xóa logs GitHub Actions cũ
         if: success()
         run: |
           echo "🔄 Đang xóa logs GitHub Actions cũ..."
           
-          # Cài đặt GitHub CLI nếu chưa có
+          # Cài đặt GitHub CLI
           if ! command -v gh &> /dev/null; then
               echo "📦 Đang cài đặt GitHub CLI..."
               type -p curl >/dev/null || (sudo apt update && sudo apt install curl -y)
@@ -44,13 +57,13 @@ jobs:
               sudo apt install gh -y
           fi
 
-          # Đăng nhập GitHub CLI với token
+          # Đăng nhập với token
           echo "🔐 Đang đăng nhập GitHub CLI..."
           echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
 
-          # Lấy danh sách tất cả runs và xóa (không cần xác nhận)
-          echo "🗑️ Đang lấy danh sách runs để xóa..."
-          runs=$(gh run list --repo ${{ github.repository }} --limit 100 --json databaseId --jq ".[].databaseId")
+          # Xóa runs - CHỈ XÓA NHỮNG RUNS ĐÃ HOÀN THÀNH
+          echo "🗑️ Đang lấy danh sách runs đã hoàn thành để xóa..."
+          runs=$(gh run list --repo ${{ github.repository }} --limit 50 --status completed --json databaseId --jq ".[].databaseId")
           
           if [ -z "$runs" ]; then
               echo "✅ Không có logs nào để xóa!"
@@ -58,9 +71,8 @@ jobs:
           fi
 
           count=$(echo "$runs" | wc -l)
-          echo "📊 Tìm thấy $count runs để xóa"
+          echo "📊 Tìm thấy $count runs đã hoàn thành để xóa"
 
-          # Xóa từng run
           success_count=0
           error_count=0
           
@@ -72,7 +84,7 @@ jobs:
                   echo "❌ Lỗi khi xóa run: $run_id"
                   error_count=$((error_count + 1))
               fi
-              sleep 0.1 # Nghỉ giữa các request
+              sleep 0.2
           done
 
           echo "🎉 Hoàn thành! Đã xóa $success_count runs, lỗi: $error_count"
