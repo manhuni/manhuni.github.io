@@ -1,0 +1,92 @@
+[
+  {
+    "phrase": "Did you push the latest code?",
+    "ipa": "/dɪd ju pʊʃ ðə ˈleɪtɪst koʊd/",
+    "meaning": "Bạn đã đẩy code mới nhất chưa?",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "Let’s merge this branch today.",
+    "ipa": "/lets mɜːrdʒ ðɪs bræntʃ təˈdeɪ/",
+    "meaning": "Hãy merge nhánh này hôm nay.",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "Can you check the pull request?",
+    "ipa": "/kæn ju ʧɛk ðə pʊl rɪˈkwɛst/",
+    "meaning": "Bạn kiểm tra pull request được không?",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "There’s a bug in production.",
+    "ipa": "/ðɛrz ə bʌɡ ɪn prəˈdʌkʃən/",
+    "meaning": "Có bug trên môi trường thật.",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "I’ll debug it now.",
+    "ipa": "/aɪl diˈbʌɡ ɪt naʊ/",
+    "meaning": "Tôi sẽ debug ngay.",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "Could you review my code?",
+    "ipa": "/kʊd ju rɪˈvjuː maɪ koʊd/",
+    "meaning": "Bạn review code của tôi nhé?",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "Let’s run some tests first.",
+    "ipa": "/lets rʌn sʌm tɛsts fɜːrst/",
+    "meaning": "Hãy chạy test trước.",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "Do we have a backup?",
+    "ipa": "/du wi hæv ə ˈbækʌp/",
+    "meaning": "Chúng ta có backup không?",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "What’s the ETA for this task?",
+    "ipa": "/wɒts ði i ti eɪ fər ðɪs tæsk/",
+    "meaning": "Ước tính xong task này là khi nào?",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "I need to refactor this module.",
+    "ipa": "/aɪ niːd tə riˈfæktər ðɪs ˈmɒdʒuːl/",
+    "meaning": "Tôi cần refactor module này.",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "Let’s deploy tonight.",
+    "ipa": "/lets dɪˈplɔɪ təˈnaɪt/",
+    "meaning": "Tối nay triển khai nhé.",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "Can you handle the rollback?",
+    "ipa": "/kæn ju ˈhændl ðə roʊlbæk/",
+    "meaning": "Bạn xử lý rollback được không?",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "Did QA sign off on this?",
+    "ipa": "/dɪd kju eɪ saɪn ɒf ɒn ðɪs/",
+    "meaning": "QA đã duyệt cái này chưa?",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "Let’s sync after lunch.",
+    "ipa": "/lets sɪŋk ˈæftər lʌntʃ/",
+    "meaning": "Hẹn sync sau bữa trưa nhé.",
+    "context": "Lập trình viên"
+  },
+  {
+    "phrase": "Ping me if you need help.",
+    "ipa": "/pɪŋ mi ɪf ju niːd hɛlp/",
+    "meaning": "Cần hỗ trợ thì ping tôi nhé.",
+    "context": "Lập trình viên"
+  }
+]

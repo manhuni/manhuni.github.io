@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>IPA: Nguyên âm tiếng Anh | My Library</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/css/base.css" />
+  <link rel="stylesheet" href="/assets/css/theme.css" />
+  <link rel="stylesheet" href="/main/projects/english-courses/assets/css/ielts-vocabulary.css" />
+  <link rel="stylesheet" href="/main/projects/english-courses/assets/css/lesson-common-nav.css" />
+  <link rel="stylesheet" href="/main/projects/english-courses/assets/css/ipa-vowels.css" />
+
+</head>
+
+<body>
+  <div id="header"></div>
+
+  <main class="site-main container">
+    <section class="hero dashboard-hero">
+      <h1>🔡 Bảng Nguyên âm IPA tiếng Anh</h1>
+      <p>Hệ thống nguyên âm tiếng Anh chuẩn IPA, bao gồm cách phát âm và ví dụ phân biệt Anh-Anh 🇬🇧 & Anh-Mỹ 🇺🇸.</p>
+    </section>
+
+    <section class="lesson-content">
+      <h2>1️⃣ Nguyên âm đơn (Monophthongs)</h2> 
+      <table class="vocab-table">
+        <thead>
+          <tr>
+            <th>Từ</th>
+            <th>IPA</th>
+            <th>Loại</th>
+            <th>Tiếng Việt</th>
+            <th>Ví dụ (EN)</th>
+            <th>Ngữ cảnh</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Từ vựng sẽ được bổ sung sau -->
+        </tbody>
+      </table>
+
+
+      <h2>4️⃣ Ghi chú quan trọng</h2>
+      <div class="note">
+        💡 Một số âm có biến thể nhỏ giữa Anh-Anh 🇬🇧 và Anh-Mỹ 🇺🇸, ví dụ /əʊ/ vs /oʊ/, hoặc âm /ɜː/ được cuộn lưỡi
+        thành /ɝ/ trong AmE.
+      </div>
+
+    </section>
+    <div id="ipa-popup" class="hidden">
+      <div class="popup-content"><span id="popup-close">&times;</span>
+        <h3 id="popup-title"></h3>
+        <ul id="audio-list"></ul>
+      </div>
+    </div>
+
+  </main>
+
+  <div id="footer"></div>
+<script src="/assets/js/main.js"></script>
+  <script src="../assets/js/ipa-vowels.js"></script>
+  <script src="../assets/js/lesson-common-nav.js"></script>
+</body>
+
+</html>

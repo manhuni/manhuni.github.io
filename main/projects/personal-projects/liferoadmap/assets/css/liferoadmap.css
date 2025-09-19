@@ -1,0 +1,94 @@
+/* Hero Section */
+.project-hero {
+  padding: 2rem 0;
+  text-align: center;
+  background: linear-gradient(to right, #e0f7fa, #ffffff);
+  border-radius: 12px;
+  margin-bottom: 2rem;
+}
+
+.project-hero h1 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: #00796b;
+  margin-bottom: 0.5rem;
+}
+
+.project-hero p {
+  font-size: 1.1rem;
+  color: #444;
+}
+
+.timeline-title {
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 1.5rem;
+  padding: 0.6rem 1rem;
+  background: linear-gradient(90deg, #f3f4f6, #ffffff);
+  border-left: 5px solid #4f46e5;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.timeline-title:hover {
+  background: linear-gradient(90deg, #eef2ff, #ffffff);
+  color: #4f46e5;
+  transform: translateX(3px);
+}
+
+.timeline-title::before {
+  content: "◆";
+  position: absolute;
+  left: -18px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 0.9rem;
+  color: #4f46e5;
+}
+
+/* Each Item */
+.timeline-item {
+  margin-bottom: 1.5rem;
+}
+
+/* Content Box */
+.timeline-content {
+  display: none;
+  background: #fff;
+  border-radius: 0.75rem;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  animation: fadeIn 0.3s ease-in;
+}
+
+.timeline-content h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.timeline-content p {
+  margin: 0 0 0.5rem 0;
+  color: #555;
+  line-height: 1.5;
+}
+
+.timeline-content ul {
+  margin: 0;
+  padding-left: 1.2rem;
+  color: #444;
+  line-height: 1.6;
+}
+
+.timeline.show .timeline-content {
+  display: block;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}

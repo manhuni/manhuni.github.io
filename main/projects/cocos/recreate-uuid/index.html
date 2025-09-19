@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Recreate UUID - Cocos Creator Extension Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/css/base.css" />
+  <link rel="stylesheet" href="/assets/css/theme.css" />
+  <link rel="stylesheet" href="/assets/css/slideshow.css" />
+  <link rel="stylesheet" href="/assets/css/photoviewer.css" />
+  <link rel="stylesheet" href="assets/css/recreate-uuid.css" />
+  <link rel="stylesheet" href="/main/projects/cocos/assets/css/cocos-project-nav.css" />
+</head>
+
+<body>
+  <div id="header"></div>
+
+  <main class="site-main container">
+    <section class="project-hero">
+      <h1>🔑 Recreate UUID - Cocos Creator Extension</h1>
+      <p>Tiện ích demo giúp tạo mới UUID cho thư mục đã chọn, tự động làm mới liên kết nội bộ để tránh lỗi <em>missing asset</em> khi merge nhiều project.</p>
+    </section>
+
+    <section id="slideshow1" class="slideshow"></section>
+
+    <section class="project-section">
+      <h2>🎯 Tính năng chính</h2>
+      <ul class="feature-list">
+        <li>✔️ Tạo mới UUID toàn bộ tài nguyên trong thư mục đã chọn</li>
+        <li>✔️ Tự động quét và thay thế các UUID liên quan (kể cả UUID nén)</li>
+        <li>✔️ Hook trước / sau khi build nếu cần</li>
+        <li>✔️ Giao diện thao tác trực quan qua Extension Panel</li>
+        <li>✔️ Viết bằng TypeScript, mã JS build ra không obfuscate</li>
+      </ul>
+    </section>
+
+    <section class="project-section">
+      <h2>🗂️ Cấu trúc thư mục</h2>
+      <pre><code>
+recreate-uuid/
+├── extension.json
+├── main.ts
+├── hooks/
+│   ├── recreateUUIDForce.ts
+│   └── utils.ts
+├── assets/
+      </code></pre>
+    </section>
+
+    <section class="project-section">
+      <h2>🚀 Hướng dẫn sử dụng</h2>
+      <ol>
+        <li>Copy thư mục <code>recreate-uuid</code> vào thư mục <code>extensions</code> của dự án Cocos Creator.</li>
+        <li>Khởi động lại Cocos Creator để extension được load.</li>
+        <li>Trên menu: <strong>Extension → Recreate UUID</strong>.</li>
+        <li>Chọn thư mục gốc cần làm mới UUID.</li>
+        <li>Nhấn xác nhận, quá trình quét & thay thế bắt đầu. Kết quả log hiển thị chi tiết trên Console.</li>
+      </ol>
+    </section>
+
+    <section class="project-section">
+      <h2>📌 Ghi chú</h2>
+      <p>Dự án này chỉ mang tính demo, bạn có thể clone, chỉnh sửa & đưa lên Git riêng để tiện quản lý version.</p>
+      <p>Mọi góp ý xin gửi về 📧 <strong><a href="/main/projects/profile.html">Profile</a></strong>. Không được bán lại hoặc cho thuê nếu chưa được phép.</p>
+    </section>
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="/assets/js/main.js"></script>
+  <script src="assets/js/recreate-uuid.js"></script>
+  <script src="/assets/js/photoViewer.js"></script>
+  <script src="/assets/js/slideshow.js"></script>
+  <script src="assets/js/recreate-uuid-slideshow.js"></script>
+  <script src="/main/projects/cocos/assets/js/cocos-project-nav.js"></script>
+</body>
+
+</html>

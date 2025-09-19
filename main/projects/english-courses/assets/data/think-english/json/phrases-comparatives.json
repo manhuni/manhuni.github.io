@@ -1,0 +1,146 @@
+[
+  {
+    "phrase": "This book is better than that one.",
+    "ipa": "/ðɪs bʊk ɪz ˈbɛtər ðæn ðæt wʌn/",
+    "meaning": "Cuốn sách này hay hơn cuốn kia.",
+    "context": "Better than - so sánh hơn"
+  },
+  {
+    "phrase": "She is taller than me.",
+    "ipa": "/ʃi ɪz ˈtɔlər ðæn mi/",
+    "meaning": "Cô ấy cao hơn tôi.",
+    "context": "So sánh tính từ dài ngắn"
+  },
+  {
+    "phrase": "This exam is easier than the last one.",
+    "ipa": "/ðɪs ɪɡˈzæm ɪz ˈiziər ðæn ðə læst wʌn/",
+    "meaning": "Bài kiểm tra này dễ hơn bài trước.",
+    "context": "So sánh hơn"
+  },
+  {
+    "phrase": "Today is hotter than yesterday.",
+    "ipa": "/təˈdeɪ ɪz ˈhɒtər ðæn ˈjɛstərˌdeɪ/",
+    "meaning": "Hôm nay nóng hơn hôm qua.",
+    "context": "So sánh hơn"
+  },
+  {
+    "phrase": "He’s stronger than before.",
+    "ipa": "/hiːz ˈstrɔŋər ðæn bɪˈfɔr/",
+    "meaning": "Anh ấy khỏe hơn trước.",
+    "context": "So sánh hơn"
+  },
+  {
+    "phrase": "She’s the best student in the class.",
+    "ipa": "/ʃiːz ðə bɛst ˈstjuːdənt ɪn ðə klæs/",
+    "meaning": "Cô ấy là học sinh giỏi nhất lớp.",
+    "context": "So sánh nhất"
+  },
+  {
+    "phrase": "This is the most interesting book I’ve read.",
+    "ipa": "/ðɪs ɪz ðə moʊst ˈɪntrəstɪŋ bʊk aɪv rɛd/",
+    "meaning": "Đây là cuốn sách thú vị nhất tôi từng đọc.",
+    "context": "Most - so sánh nhất"
+  },
+  {
+    "phrase": "He’s the least worried person here.",
+    "ipa": "/hiːz ðə list ˈwɜrid ˈpɜrsən hɪər/",
+    "meaning": "Anh ấy là người lo lắng ít nhất ở đây.",
+    "context": "Least - so sánh ít nhất"
+  },
+  {
+    "phrase": "I have less time than you.",
+    "ipa": "/aɪ hæv lɛs taɪm ðæn ju/",
+    "meaning": "Tôi có ít thời gian hơn bạn.",
+    "context": "Less - so sánh ít hơn"
+  },
+  {
+    "phrase": "This car is more expensive than mine.",
+    "ipa": "/ðɪs kɑr ɪz mɔr ɪkˈspɛnsɪv ðæn maɪn/",
+    "meaning": "Xe này đắt hơn xe tôi.",
+    "context": "More - so sánh hơn"
+  },
+  {
+    "phrase": "She’s more patient than me.",
+    "ipa": "/ʃiːz mɔr ˈpeɪʃənt ðæn mi/",
+    "meaning": "Cô ấy kiên nhẫn hơn tôi.",
+    "context": "More"
+  },
+  {
+    "phrase": "He’s less busy now.",
+    "ipa": "/hiːz lɛs ˈbɪzi naʊ/",
+    "meaning": "Anh ấy bận ít hơn bây giờ.",
+    "context": "Less"
+  },
+  {
+    "phrase": "She’s the most talented here.",
+    "ipa": "/ʃiːz ðə moʊst ˈtæləntɪd hɪər/",
+    "meaning": "Cô ấy tài năng nhất ở đây.",
+    "context": "Most"
+  },
+  {
+    "phrase": "He’s the worst player on the team.",
+    "ipa": "/hiːz ðə wɜrst ˈpleɪər ɒn ðə tim/",
+    "meaning": "Anh ấy là cầu thủ tệ nhất đội.",
+    "context": "Worst - so sánh nhất"
+  },
+  {
+    "phrase": "My house is bigger than yours.",
+    "ipa": "/maɪ haʊs ɪz ˈbɪɡər ðæn jʊrz/",
+    "meaning": "Nhà tôi to hơn nhà bạn.",
+    "context": "Bigger"
+  },
+  {
+    "phrase": "He’s as tall as his brother.",
+    "ipa": "/hiːz æz tɔl æz hɪz ˈbrʌðər/",
+    "meaning": "Anh ấy cao bằng anh trai mình.",
+    "context": "So sánh bằng"
+  },
+  {
+    "phrase": "It’s not as easy as it looks.",
+    "ipa": "/ɪts nɑt æz ˈizi æz ɪt lʊks/",
+    "meaning": "Nó không dễ như nó trông vậy.",
+    "context": "So sánh bằng"
+  },
+  {
+    "phrase": "She works harder than anyone.",
+    "ipa": "/ʃi wɜrks ˈhɑrdər ðæn ˈɛniˌwʌn/",
+    "meaning": "Cô ấy làm việc chăm chỉ hơn bất cứ ai.",
+    "context": "So sánh hơn"
+  },
+  {
+    "phrase": "This route is shorter.",
+    "ipa": "/ðɪs rut ɪz ˈʃɔrtər/",
+    "meaning": "Tuyến đường này ngắn hơn.",
+    "context": "So sánh hơn"
+  },
+  {
+    "phrase": "It’s getting colder and colder.",
+    "ipa": "/ɪts ˈɡɛtɪŋ ˈkoʊldər ænd ˈkoʊldər/",
+    "meaning": "Trời ngày càng lạnh hơn.",
+    "context": "So sánh kép"
+  },
+  {
+    "phrase": "This task is more difficult.",
+    "ipa": "/ðɪs tæsk ɪz mɔr ˈdɪfəkəlt/",
+    "meaning": "Nhiệm vụ này khó hơn.",
+    "context": "More - so sánh hơn"
+  },
+  {
+    "phrase": "He’s the oldest in the group.",
+    "ipa": "/hiːz ði ˈoʊldɪst ɪn ðə ɡrup/",
+    "meaning": "Anh ấy là người lớn tuổi nhất nhóm.",
+    "context": "So sánh nhất"
+  },
+  {
+    "phrase": "This is the least important thing.",
+    "ipa": "/ðɪs ɪz ðə list ɪmˈpɔrtənt θɪŋ/",
+    "meaning": "Đây là thứ ít quan trọng nhất.",
+    "context": "Least"
+  },
+  {
+    "phrase": "She’s the happiest person I know.",
+    "ipa": "/ʃiːz ðə ˈhæpiɪst ˈpɜrsən aɪ noʊ/",
+    "meaning": "Cô ấy là người hạnh phúc nhất tôi biết.",
+    "context": "Happiest"
+  }
+]

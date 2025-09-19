@@ -1,0 +1,157 @@
+[
+    {
+        "category": "Meeting",
+        "file": "phrases-meeting.json",
+        "description": "Cụm từ trong họp, điều phối, nhắc nhở, chốt."
+    },
+    {
+        "category": "Negotiation",
+        "file": "phrases-negotiation.json",
+        "description": "Cụm từ đàm phán, thương lượng, thoả thuận."
+    },
+    {
+        "category": "Email",
+        "file": "phrases-email.json",
+        "description": "Cụm từ soạn email lịch sự, hiệu quả."
+    },
+    {
+        "category": "Small Talk",
+        "file": "phrases-smalltalk.json",
+        "description": "Cụm từ trò chuyện xã giao, hỏi thăm tự nhiên."
+    },
+    {
+        "category": "Daily Use",
+        "file": "phrases-daily.json",
+        "description": "Cụm từ hay dùng hàng ngày."
+    },
+    {
+        "category": "Other",
+        "file": "phrases-other.json",
+        "description": "Nhóm khác."
+    },
+    {
+        "category": "Developer",
+        "description": "Cụm từ cho lập trình viên",
+        "file": "phrases-developer.json"
+    },
+    {
+        "category": "Game Dev",
+        "description": "Cụm từ cho lập trình game",
+        "file": "phrases-game.json"
+    },
+    {
+        "category": "App Dev",
+        "description": "Cụm từ cho lập trình ứng dụng",
+        "file": "phrases-app.json"
+    },
+    {
+        "category": "Android",
+        "description": "Cụm từ cho lập trình Android",
+        "file": "phrases-android.json"
+    },
+    {
+        "category": "iOS",
+        "description": "Cụm từ cho lập trình iOS",
+        "file": "phrases-ios.json"
+    },
+    {
+        "category": "Interview",
+        "file": "phrases-interview.json",
+        "description": "Cụm từ phỏng vấn xin việc, trả lời, hỏi ngược."
+    },
+    {
+        "category": "Offer",
+        "file": "phrases-offer.json",
+        "description": "Cụm từ offer lương, điều kiện, đàm phán."
+    },
+    {
+        "category": "Career",
+        "file": "phrases-career.json",
+        "description": "Cụm từ về định hướng sự nghiệp, mục tiêu."
+    },
+    {
+        "category": "HR",
+        "file": "phrases-hr.json",
+        "description": "Cụm từ HR trao đổi nội bộ, quản lý nhân sự."
+    },
+    {
+        "category": "Promotion",
+        "file": "phrases-promotion.json",
+        "description": "Cụm từ xin thăng chức, đề xuất, đàm phán vị trí."
+    },
+    {
+        "category": "Greetings",
+        "file": "phrases-greetings.json",
+        "description": "Cụm từ chào hỏi và bắt chuyện."
+    },
+    {
+        "category": "Apologies",
+        "file": "phrases-apologies.json",
+        "description": "Cụm từ xin lỗi, bày tỏ sự tiếc nuối."
+    },
+    {
+        "category": "Suggestions",
+        "file": "phrases-suggestions.json",
+        "description": "Cụm từ gợi ý, đề xuất ý tưởng."
+    },
+    {
+        "category": "Travel",
+        "file": "phrases-travel.json",
+        "description": "Cụm từ giao tiếp khi du lịch."
+    },
+    {
+        "category": "Restaurant",
+        "file": "phrases-restaurant.json",
+        "description": "Cụm từ đặt món, gọi đồ ăn, thanh toán."
+    },
+    {
+        "category": "Quantifiers",
+        "file": "phrases-quantifiers.json",
+        "description": "Cụm mẫu câu dùng much, many, few, little, more, a lot of…"
+    },
+    {
+        "category": "Intensifiers",
+        "file": "phrases-intensifiers.json",
+        "description": "Cụm mẫu câu dùng so, such, too, enough, very…"
+    },
+    {
+        "category": "Determiners",
+        "file": "phrases-determiners.json",
+        "description": "Tổng hợp các từ this, that, these, those, each, every, some, any… với mẫu câu"
+    },
+    {
+        "category": "Comparatives & Superlatives",
+        "file": "phrases-comparatives.json",
+        "description": "Mẫu câu so sánh hơn / nhất: more, most, less, least…"
+    },
+    {
+        "category": "Modifiers",
+        "file": "phrases-modifiers.json",
+        "description": "Tổng hợp bổ sung, như trạng từ quite, rather, almost, nearly…"
+    },
+    {
+        "category": "Degree Modifiers",
+        "file": "phrases-degree.json",
+        "description": "Các cụm từ diễn tả mức độ: so, too, very, quite, rather, pretty, fairly, enough… Dễ nhầm lẫn khi nói và viết tiếng Anh."
+    },
+    {
+        "category": "Common Adjectives & Adverbs",
+        "file": "adj-adv-phrases.json",
+        "description": "Tính từ và trạng từ phổ biến trong tiếng Anh, kèm IPA, nghĩa tiếng Việt và ví dụ minh họa."
+    },
+    {
+        "category": "Common Verbs",
+        "file": "verb-phrases.json",
+        "description": "Động từ phổ biến trong tiếng Anh, kèm IPA, nghĩa tiếng Việt, thì quá khứ, quá khứ phân từ và ví dụ minh họa."
+    },
+    {
+        "category": "Common Nouns",
+        "file": "nouns-phrases.json",
+        "description": "Danh từ phổ biến trong tiếng Anh, kèm IPA, nghĩa tiếng Việt và ví dụ minh họa."
+    },
+    {
+        "category": "Common Phrasal Verbs",
+        "file": "phrasal-verbs.json",
+        "description": "Các cụm động từ phổ biến trong tiếng Anh, kèm IPA, nghĩa tiếng Việt và ví dụ minh họa. Ví dụ: think of, run out of, look after, give up…"
+    }
+]

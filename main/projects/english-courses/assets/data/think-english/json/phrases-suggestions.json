@@ -1,0 +1,122 @@
+[
+  {
+    "phrase": "How about we grab some coffee?",
+    "ipa": "/haʊ əˈbaʊt wi ɡræb sʌm ˈkɒfi/",
+    "meaning": "Hay chúng ta đi uống cà phê?",
+    "context": "Gợi ý rủ rê"
+  },
+  {
+    "phrase": "Why don’t we take a break?",
+    "ipa": "/waɪ doʊnt wi teɪk ə breɪk/",
+    "meaning": "Sao ta không nghỉ chút nhỉ?",
+    "context": "Đề xuất nghỉ"
+  },
+  {
+    "phrase": "Let’s do it!",
+    "ipa": "/lets du ɪt/",
+    "meaning": "Làm luôn đi!",
+    "context": "Khích lệ"
+  },
+  {
+    "phrase": "Shall we go now?",
+    "ipa": "/ʃæl wi ɡoʊ naʊ/",
+    "meaning": "Chúng ta đi luôn nhé?",
+    "context": "Đề xuất hành động"
+  },
+  {
+    "phrase": "What if we try something new?",
+    "ipa": "/wʌt ɪf wi traɪ ˈsʌmθɪŋ njuː/",
+    "meaning": "Hay thử cái mới đi?",
+    "context": "Đề xuất ý tưởng"
+  },
+  {
+    "phrase": "Any thoughts?",
+    "ipa": "/ˈɛni θɔːts/",
+    "meaning": "Bạn có ý kiến gì không?",
+    "context": "Hỏi ý kiến"
+  },
+  {
+    "phrase": "Do you have any suggestions?",
+    "ipa": "/du ju hæv ˈɛni səˈdʒɛstʃənz/",
+    "meaning": "Bạn có gợi ý gì không?",
+    "context": "Hỏi gợi ý"
+  },
+  {
+    "phrase": "Maybe we could go together.",
+    "ipa": "/ˈmeɪbi wi kʊd ɡoʊ təˈɡɛðər/",
+    "meaning": "Hay chúng ta đi cùng nhau?",
+    "context": "Đề xuất"
+  },
+  {
+    "phrase": "Would you like to join us?",
+    "ipa": "/wʊd ju laɪk tə dʒɔɪn ʌs/",
+    "meaning": "Bạn muốn tham gia với tụi mình không?",
+    "context": "Mời mọc"
+  },
+  {
+    "phrase": "How about another round?",
+    "ipa": "/haʊ əˈbaʊt əˈnʌðər raʊnd/",
+    "meaning": "Hay làm thêm vòng nữa?",
+    "context": "Rủ rê"
+  },
+  {
+    "phrase": "Care to join me?",
+    "ipa": "/kɛər tə dʒɔɪn miː/",
+    "meaning": "Muốn tham gia cùng tôi không?",
+    "context": "Mời"
+  },
+  {
+    "phrase": "Let’s see what happens.",
+    "ipa": "/lets siː wʌt ˈhæpənz/",
+    "meaning": "Xem thử sao đã.",
+    "context": "Đề xuất thử"
+  },
+  {
+    "phrase": "We could give it a try.",
+    "ipa": "/wi kʊd ɡɪv ɪt ə traɪ/",
+    "meaning": "Chúng ta có thể thử.",
+    "context": "Gợi ý thử"
+  },
+  {
+    "phrase": "Why don’t you go first?",
+    "ipa": "/waɪ doʊnt ju ɡoʊ fɜːrst/",
+    "meaning": "Bạn thử trước đi?",
+    "context": "Đề xuất nhẹ"
+  },
+  {
+    "phrase": "Let’s figure it out together.",
+    "ipa": "/lets ˈfɪɡjər ɪt aʊt təˈɡɛðər/",
+    "meaning": "Cùng nhau tìm cách nhé.",
+    "context": "Đề xuất hợp tác"
+  },
+  {
+    "phrase": "How about we wait a bit?",
+    "ipa": "/haʊ əˈbaʊt wi weɪt ə bɪt/",
+    "meaning": "Hay đợi một chút?",
+    "context": "Đề xuất"
+  },
+  {
+    "phrase": "Why don’t we ask for help?",
+    "ipa": "/waɪ doʊnt wi æsk fər hɛlp/",
+    "meaning": "Sao không hỏi giúp đỡ?",
+    "context": "Đề xuất"
+  },
+  {
+    "phrase": "Let’s call it a day.",
+    "ipa": "/lets kɔːl ɪt ə deɪ/",
+    "meaning": "Nghỉ thôi nào.",
+    "context": "Kết thúc"
+  },
+  {
+    "phrase": "We should talk about it.",
+    "ipa": "/wi ʃʊd tɔːk əˈbaʊt ɪt/",
+    "meaning": "Chúng ta nên bàn về chuyện đó.",
+    "context": "Gợi ý thảo luận"
+  },
+  {
+    "phrase": "Let’s keep in touch.",
+    "ipa": "/lets kiːp ɪn tʌtʃ/",
+    "meaning": "Hãy giữ liên lạc nhé.",
+    "context": "Gợi ý duy trì liên lạc"
+  }
+]

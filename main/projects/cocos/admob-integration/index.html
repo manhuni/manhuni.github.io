@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>🎯 Google AdMob Android Integration - Cocos Creator Extension</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/css/base.css" />
+  <link rel="stylesheet" href="/assets/css/theme.css" />
+  <link rel="stylesheet" href="/assets/css/slideshow.css" />
+  <link rel="stylesheet" href="/assets/css/photoviewer.css" />
+  <link rel="stylesheet" href="assets/css/admob-integration.css" />
+  <link rel="stylesheet" href="/main/projects/cocos/assets/css/cocos-project-nav.css" />
+</head>
+
+<body>
+  <div id="header"></div>
+
+  <main class="site-main container">
+    <section class="project-hero">
+      <h1>📱 Google AdMob Android Integration</h1>
+      <p>Tiện ích mở rộng Cocos Creator v2.x.x giúp tích hợp Google AdMob cho nền tảng Android: tự động cấu hình <code>AndroidManifest.xml</code>, <code>AppActivity.java</code>, Gradle, và Resource.</p>
+    </section>
+
+    <section id="slideshow1" class="slideshow"></section>
+
+    <section class="project-section">
+      <h2>✨ Tính năng chính</h2>
+      <ul class="feature-list">
+        <li>✔️ Thêm <code>APPLICATION_ID</code> vào AndroidManifest.xml tự động</li>
+        <li>✔️ Thêm ID Banner, Interstitial, Rewarded, AppOpen, Native, RewardedInterstitial vào <code>strings.xml</code></li>
+        <li>✔️ Chèn mã khởi tạo và huỷ trong <code>AppActivity.java</code></li>
+        <li>✔️ Cấu hình Gradle tự động</li>
+        <li>✔️ Tùy chọn bật/tắt chỉnh sửa AppActivity</li>
+        <li>✔️ Hỗ trợ Injection Java (thư mục template injection)</li>
+        <li>✔️ Hoạt động với Cocos Creator v2.x.x</li>
+      </ul>
+    </section>
+
+    <section class="project-section">
+      <h2>🗂️ Cấu trúc thư mục</h2>
+      <pre><code>
+google-admob-android/
+├── extension.json
+├── main.js
+├── android-constants.js
+├── config-manager.js
+├── utils/
+│   └── file-utils.js
+├── template/
+│   ├── android/
+│   │   ├── injection/
+│   │   ├── java/
+│   │   └── gradle/
+      </code></pre>
+    </section>
+
+    <section class="project-section">
+      <h2>🚀 Hướng dẫn sử dụng</h2>
+      <ol>
+        <li>Copy thư mục <code>google-admob-android</code> vào thư mục <code>extensions</code> của dự án Cocos Creator.</li>
+        <li>Khởi động lại Cocos Creator để extension được load.</li>
+        <li>Vào <strong>Extension → Google AdMob Android</strong>.</li>
+        <li>Nhập <code>Application ID</code> và các <code>Ad Unit ID</code> trong bảng config.</li>
+        <li>Build Android → Extension tự động chèn cấu hình cần thiết.</li>
+        <li>Kiểm tra <code>AndroidManifest.xml</code>, <code>AppActivity.java</code>, Gradle, Resource để xác nhận.</li>
+      </ol>
+    </section>
+
+    <section class="project-section">
+      <h2>📌 Ghi chú</h2>
+      <p>Extension này phục vụ mục đích demo và phát triển nội bộ. Vui lòng kiểm tra kỹ các ID AdMob trước khi publish.</p>
+      <p>Vui lòng không phát hành, bán lại hoặc cho thuê nếu chưa được cấp phép.</p>
+      <p>Đóng góp hoặc phản hồi xin gửi về 📧 <strong><a href="/main/projects/profile.html">Profile</a></strong>. Vui lòng không thương mại hoá khi chưa được phép.</p>
+    </section>
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="/assets/js/main.js"></script>
+  <script src="assets/js/admob-integration.js"></script>
+  <script src="/assets/js/photoViewer.js"></script>
+  <script src="/assets/js/slideshow.js"></script>
+  <script src="assets/js/admob-integration-slideshow.js"></script>
+  <script src="/main/projects/cocos/assets/js/cocos-project-nav.js"></script>
+</body>
+
+</html>

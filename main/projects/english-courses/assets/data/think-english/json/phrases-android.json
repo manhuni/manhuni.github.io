@@ -1,0 +1,92 @@
+[
+  {
+    "phrase": "Did you test it on different screen sizes?",
+    "ipa": "/dɪd ju tɛst ɪt ɒn ˈdɪfrənt skriːn ˈsaɪzɪz/",
+    "meaning": "Bạn đã kiểm tra trên các kích cỡ màn hình khác nhau chưa?",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "We need to update the SDK version.",
+    "ipa": "/wi niːd tə ˈʌpdeɪt ði ɛs diː keɪ ˈvɜːʒən/",
+    "meaning": "Chúng ta cần cập nhật version SDK.",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "Is it backward compatible?",
+    "ipa": "/ɪz ɪt ˈbækwəd kəmˈpætəbl/",
+    "meaning": "Nó có tương thích ngược không?",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "Let’s test it on an emulator first.",
+    "ipa": "/lets tɛst ɪt ɒn ən ˈɛmjuˌleɪtər fɜːst/",
+    "meaning": "Hãy test trước trên trình giả lập.",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "Have you checked the app permissions?",
+    "ipa": "/hæv ju ʧɛkt ði æp pəˈmɪʃənz/",
+    "meaning": "Bạn đã kiểm tra quyền ứng dụng chưa?",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "Does it pass the Google Play policy?",
+    "ipa": "/dʌz ɪt pɑːs ðə ˈɡuːɡl pleɪ ˈpɒləsi/",
+    "meaning": "Nó có đáp ứng chính sách Google Play không?",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "We should handle runtime permissions properly.",
+    "ipa": "/wi ʃʊd ˈhændl ˈrʌnˌtaɪm pəˈmɪʃənz ˈprɒpəli/",
+    "meaning": "Chúng ta nên xử lý quyền runtime đúng cách.",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "Could you check the crash logs?",
+    "ipa": "/kʊd ju ʧɛk ðə kræʃ lɒɡz/",
+    "meaning": "Bạn có thể kiểm tra log crash không?",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "Let’s test on Android 8 and above.",
+    "ipa": "/lets tɛst ɒn ˈændrɔɪd eɪt ənd əˈbʌv/",
+    "meaning": "Hãy test trên Android 8 trở lên.",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "Make sure it runs on low-end devices.",
+    "ipa": "/meɪk ʃʊər ɪt rʌnz ɒn loʊ ɛnd dɪˈvaɪsɪz/",
+    "meaning": "Đảm bảo nó chạy được trên máy cấu hình thấp.",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "Could you sign the APK?",
+    "ipa": "/kʊd ju saɪn ði eɪ piː keɪ/",
+    "meaning": "Bạn có thể ký APK không?",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "Is ProGuard configured correctly?",
+    "ipa": "/ɪz ˈproʊɡɑːrd kənˈfɪɡərd kəˈrɛktli/",
+    "meaning": "ProGuard đã cấu hình đúng chưa?",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "Let’s upload it to Google Play Console.",
+    "ipa": "/lets ˈʌpˌloʊd ɪt tə ˈɡuːɡl pleɪ ˈkɒnsəʊl/",
+    "meaning": "Hãy upload lên Google Play Console.",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "Did you generate the release build?",
+    "ipa": "/dɪd ju ˈʤɛnəreɪt ðə rɪˈliːs bɪld/",
+    "meaning": "Bạn đã tạo bản build release chưa?",
+    "context": "Lập trình Android"
+  },
+  {
+    "phrase": "Don’t forget to update the version code.",
+    "ipa": "/doʊnt fərˈɡɛt tə ˈʌpdeɪt ðə ˈvɜːʒən koʊd/",
+    "meaning": "Đừng quên cập nhật version code.",
+    "context": "Lập trình Android"
+  }
+]

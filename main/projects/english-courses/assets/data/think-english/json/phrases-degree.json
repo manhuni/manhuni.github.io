@@ -1,0 +1,80 @@
+[
+  {
+    "phrase": "It’s so hard.",
+    "ipa": "/ɪts soʊ hɑːrd/",
+    "meaning": "Nó rất khó.",
+    "context": "So"
+  },
+  {
+    "phrase": "It’s too hard to solve.",
+    "ipa": "/ɪts tuː hɑːrd tə sɑːlv/",
+    "meaning": "Nó quá khó để giải.",
+    "context": "Too"
+  },
+  {
+    "phrase": "It’s very hard.",
+    "ipa": "/ɪts ˈvɛri hɑːrd/",
+    "meaning": "Nó rất khó.",
+    "context": "Very"
+  },
+  {
+    "phrase": "It’s quite good.",
+    "ipa": "/ɪts kwaɪt ɡʊd/",
+    "meaning": "Nó khá tốt.",
+    "context": "Quite"
+  },
+  {
+    "phrase": "It’s pretty good.",
+    "ipa": "/ɪts ˈprɪti ɡʊd/",
+    "meaning": "Nó khá tốt.",
+    "context": "Pretty"
+  },
+  {
+    "phrase": "It’s fairly good.",
+    "ipa": "/ɪts ˈfɛrli ɡʊd/",
+    "meaning": "Nó khá ổn.",
+    "context": "Fairly"
+  },
+  {
+    "phrase": "It’s rather cold today.",
+    "ipa": "/ɪts ˈræðər koʊld təˈdeɪ/",
+    "meaning": "Hôm nay hơi lạnh đấy.",
+    "context": "Rather"
+  },
+  {
+    "phrase": "It’s warm enough to swim.",
+    "ipa": "/ɪts wɔːrm ɪˈnʌf tə swɪm/",
+    "meaning": "Trời đủ ấm để bơi.",
+    "context": "Enough"
+  },
+  {
+    "phrase": "Do we have enough time?",
+    "ipa": "/du wi hæv ɪˈnʌf taɪm/",
+    "meaning": "Chúng ta có đủ thời gian không?",
+    "context": "Enough"
+  },
+  {
+    "phrase": "It’s a bit hard.",
+    "ipa": "/ɪts ə bɪt hɑːrd/",
+    "meaning": "Nó hơi khó.",
+    "context": "A bit"
+  },
+  {
+    "phrase": "It’s extremely important.",
+    "ipa": "/ɪts ɪkˈstriːmli ɪmˈpɔːrtnt/",
+    "meaning": "Nó cực kỳ quan trọng.",
+    "context": "Extremely"
+  },
+  {
+    "phrase": "It’s absolutely true.",
+    "ipa": "/ɪts ˈæbsəluːtli truː/",
+    "meaning": "Nó hoàn toàn đúng.",
+    "context": "Absolutely"
+  },
+  {
+    "phrase": "It’s totally different.",
+    "ipa": "/ɪts ˈtoʊtəli ˈdɪfrənt/",
+    "meaning": "Nó hoàn toàn khác.",
+    "context": "Totally"
+  }
+]

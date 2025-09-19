@@ -1,0 +1,92 @@
+[
+  {
+    "phrase": "Is the app user-friendly?",
+    "ipa": "/ɪz ði æp ˈjuːzər ˈfrɛndli/",
+    "meaning": "Ứng dụng có dễ dùng không?",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "Let’s fix the UI bugs first.",
+    "ipa": "/lets fɪks ðə juː aɪ bʌɡz fɜːrst/",
+    "meaning": "Hãy sửa lỗi giao diện trước.",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "Have you checked the API response?",
+    "ipa": "/hæv ju ʧɛkt ði eɪ piː aɪ rɪˈspɒns/",
+    "meaning": "Bạn đã kiểm tra phản hồi API chưa?",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "We need better error handling.",
+    "ipa": "/wi niːd ˈbɛtər ˈɛrər ˈhændlɪŋ/",
+    "meaning": "Chúng ta cần xử lý lỗi tốt hơn.",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "Does it work offline?",
+    "ipa": "/dʌz ɪt wɜːrk ˈɒflaɪn/",
+    "meaning": "Nó có chạy offline không?",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "Let’s improve the loading speed.",
+    "ipa": "/lets ɪmˈpruːv ðə ˈloʊdɪŋ spiːd/",
+    "meaning": "Hãy cải thiện tốc độ tải.",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "Is the app responsive?",
+    "ipa": "/ɪz ði æp rɪˈspɒnsɪv/",
+    "meaning": "Ứng dụng có phản hồi tốt không?",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "We should gather user feedback.",
+    "ipa": "/wi ʃʊd ˈɡæðər ˈjuːzər ˈfiːdbæk/",
+    "meaning": "Chúng ta nên thu thập phản hồi người dùng.",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "Did you test the push notifications?",
+    "ipa": "/dɪd ju tɛst ðə pʊʃ ˌnoʊtɪfɪˈkeɪʃənz/",
+    "meaning": "Bạn đã test thông báo đẩy chưa?",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "Let’s check for memory leaks.",
+    "ipa": "/lets ʧɛk fər ˈmɛməri liks/",
+    "meaning": "Hãy kiểm tra xem có rò rỉ bộ nhớ không.",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "We should monitor crash reports.",
+    "ipa": "/wi ʃʊd ˈmɒnɪtər kræʃ rɪˈpɔːrts/",
+    "meaning": "Chúng ta nên theo dõi báo cáo crash.",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "Could you deploy the latest version?",
+    "ipa": "/kʊd ju dɪˈplɔɪ ðə ˈleɪtɪst ˈvɜːʒən/",
+    "meaning": "Bạn triển khai phiên bản mới nhất được không?",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "Don’t forget to test the edge cases.",
+    "ipa": "/doʊnt fərˈɡɛt tə tɛst ði ɛʤ keɪsɪz/",
+    "meaning": "Đừng quên kiểm tra các trường hợp biên.",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "Is the authentication flow working?",
+    "ipa": "/ɪz ði ɔːˌθɛntɪˈkeɪʃən floʊ ˈwɜːrkɪŋ/",
+    "meaning": "Luồng xác thực đã chạy chưa?",
+    "context": "Lập trình ứng dụng"
+  },
+  {
+    "phrase": "Let’s push it to production.",
+    "ipa": "/lets pʊʃ ɪt tə prəˈdʌkʃən/",
+    "meaning": "Hãy đưa nó lên production.",
+    "context": "Lập trình ứng dụng"
+  }
+]

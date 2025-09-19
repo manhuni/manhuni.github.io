@@ -1,0 +1,74 @@
+[
+  {
+    "phrase": "Could you tell me about yourself?",
+    "ipa": "/kʊd ju tɛl mi əˈbaʊt jɔːrˈsɛlf/",
+    "meaning": "Bạn có thể giới thiệu bản thân không?",
+    "context": "Interview"
+  },
+  {
+    "phrase": "What are your strengths?",
+    "ipa": "/wɒt ɑː jɔːr strɛŋθs/",
+    "meaning": "Điểm mạnh của bạn là gì?",
+    "context": "Interview"
+  },
+  {
+    "phrase": "What are your weaknesses?",
+    "ipa": "/wɒt ɑː jɔːr ˈwiːknəsɪz/",
+    "meaning": "Điểm yếu của bạn là gì?",
+    "context": "Interview"
+  },
+  {
+    "phrase": "Why do you want to join us?",
+    "ipa": "/waɪ du ju wɒnt tə ʤɔɪn ʌs/",
+    "meaning": "Tại sao bạn muốn gia nhập chúng tôi?",
+    "context": "Interview"
+  },
+  {
+    "phrase": "Can you describe a challenge you’ve faced?",
+    "ipa": "/kæn ju dɪsˈkraɪb ə ˈʧælɪnʤ juv feɪst/",
+    "meaning": "Bạn có thể mô tả thử thách bạn từng gặp không?",
+    "context": "Interview"
+  },
+  {
+    "phrase": "How do you handle stress at work?",
+    "ipa": "/haʊ du ju ˈhændl strɛs æt wɜːrk/",
+    "meaning": "Bạn đối phó áp lực công việc thế nào?",
+    "context": "Interview"
+  },
+  {
+    "phrase": "Do you prefer working in a team or alone?",
+    "ipa": "/du ju prɪˈfɜːr ˈwɜːrkɪŋ ɪn ə tiːm ɔːr əˈloʊn/",
+    "meaning": "Bạn thích làm việc nhóm hay độc lập?",
+    "context": "Interview"
+  },
+  {
+    "phrase": "Where do you see yourself in five years?",
+    "ipa": "/wɛər du ju si jɔːrˈsɛlf ɪn faɪv jɪərz/",
+    "meaning": "Bạn thấy mình ở đâu trong 5 năm tới?",
+    "context": "Interview"
+  },
+  {
+    "phrase": "What’s your expected salary?",
+    "ipa": "/wɒts jɔːr ɪkˈspɛktɪd ˈsæləri/",
+    "meaning": "Mức lương bạn mong muốn là bao nhiêu?",
+    "context": "Interview"
+  },
+  {
+    "phrase": "Do you have any questions for us?",
+    "ipa": "/du ju hæv ˈɛni ˈkwɛsʧənz fər ʌs/",
+    "meaning": "Bạn có câu hỏi nào cho chúng tôi không?",
+    "context": "Interview"
+  },
+  {
+    "phrase": "Thank you for your time today.",
+    "ipa": "/θæŋk ju fər jɔːr taɪm təˈdeɪ/",
+    "meaning": "Cảm ơn bạn đã dành thời gian hôm nay.",
+    "context": "Interview"
+  },
+  {
+    "phrase": "We’ll get back to you soon.",
+    "ipa": "/wiːl ɡɛt bæk tə ju suːn/",
+    "meaning": "Chúng tôi sẽ phản hồi sớm.",
+    "context": "Interview"
+  }
+]

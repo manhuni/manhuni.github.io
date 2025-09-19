@@ -1,0 +1,1649 @@
+[
+    {
+        "phrasal_verb": "think of",
+        "ipa_word": "/θɪŋk ʌv/",
+        "meaning_word": "nghĩ về, nghĩ ra",
+        "phrase": "I often think of my childhood.",
+        "ipa_phrase": "/aɪ ˈɔːfən θɪŋk ʌv maɪ ˈʧaɪldhʊd/",
+        "meaning_phrase": "Tôi thường nghĩ về thời thơ ấu của mình.",
+        "context": "Suy nghĩ"
+    },
+    {
+        "phrasal_verb": "think about",
+        "ipa_word": "/θɪŋk əˈbaʊt/",
+        "meaning_word": "suy nghĩ về",
+        "phrase": "She is thinking about the problem.",
+        "ipa_phrase": "/ʃi ɪz ˈθɪŋkɪŋ əˈbaʊt ðə ˈprɑːbləm/",
+        "meaning_phrase": "Cô ấy đang suy nghĩ về vấn đề đó.",
+        "context": "Suy nghĩ"
+    },
+    {
+        "phrasal_verb": "think over",
+        "ipa_word": "/θɪŋk ˈoʊvər/",
+        "meaning_word": "xem xét kỹ, cân nhắc",
+        "phrase": "I need to think over your proposal.",
+        "ipa_phrase": "/aɪ niːd tu θɪŋk ˈoʊvər jʊər prəˈpoʊzəl/",
+        "meaning_phrase": "Tôi cần cân nhắc kỹ đề xuất của bạn.",
+        "context": "Cân nhắc"
+    },
+    {
+        "phrasal_verb": "think out",
+        "ipa_word": "/θɪŋk aʊt/",
+        "meaning_word": "nghĩ ra cách giải quyết",
+        "phrase": "We have to think out a plan.",
+        "ipa_phrase": "/wi hæv tu θɪŋk aʊt ə plæn/",
+        "meaning_phrase": "Chúng ta phải nghĩ ra một kế hoạch.",
+        "context": "Lập kế hoạch"
+    },
+    {
+        "phrasal_verb": "run out of",
+        "ipa_word": "/rʌn aʊt ʌv/",
+        "meaning_word": "hết cái gì",
+        "phrase": "We have run out of milk.",
+        "ipa_phrase": "/wi hæv rʌn aʊt ʌv mɪlk/",
+        "meaning_phrase": "Chúng tôi đã hết sữa.",
+        "context": "Hết đồ dùng"
+    },
+    {
+        "phrasal_verb": "look after",
+        "ipa_word": "/lʊk ˈæftər/",
+        "meaning_word": "chăm sóc",
+        "phrase": "She looks after her little brother.",
+        "ipa_phrase": "/ʃi lʊks ˈæftər hɜr ˈlɪtl ˈbrʌðər/",
+        "meaning_phrase": "Cô ấy chăm sóc em trai nhỏ của mình.",
+        "context": "Chăm sóc"
+    },
+    {
+        "phrasal_verb": "look for",
+        "ipa_word": "/lʊk fɔr/",
+        "meaning_word": "tìm kiếm",
+        "phrase": "He is looking for his keys.",
+        "ipa_phrase": "/hi ɪz ˈlʊkɪŋ fɔr hɪz kiːz/",
+        "meaning_phrase": "Anh ấy đang tìm chìa khóa.",
+        "context": "Tìm kiếm"
+    },
+    {
+        "phrasal_verb": "look into",
+        "ipa_word": "/lʊk ˈɪntu/",
+        "meaning_word": "xem xét, điều tra",
+        "phrase": "The police are looking into the case.",
+        "ipa_phrase": "/ðə pəˈliːs ɑːr ˈlʊkɪŋ ˈɪntu ðə keɪs/",
+        "meaning_phrase": "Cảnh sát đang điều tra vụ án.",
+        "context": "Điều tra"
+    },
+    {
+        "phrasal_verb": "look out",
+        "ipa_word": "/lʊk aʊt/",
+        "meaning_word": "cẩn thận, coi chừng",
+        "phrase": "Look out! There's a car coming.",
+        "ipa_phrase": "/lʊk aʊt ðɛrz ə kɑːr ˈkʌmɪŋ/",
+        "meaning_phrase": "Coi chừng! Có xe đang tới.",
+        "context": "Cảnh báo"
+    },
+    {
+        "phrasal_verb": "give up",
+        "ipa_word": "/ɡɪv ʌp/",
+        "meaning_word": "từ bỏ",
+        "phrase": "He gave up smoking last year.",
+        "ipa_phrase": "/hi ɡeɪv ʌp ˈsmoʊkɪŋ læst jɪr/",
+        "meaning_phrase": "Anh ấy đã từ bỏ hút thuốc năm ngoái.",
+        "context": "Từ bỏ thói quen"
+    },
+    {
+        "phrasal_verb": "give in",
+        "ipa_word": "/ɡɪv ɪn/",
+        "meaning_word": "chịu thua, nhượng bộ",
+        "phrase": "She finally gave in to their demands.",
+        "ipa_phrase": "/ʃi ˈfaɪnəli ɡeɪv ɪn tu ðɛr dɪˈmændz/",
+        "meaning_phrase": "Cuối cùng cô ấy nhượng bộ yêu cầu của họ.",
+        "context": "Nhượng bộ"
+    },
+    {
+        "phrasal_verb": "give out",
+        "ipa_word": "/ɡɪv aʊt/",
+        "meaning_word": "phát ra, cạn kiệt",
+        "phrase": "The teacher gave out the worksheets.",
+        "ipa_phrase": "/ðə ˈtiːʧər ɡeɪv aʊt ðə ˈwɜrkˌʃiːts/",
+        "meaning_phrase": "Giáo viên phát các phiếu bài tập.",
+        "context": "Phát tài liệu"
+    },
+    {
+        "phrasal_verb": "turn on",
+        "ipa_word": "/tɜrn ɑn/",
+        "meaning_word": "bật (thiết bị)",
+        "phrase": "Please turn on the lights.",
+        "ipa_phrase": "/pliːz tɜrn ɑn ðə laɪts/",
+        "meaning_phrase": "Hãy bật đèn lên.",
+        "context": "Thiết bị"
+    },
+    {
+        "phrasal_verb": "turn off",
+        "ipa_word": "/tɜrn ɔːf/",
+        "meaning_word": "tắt (thiết bị)",
+        "phrase": "Turn off the computer before leaving.",
+        "ipa_phrase": "/tɜrn ɔːf ðə kəmˈpjuːtər bɪˈfɔr ˈliːvɪŋ/",
+        "meaning_phrase": "Tắt máy tính trước khi rời đi.",
+        "context": "Thiết bị"
+    },
+    {
+        "phrasal_verb": "turn up",
+        "ipa_word": "/tɜrn ʌp/",
+        "meaning_word": "tăng (âm lượng, nhiệt độ)",
+        "phrase": "Could you turn up the volume?",
+        "ipa_phrase": "/kʊd ju tɜrn ʌp ðə ˈvɑljum/",
+        "meaning_phrase": "Bạn có thể tăng âm lượng không?",
+        "context": "Điều chỉnh thiết bị"
+    },
+    {
+        "phrasal_verb": "turn down",
+        "ipa_word": "/tɜrn daʊn/",
+        "meaning_word": "giảm (âm lượng, nhiệt độ), từ chối",
+        "phrase": "He turned down the offer.",
+        "ipa_phrase": "/hi tɜrnd daʊn ði ˈɔfər/",
+        "meaning_phrase": "Anh ấy từ chối lời đề nghị.",
+        "context": "Từ chối / Điều chỉnh"
+    },
+    {
+        "phrasal_verb": "call off",
+        "ipa_word": "/kɔːl ɔf/",
+        "meaning_word": "hủy bỏ",
+        "phrase": "They called off the meeting.",
+        "ipa_phrase": "/ðeɪ kɔːld ɔf ðə ˈmiːtɪŋ/",
+        "meaning_phrase": "Họ đã hủy cuộc họp.",
+        "context": "Hủy bỏ"
+    },
+    {
+        "phrasal_verb": "call back",
+        "ipa_word": "/kɔːl bæk/",
+        "meaning_word": "gọi lại",
+        "phrase": "I will call you back later.",
+        "ipa_phrase": "/aɪ wɪl kɔːl ju bæk ˈleɪtər/",
+        "meaning_phrase": "Tôi sẽ gọi lại bạn sau.",
+        "context": "Giao tiếp"
+    },
+    {
+        "phrasal_verb": "call on",
+        "ipa_word": "/kɔːl ɑn/",
+        "meaning_word": "ghé thăm, yêu cầu",
+        "phrase": "The teacher called on me to answer.",
+        "ipa_phrase": "/ðə ˈtiːʧər kɔːld ɑn mi tu ˈænsər/",
+        "meaning_phrase": "Giáo viên yêu cầu tôi trả lời.",
+        "context": "Giao tiếp"
+    },
+    {
+        "phrasal_verb": "call out",
+        "ipa_word": "/kɔːl aʊt/",
+        "meaning_word": "gọi to, đọc to",
+        "phrase": "The coach called out the players' names.",
+        "ipa_phrase": "/ðə koʊʧ kɔːld aʊt ðə ˈpleɪərz neɪmz/",
+        "meaning_phrase": "Huấn luyện viên đọc to tên các cầu thủ.",
+        "context": "Giao tiếp"
+    },
+    {
+        "phrasal_verb": "pick up",
+        "ipa_word": "/pɪk ʌp/",
+        "meaning_word": "nhặt lên, đón ai đó",
+        "phrase": "Can you pick me up at the station?",
+        "ipa_phrase": "/kæn ju pɪk mi ʌp æt ðə ˈsteɪʃən/",
+        "meaning_phrase": "Bạn có thể đón tôi ở ga không?",
+        "context": "Giao thông / Hành động"
+    },
+    {
+        "phrasal_verb": "put down",
+        "ipa_word": "/pʊt daʊn/",
+        "meaning_word": "đặt xuống, ghi chú",
+        "phrase": "Please put the book down.",
+        "ipa_phrase": "/pliːz pʊt ðə bʊk daʊn/",
+        "meaning_phrase": "Hãy đặt cuốn sách xuống.",
+        "context": "Hành động"
+    },
+    {
+        "phrasal_verb": "put off",
+        "ipa_word": "/pʊt ɔːf/",
+        "meaning_word": "hoãn lại",
+        "phrase": "They decided to put off the meeting.",
+        "ipa_phrase": "/ðeɪ dɪˈsaɪdɪd tu pʊt ɔːf ðə ˈmiːtɪŋ/",
+        "meaning_phrase": "Họ quyết định hoãn cuộc họp.",
+        "context": "Lịch trình"
+    },
+    {
+        "phrasal_verb": "put on",
+        "ipa_word": "/pʊt ɑn/",
+        "meaning_word": "mang, mặc, bật (thiết bị)",
+        "phrase": "She put on her coat.",
+        "ipa_phrase": "/ʃi pʊt ɑn hɜr koʊt/",
+        "meaning_phrase": "Cô ấy mặc áo khoác.",
+        "context": "Trang phục / Thiết bị"
+    },
+    {
+        "phrasal_verb": "put up with",
+        "ipa_word": "/pʊt ʌp wɪð/",
+        "meaning_word": "chịu đựng",
+        "phrase": "I can't put up with this noise anymore.",
+        "ipa_phrase": "/aɪ kænt pʊt ʌp wɪð ðɪs nɔɪz ˌɛnɪˈmɔr/",
+        "meaning_phrase": "Tôi không thể chịu đựng tiếng ồn này nữa.",
+        "context": "Cảm xúc"
+    },
+    {
+        "phrasal_verb": "break down",
+        "ipa_word": "/breɪk daʊn/",
+        "meaning_word": "hỏng, suy sụp",
+        "phrase": "My car broke down yesterday.",
+        "ipa_phrase": "/maɪ kɑr broʊk daʊn ˈjɛstərdeɪ/",
+        "meaning_phrase": "Xe tôi bị hỏng hôm qua.",
+        "context": "Hỏng hóc / Cảm xúc"
+    },
+    {
+        "phrasal_verb": "break up",
+        "ipa_word": "/breɪk ʌp/",
+        "meaning_word": "chia tay, kết thúc",
+        "phrase": "They broke up last month.",
+        "ipa_phrase": "/ðeɪ broʊk ʌp læst mʌnθ/",
+        "meaning_phrase": "Họ chia tay tháng trước.",
+        "context": "Quan hệ"
+    },
+    {
+        "phrasal_verb": "break in",
+        "ipa_word": "/breɪk ɪn/",
+        "meaning_word": "đột nhập, luyện cho quen",
+        "phrase": "Someone broke in last night.",
+        "ipa_phrase": "/ˈsʌmwʌn broʊk ɪn læst naɪt/",
+        "meaning_phrase": "Ai đó đã đột nhập tối qua.",
+        "context": "An ninh"
+    },
+    {
+        "phrasal_verb": "bring up",
+        "ipa_word": "/brɪŋ ʌp/",
+        "meaning_word": "nuôi dưỡng, nhắc tới",
+        "phrase": "She was brought up in London.",
+        "ipa_phrase": "/ʃi wəz brɔːt ʌp ɪn ˈlʌndən/",
+        "meaning_phrase": "Cô ấy lớn lên ở London.",
+        "context": "Nuôi dưỡng / Giao tiếp"
+    },
+    {
+        "phrasal_verb": "bring about",
+        "ipa_word": "/brɪŋ əˈbaʊt/",
+        "meaning_word": "gây ra, đem lại",
+        "phrase": "The new law brought about many changes.",
+        "ipa_phrase": "/ðə nu lɔː brɔːt əˈbaʊt ˈmɛni ˈʧeɪndʒɪz/",
+        "meaning_phrase": "Luật mới đem lại nhiều thay đổi.",
+        "context": "Xã hội / Chính sách"
+    },
+    {
+        "phrasal_verb": "bring in",
+        "ipa_word": "/brɪŋ ɪn/",
+        "meaning_word": "mang vào, kiếm được",
+        "phrase": "The company brings in a lot of revenue.",
+        "ipa_phrase": "/ðə ˈkʌmpəni brɪŋz ɪn ə lɑt ʌv ˈrɛvəˌnu/",
+        "meaning_phrase": "Công ty kiếm được nhiều doanh thu.",
+        "context": "Kinh doanh"
+    },
+    {
+        "phrasal_verb": "bring out",
+        "ipa_word": "/brɪŋ aʊt/",
+        "meaning_word": "phát hành, làm nổi bật",
+        "phrase": "This color really brings out your eyes.",
+        "ipa_phrase": "/ðɪs ˈkʌlər ˈrɪəli brɪŋz aʊt jʊər aɪz/",
+        "meaning_phrase": "Màu này làm nổi bật đôi mắt của bạn.",
+        "context": "Giao tiếp / Thẩm mỹ"
+    },
+    {
+        "phrasal_verb": "get up",
+        "ipa_word": "/ɡɛt ʌp/",
+        "meaning_word": "thức dậy, đứng lên",
+        "phrase": "I get up at 7 a.m. every day.",
+        "ipa_phrase": "/aɪ ɡɛt ʌp æt ˈsɛvən eɪ ɛm ˈɛvri deɪ/",
+        "meaning_phrase": "Tôi thức dậy lúc 7 giờ sáng mỗi ngày.",
+        "context": "Hành vi hàng ngày"
+    },
+    {
+        "phrasal_verb": "get down",
+        "ipa_word": "/ɡɛt daʊn/",
+        "meaning_word": "ngồi xuống, làm nản lòng",
+        "phrase": "Get down from the table!",
+        "ipa_phrase": "/ɡɛt daʊn frʌm ðə ˈteɪbəl/",
+        "meaning_phrase": "Ngồi xuống khỏi bàn!",
+        "context": "Hành vi / Cảm xúc"
+    },
+    {
+        "phrasal_verb": "get along",
+        "ipa_word": "/ɡɛt əˈlɔŋ/",
+        "meaning_word": "hòa thuận",
+        "phrase": "They get along very well.",
+        "ipa_phrase": "/ðeɪ ɡɛt əˈlɔŋ ˈvɛri wɛl/",
+        "meaning_phrase": "Họ rất hòa thuận.",
+        "context": "Quan hệ"
+    },
+    {
+        "phrasal_verb": "get over",
+        "ipa_word": "/ɡɛt ˈoʊvər/",
+        "meaning_word": "vượt qua (cảm xúc, bệnh tật)",
+        "phrase": "It took her months to get over the illness.",
+        "ipa_phrase": "/ɪt tʊk hɜr mʌnθs tu ɡɛt ˈoʊvər ði ˈɪlnəs/",
+        "meaning_phrase": "Cô ấy mất vài tháng để vượt qua căn bệnh.",
+        "context": "Sức khỏe / Cảm xúc"
+    },
+    {
+        "phrasal_verb": "get back",
+        "ipa_word": "/ɡɛt bæk/",
+        "meaning_word": "quay lại, nhận lại",
+        "phrase": "I need to get back home before dark.",
+        "ipa_phrase": "/aɪ niːd tu ɡɛt bæk hoʊm bɪˈfɔr dɑrk/",
+        "meaning_phrase": "Tôi cần quay về nhà trước khi trời tối.",
+        "context": "Di chuyển"
+    },
+    {
+        "phrasal_verb": "get in",
+        "ipa_word": "/ɡɛt ɪn/",
+        "meaning_word": "vào, đến",
+        "phrase": "What time did you get in last night?",
+        "ipa_phrase": "/wʌt taɪm dɪd ju ɡɛt ɪn læst naɪt/",
+        "meaning_phrase": "Bạn đến lúc mấy giờ tối qua?",
+        "context": "Di chuyển"
+    },
+    {
+        "phrasal_verb": "get out",
+        "ipa_word": "/ɡɛt aʊt/",
+        "meaning_word": "ra ngoài, thoát ra",
+        "phrase": "Get out of the car!",
+        "ipa_phrase": "/ɡɛt aʊt ʌv ðə kɑr/",
+        "meaning_phrase": "Ra khỏi xe!",
+        "context": "Hành động"
+    },
+    {
+        "phrasal_verb": "bring back",
+        "ipa_word": "/brɪŋ bæk/",
+        "meaning_word": "mang về, gợi nhớ",
+        "phrase": "This song brings back memories.",
+        "ipa_phrase": "/ðɪs sɔŋ brɪŋz bæk ˈmɛməriz/",
+        "meaning_phrase": "Bài hát này gợi lại nhiều kỷ niệm.",
+        "context": "Cảm xúc / Nhớ nhung"
+    },
+    {
+        "phrasal_verb": "bring forward",
+        "ipa_word": "/brɪŋ ˈfɔːrwərd/",
+        "meaning_word": "đưa ra, đề xuất",
+        "phrase": "They brought forward a new proposal.",
+        "ipa_phrase": "/ðeɪ brɔːt ˈfɔːrwərd ə nu prəˈpoʊzəl/",
+        "meaning_phrase": "Họ đưa ra một đề xuất mới.",
+        "context": "Giao tiếp / Kinh doanh"
+    },
+    {
+        "phrasal_verb": "bring together",
+        "ipa_word": "/brɪŋ təˈɡɛðər/",
+        "meaning_word": "kết hợp, tụ họp",
+        "phrase": "The festival brings together people from all over the world.",
+        "ipa_phrase": "/ðə ˈfɛstəvəl brɪŋz təˈɡɛðər ˈpipəl frʌm ɔːl ˈoʊvər ðə wɜrld/",
+        "meaning_phrase": "Lễ hội này tụ họp mọi người từ khắp nơi trên thế giới.",
+        "context": "Sự kiện / Giao lưu"
+    },
+    {
+        "phrasal_verb": "come across",
+        "ipa_word": "/kʌm əˈkrɔs/",
+        "meaning_word": "tình cờ gặp, bắt gặp",
+        "phrase": "I came across an old friend yesterday.",
+        "ipa_phrase": "/aɪ keɪm əˈkrɔs æn oʊld frɛnd ˈjɛstərdeɪ/",
+        "meaning_phrase": "Tôi tình cờ gặp một người bạn cũ hôm qua.",
+        "context": "Giao tiếp"
+    },
+    {
+        "phrasal_verb": "come along",
+        "ipa_word": "/kʌm əˈlɔːŋ/",
+        "meaning_word": "đi cùng, xuất hiện",
+        "phrase": "Would you like to come along to the party?",
+        "ipa_phrase": "/wʊd ju laɪk tu kʌm əˈlɔːŋ tu ðə ˈpɑrti/",
+        "meaning_phrase": "Bạn có muốn đi cùng đến bữa tiệc không?",
+        "context": "Giao tiếp"
+    },
+    {
+        "phrasal_verb": "come back",
+        "ipa_word": "/kʌm bæk/",
+        "meaning_word": "quay lại",
+        "phrase": "He came back from France last week.",
+        "ipa_phrase": "/hi keɪm bæk frʌm fræns læst wik/",
+        "meaning_phrase": "Anh ấy đã quay lại từ Pháp tuần trước.",
+        "context": "Di chuyển"
+    },
+    {
+        "phrasal_verb": "come out",
+        "ipa_word": "/kʌm aʊt/",
+        "meaning_word": "xuất hiện, ra mắt",
+        "phrase": "Her new book will come out next month.",
+        "ipa_phrase": "/hɜr nu bʊk wɪl kʌm aʊt nɛkst mʌnθ/",
+        "meaning_phrase": "Cuốn sách mới của cô ấy sẽ ra mắt tháng tới.",
+        "context": "Sản phẩm / Xuất bản"
+    },
+    {
+        "phrasal_verb": "come up with",
+        "ipa_word": "/kʌm ʌp wɪð/",
+        "meaning_word": "nghĩ ra, đưa ra (ý tưởng)",
+        "phrase": "She came up with a brilliant idea.",
+        "ipa_phrase": "/ʃi keɪm ʌp wɪð ə ˈbrɪljənt aɪˈdɪə/",
+        "meaning_phrase": "Cô ấy nghĩ ra một ý tưởng tuyệt vời.",
+        "context": "Sáng tạo / Công việc"
+    },
+    {
+        "phrasal_verb": "get ahead",
+        "ipa_word": "/ɡɛt əˈhɛd/",
+        "meaning_word": "tiến bộ, thành công",
+        "phrase": "You need to work hard to get ahead.",
+        "ipa_phrase": "/ju nid tu wɜrk hɑrd tu ɡɛt əˈhɛd/",
+        "meaning_phrase": "Bạn cần làm việc chăm chỉ để tiến bộ.",
+        "context": "Công việc / Học tập"
+    },
+    {
+        "phrasal_verb": "get along with",
+        "ipa_word": "/ɡɛt əˈlɔːŋ wɪð/",
+        "meaning_word": "hòa thuận với ai",
+        "phrase": "She gets along with all her colleagues.",
+        "ipa_phrase": "/ʃi ɡɛts əˈlɔːŋ wɪð ɔːl hɜr ˈkɑliːɡz/",
+        "meaning_phrase": "Cô ấy hòa thuận với tất cả đồng nghiệp.",
+        "context": "Quan hệ"
+    },
+    {
+        "phrasal_verb": "get rid of",
+        "ipa_word": "/ɡɛt rɪd ʌv/",
+        "meaning_word": "loại bỏ",
+        "phrase": "We need to get rid of these old clothes.",
+        "ipa_phrase": "/wi nid tu ɡɛt rɪd ʌv ðiz oʊld kloʊðz/",
+        "meaning_phrase": "Chúng ta cần loại bỏ những bộ quần áo cũ này.",
+        "context": "Dọn dẹp / Quản lý"
+    },
+    {
+        "phrasal_verb": "get together",
+        "ipa_word": "/ɡɛt təˈɡɛðər/",
+        "meaning_word": "tụ họp",
+        "phrase": "Let's get together this weekend.",
+        "ipa_phrase": "/lɛts ɡɛt təˈɡɛðər ðɪs ˈwiːkˌɛnd/",
+        "meaning_phrase": "Hãy tụ họp cuối tuần này.",
+        "context": "Giao tiếp / Sự kiện"
+    },
+    {
+        "phrasal_verb": "get through",
+        "ipa_word": "/ɡɛt θruː/",
+        "meaning_word": "vượt qua, hoàn tất",
+        "phrase": "I finally got through the exam.",
+        "ipa_phrase": "/aɪ ˈfaɪnəli ɡɒt θruː ði ɪɡˈzæm/",
+        "meaning_phrase": "Cuối cùng tôi đã vượt qua kỳ thi.",
+        "context": "Học tập / Công việc"
+    },
+    {
+        "phrasal_verb": "look back",
+        "ipa_word": "/lʊk bæk/",
+        "meaning_word": "nhìn lại, hồi tưởng",
+        "phrase": "Don't look back on past mistakes.",
+        "ipa_phrase": "/doʊnt lʊk bæk ɑn pæst mɪsˈteɪks/",
+        "meaning_phrase": "Đừng nhìn lại những lỗi lầm trong quá khứ.",
+        "context": "Cảm xúc / Học tập"
+    },
+    {
+        "phrasal_verb": "look down on",
+        "ipa_word": "/lʊk daʊn ɑn/",
+        "meaning_word": "coi thường, khinh miệt",
+        "phrase": "He looks down on people who are less educated.",
+        "ipa_phrase": "/hi lʊks daʊn ɑn ˈpipəl hu ɑr lɛs ˈɛdʒəˌkeɪtɪd/",
+        "meaning_phrase": "Anh ấy coi thường những người ít học hơn.",
+        "context": "Cảm xúc / Quan hệ"
+    },
+    {
+        "phrasal_verb": "look up",
+        "ipa_word": "/lʊk ʌp/",
+        "meaning_word": "tra cứu, cải thiện",
+        "phrase": "Things are starting to look up.",
+        "ipa_phrase": "/θɪŋz ɑːr ˈstɑːrtɪŋ tu lʊk ʌp/",
+        "meaning_phrase": "Mọi thứ đang bắt đầu cải thiện.",
+        "context": "Công việc / Tình trạng"
+    },
+    {
+        "phrasal_verb": "look over",
+        "ipa_word": "/lʊk ˈoʊvər/",
+        "meaning_word": "xem qua, kiểm tra",
+        "phrase": "Please look over this report.",
+        "ipa_phrase": "/pliːz lʊk ˈoʊvər ðɪs rɪˈpɔrt/",
+        "meaning_phrase": "Hãy xem qua báo cáo này.",
+        "context": "Công việc / Học tập"
+    },
+    {
+        "phrasal_verb": "look around",
+        "ipa_word": "/lʊk əˈraʊnd/",
+        "meaning_word": "xem xung quanh, tham quan",
+        "phrase": "We looked around the city yesterday.",
+        "ipa_phrase": "/wi lʊkt əˈraʊnd ðə ˈsɪti ˈjɛstərdeɪ/",
+        "meaning_phrase": "Chúng tôi đã tham quan quanh thành phố hôm qua.",
+        "context": "Du lịch / Tham quan"
+    },
+    {
+        "phrasal_verb": "look for",
+        "ipa_word": "/lʊk fɔːr/",
+        "meaning_word": "tìm kiếm",
+        "phrase": "I'm looking for my keys.",
+        "ipa_phrase": "/aɪm ˈlʊkɪŋ fɔːr maɪ kiːz/",
+        "meaning_phrase": "Tôi đang tìm chìa khóa của mình.",
+        "context": "Hành động / Vật dụng"
+    },
+    {
+        "phrasal_verb": "look into",
+        "ipa_word": "/lʊk ˈɪntuː/",
+        "meaning_word": "xem xét, điều tra",
+        "phrase": "The manager will look into the complaint.",
+        "ipa_phrase": "/ðə ˈmænɪdʒər wɪl lʊk ˈɪntuː ðə kəmˈpleɪnt/",
+        "meaning_phrase": "Quản lý sẽ xem xét khiếu nại.",
+        "context": "Công việc / Điều tra"
+    },
+    {
+        "phrasal_verb": "look out",
+        "ipa_word": "/lʊk aʊt/",
+        "meaning_word": "cẩn thận, coi chừng",
+        "phrase": "Look out! There's a car coming.",
+        "ipa_phrase": "/lʊk aʊt ðɛərz ə kɑr ˈkʌmɪŋ/",
+        "meaning_phrase": "Coi chừng! Có xe đang đến.",
+        "context": "Cảnh báo / An toàn"
+    },
+    {
+        "phrasal_verb": "look up to",
+        "ipa_word": "/lʊk ʌp tuː/",
+        "meaning_word": "ngưỡng mộ",
+        "phrase": "Many students look up to their teachers.",
+        "ipa_phrase": "/ˈmɛni ˈstudənts lʊk ʌp tuː ðɛər ˈtiːtʃərz/",
+        "meaning_phrase": "Nhiều học sinh ngưỡng mộ giáo viên của họ.",
+        "context": "Cảm xúc / Quan hệ"
+    },
+    {
+        "phrasal_verb": "turn on",
+        "ipa_word": "/tɜrn ɑn/",
+        "meaning_word": "bật (thiết bị), kích hoạt",
+        "phrase": "Please turn on the light.",
+        "ipa_phrase": "/pliːz tɜrn ɑn ðə laɪt/",
+        "meaning_phrase": "Hãy bật đèn lên.",
+        "context": "Thiết bị / Hành động"
+    },
+    {
+        "phrasal_verb": "turn off",
+        "ipa_word": "/tɜrn ɔf/",
+        "meaning_word": "tắt (thiết bị), làm mất hứng",
+        "phrase": "Turn off the TV before going to bed.",
+        "ipa_phrase": "/tɜrn ɔf ðə ˌtiːˈviː bɪˈfɔr ˈɡoʊɪŋ tuː bɛd/",
+        "meaning_phrase": "Tắt TV trước khi đi ngủ.",
+        "context": "Thiết bị / Hành vi"
+    },
+    {
+        "phrasal_verb": "turn up",
+        "ipa_word": "/tɜrn ʌp/",
+        "meaning_word": "xuất hiện, tăng âm lượng",
+        "phrase": "She turned up late to the party.",
+        "ipa_phrase": "/ʃi tɜrnd ʌp leɪt tuː ðə ˈpɑrti/",
+        "meaning_phrase": "Cô ấy đến muộn bữa tiệc.",
+        "context": "Thời gian / Âm thanh"
+    },
+    {
+        "phrasal_verb": "turn down",
+        "ipa_word": "/tɜrn daʊn/",
+        "meaning_word": "từ chối, giảm âm lượng",
+        "phrase": "He turned down the job offer.",
+        "ipa_phrase": "/hi tɜrnd daʊn ðə ʤɑb ˈɔfər/",
+        "meaning_phrase": "Anh ấy từ chối lời mời làm việc.",
+        "context": "Công việc / Âm thanh"
+    },
+    {
+        "phrasal_verb": "turn around",
+        "ipa_word": "/tɜrn əˈraʊnd/",
+        "meaning_word": "quay lại, thay đổi (tình hình)",
+        "phrase": "The company turned around its financial situation.",
+        "ipa_phrase": "/ðə ˈkʌmpəni tɜrnd əˈraʊnd ɪts faɪˈnænʃəl ˌsɪtʃuˈeɪʃən/",
+        "meaning_phrase": "Công ty đã thay đổi tình hình tài chính của mình.",
+        "context": "Công việc / Kinh doanh"
+    },
+    {
+        "phrasal_verb": "give up",
+        "ipa_word": "/ɡɪv ʌp/",
+        "meaning_word": "từ bỏ",
+        "phrase": "Don't give up on your dreams.",
+        "ipa_phrase": "/doʊnt ɡɪv ʌp ɑn jʊər drimz/",
+        "meaning_phrase": "Đừng từ bỏ ước mơ của bạn.",
+        "context": "Cảm xúc / Động lực"
+    },
+    {
+        "phrasal_verb": "give in",
+        "ipa_word": "/ɡɪv ɪn/",
+        "meaning_word": "nhượng bộ, chịu thua",
+        "phrase": "He finally gave in to their demands.",
+        "ipa_phrase": "/hi ˈfaɪnəli ɡeɪv ɪn tu ðɛr dɪˈmændz/",
+        "meaning_phrase": "Cuối cùng anh ấy đã nhượng bộ yêu cầu của họ.",
+        "context": "Quan hệ / Thương lượng"
+    },
+    {
+        "phrasal_verb": "give out",
+        "ipa_word": "/ɡɪv aʊt/",
+        "meaning_word": "phân phát, cạn kiệt",
+        "phrase": "The teacher gave out the homework.",
+        "ipa_phrase": "/ðə ˈtiːtʃər ɡeɪv aʊt ðə ˈhoʊmwɜrk/",
+        "meaning_phrase": "Giáo viên đã phát bài tập về nhà.",
+        "context": "Học tập / Phân phối"
+    },
+    {
+        "phrasal_verb": "give away",
+        "ipa_word": "/ɡɪv əˈweɪ/",
+        "meaning_word": "tặng, tiết lộ",
+        "phrase": "She gave away her old clothes to charity.",
+        "ipa_phrase": "/ʃi ɡeɪv əˈweɪ hɜr oʊld kloʊðz tuː ˈʧærəti/",
+        "meaning_phrase": "Cô ấy tặng quần áo cũ cho tổ chức từ thiện.",
+        "context": "Từ thiện / Hành động"
+    },
+    {
+        "phrasal_verb": "take off",
+        "ipa_word": "/teɪk ɔf/",
+        "meaning_word": "cởi ra, cất cánh",
+        "phrase": "The plane takes off at 9 a.m.",
+        "ipa_phrase": "/ðə pleɪn teɪks ɔf æt naɪn eɪ ɛm/",
+        "meaning_phrase": "Máy bay cất cánh lúc 9 giờ sáng.",
+        "context": "Hành động / Giao thông"
+    },
+    {
+        "phrasal_verb": "take on",
+        "ipa_word": "/teɪk ɑn/",
+        "meaning_word": "đảm nhận, tiếp nhận",
+        "phrase": "She took on extra responsibilities at work.",
+        "ipa_phrase": "/ʃi tʊk ɑn ˈɛkstrə rɪˌspɑnsəˈbɪlɪtiz æt wɜrk/",
+        "meaning_phrase": "Cô ấy đảm nhận thêm trách nhiệm tại công việc.",
+        "context": "Công việc"
+    },
+    {
+        "phrasal_verb": "take over",
+        "ipa_word": "/teɪk ˈoʊvər/",
+        "meaning_word": "tiếp quản, đảm nhiệm",
+        "phrase": "The new manager will take over next month.",
+        "ipa_phrase": "/ðə nu ˈmænɪdʒər wɪl teɪk ˈoʊvər nɛkst mʌnθ/",
+        "meaning_phrase": "Quản lý mới sẽ tiếp quản vào tháng tới.",
+        "context": "Công việc / Kinh doanh"
+    },
+    {
+        "phrasal_verb": "take up",
+        "ipa_word": "/teɪk ʌp/",
+        "meaning_word": "bắt đầu (sở thích), chiếm thời gian",
+        "phrase": "She took up painting last year.",
+        "ipa_phrase": "/ʃi tʊk ʌp ˈpeɪntɪŋ læst jɪr/",
+        "meaning_phrase": "Cô ấy bắt đầu học vẽ năm ngoái.",
+        "context": "Sở thích / Thời gian"
+    },
+    {
+        "phrasal_verb": "run out of",
+        "ipa_word": "/rʌn aʊt ʌv/",
+        "meaning_word": "hết, cạn kiệt",
+        "phrase": "We've run out of milk.",
+        "ipa_phrase": "/wiːv rʌn aʊt ʌv mɪlk/",
+        "meaning_phrase": "Chúng tôi đã hết sữa.",
+        "context": "Hàng hóa / Hàng ngày"
+    },
+    {
+        "phrasal_verb": "run into",
+        "ipa_word": "/rʌn ˈɪntuː/",
+        "meaning_word": "tình cờ gặp, va chạm",
+        "phrase": "I ran into an old friend at the market.",
+        "ipa_phrase": "/aɪ ræn ˈɪntuː ən oʊld frɛnd æt ðə ˈmɑrkɪt/",
+        "meaning_phrase": "Tôi tình cờ gặp một người bạn cũ ở chợ.",
+        "context": "Giao tiếp / Hành động"
+    },
+    {
+        "phrasal_verb": "run over",
+        "ipa_word": "/rʌn ˈoʊvər/",
+        "meaning_word": "chạy quá, tông phải",
+        "phrase": "The car ran over a pothole.",
+        "ipa_phrase": "/ðə kɑr ræn ˈoʊvər ə ˈpɑthoʊl/",
+        "meaning_phrase": "Xe đã chạy qua một ổ gà.",
+        "context": "Giao thông / Hành động"
+    },
+    {
+        "phrasal_verb": "run away",
+        "ipa_word": "/rʌn əˈweɪ/",
+        "meaning_word": "chạy trốn, bỏ đi",
+        "phrase": "The dog ran away from home.",
+        "ipa_phrase": "/ðə dɔg ræn əˈweɪ frʌm hoʊm/",
+        "meaning_phrase": "Con chó đã chạy trốn khỏi nhà.",
+        "context": "Hành động / Động vật"
+    },
+    {
+        "phrasal_verb": "set up",
+        "ipa_word": "/sɛt ʌp/",
+        "meaning_word": "thiết lập, thành lập",
+        "phrase": "They set up a new company.",
+        "ipa_phrase": "/ðeɪ sɛt ʌp ə nu ˈkʌmpəni/",
+        "meaning_phrase": "Họ đã thành lập một công ty mới.",
+        "context": "Công việc / Kinh doanh"
+    },
+    {
+        "phrasal_verb": "set off",
+        "ipa_word": "/sɛt ɔf/",
+        "meaning_word": "khởi hành, làm nổ",
+        "phrase": "We set off early in the morning.",
+        "ipa_phrase": "/wi sɛt ɔf ˈɜrli ɪn ðə ˈmɔrnɪŋ/",
+        "meaning_phrase": "Chúng tôi khởi hành sớm vào buổi sáng.",
+        "context": "Di chuyển / Hành động"
+    },
+    {
+        "phrasal_verb": "set aside",
+        "ipa_word": "/sɛt əˈsaɪd/",
+        "meaning_word": "để dành, gạt sang một bên",
+        "phrase": "She set aside some money for emergencies.",
+        "ipa_phrase": "/ʃi sɛt əˈsaɪd sʌm ˈmʌni fɔr ɪˈmɜrdʒənsiz/",
+        "meaning_phrase": "Cô ấy để dành một số tiền cho các trường hợp khẩn cấp.",
+        "context": "Tài chính / Hành động"
+    },
+    {
+        "phrasal_verb": "put off",
+        "ipa_word": "/pʊt ɔf/",
+        "meaning_word": "hoãn lại, làm ai mất hứng",
+        "phrase": "They decided to put off the meeting.",
+        "ipa_phrase": "/ðeɪ dɪˈsaɪdɪd tu pʊt ɔf ðə ˈmitɪŋ/",
+        "meaning_phrase": "Họ quyết định hoãn cuộc họp.",
+        "context": "Công việc / Kế hoạch"
+    },
+    {
+        "phrasal_verb": "put on",
+        "ipa_word": "/pʊt ɑn/",
+        "meaning_word": "mang, mặc, tăng cân",
+        "phrase": "He put on a jacket before going out.",
+        "ipa_phrase": "/hi pʊt ɑn ə ˈʤækɪt bɪˈfɔr ˈgoʊɪŋ aʊt/",
+        "meaning_phrase": "Anh ấy mặc áo khoác trước khi ra ngoài.",
+        "context": "Trang phục / Hành động"
+    },
+    {
+        "phrasal_verb": "put out",
+        "ipa_word": "/pʊt aʊt/",
+        "meaning_word": "dập tắt, gây rắc rối",
+        "phrase": "Firefighters put out the fire quickly.",
+        "ipa_phrase": "/ˈfaɪərˌfaɪtərz pʊt aʊt ðə ˈfaɪər ˈkwɪkli/",
+        "meaning_phrase": "Nhân viên cứu hỏa đã dập tắt đám cháy nhanh chóng.",
+        "context": "Hành động / An toàn"
+    },
+    {
+        "phrasal_verb": "put up with",
+        "ipa_word": "/pʊt ʌp wɪð/",
+        "meaning_word": "chịu đựng",
+        "phrase": "I can't put up with this noise anymore.",
+        "ipa_phrase": "/aɪ kænt pʊt ʌp wɪð ðɪs nɔɪz ˌɛnɪˈmɔr/",
+        "meaning_phrase": "Tôi không thể chịu đựng tiếng ồn này nữa.",
+        "context": "Cảm xúc / Hành vi"
+    },
+    {
+        "phrasal_verb": "call off",
+        "ipa_word": "/kɔl ɔf/",
+        "meaning_word": "hủy bỏ",
+        "phrase": "They called off the football match due to rain.",
+        "ipa_phrase": "/ðeɪ kɔld ɔf ðə ˈfʊtbɔl mætʃ duː tuː reɪn/",
+        "meaning_phrase": "Họ đã hủy trận bóng đá vì mưa.",
+        "context": "Sự kiện / Thời tiết"
+    },
+    {
+        "phrasal_verb": "call on",
+        "ipa_word": "/kɔl ɑn/",
+        "meaning_word": "ghé thăm, yêu cầu",
+        "phrase": "The teacher called on me to answer the question.",
+        "ipa_phrase": "/ðə ˈtiːtʃər kɔld ɑn mi tu ˈænsər ðə ˈkwɛsʧən/",
+        "meaning_phrase": "Giáo viên gọi tôi trả lời câu hỏi.",
+        "context": "Học tập / Giao tiếp"
+    },
+    {
+        "phrasal_verb": "call up",
+        "ipa_word": "/kɔl ʌp/",
+        "meaning_word": "gọi điện, triệu tập",
+        "phrase": "He called up his friend to chat.",
+        "ipa_phrase": "/hi kɔld ʌp hɪz frɛnd tu ʧæt/",
+        "meaning_phrase": "Anh ấy gọi điện cho bạn để nói chuyện.",
+        "context": "Giao tiếp"
+    },
+    {
+        "phrasal_verb": "break down",
+        "ipa_word": "/breɪk daʊn/",
+        "meaning_word": "hỏng, suy sụp",
+        "phrase": "The car broke down on the highway.",
+        "ipa_phrase": "/ðə kɑr broʊk daʊn ɑn ðə ˈhaɪˌweɪ/",
+        "meaning_phrase": "Xe hỏng trên đường cao tốc.",
+        "context": "Giao thông / Hành động"
+    },
+    {
+        "phrasal_verb": "break up",
+        "ipa_word": "/breɪk ʌp/",
+        "meaning_word": "chia tay, kết thúc",
+        "phrase": "They broke up after five years of dating.",
+        "ipa_phrase": "/ðeɪ broʊk ʌp ˈæftər faɪv jɪərz əv ˈdeɪtɪŋ/",
+        "meaning_phrase": "Họ chia tay sau 5 năm hẹn hò.",
+        "context": "Quan hệ / Cảm xúc"
+    },
+    {
+        "phrasal_verb": "break into",
+        "ipa_word": "/breɪk ˈɪntuː/",
+        "meaning_word": "đột nhập, bước vào",
+        "phrase": "Thieves broke into the house last night.",
+        "ipa_phrase": "/θiːvz broʊk ˈɪntuː ðə haʊs læst naɪt/",
+        "meaning_phrase": "Những kẻ trộm đã đột nhập vào nhà đêm qua.",
+        "context": "Tội phạm / Hành động"
+    },
+    {
+        "phrasal_verb": "break out",
+        "ipa_word": "/breɪk aʊt/",
+        "meaning_word": "bùng nổ, bùng phát",
+        "phrase": "A fire broke out in the kitchen.",
+        "ipa_phrase": "/ə faɪər broʊk aʊt ɪn ðə ˈkɪʧən/",
+        "meaning_phrase": "Một vụ cháy bùng phát trong bếp.",
+        "context": "An toàn / Hỏa hoạn"
+    },
+    {
+        "phrasal_verb": "bring up",
+        "ipa_word": "/brɪŋ ʌp/",
+        "meaning_word": "nêu ra, nuôi dưỡng",
+        "phrase": "She brought up an interesting topic.",
+        "ipa_phrase": "/ʃi brɔːt ʌp ən ˈɪntrəstɪŋ ˈtɑpɪk/",
+        "meaning_phrase": "Cô ấy nêu ra một chủ đề thú vị.",
+        "context": "Giao tiếp / Thảo luận"
+    },
+    {
+        "phrasal_verb": "bring in",
+        "ipa_word": "/brɪŋ ɪn/",
+        "meaning_word": "mang vào, thu hút",
+        "phrase": "The company brought in a new consultant.",
+        "ipa_phrase": "/ðə ˈkʌmpəni brɔːt ɪn ə nu kənˈsʌltənt/",
+        "meaning_phrase": "Công ty đã mời một tư vấn viên mới.",
+        "context": "Công việc / Kinh doanh"
+    },
+    {
+        "phrasal_verb": "bring out",
+        "ipa_word": "/brɪŋ aʊt/",
+        "meaning_word": "phát hành, làm nổi bật",
+        "phrase": "The new book brings out the author's talent.",
+        "ipa_phrase": "/ðə nu bʊk brɪŋz aʊt ði ˈɔːθərz ˈtælənt/",
+        "meaning_phrase": "Cuốn sách mới làm nổi bật tài năng của tác giả.",
+        "context": "Học tập / Văn hóa"
+    },
+    {
+        "phrasal_verb": "bring back",
+        "ipa_word": "/brɪŋ bæk/",
+        "meaning_word": "mang về, gợi nhớ",
+        "phrase": "This song brings back memories.",
+        "ipa_phrase": "/ðɪs sɔŋ brɪŋz bæk ˈmɛməriz/",
+        "meaning_phrase": "Bài hát này gợi nhớ kỷ niệm.",
+        "context": "Cảm xúc / Âm nhạc"
+    },
+    {
+        "phrasal_verb": "bring down",
+        "ipa_word": "/brɪŋ daʊn/",
+        "meaning_word": "hạ xuống, làm giảm",
+        "phrase": "The new policy brought down prices.",
+        "ipa_phrase": "/ðə nu ˈpɑləsi brɔːt daʊn ˈpraɪsɪz/",
+        "meaning_phrase": "Chính sách mới làm giảm giá.",
+        "context": "Kinh tế / Chính sách"
+    },
+    {
+        "phrasal_verb": "get up",
+        "ipa_word": "/ɡɛt ʌp/",
+        "meaning_word": "thức dậy, đứng dậy",
+        "phrase": "I get up at 6 a.m. every day.",
+        "ipa_phrase": "/aɪ ɡɛt ʌp æt sɪks eɪ ɛm ˈɛvri deɪ/",
+        "meaning_phrase": "Tôi thức dậy lúc 6 giờ sáng mỗi ngày.",
+        "context": "Hành vi / Thói quen"
+    },
+    {
+        "phrasal_verb": "get on",
+        "ipa_word": "/ɡɛt ɑn/",
+        "meaning_word": "leo lên, tiến triển",
+        "phrase": "He gets on the bus at the next stop.",
+        "ipa_phrase": "/hi ɡɛts ɑn ðə bʌs æt ðə nɛkst stɑp/",
+        "meaning_phrase": "Anh ấy lên xe buýt ở trạm tiếp theo.",
+        "context": "Di chuyển / Hành động"
+    },
+    {
+        "phrasal_verb": "get off",
+        "ipa_word": "/ɡɛt ɔf/",
+        "meaning_word": "xuống (xe), rời khỏi",
+        "phrase": "We get off the train at Central Station.",
+        "ipa_phrase": "/wi ɡɛt ɔf ðə treɪn æt ˈsɛntrəl ˈsteɪʃən/",
+        "meaning_phrase": "Chúng tôi xuống tàu ở ga Trung tâm.",
+        "context": "Di chuyển / Hành động"
+    },
+    {
+        "phrasal_verb": "get over",
+        "ipa_word": "/ɡɛt ˈoʊvər/",
+        "meaning_word": "vượt qua, hồi phục",
+        "phrase": "She got over her illness quickly.",
+        "ipa_phrase": "/ʃi ɡɑt ˈoʊvər hɜr ˈɪlnəs ˈkwɪkli/",
+        "meaning_phrase": "Cô ấy hồi phục sau bệnh nhanh chóng.",
+        "context": "Sức khỏe / Cảm xúc"
+    },
+    {
+        "phrasal_verb": "get along",
+        "ipa_word": "/ɡɛt əˈlɔŋ/",
+        "meaning_word": "hòa hợp",
+        "phrase": "They get along very well.",
+        "ipa_phrase": "/ðeɪ ɡɛt əˈlɔŋ ˈvɛri wɛl/",
+        "meaning_phrase": "Họ hòa hợp rất tốt.",
+        "context": "Quan hệ / Xã hội"
+    },
+    {
+        "phrasal_verb": "get back",
+        "ipa_word": "/ɡɛt bæk/",
+        "meaning_word": "trở lại, nhận lại",
+        "phrase": "I got back from my trip yesterday.",
+        "ipa_phrase": "/aɪ ɡɑt bæk frʌm maɪ trɪp ˈjɛstərdeɪ/",
+        "meaning_phrase": "Tôi trở về từ chuyến đi ngày hôm qua.",
+        "context": "Di chuyển / Thời gian"
+    },
+    {
+        "phrasal_verb": "get rid of",
+        "ipa_word": "/ɡɛt rɪd ʌv/",
+        "meaning_word": "loại bỏ",
+        "phrase": "We need to get rid of old furniture.",
+        "ipa_phrase": "/wi nid tu ɡɛt rɪd ʌv oʊld ˈfɜrnɪʧər/",
+        "meaning_phrase": "Chúng ta cần loại bỏ đồ đạc cũ.",
+        "context": "Hành động / Gia đình"
+    },
+    {
+        "phrasal_verb": "come across",
+        "ipa_word": "/kʌm əˈkrɔs/",
+        "meaning_word": "tình cờ gặp, bắt gặp",
+        "phrase": "I came across an interesting article online.",
+        "ipa_phrase": "/aɪ keɪm əˈkrɔs ən ˈɪntrəstɪŋ ˈɑrtɪkl ɑnˈlaɪn/",
+        "meaning_phrase": "Tôi tình cờ gặp một bài viết thú vị trên mạng.",
+        "context": "Giao tiếp / Internet"
+    },
+    {
+        "phrasal_verb": "come up with",
+        "ipa_word": "/kʌm ʌp wɪð/",
+        "meaning_word": "nghĩ ra, đề xuất",
+        "phrase": "She came up with a brilliant idea.",
+        "ipa_phrase": "/ʃi keɪm ʌp wɪð ə ˈbrɪljənt aɪˈdiə/",
+        "meaning_phrase": "Cô ấy nghĩ ra một ý tưởng tuyệt vời.",
+        "context": "Sáng tạo / Công việc"
+    },
+    {
+        "phrasal_verb": "come in",
+        "ipa_word": "/kʌm ɪn/",
+        "meaning_word": "vào, tham gia",
+        "phrase": "Please come in and have a seat.",
+        "ipa_phrase": "/pliːz kʌm ɪn ənd hæv ə sit/",
+        "meaning_phrase": "Mời bạn vào và ngồi.",
+        "context": "Giao tiếp / Hành động"
+    },
+    {
+        "phrasal_verb": "come out",
+        "ipa_word": "/kʌm aʊt/",
+        "meaning_word": "xuất bản, lộ ra, đi ra",
+        "phrase": "The new movie comes out next week.",
+        "ipa_phrase": "/ðə nu ˈmuːvi kʌmz aʊt nɛkst wik/",
+        "meaning_phrase": "Bộ phim mới sẽ ra mắt tuần tới.",
+        "context": "Giải trí / Thời gian"
+    },
+    {
+        "phrasal_verb": "come back",
+        "ipa_word": "/kʌm bæk/",
+        "meaning_word": "trở lại",
+        "phrase": "He came back from vacation yesterday.",
+        "ipa_phrase": "/hi keɪm bæk frʌm veɪˈkeɪʃən ˈjɛstərdeɪ/",
+        "meaning_phrase": "Anh ấy đã trở về từ kỳ nghỉ hôm qua.",
+        "context": "Di chuyển / Thời gian"
+    },
+    {
+        "phrasal_verb": "come across as",
+        "ipa_word": "/kʌm əˈkrɔs æz/",
+        "meaning_word": "gây ấn tượng như",
+        "phrase": "He comes across as very confident.",
+        "ipa_phrase": "/hi kʌmz əˈkrɔs æz ˈvɛri ˈkɑnfədənt/",
+        "meaning_phrase": "Anh ấy gây ấn tượng là rất tự tin.",
+        "context": "Cảm xúc / Giao tiếp"
+    },
+    {
+        "phrasal_verb": "turn on",
+        "ipa_word": "/tɜrn ɑn/",
+        "meaning_word": "bật (thiết bị)",
+        "phrase": "Please turn on the lights.",
+        "ipa_phrase": "/pliːz tɜrn ɑn ðə laɪts/",
+        "meaning_phrase": "Hãy bật đèn lên.",
+        "context": "Thiết bị / Hành động"
+    },
+    {
+        "phrasal_verb": "turn off",
+        "ipa_word": "/tɜrn ɔf/",
+        "meaning_word": "tắt (thiết bị), làm ai mất hứng",
+        "phrase": "He turned off the TV before leaving.",
+        "ipa_phrase": "/hi tɜrnd ɔf ðə ˈtiːˈvi bɪˈfɔr ˈlivɪŋ/",
+        "meaning_phrase": "Anh ấy tắt TV trước khi đi.",
+        "context": "Thiết bị / Hành động"
+    },
+    {
+        "phrasal_verb": "turn up",
+        "ipa_word": "/tɜrn ʌp/",
+        "meaning_word": "xuất hiện, vặn to",
+        "phrase": "She turned up at the party unexpectedly.",
+        "ipa_phrase": "/ʃi tɜrnd ʌp æt ðə ˈpɑrti ˌʌnɪkˈspɛktɪdli/",
+        "meaning_phrase": "Cô ấy xuất hiện tại bữa tiệc một cách bất ngờ.",
+        "context": "Giao tiếp / Hành động"
+    },
+    {
+        "phrasal_verb": "turn down",
+        "ipa_word": "/tɜrn daʊn/",
+        "meaning_word": "từ chối, vặn nhỏ",
+        "phrase": "He turned down the job offer.",
+        "ipa_phrase": "/hi tɜrnd daʊn ðə ʤɑb ˈɔfər/",
+        "meaning_phrase": "Anh ấy từ chối lời mời làm việc.",
+        "context": "Công việc / Quyết định"
+    },
+    {
+        "phrasal_verb": "turn back",
+        "ipa_word": "/tɜrn bæk/",
+        "meaning_word": "quay lại, trở lại",
+        "phrase": "We had to turn back due to bad weather.",
+        "ipa_phrase": "/wi hæd tu tɜrn bæk duː tu bæd ˈwɛðər/",
+        "meaning_phrase": "Chúng tôi phải quay lại vì thời tiết xấu.",
+        "context": "Di chuyển / Thời tiết"
+    },
+    {
+        "phrasal_verb": "look after",
+        "ipa_word": "/lʊk ˈæftər/",
+        "meaning_word": "chăm sóc",
+        "phrase": "She looks after her younger brother.",
+        "ipa_phrase": "/ʃi lʊks ˈæftər hɜr ˈjʌŋgər ˈbrʌðər/",
+        "meaning_phrase": "Cô ấy chăm sóc em trai mình.",
+        "context": "Gia đình / Hành động"
+    },
+    {
+        "phrasal_verb": "look for",
+        "ipa_word": "/lʊk fɔr/",
+        "meaning_word": "tìm kiếm",
+        "phrase": "I am looking for my keys.",
+        "ipa_phrase": "/aɪ əm ˈlʊkɪŋ fɔr maɪ kiz/",
+        "meaning_phrase": "Tôi đang tìm chìa khóa của mình.",
+        "context": "Hành động / Vật dụng"
+    },
+    {
+        "phrasal_verb": "look forward to",
+        "ipa_word": "/lʊk ˈfɔrwərd tu/",
+        "meaning_word": "mong chờ",
+        "phrase": "I look forward to meeting you.",
+        "ipa_phrase": "/aɪ lʊk ˈfɔrwərd tu ˈmitɪŋ ju/",
+        "meaning_phrase": "Tôi mong được gặp bạn.",
+        "context": "Giao tiếp / Kỳ vọng"
+    },
+    {
+        "phrasal_verb": "look into",
+        "ipa_word": "/lʊk ˈɪntu/",
+        "meaning_word": "xem xét, điều tra",
+        "phrase": "The police are looking into the case.",
+        "ipa_phrase": "/ðə pəˈlis ɑr ˈlʊkɪŋ ˈɪntu ðə keɪs/",
+        "meaning_phrase": "Cảnh sát đang điều tra vụ án.",
+        "context": "Công việc / An ninh"
+    },
+    {
+        "phrasal_verb": "look out",
+        "ipa_word": "/lʊk aʊt/",
+        "meaning_word": "cẩn thận",
+        "phrase": "Look out! There is a car coming.",
+        "ipa_phrase": "/lʊk aʊt ðɛr ɪz ə kɑr ˈkʌmɪŋ/",
+        "meaning_phrase": "Cẩn thận! Có xe đang tới.",
+        "context": "Cảnh báo / An toàn"
+    },
+    {
+        "phrasal_verb": "look up",
+        "ipa_word": "/lʊk ʌp/",
+        "meaning_word": "tra cứu, cải thiện",
+        "phrase": "You can look up the word in the dictionary.",
+        "ipa_phrase": "/ju kæn lʊk ʌp ðə wɜrd ɪn ðə ˈdɪkʃəˌnɛri/",
+        "meaning_phrase": "Bạn có thể tra từ này trong từ điển.",
+        "context": "Học tập / Hành động"
+    },
+    {
+        "phrasal_verb": "look over",
+        "ipa_word": "/lʊk ˈoʊvər/",
+        "meaning_word": "xem qua, kiểm tra",
+        "phrase": "She looked over the report before the meeting.",
+        "ipa_phrase": "/ʃi lʊkt ˈoʊvər ðə rɪˈpɔrt bɪˈfɔr ðə ˈmitɪŋ/",
+        "meaning_phrase": "Cô ấy xem qua báo cáo trước cuộc họp.",
+        "context": "Công việc / Kiểm tra"
+    },
+    {
+        "phrasal_verb": "look back",
+        "ipa_word": "/lʊk bæk/",
+        "meaning_word": "nhìn lại, hồi tưởng",
+        "phrase": "Don't look back; keep moving forward.",
+        "ipa_phrase": "/doʊnt lʊk bæk kiːp ˈmuːvɪŋ ˈfɔrwərd/",
+        "meaning_phrase": "Đừng nhìn lại; hãy tiếp tục tiến về phía trước.",
+        "context": "Cảm xúc / Cuộc sống"
+    },
+    {
+        "phrasal_verb": "give up",
+        "ipa_word": "/ɡɪv ʌp/",
+        "meaning_word": "từ bỏ",
+        "phrase": "He gave up smoking last year.",
+        "ipa_phrase": "/hi ɡeɪv ʌp ˈsmoʊkɪŋ læst jɪr/",
+        "meaning_phrase": "Anh ấy đã từ bỏ thuốc lá năm ngoái.",
+        "context": "Sức khỏe / Thói quen"
+    },
+    {
+        "phrasal_verb": "give in",
+        "ipa_word": "/ɡɪv ɪn/",
+        "meaning_word": "nhượng bộ, đầu hàng",
+        "phrase": "She finally gave in to their demands.",
+        "ipa_phrase": "/ʃi ˈfaɪnəli ɡeɪv ɪn tu ðɛr dɪˈmændz/",
+        "meaning_phrase": "Cuối cùng cô ấy đã nhượng bộ các yêu cầu của họ.",
+        "context": "Cảm xúc / Quyết định"
+    },
+    {
+        "phrasal_verb": "give out",
+        "ipa_word": "/ɡɪv aʊt/",
+        "meaning_word": "phân phát, cạn kiệt",
+        "phrase": "The teacher gave out the exam papers.",
+        "ipa_phrase": "/ðə ˈtiːtʃər ɡeɪv aʊt ði ɪɡˈzæm ˈpeɪpərz/",
+        "meaning_phrase": "Giáo viên phát bài kiểm tra.",
+        "context": "Học tập / Phân phát"
+    },
+    {
+        "phrasal_verb": "give away",
+        "ipa_word": "/ɡɪv əˈweɪ/",
+        "meaning_word": "tặng, tiết lộ",
+        "phrase": "He gave away his old clothes.",
+        "ipa_phrase": "/hi ɡeɪv əˈweɪ hɪz oʊld kloʊðz/",
+        "meaning_phrase": "Anh ấy đã tặng quần áo cũ của mình.",
+        "context": "Hành động / Từ thiện"
+    },
+    {
+        "phrasal_verb": "put on",
+        "ipa_word": "/pʊt ɑn/",
+        "meaning_word": "mặc, đội, bật",
+        "phrase": "She put on her coat before going out.",
+        "ipa_phrase": "/ʃi pʊt ɑn hɜr koʊt bɪˈfɔr ˈɡoʊɪŋ aʊt/",
+        "meaning_phrase": "Cô ấy mặc áo khoác trước khi ra ngoài.",
+        "context": "Hành động / Thời trang"
+    },
+    {
+        "phrasal_verb": "take off",
+        "ipa_word": "/teɪk ɔf/",
+        "meaning_word": "cởi, cất cánh",
+        "phrase": "The plane took off on time.",
+        "ipa_phrase": "/ðə pleɪn tʊk ɔf ɑn taɪm/",
+        "meaning_phrase": "Máy bay cất cánh đúng giờ.",
+        "context": "Di chuyển / Hành động"
+    },
+    {
+        "phrasal_verb": "put off",
+        "ipa_word": "/pʊt ɔf/",
+        "meaning_word": "trì hoãn, làm ai mất hứng",
+        "phrase": "We had to put off the meeting.",
+        "ipa_phrase": "/wi hæd tu pʊt ɔf ðə ˈmitɪŋ/",
+        "meaning_phrase": "Chúng tôi phải hoãn cuộc họp.",
+        "context": "Công việc / Thời gian"
+    },
+    {
+        "phrasal_verb": "take up",
+        "ipa_word": "/teɪk ʌp/",
+        "meaning_word": "bắt đầu một sở thích, chiếm (thời gian, không gian)",
+        "phrase": "She took up painting last year.",
+        "ipa_phrase": "/ʃi tʊk ʌp ˈpeɪntɪŋ læst jɪr/",
+        "meaning_phrase": "Cô ấy bắt đầu học vẽ năm ngoái.",
+        "context": "Sở thích / Học tập"
+    },
+    {
+        "phrasal_verb": "take over",
+        "ipa_word": "/teɪk ˈoʊvər/",
+        "meaning_word": "tiếp quản, đảm nhận",
+        "phrase": "He took over the company after his father retired.",
+        "ipa_phrase": "/hi tʊk ˈoʊvər ðə ˈkʌmpəni ˈæftər hɪz ˈfɑðər rɪˈtaɪərd/",
+        "meaning_phrase": "Anh ấy tiếp quản công ty sau khi cha mình nghỉ hưu.",
+        "context": "Công việc / Doanh nghiệp"
+    },
+    {
+        "phrasal_verb": "put out",
+        "ipa_word": "/pʊt aʊt/",
+        "meaning_word": "dập tắt, làm phiền",
+        "phrase": "Please put out the fire.",
+        "ipa_phrase": "/pliːz pʊt aʊt ðə ˈfaɪər/",
+        "meaning_phrase": "Hãy dập tắt lửa.",
+        "context": "An toàn / Hành động"
+    },
+    {
+        "phrasal_verb": "take in",
+        "ipa_word": "/teɪk ɪn/",
+        "meaning_word": "hiểu, lừa, nhận vào",
+        "phrase": "He took in all the information quickly.",
+        "ipa_phrase": "/hi tʊk ɪn ɔl ðə ˌɪnfərˈmeɪʃən ˈkwɪkli/",
+        "meaning_phrase": "Anh ấy tiếp nhận tất cả thông tin nhanh chóng.",
+        "context": "Học tập / Thông tin"
+    },
+    {
+        "phrasal_verb": "put away",
+        "ipa_word": "/pʊt əˈweɪ/",
+        "meaning_word": "cất đi, bỏ tù",
+        "phrase": "She put away her books after studying.",
+        "ipa_phrase": "/ʃi pʊt əˈweɪ hɜr bʊks ˈæftər ˈstʌdiɪŋ/",
+        "meaning_phrase": "Cô ấy cất sách lại sau khi học.",
+        "context": "Học tập / Gia đình"
+    },
+    {
+        "phrasal_verb": "take out",
+        "ipa_word": "/teɪk aʊt/",
+        "meaning_word": "lấy ra, đưa đi",
+        "phrase": "He took out the trash.",
+        "ipa_phrase": "/hi tʊk aʊt ðə træʃ/",
+        "meaning_phrase": "Anh ấy mang rác ra ngoài.",
+        "context": "Gia đình / Hành động"
+    },
+    {
+        "phrasal_verb": "put up",
+        "ipa_word": "/pʊt ʌp/",
+        "meaning_word": "giơ lên, dựng lên, chiếu phim",
+        "phrase": "They put up a new building in the city.",
+        "ipa_phrase": "/ðeɪ pʊt ʌp ə nu ˈbɪldɪŋ ɪn ðə ˈsɪti/",
+        "meaning_phrase": "Họ dựng một tòa nhà mới trong thành phố.",
+        "context": "Xây dựng / Thành phố"
+    },
+    {
+        "phrasal_verb": "take back",
+        "ipa_word": "/teɪk bæk/",
+        "meaning_word": "lấy lại, rút lại",
+        "phrase": "I took back what I said.",
+        "ipa_phrase": "/aɪ tʊk bæk wʌt aɪ sɛd/",
+        "meaning_phrase": "Tôi rút lại những gì tôi đã nói.",
+        "context": "Giao tiếp / Cảm xúc"
+    },
+    {
+        "phrasal_verb": "put down",
+        "ipa_word": "/pʊt daʊn/",
+        "meaning_word": "đặt xuống, chỉ trích",
+        "phrase": "She put down the heavy box.",
+        "ipa_phrase": "/ʃi pʊt daʊn ðə ˈhɛvi bɑks/",
+        "meaning_phrase": "Cô ấy đặt xuống chiếc hộp nặng.",
+        "context": "Hành động / Vật dụng"
+    },
+    {
+        "phrasal_verb": "take on",
+        "ipa_word": "/teɪk ɑn/",
+        "meaning_word": "đảm nhận, nhận thêm",
+        "phrase": "He took on more responsibilities at work.",
+        "ipa_phrase": "/hi tʊk ɑn mɔr rɪˌspɑnsəˈbɪlɪtiz æt wɜrk/",
+        "meaning_phrase": "Anh ấy đảm nhận thêm nhiều trách nhiệm tại nơi làm việc.",
+        "context": "Công việc / Trách nhiệm"
+    },
+    {
+        "phrasal_verb": "put together",
+        "ipa_word": "/pʊt təˈɡɛðər/",
+        "meaning_word": "ghép lại, tập hợp",
+        "phrase": "He put together a model airplane.",
+        "ipa_phrase": "/hi pʊt təˈɡɛðər ə ˈmɑdl ˈɛrpleɪn/",
+        "meaning_phrase": "Anh ấy lắp ráp một mô hình máy bay.",
+        "context": "Học tập / Sáng tạo"
+    },
+    {
+        "phrasal_verb": "take apart",
+        "ipa_word": "/teɪk əˈpɑrt/",
+        "meaning_word": "tháo rời",
+        "phrase": "He took apart the old computer.",
+        "ipa_phrase": "/hi tʊk əˈpɑrt ði oʊld kəmˈpjutər/",
+        "meaning_phrase": "Anh ấy tháo rời chiếc máy tính cũ.",
+        "context": "Kỹ thuật / Hành động"
+    },
+    {
+        "phrasal_verb": "put across",
+        "ipa_word": "/pʊt əˈkrɔs/",
+        "meaning_word": "truyền đạt",
+        "phrase": "She put her ideas across clearly.",
+        "ipa_phrase": "/ʃi pʊt hɜr aɪˈdiəz əˈkrɔs ˈklɪrli/",
+        "meaning_phrase": "Cô ấy truyền đạt ý tưởng một cách rõ ràng.",
+        "context": "Giao tiếp / Công việc"
+    },
+    {
+        "phrasal_verb": "bring up",
+        "ipa_word": "/brɪŋ ʌp/",
+        "meaning_word": "nêu ra, nuôi dưỡng (trẻ)",
+        "phrase": "She brought up an interesting topic.",
+        "ipa_phrase": "/ʃi brɔt ʌp ən ˈɪntrəstɪŋ ˈtɑpɪk/",
+        "meaning_phrase": "Cô ấy nêu ra một chủ đề thú vị.",
+        "context": "Giao tiếp / Thảo luận"
+    },
+    {
+        "phrasal_verb": "bring about",
+        "ipa_word": "/brɪŋ əˈbaʊt/",
+        "meaning_word": "gây ra, mang lại",
+        "phrase": "The new law brought about many changes.",
+        "ipa_phrase": "/ðə nu lɔ brɔt əˈbaʊt ˈmɛni ˈʧeɪndʒɪz/",
+        "meaning_phrase": "Luật mới đã mang lại nhiều thay đổi.",
+        "context": "Công việc / Chính sách"
+    },
+    {
+        "phrasal_verb": "bring in",
+        "ipa_word": "/brɪŋ ɪn/",
+        "meaning_word": "thu hút, mang vào",
+        "phrase": "The company brought in a new manager.",
+        "ipa_phrase": "/ðə ˈkʌmpəni brɔt ɪn ə nu ˈmænɪdʒər/",
+        "meaning_phrase": "Công ty đã đưa vào một quản lý mới.",
+        "context": "Công việc / Doanh nghiệp"
+    },
+    {
+        "phrasal_verb": "bring out",
+        "ipa_word": "/brɪŋ aʊt/",
+        "meaning_word": "phát hành, làm nổi bật",
+        "phrase": "This color brings out your eyes.",
+        "ipa_phrase": "/ðɪs ˈkʌlər brɪŋz aʊt jʊər aɪz/",
+        "meaning_phrase": "Màu này làm nổi bật đôi mắt của bạn.",
+        "context": "Ngoại hình / Đánh giá"
+    },
+    {
+        "phrasal_verb": "bring back",
+        "ipa_word": "/brɪŋ bæk/",
+        "meaning_word": "mang về, gợi nhớ",
+        "phrase": "This song brings back memories.",
+        "ipa_phrase": "/ðɪs sɔŋ brɪŋz bæk ˈmɛməriz/",
+        "meaning_phrase": "Bài hát này gợi lại nhiều kỷ niệm.",
+        "context": "Cảm xúc / Kỷ niệm"
+    },
+    {
+        "phrasal_verb": "call off",
+        "ipa_word": "/kɔl ɔf/",
+        "meaning_word": "hủy bỏ",
+        "phrase": "They called off the meeting due to rain.",
+        "ipa_phrase": "/ðeɪ kɔld ɔf ðə ˈmitɪŋ duː tu reɪn/",
+        "meaning_phrase": "Họ hủy cuộc họp vì trời mưa.",
+        "context": "Công việc / Thời tiết"
+    },
+    {
+        "phrasal_verb": "call on",
+        "ipa_word": "/kɔl ɑn/",
+        "meaning_word": "ghé thăm, yêu cầu",
+        "phrase": "He called on his friend yesterday.",
+        "ipa_phrase": "/hi kɔld ɑn hɪz frɛnd ˈjɛstərˌdeɪ/",
+        "meaning_phrase": "Anh ấy ghé thăm bạn mình hôm qua.",
+        "context": "Giao tiếp / Hành động"
+    },
+    {
+        "phrasal_verb": "call up",
+        "ipa_word": "/kɔl ʌp/",
+        "meaning_word": "gọi điện, triệu tập",
+        "phrase": "I will call you up later.",
+        "ipa_phrase": "/aɪ wɪl kɔl ju ʌp ˈleɪtər/",
+        "meaning_phrase": "Tôi sẽ gọi điện cho bạn sau.",
+        "context": "Giao tiếp / Hành động"
+    },
+    {
+        "phrasal_verb": "call out",
+        "ipa_word": "/kɔl aʊt/",
+        "meaning_word": "kêu to, chỉ ra",
+        "phrase": "The teacher called out the answers.",
+        "ipa_phrase": "/ðə ˈtiːtʃər kɔld aʊt ði ˈænsərz/",
+        "meaning_phrase": "Giáo viên đọc to các câu trả lời.",
+        "context": "Học tập / Hành động"
+    },
+    {
+        "phrasal_verb": "call for",
+        "ipa_word": "/kɔl fɔr/",
+        "meaning_word": "yêu cầu, đòi hỏi",
+        "phrase": "This situation calls for immediate action.",
+        "ipa_phrase": "/ðɪs ˌsɪʧuˈeɪʃən kɔlz fɔr ɪˈmidiət ˈækʃən/",
+        "meaning_phrase": "Tình huống này đòi hỏi hành động ngay lập tức.",
+        "context": "Công việc / Cấp bách"
+    },
+    {
+        "phrasal_verb": "come across",
+        "ipa_word": "/kʌm əˈkrɔs/",
+        "meaning_word": "tình cờ gặp, tạo ấn tượng",
+        "phrase": "I came across an old friend yesterday.",
+        "ipa_phrase": "/aɪ keɪm əˈkrɔs æn oʊld frɛnd ˈjɛstərˌdeɪ/",
+        "meaning_phrase": "Hôm qua tôi tình cờ gặp một người bạn cũ.",
+        "context": "Giao tiếp / Tình cờ"
+    },
+    {
+        "phrasal_verb": "come up",
+        "ipa_word": "/kʌm ʌp/",
+        "meaning_word": "xuất hiện, được nêu ra",
+        "phrase": "A new problem came up during the meeting.",
+        "ipa_phrase": "/ə nu ˈprɑbləm keɪm ʌp ˈdʊrɪŋ ðə ˈmitɪŋ/",
+        "meaning_phrase": "Một vấn đề mới xuất hiện trong cuộc họp.",
+        "context": "Công việc / Vấn đề"
+    },
+    {
+        "phrasal_verb": "come in",
+        "ipa_word": "/kʌm ɪn/",
+        "meaning_word": "vào, tham gia",
+        "phrase": "Please come in and have a seat.",
+        "ipa_phrase": "/pliːz kʌm ɪn ənd hæv ə sit/",
+        "meaning_phrase": "Xin mời vào và ngồi.",
+        "context": "Giao tiếp / Hành động"
+    },
+    {
+        "phrasal_verb": "come out",
+        "ipa_word": "/kʌm aʊt/",
+        "meaning_word": "xuất hiện, công khai",
+        "phrase": "The book will come out next month.",
+        "ipa_phrase": "/ðə bʊk wɪl kʌm aʊt nɛkst mʌnθ/",
+        "meaning_phrase": "Cuốn sách sẽ xuất bản vào tháng tới.",
+        "context": "Xuất bản / Hành động"
+    },
+    {
+        "phrasal_verb": "come back",
+        "ipa_word": "/kʌm bæk/",
+        "meaning_word": "trở lại",
+        "phrase": "He came back home late yesterday.",
+        "ipa_phrase": "/hi keɪm bæk hoʊm leɪt ˈjɛstərˌdeɪ/",
+        "meaning_phrase": "Anh ấy về nhà muộn hôm qua.",
+        "context": "Di chuyển / Hành động"
+    },
+    {
+        "phrasal_verb": "come along",
+        "ipa_word": "/kʌm əˈlɔŋ/",
+        "meaning_word": "đi cùng, tiến triển",
+        "phrase": "Would you like to come along with us?",
+        "ipa_phrase": "/wʊd ju laɪk tu kʌm əˈlɔŋ wɪð ʌs/",
+        "meaning_phrase": "Bạn có muốn đi cùng chúng tôi không?",
+        "context": "Giao tiếp / Di chuyển"
+    },
+    {
+        "phrasal_verb": "come down",
+        "ipa_word": "/kʌm daʊn/",
+        "meaning_word": "hạ xuống, giảm",
+        "phrase": "The prices have come down recently.",
+        "ipa_phrase": "/ðə ˈpraɪsɪz hæv kʌm daʊn ˈrisəntli/",
+        "meaning_phrase": "Giá cả đã giảm gần đây.",
+        "context": "Kinh tế / Giá cả"
+    },
+    {
+        "phrasal_verb": "come forward",
+        "ipa_word": "/kʌm ˈfɔrwərd/",
+        "meaning_word": "đứng ra, xung phong",
+        "phrase": "Several witnesses came forward to help.",
+        "ipa_phrase": "/ˈsɛvrəl ˈwɪtnəsɪz keɪm ˈfɔrwərd tu hɛlp/",
+        "meaning_phrase": "Nhiều nhân chứng đứng ra giúp đỡ.",
+        "context": "Hỗ trợ / Giao tiếp"
+    },
+    {
+        "phrasal_verb": "come over",
+        "ipa_word": "/kʌm ˈoʊvər/",
+        "meaning_word": "ghé qua, đến thăm",
+        "phrase": "Why don't you come over for dinner?",
+        "ipa_phrase": "/waɪ doʊnt ju kʌm ˈoʊvər fɔr ˈdɪnər/",
+        "meaning_phrase": "Tại sao bạn không ghé qua ăn tối?",
+        "context": "Giao tiếp / Thăm hỏi"
+    },
+    {
+        "phrasal_verb": "get up",
+        "ipa_word": "/ɡɛt ʌp/",
+        "meaning_word": "thức dậy, đứng lên",
+        "phrase": "I usually get up at 7 a.m.",
+        "ipa_phrase": "/aɪ ˈjuːʒuəli ɡɛt ʌp æt ˈsɛvən eɪ ɛm/",
+        "meaning_phrase": "Tôi thường thức dậy lúc 7 giờ sáng.",
+        "context": "Thói quen / Hành động"
+    },
+    {
+        "phrasal_verb": "get down",
+        "ipa_word": "/ɡɛt daʊn/",
+        "meaning_word": "cúi xuống, chán nản",
+        "phrase": "Get down from the ladder carefully.",
+        "ipa_phrase": "/ɡɛt daʊn frəm ðə ˈlædər ˈkɛrfəli/",
+        "meaning_phrase": "Hãy từ từ xuống thang một cách cẩn thận.",
+        "context": "Hành động / An toàn"
+    },
+    {
+        "phrasal_verb": "get on",
+        "ipa_word": "/ɡɛt ɑn/",
+        "meaning_word": "lên xe, tiến triển",
+        "phrase": "Get on the bus quickly.",
+        "ipa_phrase": "/ɡɛt ɑn ðə bʌs ˈkwɪkli/",
+        "meaning_phrase": "Lên xe buýt nhanh lên.",
+        "context": "Di chuyển / Hành động"
+    },
+    {
+        "phrasal_verb": "get off",
+        "ipa_word": "/ɡɛt ɔf/",
+        "meaning_word": "xuống xe, nghỉ làm",
+        "phrase": "We got off the train at the next station.",
+        "ipa_phrase": "/wi ɡɑt ɔf ðə treɪn æt ðə nɛkst ˈsteɪʃən/",
+        "meaning_phrase": "Chúng tôi đã xuống tàu ở ga tiếp theo.",
+        "context": "Di chuyển / Hành động"
+    },
+    {
+        "phrasal_verb": "get over",
+        "ipa_word": "/ɡɛt ˈoʊvər/",
+        "meaning_word": "vượt qua, bình phục",
+        "phrase": "It took him a long time to get over the flu.",
+        "ipa_phrase": "/ɪt tʊk hɪm ə lɔŋ taɪm tu ɡɛt ˈoʊvər ðə flu/",
+        "meaning_phrase": "Anh ấy mất nhiều thời gian để bình phục sau cơn cúm.",
+        "context": "Sức khỏe / Cảm xúc"
+    },
+    {
+        "phrasal_verb": "get through",
+        "ipa_word": "/ɡɛt θru/",
+        "meaning_word": "hoàn thành, kết nối",
+        "phrase": "I finally got through the exam.",
+        "ipa_phrase": "/aɪ ˈfaɪnəli ɡɑt θru ði ɪɡˈzæm/",
+        "meaning_phrase": "Cuối cùng tôi đã vượt qua kỳ thi.",
+        "context": "Học tập / Thành tích"
+    },
+    {
+        "phrasal_verb": "get along",
+        "ipa_word": "/ɡɛt əˈlɔŋ/",
+        "meaning_word": "hòa thuận, tiến triển",
+        "phrase": "They get along very well.",
+        "ipa_phrase": "/ðeɪ ɡɛt əˈlɔŋ ˈvɛri wɛl/",
+        "meaning_phrase": "Họ rất hòa thuận với nhau.",
+        "context": "Giao tiếp / Quan hệ"
+    },
+    {
+        "phrasal_verb": "get in",
+        "ipa_word": "/ɡɛt ɪn/",
+        "meaning_word": "vào, đến nơi",
+        "phrase": "He got in the car quickly.",
+        "ipa_phrase": "/hi ɡɑt ɪn ðə kɑr ˈkwɪkli/",
+        "meaning_phrase": "Anh ấy nhanh chóng lên xe.",
+        "context": "Di chuyển / Hành động"
+    },
+    {
+        "phrasal_verb": "get out",
+        "ipa_word": "/ɡɛt aʊt/",
+        "meaning_word": "ra ngoài, thoát khỏi",
+        "phrase": "Get out of the building immediately.",
+        "ipa_phrase": "/ɡɛt aʊt ʌv ðə ˈbɪldɪŋ ɪˈmidiətli/",
+        "meaning_phrase": "Hãy ra khỏi tòa nhà ngay lập tức.",
+        "context": "An toàn / Hành động"
+    },
+    {
+        "phrasal_verb": "get back",
+        "ipa_word": "/ɡɛt bæk/",
+        "meaning_word": "quay lại, nhận lại",
+        "phrase": "I need to get back home before dark.",
+        "ipa_phrase": "/aɪ nid tu ɡɛt bæk hoʊm bɪˈfɔr dɑrk/",
+        "meaning_phrase": "Tôi cần quay về nhà trước khi trời tối.",
+        "context": "Di chuyển / Hành động"
+    },
+    {
+        "phrasal_verb": "get rid of",
+        "ipa_word": "/ɡɛt rɪd ʌv/",
+        "meaning_word": "loại bỏ",
+        "phrase": "I want to get rid of old clothes.",
+        "ipa_phrase": "/aɪ wɑnt tu ɡɛt rɪd ʌv oʊld kloʊðz/",
+        "meaning_phrase": "Tôi muốn loại bỏ quần áo cũ.",
+        "context": "Gia đình / Hành động"
+    },
+    {
+        "phrasal_verb": "get together",
+        "ipa_word": "/ɡɛt təˈɡɛðər/",
+        "meaning_word": "tụ họp, gặp gỡ",
+        "phrase": "We get together every weekend.",
+        "ipa_phrase": "/wi ɡɛt təˈɡɛðər ˈɛvri ˈwiːkˌɛnd/",
+        "meaning_phrase": "Chúng tôi tụ họp vào mỗi cuối tuần.",
+        "context": "Giao tiếp / Quan hệ"
+    },
+    {
+        "phrasal_verb": "get across",
+        "ipa_word": "/ɡɛt əˈkrɔs/",
+        "meaning_word": "truyền đạt, làm ai hiểu",
+        "phrase": "He tried to get his point across.",
+        "ipa_phrase": "/hi traɪd tu ɡɛt hɪz pɔɪnt əˈkrɔs/",
+        "meaning_phrase": "Anh ấy cố gắng truyền đạt quan điểm của mình.",
+        "context": "Giao tiếp / Học tập"
+    },
+    {
+        "phrasal_verb": "get ahead",
+        "ipa_word": "/ɡɛt əˈhɛd/",
+        "meaning_word": "tiến bộ, thành công",
+        "phrase": "She works hard to get ahead in her career.",
+        "ipa_phrase": "/ʃi wɜrks hɑrd tu ɡɛt əˈhɛd ɪn hɜr kəˈrɪr/",
+        "meaning_phrase": "Cô ấy làm việc chăm chỉ để tiến bộ trong sự nghiệp.",
+        "context": "Công việc / Sự nghiệp"
+    },
+    {
+        "phrasal_verb": "get around",
+        "ipa_word": "/ɡɛt əˈraʊnd/",
+        "meaning_word": "đi lại, lan truyền",
+        "phrase": "Information gets around quickly these days.",
+        "ipa_phrase": "/ˌɪnfərˈmeɪʃən ɡɛts əˈraʊnd ˈkwɪkli ðiz deɪz/",
+        "meaning_phrase": "Thông tin lan truyền nhanh chóng ngày nay.",
+        "context": "Giao tiếp / Di chuyển"
+    },
+    {
+        "phrasal_verb": "get through to",
+        "ipa_word": "/ɡɛt θru tu/",
+        "meaning_word": "liên lạc được với, làm ai hiểu",
+        "phrase": "I can't get through to her by phone.",
+        "ipa_phrase": "/aɪ kænt ɡɛt θru tu hɜr baɪ foʊn/",
+        "meaning_phrase": "Tôi không thể liên lạc được với cô ấy qua điện thoại.",
+        "context": "Giao tiếp / Hành động"
+    },
+    {
+        "phrasal_verb": "get by",
+        "ipa_word": "/ɡɛt baɪ/",
+        "meaning_word": "xoay xở, sống qua ngày",
+        "phrase": "They barely get by on their income.",
+        "ipa_phrase": "/ðeɪ ˈbɛrli ɡɛt baɪ ɑn ðɛr ˈɪnkʌm/",
+        "meaning_phrase": "Họ vừa đủ sống với thu nhập của mình.",
+        "context": "Kinh tế / Cuộc sống"
+    },
+    {
+        "phrasal_verb": "get off with",
+        "ipa_word": "/ɡɛt ɔf wɪð/",
+        "meaning_word": "thoát tội, nhận hình phạt nhẹ",
+        "phrase": "He got off with a warning.",
+        "ipa_phrase": "/hi ɡɑt ɔf wɪð ə ˈwɔrnɪŋ/",
+        "meaning_phrase": "Anh ấy thoát tội với một cảnh cáo.",
+        "context": "Pháp luật / Hành động"
+    },
+    {
+        "phrasal_verb": "get down to",
+        "ipa_word": "/ɡɛt daʊn tu/",
+        "meaning_word": "bắt đầu làm việc nghiêm túc",
+        "phrase": "Let's get down to business.",
+        "ipa_phrase": "/lɛts ɡɛt daʊn tu ˈbɪznəs/",
+        "meaning_phrase": "Hãy bắt đầu vào công việc nghiêm túc.",
+        "context": "Công việc / Hành động"
+    },
+    {
+        "phrasal_verb": "get along with",
+        "ipa_word": "/ɡɛt əˈlɔŋ wɪð/",
+        "meaning_word": "hòa thuận với",
+        "phrase": "She gets along with all her colleagues.",
+        "ipa_phrase": "/ʃi ɡɛts əˈlɔŋ wɪð ɔl hɜr ˈkɑligz/",
+        "meaning_phrase": "Cô ấy hòa thuận với tất cả đồng nghiệp.",
+        "context": "Giao tiếp / Quan hệ"
+    },
+    {
+        "phrasal_verb": "get in touch with",
+        "ipa_word": "/ɡɛt ɪn tʌʧ wɪð/",
+        "meaning_word": "liên lạc với",
+        "phrase": "I need to get in touch with my old teacher.",
+        "ipa_phrase": "/aɪ nid tu ɡɛt ɪn tʌʧ wɪð maɪ oʊld ˈtiːʧər/",
+        "meaning_phrase": "Tôi cần liên lạc với giáo viên cũ của mình.",
+        "context": "Giao tiếp / Học tập"
+    }
+]

@@ -1,0 +1,2002 @@
+[
+    {
+        "word": "fast",
+        "ipa_word": "/fæst/",
+        "type": "Adj/Adv",
+        "meaning_word": "nhanh",
+        "phrase": "She runs fast.",
+        "ipa_phrase": "/ʃiː rʌnz fæst/",
+        "meaning_phrase": "Cô ấy chạy nhanh.",
+        "context": "Mô tả tốc độ"
+    },
+    {
+        "word": "slow",
+        "ipa_word": "/sləʊ/",
+        "type": "Adj/Adv",
+        "meaning_word": "chậm",
+        "phrase": "He drives slowly.",
+        "ipa_phrase": "/hiː draɪvz ˈsləʊ.li/",
+        "meaning_phrase": "Anh ấy lái xe chậm.",
+        "context": "Mô tả tốc độ"
+    },
+    {
+        "word": "good / well",
+        "ipa_word": "/ɡʊd/ – /wel/",
+        "type": "Adj / Adv",
+        "meaning_word": "tốt / giỏi",
+        "phrase": "She sings well.",
+        "ipa_phrase": "/ʃiː sɪŋz wel/",
+        "meaning_phrase": "Cô ấy hát hay.",
+        "context": "Khen ngợi"
+    },
+    {
+        "word": "bad / badly",
+        "ipa_word": "/bæd/ – /ˈbæd.li/",
+        "type": "Adj / Adv",
+        "meaning_word": "tệ / tệ hại",
+        "phrase": "He plays badly.",
+        "ipa_phrase": "/hiː pleɪz ˈbæd.li/",
+        "meaning_phrase": "Anh ấy chơi tệ.",
+        "context": "Chỉ trích"
+    },
+    {
+        "word": "hard",
+        "ipa_word": "/hɑːd/",
+        "type": "Adj/Adv",
+        "meaning_word": "khó, chăm chỉ",
+        "phrase": "He works hard.",
+        "ipa_phrase": "/hiː wɜːks hɑːd/",
+        "meaning_phrase": "Anh ấy làm việc chăm chỉ.",
+        "context": "Công việc"
+    },
+    {
+        "word": "easy",
+        "ipa_word": "/ˈiː.zi/",
+        "type": "Adj",
+        "meaning_word": "dễ",
+        "phrase": "This test is easy.",
+        "ipa_phrase": "/ðɪs tɛst ɪz ˈiː.zi/",
+        "meaning_phrase": "Bài kiểm tra này dễ.",
+        "context": "Đánh giá độ khó"
+    },
+    {
+        "word": "difficult",
+        "ipa_word": "/ˈdɪf.ɪ.kəlt/",
+        "type": "Adj",
+        "meaning_word": "khó",
+        "phrase": "The exam was difficult.",
+        "ipa_phrase": "/ði ɪɡˈzæm wəz ˈdɪf.ɪ.kəlt/",
+        "meaning_phrase": "Bài thi khó.",
+        "context": "Đánh giá độ khó"
+    },
+    {
+        "word": "happy",
+        "ipa_word": "/ˈhæp.i/",
+        "type": "Adj",
+        "meaning_word": "vui",
+        "phrase": "She feels happy today.",
+        "ipa_phrase": "/ʃi fiːlz ˈhæp.i təˈdeɪ/",
+        "meaning_phrase": "Hôm nay cô ấy thấy vui.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "sad",
+        "ipa_word": "/sæd/",
+        "type": "Adj",
+        "meaning_word": "buồn",
+        "phrase": "He looks sad.",
+        "ipa_phrase": "/hi lʊks sæd/",
+        "meaning_phrase": "Anh ấy trông buồn.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "angry",
+        "ipa_word": "/ˈæŋ.ɡri/",
+        "type": "Adj",
+        "meaning_word": "tức giận",
+        "phrase": "She is angry with him.",
+        "ipa_phrase": "/ʃi ɪz ˈæŋ.ɡri wɪð hɪm/",
+        "meaning_phrase": "Cô ấy giận anh ta.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "big",
+        "ipa_word": "/bɪɡ/",
+        "type": "Adj",
+        "meaning_word": "to, lớn",
+        "phrase": "They live in a big house.",
+        "ipa_phrase": "/ðeɪ lɪv ɪn ə bɪɡ haʊs/",
+        "meaning_phrase": "Họ sống trong một ngôi nhà lớn.",
+        "context": "Kích thước"
+    },
+    {
+        "word": "small",
+        "ipa_word": "/smɔːl/",
+        "type": "Adj",
+        "meaning_word": "nhỏ",
+        "phrase": "This shirt is too small.",
+        "ipa_phrase": "/ðɪs ʃɜːt ɪz tuː smɔːl/",
+        "meaning_phrase": "Chiếc áo này quá nhỏ.",
+        "context": "Kích thước"
+    },
+    {
+        "word": "long",
+        "ipa_word": "/lɒŋ/",
+        "type": "Adj",
+        "meaning_word": "dài",
+        "phrase": "She has long hair.",
+        "ipa_phrase": "/ʃiː hæz lɒŋ heər/",
+        "meaning_phrase": "Cô ấy có mái tóc dài.",
+        "context": "Kích thước"
+    },
+    {
+        "word": "short",
+        "ipa_word": "/ʃɔːt/",
+        "type": "Adj",
+        "meaning_word": "ngắn",
+        "phrase": "He gave a short answer.",
+        "ipa_phrase": "/hi ɡeɪv ə ʃɔːt ˈɑːn.sər/",
+        "meaning_phrase": "Anh ấy trả lời ngắn gọn.",
+        "context": "Độ dài"
+    },
+    {
+        "word": "hot",
+        "ipa_word": "/hɒt/",
+        "type": "Adj",
+        "meaning_word": "nóng",
+        "phrase": "It’s very hot today.",
+        "ipa_phrase": "/ɪts ˈvɛri hɒt təˈdeɪ/",
+        "meaning_phrase": "Hôm nay trời rất nóng.",
+        "context": "Thời tiết"
+    },
+    {
+        "word": "cold",
+        "ipa_word": "/kəʊld/",
+        "type": "Adj",
+        "meaning_word": "lạnh",
+        "phrase": "The water is cold.",
+        "ipa_phrase": "/ðə ˈwɔːtər ɪz kəʊld/",
+        "meaning_phrase": "Nước lạnh.",
+        "context": "Nhiệt độ"
+    },
+    {
+        "word": "beautiful",
+        "ipa_word": "/ˈbjuː.tɪ.fəl/",
+        "type": "Adj",
+        "meaning_word": "đẹp",
+        "phrase": "What a beautiful view!",
+        "ipa_phrase": "/wɒt ə ˈbjuː.tɪ.fəl vjuː/",
+        "meaning_phrase": "Thật là một cảnh đẹp!",
+        "context": "Mô tả ngoại cảnh"
+    },
+    {
+        "word": "ugly",
+        "ipa_word": "/ˈʌɡ.li/",
+        "type": "Adj",
+        "meaning_word": "xấu",
+        "phrase": "The building looks ugly.",
+        "ipa_phrase": "/ðə ˈbɪldɪŋ lʊks ˈʌɡ.li/",
+        "meaning_phrase": "Tòa nhà trông xấu xí.",
+        "context": "Mô tả ngoại cảnh"
+    },
+    {
+        "word": "strong",
+        "ipa_word": "/strɒŋ/",
+        "type": "Adj",
+        "meaning_word": "mạnh mẽ",
+        "phrase": "He is very strong.",
+        "ipa_phrase": "/hi ɪz ˈvɛri strɒŋ/",
+        "meaning_phrase": "Anh ấy rất mạnh mẽ.",
+        "context": "Thể chất"
+    },
+    {
+        "word": "weak",
+        "ipa_word": "/wiːk/",
+        "type": "Adj",
+        "meaning_word": "yếu",
+        "phrase": "She felt weak after the illness.",
+        "ipa_phrase": "/ʃi fɛlt wiːk ˈɑːftər ði ˈɪlnəs/",
+        "meaning_phrase": "Cô ấy thấy yếu sau cơn bệnh.",
+        "context": "Thể chất"
+    },
+    {
+        "word": "young",
+        "ipa_word": "/jʌŋ/",
+        "type": "Adj",
+        "meaning_word": "trẻ",
+        "phrase": "She is young and energetic.",
+        "ipa_phrase": "/ʃi ɪz jʌŋ ənd ˌɛn.əˈdʒɛt.ɪk/",
+        "meaning_phrase": "Cô ấy trẻ và tràn đầy năng lượng.",
+        "context": "Tuổi tác"
+    },
+    {
+        "word": "old",
+        "ipa_word": "/əʊld/",
+        "type": "Adj",
+        "meaning_word": "già, cũ",
+        "phrase": "He is an old man.",
+        "ipa_phrase": "/hi ɪz ən əʊld mæn/",
+        "meaning_phrase": "Ông ấy là một người đàn ông già.",
+        "context": "Tuổi tác"
+    },
+    {
+        "word": "new",
+        "ipa_word": "/njuː/",
+        "type": "Adj",
+        "meaning_word": "mới",
+        "phrase": "I bought a new phone.",
+        "ipa_phrase": "/aɪ bɔːt ə njuː fəʊn/",
+        "meaning_phrase": "Tôi đã mua một chiếc điện thoại mới.",
+        "context": "Đồ vật"
+    },
+    {
+        "word": "expensive",
+        "ipa_word": "/ɪkˈspen.sɪv/",
+        "type": "Adj",
+        "meaning_word": "đắt",
+        "phrase": "This watch is expensive.",
+        "ipa_phrase": "/ðɪs wɒtʃ ɪz ɪkˈspen.sɪv/",
+        "meaning_phrase": "Chiếc đồng hồ này đắt.",
+        "context": "Giá cả"
+    },
+    {
+        "word": "cheap",
+        "ipa_word": "/tʃiːp/",
+        "type": "Adj",
+        "meaning_word": "rẻ",
+        "phrase": "The food here is cheap.",
+        "ipa_phrase": "/ðə fuːd hɪər ɪz tʃiːp/",
+        "meaning_phrase": "Đồ ăn ở đây rẻ.",
+        "context": "Giá cả"
+    },
+    {
+        "word": "early",
+        "ipa_word": "/ˈɜː.li/",
+        "type": "Adj/Adv",
+        "meaning_word": "sớm",
+        "phrase": "She came early.",
+        "ipa_phrase": "/ʃi keɪm ˈɜː.li/",
+        "meaning_phrase": "Cô ấy đến sớm.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "late",
+        "ipa_word": "/leɪt/",
+        "type": "Adj/Adv",
+        "meaning_word": "muộn, trễ",
+        "phrase": "He arrived late.",
+        "ipa_phrase": "/hi əˈraɪvd leɪt/",
+        "meaning_phrase": "Anh ấy đến muộn.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "always",
+        "ipa_word": "/ˈɔːl.weɪz/",
+        "type": "Adv",
+        "meaning_word": "luôn luôn",
+        "phrase": "She always smiles.",
+        "ipa_phrase": "/ʃi ˈɔːl.weɪz smaɪlz/",
+        "meaning_phrase": "Cô ấy luôn luôn mỉm cười.",
+        "context": "Tần suất"
+    },
+    {
+        "word": "often",
+        "ipa_word": "/ˈɒf.ən/",
+        "type": "Adv",
+        "meaning_word": "thường xuyên",
+        "phrase": "They often go out.",
+        "ipa_phrase": "/ðeɪ ˈɒf.ən ɡəʊ aʊt/",
+        "meaning_phrase": "Họ thường đi chơi.",
+        "context": "Tần suất"
+    },
+    {
+        "word": "sometimes",
+        "ipa_word": "/ˈsʌm.taɪmz/",
+        "type": "Adv",
+        "meaning_word": "thỉnh thoảng",
+        "phrase": "I sometimes read at night.",
+        "ipa_phrase": "/aɪ ˈsʌm.taɪmz riːd ət naɪt/",
+        "meaning_phrase": "Tôi thỉnh thoảng đọc sách vào ban đêm.",
+        "context": "Tần suất"
+    },
+    {
+        "word": "rarely",
+        "ipa_word": "/ˈreə.li/",
+        "type": "Adv",
+        "meaning_word": "hiếm khi",
+        "phrase": "He rarely eats fast food.",
+        "ipa_phrase": "/hi ˈreə.li iːts fæst fuːd/",
+        "meaning_phrase": "Anh ấy hiếm khi ăn đồ ăn nhanh.",
+        "context": "Tần suất"
+    },
+    {
+        "word": "never",
+        "ipa_word": "/ˈnev.ər/",
+        "type": "Adv",
+        "meaning_word": "không bao giờ",
+        "phrase": "I never smoke.",
+        "ipa_phrase": "/aɪ ˈnev.ər sməʊk/",
+        "meaning_phrase": "Tôi không bao giờ hút thuốc.",
+        "context": "Tần suất"
+    },
+    {
+        "word": "very",
+        "ipa_word": "/ˈver.i/",
+        "type": "Adv",
+        "meaning_word": "rất",
+        "phrase": "She is very smart.",
+        "ipa_phrase": "/ʃi ɪz ˈver.i smɑːt/",
+        "meaning_phrase": "Cô ấy rất thông minh.",
+        "context": "Mức độ"
+    },
+    {
+        "word": "quite",
+        "ipa_word": "/kwaɪt/",
+        "type": "Adv",
+        "meaning_word": "khá",
+        "phrase": "The film was quite good.",
+        "ipa_phrase": "/ðə fɪlm wəz kwaɪt ɡʊd/",
+        "meaning_phrase": "Bộ phim khá hay.",
+        "context": "Mức độ"
+    },
+    {
+        "word": "too",
+        "ipa_word": "/tuː/",
+        "type": "Adv",
+        "meaning_word": "quá",
+        "phrase": "The soup is too hot.",
+        "ipa_phrase": "/ðə suːp ɪz tuː hɒt/",
+        "meaning_phrase": "Súp quá nóng.",
+        "context": "Mức độ"
+    },
+    {
+        "word": "enough",
+        "ipa_word": "/ɪˈnʌf/",
+        "type": "Adv/Det",
+        "meaning_word": "đủ",
+        "phrase": "She is old enough to drive.",
+        "ipa_phrase": "/ʃi ɪz əʊld ɪˈnʌf tə draɪv/",
+        "meaning_phrase": "Cô ấy đủ tuổi để lái xe.",
+        "context": "Mức độ"
+    },
+    {
+        "word": "really",
+        "ipa_word": "/ˈrɪə.li/",
+        "type": "Adv",
+        "meaning_word": "thực sự",
+        "phrase": "I really like this song.",
+        "ipa_phrase": "/aɪ ˈrɪə.li laɪk ðɪs sɒŋ/",
+        "meaning_phrase": "Tôi thực sự thích bài hát này.",
+        "context": "Mức độ"
+    },
+    {
+        "word": "sure",
+        "ipa_word": "/ʃɔːr/",
+        "type": "Adj",
+        "meaning_word": "chắc chắn",
+        "phrase": "Are you sure?",
+        "ipa_phrase": "/ɑː juː ʃɔːr/",
+        "meaning_phrase": "Bạn có chắc không?",
+        "context": "Ý kiến"
+    },
+    {
+        "word": "maybe",
+        "ipa_word": "/ˈmeɪ.bi/",
+        "type": "Adv",
+        "meaning_word": "có thể",
+        "phrase": "Maybe he is right.",
+        "ipa_phrase": "/ˈmeɪ.bi hi ɪz raɪt/",
+        "meaning_phrase": "Có thể anh ấy đúng.",
+        "context": "Ý kiến"
+    },
+    {
+        "word": "probably",
+        "ipa_word": "/ˈprɒb.ə.bli/",
+        "type": "Adv",
+        "meaning_word": "có lẽ",
+        "phrase": "He will probably come.",
+        "ipa_phrase": "/hi wɪl ˈprɒb.ə.bli kʌm/",
+        "meaning_phrase": "Có lẽ anh ấy sẽ đến.",
+        "context": "Ý kiến"
+    },
+    {
+        "word": "big",
+        "ipa_word": "/bɪɡ/",
+        "type": "Adj",
+        "meaning_word": "to, lớn",
+        "phrase": "This house is big.",
+        "ipa_phrase": "/ðɪs haʊs ɪz bɪɡ/",
+        "meaning_phrase": "Ngôi nhà này lớn.",
+        "context": "Kích thước"
+    },
+    {
+        "word": "small",
+        "ipa_word": "/smɔːl/",
+        "type": "Adj",
+        "meaning_word": "nhỏ",
+        "phrase": "She has a small bag.",
+        "ipa_phrase": "/ʃiː hæz ə smɔːl bæɡ/",
+        "meaning_phrase": "Cô ấy có một chiếc túi nhỏ.",
+        "context": "Kích thước"
+    },
+    {
+        "word": "long",
+        "ipa_word": "/lɒŋ/",
+        "type": "Adj",
+        "meaning_word": "dài",
+        "phrase": "It’s a long road.",
+        "ipa_phrase": "/ɪts ə lɒŋ rəʊd/",
+        "meaning_phrase": "Đó là một con đường dài.",
+        "context": "Chiều dài"
+    },
+    {
+        "word": "short",
+        "ipa_word": "/ʃɔːt/",
+        "type": "Adj",
+        "meaning_word": "ngắn, thấp",
+        "phrase": "He is short.",
+        "ipa_phrase": "/hiː ɪz ʃɔːt/",
+        "meaning_phrase": "Anh ấy thấp.",
+        "context": "Chiều cao / độ dài"
+    },
+    {
+        "word": "tall",
+        "ipa_word": "/tɔːl/",
+        "type": "Adj",
+        "meaning_word": "cao",
+        "phrase": "She is tall.",
+        "ipa_phrase": "/ʃiː ɪz tɔːl/",
+        "meaning_phrase": "Cô ấy cao.",
+        "context": "Chiều cao"
+    },
+    {
+        "word": "fat",
+        "ipa_word": "/fæt/",
+        "type": "Adj",
+        "meaning_word": "béo",
+        "phrase": "The cat is fat.",
+        "ipa_phrase": "/ðə kæt ɪz fæt/",
+        "meaning_phrase": "Con mèo béo.",
+        "context": "Ngoại hình"
+    },
+    {
+        "word": "thin",
+        "ipa_word": "/θɪn/",
+        "type": "Adj",
+        "meaning_word": "gầy, mỏng",
+        "phrase": "She is thin.",
+        "ipa_phrase": "/ʃiː ɪz θɪn/",
+        "meaning_phrase": "Cô ấy gầy.",
+        "context": "Ngoại hình"
+    },
+    {
+        "word": "round",
+        "ipa_word": "/raʊnd/",
+        "type": "Adj",
+        "meaning_word": "tròn",
+        "phrase": "The table is round.",
+        "ipa_phrase": "/ðə ˈteɪ.bəl ɪz raʊnd/",
+        "meaning_phrase": "Chiếc bàn tròn.",
+        "context": "Hình dạng"
+    },
+    {
+        "word": "square",
+        "ipa_word": "/skweər/",
+        "type": "Adj",
+        "meaning_word": "vuông",
+        "phrase": "A square box.",
+        "ipa_phrase": "/ə skweər bɒks/",
+        "meaning_phrase": "Một cái hộp vuông.",
+        "context": "Hình dạng"
+    },
+    {
+        "word": "red",
+        "ipa_word": "/red/",
+        "type": "Adj",
+        "meaning_word": "màu đỏ",
+        "phrase": "She wore a red dress.",
+        "ipa_phrase": "/ʃi wɔːr ə red dres/",
+        "meaning_phrase": "Cô ấy mặc một chiếc váy đỏ.",
+        "context": "Màu sắc"
+    },
+    {
+        "word": "blue",
+        "ipa_word": "/bluː/",
+        "type": "Adj",
+        "meaning_word": "màu xanh dương",
+        "phrase": "The sky is blue.",
+        "ipa_phrase": "/ðə skaɪ ɪz bluː/",
+        "meaning_phrase": "Bầu trời xanh.",
+        "context": "Màu sắc"
+    },
+    {
+        "word": "green",
+        "ipa_word": "/ɡriːn/",
+        "type": "Adj",
+        "meaning_word": "màu xanh lá",
+        "phrase": "The grass is green.",
+        "ipa_phrase": "/ðə ɡrɑːs ɪz ɡriːn/",
+        "meaning_phrase": "Cỏ thì xanh.",
+        "context": "Màu sắc"
+    },
+    {
+        "word": "yellow",
+        "ipa_word": "/ˈjel.əʊ/",
+        "type": "Adj",
+        "meaning_word": "màu vàng",
+        "phrase": "Bananas are yellow.",
+        "ipa_phrase": "/bəˈnɑː.nəz ɑː ˈjel.əʊ/",
+        "meaning_phrase": "Chuối có màu vàng.",
+        "context": "Màu sắc"
+    },
+    {
+        "word": "black",
+        "ipa_word": "/blæk/",
+        "type": "Adj",
+        "meaning_word": "màu đen",
+        "phrase": "He wears black shoes.",
+        "ipa_phrase": "/hi weərz blæk ʃuːz/",
+        "meaning_phrase": "Anh ấy mang giày đen.",
+        "context": "Màu sắc"
+    },
+    {
+        "word": "white",
+        "ipa_word": "/waɪt/",
+        "type": "Adj",
+        "meaning_word": "màu trắng",
+        "phrase": "The snow is white.",
+        "ipa_phrase": "/ðə snəʊ ɪz waɪt/",
+        "meaning_phrase": "Tuyết thì trắng.",
+        "context": "Màu sắc"
+    },
+    {
+        "word": "hot",
+        "ipa_word": "/hɒt/",
+        "type": "Adj",
+        "meaning_word": "nóng",
+        "phrase": "The tea is hot.",
+        "ipa_phrase": "/ðə tiː ɪz hɒt/",
+        "meaning_phrase": "Trà nóng.",
+        "context": "Nhiệt độ"
+    },
+    {
+        "word": "cold",
+        "ipa_word": "/kəʊld/",
+        "type": "Adj",
+        "meaning_word": "lạnh",
+        "phrase": "It’s cold outside.",
+        "ipa_phrase": "/ɪts kəʊld ˈaʊt.saɪd/",
+        "meaning_phrase": "Bên ngoài lạnh.",
+        "context": "Nhiệt độ"
+    },
+    {
+        "word": "sweet",
+        "ipa_word": "/swiːt/",
+        "type": "Adj",
+        "meaning_word": "ngọt",
+        "phrase": "The cake is sweet.",
+        "ipa_phrase": "/ðə keɪk ɪz swiːt/",
+        "meaning_phrase": "Bánh ngọt.",
+        "context": "Vị giác"
+    },
+    {
+        "word": "salty",
+        "ipa_word": "/ˈsɒl.ti/",
+        "type": "Adj",
+        "meaning_word": "mặn",
+        "phrase": "The soup is salty.",
+        "ipa_phrase": "/ðə suːp ɪz ˈsɒl.ti/",
+        "meaning_phrase": "Súp mặn.",
+        "context": "Vị giác"
+    },
+    {
+        "word": "noisy",
+        "ipa_word": "/ˈnɔɪ.zi/",
+        "type": "Adj",
+        "meaning_word": "ồn ào",
+        "phrase": "The street is noisy.",
+        "ipa_phrase": "/ðə striːt ɪz ˈnɔɪ.zi/",
+        "meaning_phrase": "Con phố ồn ào.",
+        "context": "Âm thanh"
+    },
+    {
+        "word": "happy",
+        "ipa_word": "/ˈhæp.i/",
+        "type": "Adj",
+        "meaning_word": "vui vẻ, hạnh phúc",
+        "phrase": "She looks happy today.",
+        "ipa_phrase": "/ʃi lʊks ˈhæp.i təˈdeɪ/",
+        "meaning_phrase": "Hôm nay cô ấy trông vui.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "sad",
+        "ipa_word": "/sæd/",
+        "type": "Adj",
+        "meaning_word": "buồn",
+        "phrase": "He feels sad.",
+        "ipa_phrase": "/hi fiːlz sæd/",
+        "meaning_phrase": "Anh ấy cảm thấy buồn.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "angry",
+        "ipa_word": "/ˈæŋ.ɡri/",
+        "type": "Adj",
+        "meaning_word": "tức giận",
+        "phrase": "She is angry with him.",
+        "ipa_phrase": "/ʃiː ɪz ˈæŋ.ɡri wɪð hɪm/",
+        "meaning_phrase": "Cô ấy giận anh ta.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "afraid",
+        "ipa_word": "/əˈfreɪd/",
+        "type": "Adj",
+        "meaning_word": "sợ hãi",
+        "phrase": "He is afraid of the dark.",
+        "ipa_phrase": "/hiː ɪz əˈfreɪd əv ðə dɑːrk/",
+        "meaning_phrase": "Anh ấy sợ bóng tối.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "brave",
+        "ipa_word": "/breɪv/",
+        "type": "Adj",
+        "meaning_word": "dũng cảm",
+        "phrase": "The soldier is brave.",
+        "ipa_phrase": "/ðə ˈsəʊl.dʒər ɪz breɪv/",
+        "meaning_phrase": "Người lính dũng cảm.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "kind",
+        "ipa_word": "/kaɪnd/",
+        "type": "Adj",
+        "meaning_word": "tốt bụng",
+        "phrase": "She is very kind to me.",
+        "ipa_phrase": "/ʃiː ɪz ˈver.i kaɪnd tə miː/",
+        "meaning_phrase": "Cô ấy rất tốt với tôi.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "polite",
+        "ipa_word": "/pəˈlaɪt/",
+        "type": "Adj",
+        "meaning_word": "lịch sự",
+        "phrase": "He is polite to everyone.",
+        "ipa_phrase": "/hiː ɪz pəˈlaɪt tə ˈev.ri.wʌn/",
+        "meaning_phrase": "Anh ấy lịch sự với mọi người.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "rude",
+        "ipa_word": "/ruːd/",
+        "type": "Adj",
+        "meaning_word": "thô lỗ",
+        "phrase": "Don’t be rude!",
+        "ipa_phrase": "/dəʊnt biː ruːd/",
+        "meaning_phrase": "Đừng thô lỗ!",
+        "context": "Tính cách"
+    },
+    {
+        "word": "clever",
+        "ipa_word": "/ˈklev.ər/",
+        "type": "Adj",
+        "meaning_word": "thông minh",
+        "phrase": "She is a clever student.",
+        "ipa_phrase": "/ʃiː ɪz ə ˈklev.ər ˈstjuː.dənt/",
+        "meaning_phrase": "Cô ấy là học sinh thông minh.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "lazy",
+        "ipa_word": "/ˈleɪ.zi/",
+        "type": "Adj",
+        "meaning_word": "lười biếng",
+        "phrase": "He is too lazy to study.",
+        "ipa_phrase": "/hiː ɪz tuː ˈleɪ.zi tə ˈstʌd.i/",
+        "meaning_phrase": "Anh ấy quá lười để học.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "tired",
+        "ipa_word": "/taɪəd/",
+        "type": "Adj",
+        "meaning_word": "mệt mỏi",
+        "phrase": "I feel tired after work.",
+        "ipa_phrase": "/aɪ fiːl taɪəd ˈɑːf.tər wɜːk/",
+        "meaning_phrase": "Tôi cảm thấy mệt sau khi làm việc.",
+        "context": "Trạng thái"
+    },
+    {
+        "word": "hungry",
+        "ipa_word": "/ˈhʌŋ.ɡri/",
+        "type": "Adj",
+        "meaning_word": "đói",
+        "phrase": "I am hungry.",
+        "ipa_phrase": "/aɪ æm ˈhʌŋ.ɡri/",
+        "meaning_phrase": "Tôi đói.",
+        "context": "Trạng thái"
+    },
+    {
+        "word": "thirsty",
+        "ipa_word": "/ˈθɜː.sti/",
+        "type": "Adj",
+        "meaning_word": "khát",
+        "phrase": "She is thirsty.",
+        "ipa_phrase": "/ʃiː ɪz ˈθɜː.sti/",
+        "meaning_phrase": "Cô ấy khát.",
+        "context": "Trạng thái"
+    },
+    {
+        "word": "sick",
+        "ipa_word": "/sɪk/",
+        "type": "Adj",
+        "meaning_word": "ốm, bệnh",
+        "phrase": "He is sick today.",
+        "ipa_phrase": "/hiː ɪz sɪk təˈdeɪ/",
+        "meaning_phrase": "Hôm nay anh ấy bị ốm.",
+        "context": "Sức khỏe"
+    },
+    {
+        "word": "healthy",
+        "ipa_word": "/ˈhel.θi/",
+        "type": "Adj",
+        "meaning_word": "khỏe mạnh, lành mạnh",
+        "phrase": "Vegetables are healthy.",
+        "ipa_phrase": "/ˈvedʒ.tə.bəlz ɑː ˈhel.θi/",
+        "meaning_phrase": "Rau củ rất tốt cho sức khỏe.",
+        "context": "Sức khỏe"
+    },
+    {
+        "word": "busy",
+        "ipa_word": "/ˈbɪz.i/",
+        "type": "Adj",
+        "meaning_word": "bận rộn",
+        "phrase": "He is always busy.",
+        "ipa_phrase": "/hiː ɪz ˈɔːl.weɪz ˈbɪz.i/",
+        "meaning_phrase": "Anh ấy luôn bận.",
+        "context": "Trạng thái"
+    },
+    {
+        "word": "free",
+        "ipa_word": "/friː/",
+        "type": "Adj",
+        "meaning_word": "rảnh, miễn phí",
+        "phrase": "Are you free tomorrow?",
+        "ipa_phrase": "/ɑːr juː friː təˈmɒr.oʊ/",
+        "meaning_phrase": "Ngày mai bạn có rảnh không?",
+        "context": "Trạng thái"
+    },
+    {
+        "word": "rainy",
+        "ipa_word": "/ˈreɪ.ni/",
+        "type": "Adj",
+        "meaning_word": "mưa",
+        "phrase": "It’s a rainy day.",
+        "ipa_phrase": "/ɪts ə ˈreɪ.ni deɪ/",
+        "meaning_phrase": "Hôm nay là ngày mưa.",
+        "context": "Thời tiết"
+    },
+    {
+        "word": "sunny",
+        "ipa_word": "/ˈsʌn.i/",
+        "type": "Adj",
+        "meaning_word": "nắng",
+        "phrase": "It’s sunny outside.",
+        "ipa_phrase": "/ɪts ˈsʌn.i ˈaʊt.saɪd/",
+        "meaning_phrase": "Bên ngoài trời nắng.",
+        "context": "Thời tiết"
+    },
+    {
+        "word": "windy",
+        "ipa_word": "/ˈwɪn.di/",
+        "type": "Adj",
+        "meaning_word": "gió",
+        "phrase": "It is windy today.",
+        "ipa_phrase": "/ɪt ɪz ˈwɪn.di təˈdeɪ/",
+        "meaning_phrase": "Hôm nay trời nhiều gió.",
+        "context": "Thời tiết"
+    },
+    {
+        "word": "always",
+        "ipa_word": "/ˈɔːl.weɪz/",
+        "type": "Adv",
+        "meaning_word": "luôn luôn",
+        "phrase": "She always wakes up early.",
+        "ipa_phrase": "/ʃiː ˈɔːl.weɪz weɪks ʌp ˈɜː.li/",
+        "meaning_phrase": "Cô ấy luôn dậy sớm.",
+        "context": "Tần suất"
+    },
+    {
+        "word": "usually",
+        "ipa_word": "/ˈjuː.ʒu.ə.li/",
+        "type": "Adv",
+        "meaning_word": "thường xuyên",
+        "phrase": "I usually go to bed at 10.",
+        "ipa_phrase": "/aɪ ˈjuː.ʒu.ə.li ɡoʊ tə bed æt ten/",
+        "meaning_phrase": "Tôi thường đi ngủ lúc 10 giờ.",
+        "context": "Tần suất"
+    },
+    {
+        "word": "often",
+        "ipa_word": "/ˈɒf.ən/",
+        "type": "Adv",
+        "meaning_word": "thường",
+        "phrase": "He often plays football.",
+        "ipa_phrase": "/hiː ˈɒf.ən pleɪz ˈfʊt.bɔːl/",
+        "meaning_phrase": "Anh ấy thường chơi bóng đá.",
+        "context": "Tần suất"
+    },
+    {
+        "word": "sometimes",
+        "ipa_word": "/ˈsʌm.taɪmz/",
+        "type": "Adv",
+        "meaning_word": "thỉnh thoảng",
+        "phrase": "We sometimes eat out.",
+        "ipa_phrase": "/wiː ˈsʌm.taɪmz iːt aʊt/",
+        "meaning_phrase": "Chúng tôi thỉnh thoảng đi ăn ngoài.",
+        "context": "Tần suất"
+    },
+    {
+        "word": "rarely",
+        "ipa_word": "/ˈreə.li/",
+        "type": "Adv",
+        "meaning_word": "hiếm khi",
+        "phrase": "She rarely watches TV.",
+        "ipa_phrase": "/ʃiː ˈreə.li ˈwɒʧ.ɪz ˌtiːˈviː/",
+        "meaning_phrase": "Cô ấy hiếm khi xem TV.",
+        "context": "Tần suất"
+    },
+    {
+        "word": "never",
+        "ipa_word": "/ˈnev.ər/",
+        "type": "Adv",
+        "meaning_word": "không bao giờ",
+        "phrase": "He never smokes.",
+        "ipa_phrase": "/hiː ˈnev.ər smoʊks/",
+        "meaning_phrase": "Anh ấy không bao giờ hút thuốc.",
+        "context": "Tần suất"
+    },
+    {
+        "word": "today",
+        "ipa_word": "/təˈdeɪ/",
+        "type": "Adv",
+        "meaning_word": "hôm nay",
+        "phrase": "I am busy today.",
+        "ipa_phrase": "/aɪ æm ˈbɪz.i təˈdeɪ/",
+        "meaning_phrase": "Hôm nay tôi bận.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "yesterday",
+        "ipa_word": "/ˈjes.tə.deɪ/",
+        "type": "Adv",
+        "meaning_word": "hôm qua",
+        "phrase": "She was here yesterday.",
+        "ipa_phrase": "/ʃiː wəz hɪər ˈjes.tə.deɪ/",
+        "meaning_phrase": "Hôm qua cô ấy ở đây.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "tomorrow",
+        "ipa_word": "/təˈmɒr.əʊ/",
+        "type": "Adv",
+        "meaning_word": "ngày mai",
+        "phrase": "We will meet tomorrow.",
+        "ipa_phrase": "/wiː wɪl miːt təˈmɒr.əʊ/",
+        "meaning_phrase": "Ngày mai chúng ta sẽ gặp nhau.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "now",
+        "ipa_word": "/naʊ/",
+        "type": "Adv",
+        "meaning_word": "bây giờ",
+        "phrase": "I am studying now.",
+        "ipa_phrase": "/aɪ æm ˈstʌd.i.ɪŋ naʊ/",
+        "meaning_phrase": "Tôi đang học bây giờ.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "soon",
+        "ipa_word": "/suːn/",
+        "type": "Adv",
+        "meaning_word": "sớm, sắp",
+        "phrase": "He will come soon.",
+        "ipa_phrase": "/hiː wɪl kʌm suːn/",
+        "meaning_phrase": "Anh ấy sẽ đến sớm thôi.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "late",
+        "ipa_word": "/leɪt/",
+        "type": "Adj/Adv",
+        "meaning_word": "muộn, trễ",
+        "phrase": "She is late for class.",
+        "ipa_phrase": "/ʃiː ɪz leɪt fər klɑːs/",
+        "meaning_phrase": "Cô ấy đi học muộn.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "early",
+        "ipa_word": "/ˈɜː.li/",
+        "type": "Adj/Adv",
+        "meaning_word": "sớm",
+        "phrase": "I wake up early.",
+        "ipa_phrase": "/aɪ weɪk ʌp ˈɜː.li/",
+        "meaning_phrase": "Tôi thức dậy sớm.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "very",
+        "ipa_word": "/ˈver.i/",
+        "type": "Adv",
+        "meaning_word": "rất",
+        "phrase": "She is very tall.",
+        "ipa_phrase": "/ʃiː ɪz ˈver.i tɔːl/",
+        "meaning_phrase": "Cô ấy rất cao.",
+        "context": "Mức độ"
+    },
+    {
+        "word": "quite",
+        "ipa_word": "/kwaɪt/",
+        "type": "Adv",
+        "meaning_word": "khá",
+        "phrase": "He is quite clever.",
+        "ipa_phrase": "/hiː ɪz kwaɪt ˈklev.ər/",
+        "meaning_phrase": "Anh ấy khá thông minh.",
+        "context": "Mức độ"
+    },
+    {
+        "word": "too",
+        "ipa_word": "/tuː/",
+        "type": "Adv",
+        "meaning_word": "quá, cũng",
+        "phrase": "It is too hot.",
+        "ipa_phrase": "/ɪt ɪz tuː hɒt/",
+        "meaning_phrase": "Trời quá nóng.",
+        "context": "Mức độ"
+    },
+    {
+        "word": "enough",
+        "ipa_word": "/ɪˈnʌf/",
+        "type": "Adj/Adv",
+        "meaning_word": "đủ",
+        "phrase": "The bag is big enough.",
+        "ipa_phrase": "/ðə bæɡ ɪz bɪɡ ɪˈnʌf/",
+        "meaning_phrase": "Cái túi đủ to.",
+        "context": "Mức độ"
+    },
+    {
+        "word": "almost",
+        "ipa_word": "/ˈɔːl.moʊst/",
+        "type": "Adv",
+        "meaning_word": "hầu như, gần như",
+        "phrase": "She almost won.",
+        "ipa_phrase": "/ʃiː ˈɔːl.moʊst wʌn/",
+        "meaning_phrase": "Cô ấy suýt thắng.",
+        "context": "Mức độ"
+    },
+    {
+        "word": "already",
+        "ipa_word": "/ɔːlˈred.i/",
+        "type": "Adv",
+        "meaning_word": "đã, rồi",
+        "phrase": "I have already eaten.",
+        "ipa_phrase": "/aɪ hæv ɔːlˈred.i ˈiː.tən/",
+        "meaning_phrase": "Tôi đã ăn rồi.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "just",
+        "ipa_word": "/dʒʌst/",
+        "type": "Adv",
+        "meaning_word": "vừa mới, chỉ",
+        "phrase": "I just arrived.",
+        "ipa_phrase": "/aɪ dʒʌst əˈraɪvd/",
+        "meaning_phrase": "Tôi vừa mới đến.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "happy",
+        "ipa_word": "/ˈhæp.i/",
+        "type": "Adj",
+        "meaning_word": "vui vẻ",
+        "phrase": "She looks happy today.",
+        "ipa_phrase": "/ʃiː lʊks ˈhæp.i təˈdeɪ/",
+        "meaning_phrase": "Hôm nay cô ấy trông vui vẻ.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "sad",
+        "ipa_word": "/sæd/",
+        "type": "Adj",
+        "meaning_word": "buồn",
+        "phrase": "He felt sad after the movie.",
+        "ipa_phrase": "/hiː felt sæd ˈæftər ðə ˈmuː.vi/",
+        "meaning_phrase": "Anh ấy thấy buồn sau bộ phim.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "angry",
+        "ipa_word": "/ˈæŋ.ɡri/",
+        "type": "Adj",
+        "meaning_word": "tức giận",
+        "phrase": "She was angry with him.",
+        "ipa_phrase": "/ʃiː wəz ˈæŋ.ɡri wɪð hɪm/",
+        "meaning_phrase": "Cô ấy tức giận với anh ta.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "afraid",
+        "ipa_word": "/əˈfreɪd/",
+        "type": "Adj",
+        "meaning_word": "sợ hãi",
+        "phrase": "He is afraid of the dark.",
+        "ipa_phrase": "/hiː ɪz əˈfreɪd əv ðə dɑːrk/",
+        "meaning_phrase": "Anh ấy sợ bóng tối.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "excited",
+        "ipa_word": "/ɪkˈsaɪ.tɪd/",
+        "type": "Adj",
+        "meaning_word": "hào hứng",
+        "phrase": "The kids are excited about the trip.",
+        "ipa_phrase": "/ðə kɪdz ɑːr ɪkˈsaɪ.tɪd əˈbaʊt ðə trɪp/",
+        "meaning_phrase": "Bọn trẻ háo hức về chuyến đi.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "bored",
+        "ipa_word": "/bɔːrd/",
+        "type": "Adj",
+        "meaning_word": "chán",
+        "phrase": "She felt bored during the class.",
+        "ipa_phrase": "/ʃiː felt bɔːrd ˈdjʊərɪŋ ðə klæs/",
+        "meaning_phrase": "Cô ấy thấy chán trong giờ học.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "tired",
+        "ipa_word": "/ˈtaɪərd/",
+        "type": "Adj",
+        "meaning_word": "mệt mỏi",
+        "phrase": "I am very tired after work.",
+        "ipa_phrase": "/aɪ æm ˈver.i ˈtaɪərd ˈæftər wɜːrk/",
+        "meaning_phrase": "Tôi rất mệt sau khi làm việc.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "nervous",
+        "ipa_word": "/ˈnɜː.vəs/",
+        "type": "Adj",
+        "meaning_word": "lo lắng",
+        "phrase": "He was nervous before the exam.",
+        "ipa_phrase": "/hiː wəz ˈnɜː.vəs bɪˈfɔːr ði ɪɡˈzæm/",
+        "meaning_phrase": "Anh ấy lo lắng trước kỳ thi.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "confident",
+        "ipa_word": "/ˈkɒn.fɪ.dənt/",
+        "type": "Adj",
+        "meaning_word": "tự tin",
+        "phrase": "She is confident in her skills.",
+        "ipa_phrase": "/ʃiː ɪz ˈkɒn.fɪ.dənt ɪn hər skɪlz/",
+        "meaning_phrase": "Cô ấy tự tin vào kỹ năng của mình.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "shy",
+        "ipa_word": "/ʃaɪ/",
+        "type": "Adj",
+        "meaning_word": "rụt rè",
+        "phrase": "He is too shy to speak.",
+        "ipa_phrase": "/hiː ɪz tuː ʃaɪ tə spiːk/",
+        "meaning_phrase": "Anh ấy quá rụt rè để nói.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "kind",
+        "ipa_word": "/kaɪnd/",
+        "type": "Adj",
+        "meaning_word": "tốt bụng",
+        "phrase": "She is kind to everyone.",
+        "ipa_phrase": "/ʃiː ɪz kaɪnd tə ˈev.ri.wʌn/",
+        "meaning_phrase": "Cô ấy tốt bụng với mọi người.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "rude",
+        "ipa_word": "/ruːd/",
+        "type": "Adj",
+        "meaning_word": "thô lỗ",
+        "phrase": "It is rude to interrupt.",
+        "ipa_phrase": "/ɪt ɪz ruːd tə ˌɪntəˈrʌpt/",
+        "meaning_phrase": "Ngắt lời là thô lỗ.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "friendly",
+        "ipa_word": "/ˈfrend.li/",
+        "type": "Adj",
+        "meaning_word": "thân thiện",
+        "phrase": "The staff were very friendly.",
+        "ipa_phrase": "/ðə stæf wɜːr ˈver.i ˈfrend.li/",
+        "meaning_phrase": "Nhân viên rất thân thiện.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "polite",
+        "ipa_word": "/pəˈlaɪt/",
+        "type": "Adj",
+        "meaning_word": "lịch sự",
+        "phrase": "He is always polite to others.",
+        "ipa_phrase": "/hiː ɪz ˈɔːl.weɪz pəˈlaɪt tə ˈʌð.ərz/",
+        "meaning_phrase": "Anh ấy luôn lịch sự với người khác.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "clever",
+        "ipa_word": "/ˈklev.ər/",
+        "type": "Adj",
+        "meaning_word": "thông minh",
+        "phrase": "She is clever at solving puzzles.",
+        "ipa_phrase": "/ʃiː ɪz ˈklev.ər æt ˈsɒlvɪŋ ˈpʌz.əlz/",
+        "meaning_phrase": "Cô ấy thông minh trong việc giải câu đố.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "lazy",
+        "ipa_word": "/ˈleɪ.zi/",
+        "type": "Adj",
+        "meaning_word": "lười biếng",
+        "phrase": "He is too lazy to clean his room.",
+        "ipa_phrase": "/hiː ɪz tuː ˈleɪ.zi tə kliːn hɪz ruːm/",
+        "meaning_phrase": "Anh ấy quá lười để dọn phòng.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "honest",
+        "ipa_word": "/ˈɒn.ɪst/",
+        "type": "Adj",
+        "meaning_word": "trung thực",
+        "phrase": "She is honest about her mistakes.",
+        "ipa_phrase": "/ʃiː ɪz ˈɒn.ɪst əˈbaʊt hər mɪˈsteɪks/",
+        "meaning_phrase": "Cô ấy trung thực về lỗi của mình.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "brave",
+        "ipa_word": "/breɪv/",
+        "type": "Adj",
+        "meaning_word": "dũng cảm",
+        "phrase": "The firefighter was very brave.",
+        "ipa_phrase": "/ðə ˈfaɪəˌfaɪtər wəz ˈver.i breɪv/",
+        "meaning_phrase": "Người lính cứu hỏa rất dũng cảm.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "generous",
+        "ipa_word": "/ˈdʒen.ər.əs/",
+        "type": "Adj",
+        "meaning_word": "hào phóng",
+        "phrase": "He is generous with his money.",
+        "ipa_phrase": "/hiː ɪz ˈdʒen.ər.əs wɪð hɪz ˈmʌn.i/",
+        "meaning_phrase": "Anh ấy hào phóng với tiền bạc.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "selfish",
+        "ipa_word": "/ˈsel.fɪʃ/",
+        "type": "Adj",
+        "meaning_word": "ích kỷ",
+        "phrase": "It was selfish of him to leave early.",
+        "ipa_phrase": "/ɪt wəz ˈsel.fɪʃ əv hɪm tə liːv ˈɜː.li/",
+        "meaning_phrase": "Anh ta thật ích kỷ khi bỏ đi sớm.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "late",
+        "ipa_word": "/leɪt/",
+        "type": "Adj/Adv",
+        "meaning_word": "muộn, trễ",
+        "phrase": "He arrived late.",
+        "ipa_phrase": "/hiː əˈraɪvd leɪt/",
+        "meaning_phrase": "Anh ấy đến muộn.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "early",
+        "ipa_word": "/ˈɜː.li/",
+        "type": "Adj/Adv",
+        "meaning_word": "sớm",
+        "phrase": "She got up early.",
+        "ipa_phrase": "/ʃiː ɡɒt ʌp ˈɜː.li/",
+        "meaning_phrase": "Cô ấy dậy sớm.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "high",
+        "ipa_word": "/haɪ/",
+        "type": "Adj/Adv",
+        "meaning_word": "cao",
+        "phrase": "The plane flew high.",
+        "ipa_phrase": "/ðə pleɪn fluː haɪ/",
+        "meaning_phrase": "Chiếc máy bay bay cao.",
+        "context": "Không gian"
+    },
+    {
+        "word": "low",
+        "ipa_word": "/ləʊ/",
+        "type": "Adj/Adv",
+        "meaning_word": "thấp",
+        "phrase": "The sun is low.",
+        "ipa_phrase": "/ðə sʌn ɪz ləʊ/",
+        "meaning_phrase": "Mặt trời ở thấp.",
+        "context": "Không gian"
+    },
+    {
+        "word": "near",
+        "ipa_word": "/nɪə(r)/",
+        "type": "Adj/Adv",
+        "meaning_word": "gần",
+        "phrase": "Come near.",
+        "ipa_phrase": "/kʌm nɪə/",
+        "meaning_phrase": "Lại gần.",
+        "context": "Khoảng cách"
+    },
+    {
+        "word": "far",
+        "ipa_word": "/fɑːr/",
+        "type": "Adj/Adv",
+        "meaning_word": "xa",
+        "phrase": "He lives far away.",
+        "ipa_phrase": "/hiː lɪvz fɑːr əˈweɪ/",
+        "meaning_phrase": "Anh ấy sống rất xa.",
+        "context": "Khoảng cách"
+    },
+    {
+        "word": "long",
+        "ipa_word": "/lɒŋ/",
+        "type": "Adj/Adv",
+        "meaning_word": "dài, lâu",
+        "phrase": "It lasted long.",
+        "ipa_phrase": "/ɪt ˈlæstɪd lɒŋ/",
+        "meaning_phrase": "Nó kéo dài lâu.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "short",
+        "ipa_word": "/ʃɔːt/",
+        "type": "Adj/Adv",
+        "meaning_word": "ngắn, thiếu",
+        "phrase": "The meeting was short.",
+        "ipa_phrase": "/ðə ˈmiː.tɪŋ wəz ʃɔːt/",
+        "meaning_phrase": "Cuộc họp ngắn.",
+        "context": "Thời lượng"
+    },
+    {
+        "word": "right",
+        "ipa_word": "/raɪt/",
+        "type": "Adj/Adv",
+        "meaning_word": "đúng, ngay",
+        "phrase": "You guessed right.",
+        "ipa_phrase": "/juː ɡɛst raɪt/",
+        "meaning_phrase": "Bạn đoán đúng rồi.",
+        "context": "Xác nhận"
+    },
+    {
+        "word": "wrong",
+        "ipa_word": "/rɒŋ/",
+        "type": "Adj/Adv",
+        "meaning_word": "sai",
+        "phrase": "You are wrong.",
+        "ipa_phrase": "/juː ɑː rɒŋ/",
+        "meaning_phrase": "Bạn sai rồi.",
+        "context": "Xác nhận"
+    },
+    {
+        "word": "inside",
+        "ipa_word": "/ˌɪnˈsaɪd/",
+        "type": "Adj/Adv",
+        "meaning_word": "bên trong",
+        "phrase": "Stay inside.",
+        "ipa_phrase": "/steɪ ɪnˈsaɪd/",
+        "meaning_phrase": "Ở trong nhà.",
+        "context": "Vị trí"
+    },
+    {
+        "word": "outside",
+        "ipa_word": "/ˌaʊtˈsaɪd/",
+        "type": "Adj/Adv",
+        "meaning_word": "bên ngoài",
+        "phrase": "Go outside.",
+        "ipa_phrase": "/ɡəʊ ˌaʊtˈsaɪd/",
+        "meaning_phrase": "Ra ngoài đi.",
+        "context": "Vị trí"
+    },
+    {
+        "word": "back",
+        "ipa_word": "/bæk/",
+        "type": "Adj/Adv",
+        "meaning_word": "trở lại, phía sau",
+        "phrase": "Come back soon.",
+        "ipa_phrase": "/kʌm bæk suːn/",
+        "meaning_phrase": "Quay lại sớm nhé.",
+        "context": "Hành động"
+    },
+    {
+        "word": "forward",
+        "ipa_word": "/ˈfɔː.wəd/",
+        "type": "Adj/Adv",
+        "meaning_word": "phía trước",
+        "phrase": "Step forward.",
+        "ipa_phrase": "/stɛp ˈfɔː.wəd/",
+        "meaning_phrase": "Bước lên phía trước.",
+        "context": "Hành động"
+    },
+    {
+        "word": "together",
+        "ipa_word": "/təˈɡɛð.ər/",
+        "type": "Adv",
+        "meaning_word": "cùng nhau",
+        "phrase": "They work together.",
+        "ipa_phrase": "/ðeɪ wɜːk təˈɡɛð.ər/",
+        "meaning_phrase": "Họ làm việc cùng nhau.",
+        "context": "Hợp tác"
+    },
+    {
+        "word": "alone",
+        "ipa_word": "/əˈləʊn/",
+        "type": "Adj/Adv",
+        "meaning_word": "một mình",
+        "phrase": "He lives alone.",
+        "ipa_phrase": "/hiː lɪvz əˈləʊn/",
+        "meaning_phrase": "Anh ấy sống một mình.",
+        "context": "Cá nhân"
+    },
+    {
+        "word": "almost",
+        "ipa_word": "/ˈɔːl.moʊst/",
+        "type": "Adv",
+        "meaning_word": "gần như",
+        "phrase": "She almost fell.",
+        "ipa_phrase": "/ʃiː ˈɔːl.moʊst fɛl/",
+        "meaning_phrase": "Cô ấy suýt ngã.",
+        "context": "Tình huống"
+    },
+    {
+        "word": "already",
+        "ipa_word": "/ɔːlˈrɛd.i/",
+        "type": "Adv",
+        "meaning_word": "đã rồi",
+        "phrase": "I have already eaten.",
+        "ipa_phrase": "/aɪ hæv ɔːlˈrɛd.i ˈiːtən/",
+        "meaning_phrase": "Tôi đã ăn rồi.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "still",
+        "ipa_word": "/stɪl/",
+        "type": "Adv",
+        "meaning_word": "vẫn còn",
+        "phrase": "He still lives here.",
+        "ipa_phrase": "/hiː stɪl lɪvz hɪə/",
+        "meaning_phrase": "Anh ấy vẫn sống ở đây.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "yet",
+        "ipa_word": "/jet/",
+        "type": "Adv",
+        "meaning_word": "chưa, đã",
+        "phrase": "Have you eaten yet?",
+        "ipa_phrase": "/hæv juː ˈiːtən jet/",
+        "meaning_phrase": "Bạn ăn chưa?",
+        "context": "Câu hỏi"
+    },
+    {
+        "word": "remarkable",
+        "ipa_word": "/rɪˈmɑːrkəbl/",
+        "type": "Adj",
+        "meaning_word": "đáng chú ý, đặc biệt",
+        "phrase": "She made remarkable progress.",
+        "ipa_phrase": "/ʃiː meɪd rɪˈmɑːrkəbl ˈprɑːɡrɛs/",
+        "meaning_phrase": "Cô ấy đã tiến bộ đáng kể.",
+        "context": "Khen ngợi"
+    },
+    {
+        "word": "reliable",
+        "ipa_word": "/rɪˈlaɪəbl/",
+        "type": "Adj",
+        "meaning_word": "đáng tin cậy",
+        "phrase": "He is a reliable friend.",
+        "ipa_phrase": "/hiː ɪz ə rɪˈlaɪəbl frɛnd/",
+        "meaning_phrase": "Anh ấy là một người bạn đáng tin cậy.",
+        "context": "Mối quan hệ"
+    },
+    {
+        "word": "rough",
+        "ipa_word": "/rʌf/",
+        "type": "Adj",
+        "meaning_word": "gồ ghề, khó khăn",
+        "phrase": "The road is rough.",
+        "ipa_phrase": "/ðə roʊd ɪz rʌf/",
+        "meaning_phrase": "Con đường gồ ghề.",
+        "context": "Mô tả bề mặt"
+    },
+    {
+        "word": "round",
+        "ipa_word": "/raʊnd/",
+        "type": "Adj/Adv",
+        "meaning_word": "tròn, vòng quanh",
+        "phrase": "They sat around the table.",
+        "ipa_phrase": "/ðeɪ sæt əˈraʊnd ðə ˈteɪbl/",
+        "meaning_phrase": "Họ ngồi xung quanh cái bàn.",
+        "context": "Vị trí"
+    },
+    {
+        "word": "sad",
+        "ipa_word": "/sæd/",
+        "type": "Adj",
+        "meaning_word": "buồn",
+        "phrase": "She looks sad today.",
+        "ipa_phrase": "/ʃiː lʊks sæd təˈdeɪ/",
+        "meaning_phrase": "Hôm nay cô ấy trông buồn.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "safe",
+        "ipa_word": "/seɪf/",
+        "type": "Adj",
+        "meaning_word": "an toàn",
+        "phrase": "The children are safe here.",
+        "ipa_phrase": "/ðə ˈʧɪldrən ɑːr seɪf hɪr/",
+        "meaning_phrase": "Bọn trẻ an toàn ở đây.",
+        "context": "Trạng thái"
+    },
+    {
+        "word": "serious",
+        "ipa_word": "/ˈsɪriəs/",
+        "type": "Adj",
+        "meaning_word": "nghiêm túc, nghiêm trọng",
+        "phrase": "He has a serious problem.",
+        "ipa_phrase": "/hiː hæz ə ˈsɪriəs ˈprɑːbləm/",
+        "meaning_phrase": "Anh ấy có một vấn đề nghiêm trọng.",
+        "context": "Tình huống"
+    },
+    {
+        "word": "sharp",
+        "ipa_word": "/ʃɑːrp/",
+        "type": "Adj",
+        "meaning_word": "sắc bén, nhọn",
+        "phrase": "The knife is very sharp.",
+        "ipa_phrase": "/ðə naɪf ɪz ˈvɛri ʃɑːrp/",
+        "meaning_phrase": "Con dao rất sắc.",
+        "context": "Vật dụng"
+    },
+    {
+        "word": "short",
+        "ipa_word": "/ʃɔːrt/",
+        "type": "Adj",
+        "meaning_word": "ngắn, thấp",
+        "phrase": "He is shorter than me.",
+        "ipa_phrase": "/hiː ɪz ˈʃɔːrtər ðæn miː/",
+        "meaning_phrase": "Anh ấy thấp hơn tôi.",
+        "context": "So sánh chiều cao"
+    },
+    {
+        "word": "silly",
+        "ipa_word": "/ˈsɪli/",
+        "type": "Adj",
+        "meaning_word": "ngốc nghếch",
+        "phrase": "That was a silly mistake.",
+        "ipa_phrase": "/ðæt wəz ə ˈsɪli mɪˈsteɪk/",
+        "meaning_phrase": "Đó là một sai lầm ngốc nghếch.",
+        "context": "Chỉ trích nhẹ"
+    },
+    {
+        "word": "similar",
+        "ipa_word": "/ˈsɪmələr/",
+        "type": "Adj",
+        "meaning_word": "tương tự",
+        "phrase": "Their ideas are similar.",
+        "ipa_phrase": "/ðer aɪˈdiəz ɑːr ˈsɪmələr/",
+        "meaning_phrase": "Ý tưởng của họ tương tự nhau.",
+        "context": "So sánh"
+    },
+    {
+        "word": "simple",
+        "ipa_word": "/ˈsɪmpl/",
+        "type": "Adj",
+        "meaning_word": "đơn giản",
+        "phrase": "It’s a simple question.",
+        "ipa_phrase": "/ɪts ə ˈsɪmpl ˈkwɛsʧən/",
+        "meaning_phrase": "Đó là một câu hỏi đơn giản.",
+        "context": "Giải thích"
+    },
+    {
+        "word": "smart",
+        "ipa_word": "/smɑːrt/",
+        "type": "Adj",
+        "meaning_word": "thông minh, gọn gàng",
+        "phrase": "She looks smart in that dress.",
+        "ipa_phrase": "/ʃiː lʊks smɑːrt ɪn ðæt drɛs/",
+        "meaning_phrase": "Cô ấy trông gọn gàng trong chiếc váy đó.",
+        "context": "Ngoại hình"
+    },
+    {
+        "word": "soft",
+        "ipa_word": "/sɔːft/",
+        "type": "Adj",
+        "meaning_word": "mềm",
+        "phrase": "The bed is very soft.",
+        "ipa_phrase": "/ðə bɛd ɪz ˈvɛri sɔːft/",
+        "meaning_phrase": "Chiếc giường rất mềm.",
+        "context": "Mô tả vật"
+    },
+    {
+        "word": "sorry",
+        "ipa_word": "/ˈsɑːri/",
+        "type": "Adj",
+        "meaning_word": "xin lỗi, tiếc",
+        "phrase": "I’m sorry for being late.",
+        "ipa_phrase": "/aɪm ˈsɑːri fər ˈbiːɪŋ leɪt/",
+        "meaning_phrase": "Tôi xin lỗi vì đến muộn.",
+        "context": "Xin lỗi"
+    },
+    {
+        "word": "special",
+        "ipa_word": "/ˈspɛʃl/",
+        "type": "Adj",
+        "meaning_word": "đặc biệt",
+        "phrase": "Today is a special day.",
+        "ipa_phrase": "/təˈdeɪ ɪz ə ˈspɛʃl deɪ/",
+        "meaning_phrase": "Hôm nay là một ngày đặc biệt.",
+        "context": "Ngày kỷ niệm"
+    },
+    {
+        "word": "strange",
+        "ipa_word": "/streɪndʒ/",
+        "type": "Adj",
+        "meaning_word": "lạ lùng",
+        "phrase": "That sounds strange.",
+        "ipa_phrase": "/ðæt saʊndz streɪndʒ/",
+        "meaning_phrase": "Điều đó nghe thật lạ.",
+        "context": "Phản ứng"
+    },
+    {
+        "word": "strong",
+        "ipa_word": "/strɔːŋ/",
+        "type": "Adj",
+        "meaning_word": "mạnh mẽ",
+        "phrase": "He is very strong.",
+        "ipa_phrase": "/hiː ɪz ˈvɛri strɔːŋ/",
+        "meaning_phrase": "Anh ấy rất khỏe.",
+        "context": "Thể chất"
+    },
+    {
+        "word": "successful",
+        "ipa_word": "/səkˈsɛsfl/",
+        "type": "Adj",
+        "meaning_word": "thành công",
+        "phrase": "She is a successful writer.",
+        "ipa_phrase": "/ʃiː ɪz ə səkˈsɛsfl ˈraɪtər/",
+        "meaning_phrase": "Cô ấy là một nhà văn thành công.",
+        "context": "Nghề nghiệp"
+    },
+    {
+        "word": "sudden",
+        "ipa_word": "/ˈsʌdn/",
+        "type": "Adj",
+        "meaning_word": "đột ngột",
+        "phrase": "There was a sudden noise.",
+        "ipa_phrase": "/ðer wəz ə ˈsʌdn nɔɪz/",
+        "meaning_phrase": "Có một tiếng động đột ngột.",
+        "context": "Mô tả tình huống"
+    },
+    {
+        "word": "suitable",
+        "ipa_word": "/ˈsuːtəbl/",
+        "type": "Adj",
+        "meaning_word": "phù hợp",
+        "phrase": "This dress is suitable for the party.",
+        "ipa_phrase": "/ðɪs drɛs ɪz ˈsuːtəbl fər ðə ˈpɑːrti/",
+        "meaning_phrase": "Chiếc váy này phù hợp cho bữa tiệc.",
+        "context": "Lựa chọn"
+    },
+    {
+        "word": "sure",
+        "ipa_word": "/ʃʊr/",
+        "type": "Adj",
+        "meaning_word": "chắc chắn",
+        "phrase": "I am sure about my decision.",
+        "ipa_phrase": "/aɪ æm ʃʊr əˈbaʊt maɪ dɪˈsɪʒən/",
+        "meaning_phrase": "Tôi chắc chắn về quyết định của mình.",
+        "context": "Khẳng định"
+    },
+    {
+        "word": "surprising",
+        "ipa_word": "/sərˈpraɪzɪŋ/",
+        "type": "Adj",
+        "meaning_word": "đáng ngạc nhiên",
+        "phrase": "It was a surprising result.",
+        "ipa_phrase": "/ɪt wəz ə sərˈpraɪzɪŋ rɪˈzʌlt/",
+        "meaning_phrase": "Đó là một kết quả đáng ngạc nhiên.",
+        "context": "Phản ứng"
+    },
+    {
+        "word": "sweet",
+        "ipa_word": "/swiːt/",
+        "type": "Adj",
+        "meaning_word": "ngọt, dễ thương",
+        "phrase": "She gave me a sweet smile.",
+        "ipa_phrase": "/ʃiː ɡeɪv miː ə swiːt smaɪl/",
+        "meaning_phrase": "Cô ấy dành cho tôi một nụ cười dễ thương.",
+        "context": "Tình cảm"
+    },
+    {
+        "word": "tall",
+        "ipa_word": "/tɔːl/",
+        "type": "Adj",
+        "meaning_word": "cao",
+        "phrase": "He is very tall.",
+        "ipa_phrase": "/hiː ɪz ˈvɛri tɔːl/",
+        "meaning_phrase": "Anh ấy rất cao.",
+        "context": "Chiều cao"
+    },
+    {
+        "word": "terrible",
+        "ipa_word": "/ˈtɛrəbl/",
+        "type": "Adj",
+        "meaning_word": "kinh khủng",
+        "phrase": "That movie was terrible.",
+        "ipa_phrase": "/ðæt ˈmuːvi wəz ˈtɛrəbl/",
+        "meaning_phrase": "Bộ phim đó thật kinh khủng.",
+        "context": "Đánh giá tiêu cực"
+    },
+    {
+        "word": "thick",
+        "ipa_word": "/θɪk/",
+        "type": "Adj",
+        "meaning_word": "dày",
+        "phrase": "The book is very thick.",
+        "ipa_phrase": "/ðə bʊk ɪz ˈvɛri θɪk/",
+        "meaning_phrase": "Cuốn sách rất dày.",
+        "context": "Mô tả vật"
+    },
+    {
+        "word": "thin",
+        "ipa_word": "/θɪn/",
+        "type": "Adj",
+        "meaning_word": "mỏng, gầy",
+        "phrase": "She is thin but healthy.",
+        "ipa_phrase": "/ʃiː ɪz θɪn bət ˈhɛlθi/",
+        "meaning_phrase": "Cô ấy gầy nhưng khỏe mạnh.",
+        "context": "Ngoại hình"
+    },
+    {
+        "word": "tired",
+        "ipa_word": "/ˈtaɪərd/",
+        "type": "Adj",
+        "meaning_word": "mệt mỏi",
+        "phrase": "He feels tired after work.",
+        "ipa_phrase": "/hiː fiːlz ˈtaɪərd ˈæftər wɜːrk/",
+        "meaning_phrase": "Anh ấy cảm thấy mệt sau khi làm việc.",
+        "context": "Thể trạng"
+    },
+    {
+        "word": "tiny",
+        "ipa_word": "/ˈtaɪni/",
+        "type": "Adj",
+        "meaning_word": "rất nhỏ",
+        "phrase": "The baby has tiny hands.",
+        "ipa_phrase": "/ðə ˈbeɪbi hæz ˈtaɪni hændz/",
+        "meaning_phrase": "Em bé có đôi tay rất nhỏ.",
+        "context": "Mô tả kích thước"
+    },
+    {
+        "word": "typical",
+        "ipa_word": "/ˈtɪpɪkl/",
+        "type": "Adj",
+        "meaning_word": "điển hình",
+        "phrase": "It’s a typical example.",
+        "ipa_phrase": "/ɪts ə ˈtɪpɪkl ɪɡˈzæmpl/",
+        "meaning_phrase": "Đó là một ví dụ điển hình.",
+        "context": "Giải thích"
+    },
+    {
+        "word": "unhappy",
+        "ipa_word": "/ʌnˈhæpi/",
+        "type": "Adj",
+        "meaning_word": "không vui",
+        "phrase": "She looks unhappy today.",
+        "ipa_phrase": "/ʃiː lʊks ʌnˈhæpi təˈdeɪ/",
+        "meaning_phrase": "Hôm nay cô ấy trông không vui.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "unusual",
+        "ipa_word": "/ʌnˈjuːʒuəl/",
+        "type": "Adj",
+        "meaning_word": "bất thường",
+        "phrase": "That’s an unusual color.",
+        "ipa_phrase": "/ðæts ən ʌnˈjuːʒuəl ˈkʌlər/",
+        "meaning_phrase": "Đó là một màu sắc bất thường.",
+        "context": "Mô tả sự vật"
+    },
+    {
+        "word": "useful",
+        "ipa_word": "/ˈjuːsfl/",
+        "type": "Adj",
+        "meaning_word": "hữu ích",
+        "phrase": "This book is very useful.",
+        "ipa_phrase": "/ðɪs bʊk ɪz ˈvɛri ˈjuːsfl/",
+        "meaning_phrase": "Cuốn sách này rất hữu ích.",
+        "context": "Đánh giá tích cực"
+    },
+    {
+        "word": "useless",
+        "ipa_word": "/ˈjuːsləs/",
+        "type": "Adj",
+        "meaning_word": "vô dụng",
+        "phrase": "This tool is useless.",
+        "ipa_phrase": "/ðɪs tuːl ɪz ˈjuːsləs/",
+        "meaning_phrase": "Công cụ này vô dụng.",
+        "context": "Đánh giá tiêu cực"
+    },
+    {
+        "word": "warm",
+        "ipa_word": "/wɔːrm/",
+        "type": "Adj",
+        "meaning_word": "ấm áp",
+        "phrase": "The water is warm.",
+        "ipa_phrase": "/ðə ˈwɔːtər ɪz wɔːrm/",
+        "meaning_phrase": "Nước ấm.",
+        "context": "Nhiệt độ"
+    },
+    {
+        "word": "weak",
+        "ipa_word": "/wiːk/",
+        "type": "Adj",
+        "meaning_word": "yếu",
+        "phrase": "He is too weak to stand.",
+        "ipa_phrase": "/hiː ɪz tuː wiːk tə stænd/",
+        "meaning_phrase": "Anh ấy quá yếu để đứng.",
+        "context": "Thể trạng"
+    },
+    {
+        "word": "wet",
+        "ipa_word": "/wɛt/",
+        "type": "Adj",
+        "meaning_word": "ướt",
+        "phrase": "Her clothes are wet.",
+        "ipa_phrase": "/hɜːr kloʊðz ɑːr wɛt/",
+        "meaning_phrase": "Quần áo của cô ấy bị ướt.",
+        "context": "Thời tiết / Tình huống"
+    },
+    {
+        "word": "wide",
+        "ipa_word": "/waɪd/",
+        "type": "Adj",
+        "meaning_word": "rộng",
+        "phrase": "The river is very wide.",
+        "ipa_phrase": "/ðə ˈrɪvər ɪz ˈvɛri waɪd/",
+        "meaning_phrase": "Con sông rất rộng.",
+        "context": "Mô tả địa lý"
+    },
+    {
+        "word": "wonderful",
+        "ipa_word": "/ˈwʌndərfl/",
+        "type": "Adj",
+        "meaning_word": "tuyệt vời",
+        "phrase": "That was a wonderful trip.",
+        "ipa_phrase": "/ðæt wəz ə ˈwʌndərfl trɪp/",
+        "meaning_phrase": "Đó là một chuyến đi tuyệt vời.",
+        "context": "Trải nghiệm"
+    },
+    {
+        "word": "worried",
+        "ipa_word": "/ˈwɜːrid/",
+        "type": "Adj",
+        "meaning_word": "lo lắng",
+        "phrase": "She looks worried about the exam.",
+        "ipa_phrase": "/ʃiː lʊks ˈwɜːrid əˈbaʊt ði ɪɡˈzæm/",
+        "meaning_phrase": "Cô ấy trông lo lắng về kỳ thi.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "wrong",
+        "ipa_word": "/rɔːŋ/",
+        "type": "Adj",
+        "meaning_word": "sai",
+        "phrase": "Your answer is wrong.",
+        "ipa_phrase": "/jʊr ˈænsər ɪz rɔːŋ/",
+        "meaning_phrase": "Câu trả lời của bạn sai.",
+        "context": "Đánh giá"
+    },
+    {
+        "word": "yet",
+        "ipa_word": "/jɛt/",
+        "type": "Adv",
+        "meaning_word": "chưa, vẫn",
+        "phrase": "He hasn’t finished yet.",
+        "ipa_phrase": "/hiː ˈhæznt ˈfɪnɪʃt jɛt/",
+        "meaning_phrase": "Anh ấy vẫn chưa hoàn thành.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "yesterday",
+        "ipa_word": "/ˈjɛstərdeɪ/",
+        "type": "Adv",
+        "meaning_word": "hôm qua",
+        "phrase": "I saw him yesterday.",
+        "ipa_phrase": "/aɪ sɔː hɪm ˈjɛstərdeɪ/",
+        "meaning_phrase": "Tôi gặp anh ấy hôm qua.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "young",
+        "ipa_word": "/jʌŋ/",
+        "type": "Adj",
+        "meaning_word": "trẻ",
+        "phrase": "She is very young.",
+        "ipa_phrase": "/ʃiː ɪz ˈvɛri jʌŋ/",
+        "meaning_phrase": "Cô ấy rất trẻ.",
+        "context": "Tuổi tác"
+    },
+    {
+        "word": "absolutely",
+        "ipa_word": "/ˈæbsəluːtli/",
+        "type": "Adv",
+        "meaning_word": "tuyệt đối, hoàn toàn",
+        "phrase": "I absolutely agree with you.",
+        "ipa_phrase": "/aɪ ˈæbsəluːtli əˈɡriː wɪð juː/",
+        "meaning_phrase": "Tôi hoàn toàn đồng ý với bạn.",
+        "context": "Khẳng định mạnh"
+    },
+    {
+        "word": "actually",
+        "ipa_word": "/ˈæktʃuəli/",
+        "type": "Adv",
+        "meaning_word": "thực ra",
+        "phrase": "Actually, I don’t like coffee.",
+        "ipa_phrase": "/ˈæktʃuəli, aɪ doʊnt laɪk ˈkɔːfi/",
+        "meaning_phrase": "Thực ra, tôi không thích cà phê.",
+        "context": "Giải thích"
+    },
+    {
+        "word": "almost",
+        "ipa_word": "/ˈɔːlmoʊst/",
+        "type": "Adv",
+        "meaning_word": "gần như",
+        "phrase": "She almost missed the bus.",
+        "ipa_phrase": "/ʃiː ˈɔːlmoʊst mɪst ðə bʌs/",
+        "meaning_phrase": "Cô ấy suýt lỡ chuyến xe buýt.",
+        "context": "Tình huống"
+    },
+    {
+        "word": "already",
+        "ipa_word": "/ɔːlˈrɛdi/",
+        "type": "Adv",
+        "meaning_word": "đã, rồi",
+        "phrase": "I have already eaten.",
+        "ipa_phrase": "/aɪ hæv ɔːlˈrɛdi ˈiːtn/",
+        "meaning_phrase": "Tôi đã ăn rồi.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "always",
+        "ipa_word": "/ˈɔːlweɪz/",
+        "type": "Adv",
+        "meaning_word": "luôn luôn",
+        "phrase": "She always wakes up early.",
+        "ipa_phrase": "/ʃiː ˈɔːlweɪz weɪks ʌp ˈɜːrli/",
+        "meaning_phrase": "Cô ấy luôn dậy sớm.",
+        "context": "Thói quen"
+    },
+    {
+        "word": "anyway",
+        "ipa_word": "/ˈɛniweɪ/",
+        "type": "Adv",
+        "meaning_word": "dù sao",
+        "phrase": "Anyway, let’s continue.",
+        "ipa_phrase": "/ˈɛniweɪ, lɛts kənˈtɪnjuː/",
+        "meaning_phrase": "Dù sao, hãy tiếp tục.",
+        "context": "Chuyển ý"
+    },
+    {
+        "word": "around",
+        "ipa_word": "/əˈraʊnd/",
+        "type": "Adv",
+        "meaning_word": "xung quanh",
+        "phrase": "He looked around.",
+        "ipa_phrase": "/hiː lʊkt əˈraʊnd/",
+        "meaning_phrase": "Anh ấy nhìn xung quanh.",
+        "context": "Không gian"
+    },
+    {
+        "word": "as well",
+        "ipa_word": "/æz wɛl/",
+        "type": "Adv",
+        "meaning_word": "cũng",
+        "phrase": "She speaks French as well.",
+        "ipa_phrase": "/ʃiː spiːks frɛnʧ æz wɛl/",
+        "meaning_phrase": "Cô ấy cũng nói tiếng Pháp.",
+        "context": "Bổ sung"
+    },
+    {
+        "word": "badly",
+        "ipa_word": "/ˈbædli/",
+        "type": "Adv",
+        "meaning_word": "tệ, kém",
+        "phrase": "He sings badly.",
+        "ipa_phrase": "/hiː sɪŋz ˈbædli/",
+        "meaning_phrase": "Anh ấy hát rất tệ.",
+        "context": "Đánh giá"
+    },
+    {
+        "word": "carefully",
+        "ipa_word": "/ˈkɛrfəli/",
+        "type": "Adv",
+        "meaning_word": "cẩn thận",
+        "phrase": "Drive carefully.",
+        "ipa_phrase": "/draɪv ˈkɛrfəli/",
+        "meaning_phrase": "Lái xe cẩn thận.",
+        "context": "Cảnh báo"
+    },
+    {
+        "word": "certainly",
+        "ipa_word": "/ˈsɜːrtnli/",
+        "type": "Adv",
+        "meaning_word": "chắc chắn",
+        "phrase": "I will certainly help you.",
+        "ipa_phrase": "/aɪ wɪl ˈsɜːrtnli hɛlp juː/",
+        "meaning_phrase": "Tôi chắc chắn sẽ giúp bạn.",
+        "context": "Khẳng định"
+    },
+    {
+        "word": "clearly",
+        "ipa_word": "/ˈklɪrli/",
+        "type": "Adv",
+        "meaning_word": "rõ ràng",
+        "phrase": "She spoke clearly.",
+        "ipa_phrase": "/ʃiː spoʊk ˈklɪrli/",
+        "meaning_phrase": "Cô ấy nói rõ ràng.",
+        "context": "Cách nói"
+    },
+    {
+        "word": "completely",
+        "ipa_word": "/kəmˈpliːtli/",
+        "type": "Adv",
+        "meaning_word": "hoàn toàn",
+        "phrase": "The room is completely dark.",
+        "ipa_phrase": "/ðə ruːm ɪz kəmˈpliːtli dɑːrk/",
+        "meaning_phrase": "Căn phòng hoàn toàn tối.",
+        "context": "Mô tả"
+    },
+    {
+        "word": "definitely",
+        "ipa_word": "/ˈdɛfɪnətli/",
+        "type": "Adv",
+        "meaning_word": "chắc chắn, dứt khoát",
+        "phrase": "I definitely need more time.",
+        "ipa_phrase": "/aɪ ˈdɛfɪnətli niːd mɔːr taɪm/",
+        "meaning_phrase": "Tôi chắc chắn cần thêm thời gian.",
+        "context": "Khẳng định mạnh"
+    },
+    {
+        "word": "early",
+        "ipa_word": "/ˈɜːrli/",
+        "type": "Adv",
+        "meaning_word": "sớm",
+        "phrase": "She arrived early.",
+        "ipa_phrase": "/ʃiː əˈraɪvd ˈɜːrli/",
+        "meaning_phrase": "Cô ấy đến sớm.",
+        "context": "Thời gian"
+    }
+]

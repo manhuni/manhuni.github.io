@@ -1,0 +1,92 @@
+[
+  {
+    "phrase": "Did you test the latest build?",
+    "ipa": "/dɪd ju tɛst ðə ˈleɪtɪst bɪld/",
+    "meaning": "Bạn đã test bản build mới nhất chưa?",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "Let’s fix this bug first.",
+    "ipa": "/lets fɪks ðɪs bʌɡ fɜːrst/",
+    "meaning": "Hãy sửa bug này trước.",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "Is the gameplay smooth enough?",
+    "ipa": "/ɪz ðə ˈɡeɪmˌpleɪ smuːð ɪˈnʌf/",
+    "meaning": "Gameplay đã mượt chưa?",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "We need to optimize the assets.",
+    "ipa": "/wi niːd tə ˈɒptɪmaɪz ði ˈæsɛts/",
+    "meaning": "Phải tối ưu assets.",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "Did the level design change?",
+    "ipa": "/dɪd ðə ˈlɛvəl dɪˈzaɪn ʧeɪnʤ/",
+    "meaning": "Level design có thay đổi không?",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "Let’s add more animations.",
+    "ipa": "/lets æd mɔːr ˌænɪˈmeɪʃənz/",
+    "meaning": "Hãy thêm animation nữa.",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "What’s the frame rate now?",
+    "ipa": "/wɒts ðə freɪm reɪt naʊ/",
+    "meaning": "Frame rate giờ bao nhiêu?",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "Can you tweak the UI layout?",
+    "ipa": "/kæn ju twiːk ðə ju aɪ ˈleɪaʊt/",
+    "meaning": "Bạn chỉnh UI layout được không?",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "Let’s test on real devices.",
+    "ipa": "/lets tɛst ɒn riːl dɪˈvaɪsɪz/",
+    "meaning": "Hãy test trên thiết bị thật.",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "Is the multiplayer stable?",
+    "ipa": "/ɪz ðə ˈmʌltiˌpleɪər ˈsteɪbl/",
+    "meaning": "Multiplayer đã ổn chưa?",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "We should polish the visuals.",
+    "ipa": "/wi ʃʊd ˈpɒlɪʃ ðə ˈvɪʒuəlz/",
+    "meaning": "Cần trau chuốt visuals.",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "Let’s push an update next week.",
+    "ipa": "/lets pʊʃ ən ˈʌpdeɪt nɛkst wiːk/",
+    "meaning": "Tuần sau push bản update nhé.",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "Did you check for memory leaks?",
+    "ipa": "/dɪd ju ʧɛk fər ˈmɛməri liks/",
+    "meaning": "Bạn đã check memory leak chưa?",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "We should add more levels.",
+    "ipa": "/wi ʃʊd æd mɔːr ˈlɛvəlz/",
+    "meaning": "Ta nên thêm level nữa.",
+    "context": "Game Dev"
+  },
+  {
+    "phrase": "When is the release date?",
+    "ipa": "/wɛn ɪz ðə rɪˈlis deɪt/",
+    "meaning": "Bao giờ phát hành?",
+    "context": "Game Dev"
+  }
+]

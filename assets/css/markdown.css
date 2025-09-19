@@ -1,0 +1,264 @@
+/* ------------------------------------------------------------------
+   markdown.full.css
+   Full, detailed Markdown stylesheet (GitHub-like) with Light + Dark
+   - Use by adding: <link rel="stylesheet" href="/assets/css/markdown.full.css">
+   - Wrap rendered HTML in an element with class `markdown-body`:
+       <article class="markdown-body">...generated HTML...</article>
+   - Features: headings anchors, responsive images, code blocks, tables,
+     footnotes, task lists, admonitions, details/summary, print rules.
+   ------------------------------------------------------------------ */
+
+:root{
+  --md-font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --md-mono-font: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', monospace;
+  --md-base-size: 16px;              /* base font size */
+  --md-line-height: 1.65;
+
+  /* Light theme colors */
+  --md-bg: #ffffff;
+  --md-surface: #ffffff;
+  --md-text: #0f172a;                /* slate-900 */
+  --md-muted: #6b7280;               /* gray-500 */
+  --md-border: #e6edf3;              /* soft border */
+  --md-link: #0366d6;                /* blue */
+  --md-link-hover: #054fb8;
+  --md-accent: #22c1ee;
+
+  /* Code block / inline code */
+  --md-code-bg: #0b1220;             /* dark block background for contrast */
+  --md-code-color: #e6eef8;          /* light code text inside blocks */
+  --md-inline-code-bg: #f6f8fa;      /* inline code chips in light theme */
+  --md-inline-code-color: #0f172a;
+  --md-pre-radius: 10px;
+
+  /* Table */
+  --md-table-head-bg: #f6f8fa;
+  --md-table-border: #e6edf3;
+
+  /* Admonitions */
+  --md-note-bg: #f1f8ff;             /* gentle tints for callouts */
+  --md-note-border: #dbeafe;
+  --md-warning-bg: #fff7ed;
+  --md-warning-border: #ffedd5;
+
+  /* image caption */
+  --md-figcaption-color: #6b7280;
+}
+
+/* Dark theme (override) */
+@media (prefers-color-scheme: dark) {
+  :root{
+    --md-bg: #0b1220;                /* very dark navy */
+    --md-surface: #0f172a;
+    --md-text: #e6eef8;
+    --md-muted: #9ca3af;
+    --md-border: #111827;
+    --md-link: #7dd3fc;
+    --md-link-hover: #38bdf8;
+    --md-accent: #06b6d4;
+
+    --md-code-bg: #071025;
+    --md-code-color: #e6eef8;
+    --md-inline-code-bg: #0b1220;
+    --md-inline-code-color: #e6eef8;
+
+    --md-table-head-bg: rgba(255,255,255,0.04);
+    --md-table-border: rgba(255,255,255,0.06);
+
+    --md-note-bg: rgba(125,211,252,0.06);
+    --md-note-border: rgba(125,211,252,0.12);
+    --md-warning-bg: rgba(250,204,21,0.04);
+    --md-warning-border: rgba(250,204,21,0.08);
+
+    --md-figcaption-color: #9ca3af;
+  }
+}
+
+/* Container --------------------------------------------------------- */
+.markdown-body{ 
+  box-sizing: border-box;
+  font-family: var(--md-font-family);
+  font-size: var(--md-base-size);
+  line-height: var(--md-line-height);
+  color: var(--md-text);
+  background: transparent; /* page background controlled by layout */
+  width: 100%;
+  max-width:100%;
+  margin: 0 auto;
+  padding: 18px 20px;
+  word-wrap: break-word;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Headings ---------------------------------------------------------- */
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6{
+  margin: 1.25em 0 0.6em;
+  line-height: 1.25;
+  font-weight: 700;
+  color: var(--md-text);
+  scroll-margin-top: 1.2rem;
+  position: relative;
+}
+.markdown-body h1{ font-size: 2.125rem; letter-spacing: -0.02em; }
+.markdown-body h2{ font-size: 1.625rem; }
+.markdown-body h3{ font-size: 1.3125rem; }
+.markdown-body h4{ font-size: 1.125rem; }
+.markdown-body h5{ font-size: 1rem; }
+.markdown-body h6{ font-size: 0.95rem; color: var(--md-muted); font-weight:600; }
+
+/* Anchor links for headings (show on hover) */
+.markdown-body .anchor{
+  position: absolute;
+  left: calc(-1 * (20px)); /* positions outside padding */
+  transform: translateX(-6px);
+  width: 20px; height: 100%; display:flex; align-items:center; justify-content:center;
+  opacity: 0; transition: opacity .15s ease;
+  color: var(--md-muted); text-decoration: none; font-size: 0.9em;
+}
+.markdown-body h1:hover .anchor,
+.markdown-body h2:hover .anchor,
+.markdown-body h3:hover .anchor,
+.markdown-body h4:hover .anchor,
+.markdown-body h5:hover .anchor,
+.markdown-body h6:hover .anchor{
+  opacity: 1;
+}
+.markdown-body .anchor:focus{ outline: 2px solid var(--md-accent); border-radius:4px; opacity:1; }
+
+/* Paragraphs ------------------------------------------------------- */
+.markdown-body p{ margin: 0.65em 0; }
+
+/* Links ------------------------------------------------------------ */
+.markdown-body a{ color: var(--md-link); text-decoration: none; }
+.markdown-body a:hover, .markdown-body a:focus{ color: var(--md-link-hover); text-decoration: underline; }
+
+/* Horizontal rule -------------------------------------------------- */
+.markdown-body hr{
+  border: 0; height: 1px; margin: 1.6em 0; background: var(--md-border);
+}
+
+/* Blockquote ------------------------------------------------------- */
+.markdown-body blockquote{
+  margin: 1em 0; padding: 0.6em 1em; border-left: 4px solid var(--md-border);
+  color: var(--md-muted); background: rgba(0,0,0,0.01); border-radius:6px;
+}
+.markdown-body blockquote p{ margin: 0; }
+
+/* Lists ------------------------------------------------------------ */
+.markdown-body ul, .markdown-body ol{ margin: 0.6em 0; padding-left: 1.5em; }
+.markdown-body ul li, .markdown-body ol li{ margin: 0.35em 0; }
+.markdown-body ul ul, .markdown-body ol ol, .markdown-body ul ol, .markdown-body ol ul{ margin-top: .25em; }
+
+/* Task lists */
+.markdown-body li.task-list-item{ list-style: none; }
+.markdown-body li.task-list-item input[type=checkbox]{ margin-right: .5em; transform: translateY(0.12em); }
+
+/* Code ------------------------------------------------------------- */
+.markdown-body code{ font-family: var(--md-mono-font); font-size: .95em; }
+
+/* Inline code */
+.markdown-body p code, .markdown-body li code, .markdown-body td code{
+  background: var(--md-inline-code-bg);
+  color: var(--md-inline-code-color, var(--md-text));
+  padding: .15em .4em; border-radius: 6px; border: 1px solid rgba(0,0,0,0.04);
+}
+
+/* Preformatted code block */
+.markdown-body pre{ background: var(--md-code-bg); color: var(--md-code-color); padding: 14px; overflow: auto; border-radius: var(--md-pre-radius); margin: .9em 0; }
+.markdown-body pre code{ background: transparent; color: inherit; padding: 0; font-size: .92em; display: block; }
+
+/* Code toolbar area (copy button, language label) */
+.markdown-body .code-header{ display:flex; justify-content:space-between; align-items:center; margin: .25em 0 0; }
+.markdown-body .code-header .lang{ font-size:.75em; color:var(--md-muted); padding-left:6px; }
+.markdown-body .copy-button{
+  background: rgba(0,0,0,0.08); border: 0; padding:6px 10px; border-radius:6px; cursor:pointer; font-size:.82em; color:inherit;
+}
+.markdown-body .copy-button:focus{ outline:2px solid var(--md-accent); }
+
+/* Syntax highlighting (generic tokens, compatible with highlight.js / prism) */
+.hljs, .token{
+  color: inherit; background: transparent;
+}
+.token.comment, .hljs-comment{ color: #6b7280; font-style: italic; }
+.token.keyword, .hljs-keyword{ color: #7c3aed; font-weight:600; }
+.token.string, .hljs-string{ color: #10b981; }
+.token.function, .hljs-function{ color: #2563eb; }
+.token.variable, .hljs-variable{ color: #ef4444; }
+.token.number, .hljs-number{ color: #d946ef; }
+.token.boolean{ color: #f97316; }
+
+/* Tables ----------------------------------------------------------- */
+.markdown-body table{ width:100%; border-collapse: collapse; margin: .9em 0; overflow:auto; display:block; }
+.markdown-body table tr{ border-top: 1px solid var(--md-table-border); }
+.markdown-body table th, .markdown-body table td{ padding: .6em .8em; text-align: left; vertical-align: top; }
+.markdown-body table th{ background: var(--md-table-head-bg); font-weight:600; }
+.markdown-body table thead tr:first-child th{ border-top: 0; }
+.markdown-body table tbody tr:hover td{ background: rgba(0,0,0,0.02); }
+
+/* Images & Figures ------------------------------------------------- */
+.markdown-body img{ max-width:100%; height:auto; display:block; margin: .6em 0; border-radius:6px; }
+.markdown-body figure{ margin: .8em 0; }
+.markdown-body figcaption{ font-size:.92em; color: var(--md-figcaption-color); margin-top:.3em; }
+
+/* Details / Summary ------------------------------------------------ */
+.markdown-body details{ background: rgba(0,0,0,0.01); padding: .6em; border-radius:6px; margin: .6em 0; }
+.markdown-body details summary{ cursor: pointer; font-weight:600; }
+
+/* Definition lists ------------------------------------------------- */
+.markdown-body dl{ margin: .6em 0; }
+.markdown-body dt{ font-weight:700; }
+.markdown-body dd{ margin-left: 1em; margin-bottom: .6em; }
+
+/* Footnotes -------------------------------------------------------- */
+.markdown-body .footnotes{ border-top: 1px solid var(--md-border); margin-top: 1em; padding-top: 1em; }
+.markdown-body .footnotes ol{ padding-left: 1.2em; }
+.markdown-body .footnote-backref{ margin-left: .5em; }
+
+/* Admonitions / Callouts ------------------------------------------- */
+.markdown-body .admonition{ padding: .6em 1em; border-radius: 8px; margin: .9em 0; border-left: 4px solid transparent; }
+.markdown-body .admonition.note{ background: var(--md-note-bg); border-left-color: var(--md-note-border); }
+.markdown-body .admonition.tip{ background: #f0fdf4; border-left-color: #bbf7d0; }
+.markdown-body .admonition.warning{ background: var(--md-warning-bg); border-left-color: var(--md-warning-border); }
+
+/* Keyboard and small UI elements ---------------------------------- */
+.markdown-body kbd{ background: rgba(0,0,0,0.06); border-radius:6px; padding:.12em .45em; font-family: var(--md-mono-font); font-size:.9em; border: 1px solid rgba(0,0,0,0.06); }
+
+/* Small print */
+.markdown-body small{ color: var(--md-muted); }
+
+/* Block-level helpers ------------------------------------------------ */
+.markdown-body .muted{ color: var(--md-muted); }
+.markdown-body .center{ text-align:center; }
+
+/* Table of contents (optional) ------------------------------------ */
+.markdown-body .toc{ border:1px solid var(--md-border); padding:.8em; border-radius:8px; background: rgba(0,0,0,0.01); }
+.markdown-body .toc ul{ list-style: none; padding-left: .6em; margin:0; }
+.markdown-body .toc li{ margin: .25em 0; }
+.markdown-body .toc a{ color: var(--md-link); text-decoration:none; }
+
+/* Print styles ----------------------------------------------------- */
+@media print{
+  .markdown-body{ color: #000; background: #fff; }
+  .copy-button, .code-header{ display:none !important; }
+  pre{ border:1px solid #ddd; }
+}
+
+/* Accessibility & reduced motion ----------------------------------- */
+@media (prefers-reduced-motion: reduce){ *{ transition:none !important; animation:none !important; } }
+
+/* Responsive tweaks ------------------------------------------------ */
+@media (max-width: 720px){
+  .markdown-body{ padding: 14px; font-size: 15px; }
+  .markdown-body h1{ font-size: 1.6rem; }
+}
+
+/* Utility: visually hidden (for accessibility) --------------------- */
+.visually-hidden{ position:absolute !important; height:1px; width:1px; overflow:hidden; clip:rect(1px,1px,1px,1px); white-space:nowrap; }
+
+/* End of file */

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>GitHub Actions - Auto Update Footer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/css/base.css" />
+  <link rel="stylesheet" href="/assets/css/theme.css" />
+  <link rel="stylesheet" href="/assets/css/slideshow.css" />
+  <link rel="stylesheet" href="/assets/css/photoviewer.css" />
+  <link rel="stylesheet" href="assets/css/github-actions.css" />
+  <link rel="stylesheet" href="/main/projects/github-docs/assets/css/github-docs-nav.css" />
+</head>
+
+<body>
+  <div id="header"></div>
+
+  <main class="site-main container">
+    <section class="project-hero">
+      <h1>⚙️ GitHub Actions - Auto Update Footer</h1>
+      <p>Ví dụ tự động cập nhật nội dung <code>footer.html</code> mỗi lần bạn push lên GitHub. Chèn ngày build, commit hash, commit ngược lại chính branch mà không cần chỉnh tay.</p>
+    </section>
+
+    <section id="slideshow1" class="slideshow"></section>
+
+    <section class="project-section">
+      <h2>🎯 Tính năng chính</h2>
+      <ul class="feature-list">
+        <li>✔️ Tự động chèn ngày build & commit hash vào <code>footer.html</code></li>
+        <li>✔️ Sử dụng <strong>GitHub Actions</strong>, không cần server bên ngoài</li>
+        <li>✔️ Tự commit & push lại branch sau khi thay đổi</li>
+      </ul>
+    </section>
+
+    <section class="project-section">
+      <h2>🗂️ Cấu trúc thư mục</h2>
+      <pre><code>
+.github/
+ └── workflows/
+      └── update-footer.yml
+components/
+ └── footer.html
+      </code></pre>
+    </section>
+
+    <section class="project-section">
+      <h2>🚀 Hướng dẫn sử dụng</h2>
+      <ol>
+        <li>Tạo file <code>components/footer.html</code> với nội dung footer mặc định.</li>
+        <li>Tạo file workflow <code>.github/workflows/update-footer.yml</code> với nội dung:
+          <pre><code>name: Update Footer
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-footer:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update footer
+        run: |
+          COMMIT_HASH=$(git rev-parse --short HEAD)
+          DATE=$(date '+%Y-%m-%d %H:%M:%S')
+          YEAR=$(date '+%Y')
+          sed -i "s|<p>.*</p>|<p>© $YEAR Github. Last updated: $DATE — Commit: $COMMIT_HASH</p>|" components/footer.html
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add components/footer.html
+          git commit -m "chore: update footer [skip ci]" || echo "No changes"
+          git push</code></pre>
+        </li>
+        <li>Push lên GitHub. Lần push đầu tiên Action sẽ chạy và tự cập nhật file.</li>
+      </ol>
+    </section>
+
+    <section class="project-section">
+      <h2>🛠️ Xử lý lỗi thường gặp</h2>
+      <p><strong>❗ Lỗi 403:</strong> Actions không có quyền push lại branch.</p>
+      <p><strong>✔️ Cách xử lý:</strong></p>
+      <ul>
+        <li>Vào <strong>Settings → Actions → General</strong> ➜ bật <em>Workflow permissions → Read and write permissions</em>.</li>
+        <li>Bật thêm <em>Allow GitHub Actions to create and approve pull requests</em> nếu branch đang bảo vệ.</li>
+        <li>Nếu vẫn lỗi ➜ Tạo <strong>Personal Access Token (PAT)</strong> với scope <code>repo</code>. Lưu trong Secrets ➜ sửa workflow để dùng token đó khi push.</li>
+      </ul>
+    </section>
+
+    <section class="project-section">
+      <h2>📌 Ghi chú</h2>
+      <p>Ví dụ này phù hợp cho trang tĩnh, GitHub Pages hoặc bất cứ project nào cần nội dung tự động thay đổi theo mỗi lần build.</p>
+    </section>
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="/assets/js/main.js"></script>
+  <script src="assets/js/github-actions.js"></script>
+  <script src="/assets/js/photoViewer.js"></script>
+  <script src="/assets/js/slideshow.js"></script>
+  <script src="assets/js/github-actions-slideshow.js"></script>
+  <script src="/main/projects/github-docs/assets/js/github-docs-nav.js"></script>
+</body>
+
+</html>

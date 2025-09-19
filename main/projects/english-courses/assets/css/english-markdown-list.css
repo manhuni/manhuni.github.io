@@ -1,0 +1,49 @@
+/* Popup overlay */
+.popup-overlay {
+  position: fixed;       /* cố định trên viewport */
+  top: 0;
+  left: 0;
+  width: 100vw;          /* phủ toàn chiều ngang */
+  height: 100vh;         /* phủ toàn chiều dọc */
+  background-color: #000; /* đen đặc */
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 2147483647;    /* cực cao, chắc chắn nổi trên mọi element */
+}
+
+
+/* Popup content */
+.popup-content {
+  background: #fff;
+  width: 80%;
+  max-width: 900px;
+  max-height: 80vh;       /* giới hạn chiều cao */
+  overflow-y: auto;       /* cuộn nếu quá cao */
+  border-radius: 12px;
+  padding: 20px;
+  position: relative;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+}
+
+/* Close button */
+.popup-close {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 24px;
+  cursor: pointer;
+  color: #444;
+}
+
+/* Markdown link list */
+.md-links a {
+  display: block;
+  margin: 8px 0;
+  color: #0077cc;
+  text-decoration: none;
+}
+
+.md-links a:hover {
+  text-decoration: underline;
+}

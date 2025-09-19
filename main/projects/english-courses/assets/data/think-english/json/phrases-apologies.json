@@ -1,0 +1,122 @@
+[
+  {
+    "phrase": "I’m sorry.",
+    "ipa": "/aɪm ˈsɒri/",
+    "meaning": "Tôi xin lỗi.",
+    "context": "Xin lỗi chung"
+  },
+  {
+    "phrase": "I’m so sorry.",
+    "ipa": "/aɪm səʊ ˈsɒri/",
+    "meaning": "Tôi rất xin lỗi.",
+    "context": "Xin lỗi nhấn mạnh"
+  },
+  {
+    "phrase": "I apologize.",
+    "ipa": "/aɪ əˈpɒlədʒaɪz/",
+    "meaning": "Tôi xin lỗi.",
+    "context": "Trang trọng"
+  },
+  {
+    "phrase": "My apologies.",
+    "ipa": "/maɪ əˈpɒlədʒiz/",
+    "meaning": "Xin lỗi (trang trọng).",
+    "context": "Trang trọng"
+  },
+  {
+    "phrase": "I didn’t mean to.",
+    "ipa": "/aɪ ˈdɪdənt miːn tə/",
+    "meaning": "Tôi không cố ý.",
+    "context": "Giải thích"
+  },
+  {
+    "phrase": "It was my fault.",
+    "ipa": "/ɪt wəz maɪ fɔːlt/",
+    "meaning": "Đó là lỗi của tôi.",
+    "context": "Nhận lỗi"
+  },
+  {
+    "phrase": "Sorry for the trouble.",
+    "ipa": "/ˈsɒri fər ðə ˈtrʌbl/",
+    "meaning": "Xin lỗi vì đã làm phiền.",
+    "context": "Xin lỗi lịch sự"
+  },
+  {
+    "phrase": "Sorry to bother you.",
+    "ipa": "/ˈsɒri tə ˈbɒðər juː/",
+    "meaning": "Xin lỗi đã làm phiền bạn.",
+    "context": "Xin lỗi lịch sự"
+  },
+  {
+    "phrase": "Sorry I’m late.",
+    "ipa": "/ˈsɒri aɪm leɪt/",
+    "meaning": "Xin lỗi tôi đến muộn.",
+    "context": "Xin lỗi đi trễ"
+  },
+  {
+    "phrase": "Sorry for the delay.",
+    "ipa": "/ˈsɒri fər ðə dɪˈleɪ/",
+    "meaning": "Xin lỗi vì sự chậm trễ.",
+    "context": "Xin lỗi chậm trễ"
+  },
+  {
+    "phrase": "Please forgive me.",
+    "ipa": "/pliːz fərˈɡɪv miː/",
+    "meaning": "Làm ơn tha lỗi cho tôi.",
+    "context": "Xin tha thứ"
+  },
+  {
+    "phrase": "I owe you an apology.",
+    "ipa": "/aɪ əʊ ju ən əˈpɒlədʒi/",
+    "meaning": "Tôi nợ bạn một lời xin lỗi.",
+    "context": "Xin lỗi"
+  },
+  {
+    "phrase": "No hard feelings?",
+    "ipa": "/nəʊ hɑːrd ˈfiːlɪŋz/",
+    "meaning": "Không giận tôi chứ?",
+    "context": "Hỏi lại"
+  },
+  {
+    "phrase": "I didn’t realize.",
+    "ipa": "/aɪ ˈdɪdənt ˈriːəlaɪz/",
+    "meaning": "Tôi không nhận ra.",
+    "context": "Biện minh nhẹ"
+  },
+  {
+    "phrase": "That was careless of me.",
+    "ipa": "/ðæt wəz ˈkɛərləs əv miː/",
+    "meaning": "Đó là sự bất cẩn của tôi.",
+    "context": "Nhận lỗi"
+  },
+  {
+    "phrase": "It won’t happen again.",
+    "ipa": "/ɪt wəʊnt ˈhæpən əˈɡɛn/",
+    "meaning": "Sẽ không lặp lại đâu.",
+    "context": "Cam kết"
+  },
+  {
+    "phrase": "Pardon me.",
+    "ipa": "/ˈpɑːrdən miː/",
+    "meaning": "Xin thứ lỗi.",
+    "context": "Trang trọng"
+  },
+  {
+    "phrase": "Excuse me.",
+    "ipa": "/ɪkˈskjuːz miː/",
+    "meaning": "Xin lỗi (làm phiền).",
+    "context": "Ngắt lời, chen ngang"
+  },
+  {
+    "phrase": "Sorry about that.",
+    "ipa": "/ˈsɒri əˈbaʊt ðæt/",
+    "meaning": "Xin lỗi về chuyện đó.",
+    "context": "Xin lỗi chung"
+  },
+  {
+    "phrase": "I take full responsibility.",
+    "ipa": "/aɪ teɪk fʊl rɪˌspɒnsəˈbɪləti/",
+    "meaning": "Tôi chịu hoàn toàn trách nhiệm.",
+    "context": "Nhận lỗi"
+  }
+]
