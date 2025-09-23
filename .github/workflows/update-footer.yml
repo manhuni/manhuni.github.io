@@ -5,23 +5,15 @@ on:
     branches:
       - main   
 
-<<<<<<< HEAD
-=======
 # THÊM PERMISSIONS Ở ĐÂY
 permissions:
   actions: write  # Quyền xóa workflow runs
   contents: write # Quyền write cho repository
 
->>>>>>> 6a02fc49faa0cd58140979765f86c584431e5df0
 jobs:
   update-footer:
     runs-on: ubuntu-latest
 
-<<<<<<< HEAD
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-=======
     # Có thể thêm permissions ở job level nếu cần
     permissions:
       actions: write
@@ -33,7 +25,6 @@ jobs:
         with:
           # Cần token có quyền write
           token: ${{ secrets.GITHUB_TOKEN }}
->>>>>>> 6a02fc49faa0cd58140979765f86c584431e5df0
 
       - name: Update footer.html
         run: |
@@ -49,8 +40,6 @@ jobs:
           git add components/footer.html
           git commit -m "chore: update footer [skip ci]" || echo "No changes"
           git push
-<<<<<<< HEAD
-=======
 
       - name: Xóa logs GitHub Actions cũ
         if: success()
@@ -99,4 +88,3 @@ jobs:
           done
 
           echo "🎉 Hoàn thành! Đã xóa $success_count runs, lỗi: $error_count"
->>>>>>> 6a02fc49faa0cd58140979765f86c584431e5df0
