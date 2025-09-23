@@ -1,0 +1,1882 @@
+[
+    {
+        "word": "hour",
+        "ipa_word": "/aʊər/",
+        "type": "Noun",
+        "meaning_word": "giờ, tiếng",
+        "phrase": "It takes an hour to get there.",
+        "ipa_phrase": "/ɪt teɪks ən aʊər tə ɡet ðer/",
+        "meaning_phrase": "Mất một tiếng để đến đó.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "honest",
+        "ipa_word": "/ˈɑːnɪst/",
+        "type": "Adj",
+        "meaning_word": "trung thực",
+        "phrase": "She is an honest person.",
+        "ipa_phrase": "/ʃi ɪz ən ˈɑːnɪst ˈpɜːrsn/",
+        "meaning_phrase": "Cô ấy là một người trung thực.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "heir",
+        "ipa_word": "/er/",
+        "type": "Noun",
+        "meaning_word": "người thừa kế",
+        "phrase": "He is the heir to the throne.",
+        "ipa_phrase": "/hi ɪz ði er tə ðə θroʊn/",
+        "meaning_phrase": "Anh ấy là người thừa kế ngai vàng.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "debt",
+        "ipa_word": "/det/",
+        "type": "Noun",
+        "meaning_word": "khoản nợ",
+        "phrase": "She is in debt after buying a house.",
+        "ipa_phrase": "/ʃi ɪz ɪn det ˈæftər ˈbaɪɪŋ ə haʊs/",
+        "meaning_phrase": "Cô ấy đang nợ sau khi mua nhà.",
+        "context": "Tài chính"
+    },
+    {
+        "word": "doubt",
+        "ipa_word": "/daʊt/",
+        "type": "Noun",
+        "meaning_word": "sự nghi ngờ",
+        "phrase": "He has doubt about the plan.",
+        "ipa_phrase": "/hi hæz daʊt əˈbaʊt ðə plæn/",
+        "meaning_phrase": "Anh ấy có sự nghi ngờ về kế hoạch.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "subtle",
+        "ipa_word": "/ˈsʌtl/",
+        "type": "Adj",
+        "meaning_word": "tinh tế, khó nhận ra",
+        "phrase": "There is a subtle difference between the two.",
+        "ipa_phrase": "/ðer ɪz ə ˈsʌtl ˈdɪfrəns bɪˈtwiːn ðə tuː/",
+        "meaning_phrase": "Có một sự khác biệt tinh tế giữa hai cái.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "island",
+        "ipa_word": "/ˈaɪlənd/",
+        "type": "Noun",
+        "meaning_word": "hòn đảo",
+        "phrase": "They live on a small island.",
+        "ipa_phrase": "/ðeɪ lɪv ɑːn ə smɔːl ˈaɪlənd/",
+        "meaning_phrase": "Họ sống trên một hòn đảo nhỏ.",
+        "context": "Địa lý"
+    },
+    {
+        "word": "salmon",
+        "ipa_word": "/ˈsæmən/",
+        "type": "Noun",
+        "meaning_word": "cá hồi",
+        "phrase": "We had grilled salmon for dinner.",
+        "ipa_phrase": "/wi hæd ɡrɪld ˈsæmən fər ˈdɪnər/",
+        "meaning_phrase": "Chúng tôi ăn cá hồi nướng cho bữa tối.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "plumber",
+        "ipa_word": "/ˈplʌmər/",
+        "type": "Noun",
+        "meaning_word": "thợ sửa ống nước",
+        "phrase": "The plumber fixed the leaking pipe.",
+        "ipa_phrase": "/ðə ˈplʌmər fɪkst ðə ˈliːkɪŋ paɪp/",
+        "meaning_phrase": "Người thợ sửa ống nước đã sửa ống bị rò rỉ.",
+        "context": "Nghề nghiệp"
+    },
+    {
+        "word": "colonel",
+        "ipa_word": "/ˈkɜːrnəl/",
+        "type": "Noun",
+        "meaning_word": "đại tá",
+        "phrase": "The colonel gave the order.",
+        "ipa_phrase": "/ðə ˈkɜːrnəl ɡeɪv ði ˈɔːrdər/",
+        "meaning_phrase": "Vị đại tá đã ra lệnh.",
+        "context": "Quân đội"
+    },
+    {
+        "word": "choir",
+        "ipa_word": "/ˈkwaɪər/",
+        "type": "Noun",
+        "meaning_word": "dàn hợp xướng",
+        "phrase": "The choir sang beautifully.",
+        "ipa_phrase": "/ðə ˈkwaɪər sæŋ ˈbjuːtəfli/",
+        "meaning_phrase": "Dàn hợp xướng hát rất hay.",
+        "context": "Âm nhạc"
+    },
+    {
+        "word": "yacht",
+        "ipa_word": "/jɑːt/",
+        "type": "Noun",
+        "meaning_word": "du thuyền",
+        "phrase": "They spent the weekend on a yacht.",
+        "ipa_phrase": "/ðeɪ spent ðə ˈwiːkend ɑːn ə jɑːt/",
+        "meaning_phrase": "Họ dành cuối tuần trên một chiếc du thuyền.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "gnome",
+        "ipa_word": "/noʊm/",
+        "type": "Noun",
+        "meaning_word": "thần lùn (trong truyện cổ tích)",
+        "phrase": "There was a gnome in the garden.",
+        "ipa_phrase": "/ðer wəz ə noʊm ɪn ðə ˈɡɑːrdn/",
+        "meaning_phrase": "Có một thần lùn trong khu vườn.",
+        "context": "Văn hóa"
+    },
+    {
+        "word": "knight",
+        "ipa_word": "/naɪt/",
+        "type": "Noun",
+        "meaning_word": "hiệp sĩ",
+        "phrase": "The knight fought bravely.",
+        "ipa_phrase": "/ðə naɪt fɔːt ˈbreɪvli/",
+        "meaning_phrase": "Hiệp sĩ đã chiến đấu dũng cảm.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "knife",
+        "ipa_word": "/naɪf/",
+        "type": "Noun",
+        "meaning_word": "con dao",
+        "phrase": "Be careful with that knife.",
+        "ipa_phrase": "/bi ˈkerfl wɪð ðæt naɪf/",
+        "meaning_phrase": "Cẩn thận với con dao đó.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "knee",
+        "ipa_word": "/niː/",
+        "type": "Noun",
+        "meaning_word": "đầu gối",
+        "phrase": "He hurt his knee while running.",
+        "ipa_phrase": "/hi hɜːrt hɪz niː waɪl ˈrʌnɪŋ/",
+        "meaning_phrase": "Anh ấy bị đau đầu gối khi chạy.",
+        "context": "Cơ thể"
+    },
+    {
+        "word": "psychology",
+        "ipa_word": "/saɪˈkɑːlədʒi/",
+        "type": "Noun",
+        "meaning_word": "tâm lý học",
+        "phrase": "She studies psychology at university.",
+        "ipa_phrase": "/ʃi ˈstʌdiz saɪˈkɑːlədʒi ət ˌjuːnɪˈvɜːrsəti/",
+        "meaning_phrase": "Cô ấy học tâm lý học ở đại học.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "receipt",
+        "ipa_word": "/rɪˈsiːt/",
+        "type": "Noun",
+        "meaning_word": "hóa đơn",
+        "phrase": "Keep the receipt for a refund.",
+        "ipa_phrase": "/kiːp ðə rɪˈsiːt fər ə ˈriːfʌnd/",
+        "meaning_phrase": "Hãy giữ hóa đơn để được hoàn tiền.",
+        "context": "Mua sắm"
+    },
+    {
+        "word": "queue",
+        "ipa_word": "/kjuː/",
+        "type": "Noun",
+        "meaning_word": "hàng đợi",
+        "phrase": "They waited in a long queue.",
+        "ipa_phrase": "/ðeɪ ˈweɪtɪd ɪn ə lɔːŋ kjuː/",
+        "meaning_phrase": "Họ đã chờ trong một hàng dài.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "gauge",
+        "ipa_word": "/ɡeɪdʒ/",
+        "type": "Noun",
+        "meaning_word": "dụng cụ đo, thước đo",
+        "phrase": "The gauge shows the pressure level.",
+        "ipa_phrase": "/ðə ɡeɪdʒ ʃoʊz ðə ˈpreʃər ˈlevl/",
+        "meaning_phrase": "Thước đo cho thấy mức áp suất.",
+        "context": "Khoa học"
+    },
+    {
+        "word": "victuals",
+        "ipa_word": "/ˈvɪtlz/",
+        "type": "Noun",
+        "meaning_word": "thực phẩm",
+        "phrase": "The soldiers were supplied with victuals.",
+        "ipa_phrase": "/ðə ˈsoʊldʒərz wər səˈplaɪd wɪð ˈvɪtlz/",
+        "meaning_phrase": "Những người lính được cung cấp thực phẩm.",
+        "context": "Quân đội"
+    },
+    {
+        "word": "ballet",
+        "ipa_word": "/bæˈleɪ/",
+        "type": "Noun",
+        "meaning_word": "ba lê",
+        "phrase": "She practices ballet every week.",
+        "ipa_phrase": "/ʃi ˈpræktɪsɪz bæˈleɪ ˈevri wiːk/",
+        "meaning_phrase": "Cô ấy tập ba lê mỗi tuần.",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "coup",
+        "ipa_word": "/kuː/",
+        "type": "Noun",
+        "meaning_word": "cuộc đảo chính",
+        "phrase": "The military staged a coup.",
+        "ipa_phrase": "/ðə ˈmɪləˌteri steɪdʒd ə kuː/",
+        "meaning_phrase": "Quân đội đã tiến hành một cuộc đảo chính.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "depot",
+        "ipa_word": "/ˈdiːpoʊ/",
+        "type": "Noun",
+        "meaning_word": "nhà kho, trạm xe",
+        "phrase": "The bus leaves from the depot.",
+        "ipa_phrase": "/ðə bʌs liːvz frəm ðə ˈdiːpoʊ/",
+        "meaning_phrase": "Xe buýt khởi hành từ trạm xe.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "façade",
+        "ipa_word": "/fəˈsɑːd/",
+        "type": "Noun",
+        "meaning_word": "mặt tiền (tòa nhà)",
+        "phrase": "The building has a beautiful façade.",
+        "ipa_phrase": "/ðə ˈbɪldɪŋ hæz ə ˈbjuːtəfəl fəˈsɑːd/",
+        "meaning_phrase": "Tòa nhà có một mặt tiền đẹp.",
+        "context": "Kiến trúc"
+    },
+    {
+        "word": "hors d'oeuvre",
+        "ipa_word": "/ɔːr ˈdɜːrv/",
+        "type": "Noun",
+        "meaning_word": "món khai vị",
+        "phrase": "We had hors d'oeuvres before dinner.",
+        "ipa_phrase": "/wi hæd ɔːr ˈdɜːrvz bɪˈfɔːr ˈdɪnər/",
+        "meaning_phrase": "Chúng tôi ăn món khai vị trước bữa tối.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "rendezvous",
+        "ipa_word": "/ˈrɑːndɪvuː/",
+        "type": "Noun",
+        "meaning_word": "cuộc hẹn",
+        "phrase": "They arranged a rendezvous at the café.",
+        "ipa_phrase": "/ðeɪ əˈreɪndʒd ə ˈrɑːndɪvuː ət ðə ˈkæfeɪ/",
+        "meaning_phrase": "Họ sắp xếp một cuộc hẹn tại quán cà phê.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "bourgeois",
+        "ipa_word": "/ˈbʊrʒwɑː/",
+        "type": "Adj",
+        "meaning_word": "thuộc tầng lớp tư sản",
+        "phrase": "They lived a very bourgeois lifestyle.",
+        "ipa_phrase": "/ðeɪ lɪvd ə ˈveri ˈbʊrʒwɑː ˈlaɪfstaɪl/",
+        "meaning_phrase": "Họ sống một lối sống rất tư sản.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "debris",
+        "ipa_word": "/dəˈbriː/",
+        "type": "Noun",
+        "meaning_word": "mảnh vỡ, đống đổ nát",
+        "phrase": "The storm left debris on the streets.",
+        "ipa_phrase": "/ðə stɔːrm left dəˈbriː ɑːn ðə striːts/",
+        "meaning_phrase": "Cơn bão để lại mảnh vỡ trên đường phố.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "genre",
+        "ipa_word": "/ˈʒɑːnrə/",
+        "type": "Noun",
+        "meaning_word": "thể loại",
+        "phrase": "My favorite genre is science fiction.",
+        "ipa_phrase": "/maɪ ˈfeɪvərɪt ˈʒɑːnrə ɪz ˈsaɪəns ˈfɪkʃn/",
+        "meaning_phrase": "Thể loại yêu thích của tôi là khoa học viễn tưởng.",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "chaos",
+        "ipa_word": "/ˈkeɪɑːs/",
+        "type": "Noun",
+        "meaning_word": "sự hỗn loạn",
+        "phrase": "There was chaos after the accident.",
+        "ipa_phrase": "/ðer wəz ˈkeɪɑːs ˈæftər ði ˈæksɪdənt/",
+        "meaning_phrase": "Có sự hỗn loạn sau tai nạn.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "paradigm",
+        "ipa_word": "/ˈpærədaɪm/",
+        "type": "Noun",
+        "meaning_word": "mô hình, khuôn mẫu",
+        "phrase": "This theory created a new paradigm.",
+        "ipa_phrase": "/ðɪs ˈθɪəri kriˈeɪtɪd ə nuː ˈpærədaɪm/",
+        "meaning_phrase": "Lý thuyết này tạo ra một mô hình mới.",
+        "context": "Khoa học"
+    },
+    {
+        "word": "corps",
+        "ipa_word": "/kɔːr/",
+        "type": "Noun",
+        "meaning_word": "đơn vị, binh đoàn",
+        "phrase": "He joined the medical corps.",
+        "ipa_phrase": "/hi dʒɔɪnd ðə ˈmedɪkl kɔːr/",
+        "meaning_phrase": "Anh ấy gia nhập binh đoàn y tế.",
+        "context": "Quân đội"
+    },
+    {
+        "word": "liaison",
+        "ipa_word": "/liˈeɪzɑːn/",
+        "type": "Noun",
+        "meaning_word": "người liên lạc",
+        "phrase": "She works as a company liaison.",
+        "ipa_phrase": "/ʃi wɜːrks æz ə ˈkʌmpəni liˈeɪzɑːn/",
+        "meaning_phrase": "Cô ấy làm việc như một người liên lạc cho công ty.",
+        "context": "Kinh doanh"
+    },
+    {
+        "word": "quay",
+        "ipa_word": "/kiː/",
+        "type": "Noun",
+        "meaning_word": "bến cảng",
+        "phrase": "The ship is docked at the quay.",
+        "ipa_phrase": "/ðə ʃɪp ɪz dɑːkt æt ðə kiː/",
+        "meaning_phrase": "Con tàu được neo tại bến cảng.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "chassis",
+        "ipa_word": "/ˈʃæsi/",
+        "type": "Noun",
+        "meaning_word": "khung gầm xe",
+        "phrase": "The mechanic repaired the car’s chassis.",
+        "ipa_phrase": "/ðə məˈkænɪk rɪˈperd ðə kɑːrz ˈʃæsi/",
+        "meaning_phrase": "Người thợ sửa khung gầm xe.",
+        "context": "Cơ khí"
+    },
+    {
+        "word": "grosvenor",
+        "ipa_word": "/ˈɡroʊvnər/",
+        "type": "Noun",
+        "meaning_word": "họ Grosvenor (tên riêng)",
+        "phrase": "They live near Grosvenor Square.",
+        "ipa_phrase": "/ðeɪ lɪv nɪr ˈɡroʊvnər skwer/",
+        "meaning_phrase": "Họ sống gần Quảng trường Grosvenor.",
+        "context": "Địa danh"
+    },
+    {
+        "word": "horseshoe",
+        "ipa_word": "/ˈhɔːrʃuː/",
+        "type": "Noun",
+        "meaning_word": "móng ngựa",
+        "phrase": "The blacksmith made a horseshoe.",
+        "ipa_phrase": "/ðə ˈblæksmɪθ meɪd ə ˈhɔːrʃuː/",
+        "meaning_phrase": "Người thợ rèn làm một cái móng ngựa.",
+        "context": "Nghề truyền thống"
+    },
+    {
+        "word": "macabre",
+        "ipa_word": "/məˈkɑːbrə/",
+        "type": "Adj",
+        "meaning_word": "rùng rợn, kinh dị",
+        "phrase": "The story had a macabre ending.",
+        "ipa_phrase": "/ðə ˈstɔːri hæd ə məˈkɑːbrə ˈendɪŋ/",
+        "meaning_phrase": "Câu chuyện có một kết thúc rùng rợn.",
+        "context": "Văn học"
+    },
+    {
+        "word": "almond",
+        "ipa_word": "/ˈɑːmənd/",
+        "type": "Noun",
+        "meaning_word": "hạnh nhân",
+        "phrase": "She ate an almond.",
+        "ipa_phrase": "/ʃi eɪt ən ˈɑːmənd/",
+        "meaning_phrase": "Cô ấy ăn một quả hạnh nhân.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "answer",
+        "ipa_word": "/ˈænsər/",
+        "type": "Noun",
+        "meaning_word": "câu trả lời",
+        "phrase": "He gave the right answer.",
+        "ipa_phrase": "/hi ɡeɪv ðə raɪt ˈænsər/",
+        "meaning_phrase": "Anh ấy đưa ra câu trả lời đúng.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "asthma",
+        "ipa_word": "/ˈæzmə/",
+        "type": "Noun",
+        "meaning_word": "hen suyễn",
+        "phrase": "He suffers from asthma.",
+        "ipa_phrase": "/hi ˈsʌfərz frəm ˈæzmə/",
+        "meaning_phrase": "Anh ấy bị bệnh hen suyễn.",
+        "context": "Sức khỏe"
+    },
+    {
+        "word": "biscuit",
+        "ipa_word": "/ˈbɪskɪt/",
+        "type": "Noun",
+        "meaning_word": "bánh quy",
+        "phrase": "I like chocolate biscuits.",
+        "ipa_phrase": "/aɪ laɪk ˈtʃɑːklət ˈbɪskɪts/",
+        "meaning_phrase": "Tôi thích bánh quy sô cô la.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "castle",
+        "ipa_word": "/ˈkæsəl/",
+        "type": "Noun",
+        "meaning_word": "lâu đài",
+        "phrase": "They visited the castle.",
+        "ipa_phrase": "/ðeɪ ˈvɪzɪtɪd ðə ˈkæsəl/",
+        "meaning_phrase": "Họ đã tham quan lâu đài.",
+        "context": "Kiến trúc"
+    },
+    {
+        "word": "corpsman",
+        "ipa_word": "/ˈkɔːrmən/",
+        "type": "Noun",
+        "meaning_word": "quân y",
+        "phrase": "The corpsman treated the wounded.",
+        "ipa_phrase": "/ðə ˈkɔːrmən ˈtriːtɪd ðə ˈwuːndɪd/",
+        "meaning_phrase": "Người quân y chăm sóc người bị thương.",
+        "context": "Quân đội"
+    },
+    {
+        "word": "coupé",
+        "ipa_word": "/kuːˈpeɪ/",
+        "type": "Noun",
+        "meaning_word": "xe mui trần nhỏ",
+        "phrase": "He drives a coupé.",
+        "ipa_phrase": "/hi draɪvz ə kuːˈpeɪ/",
+        "meaning_phrase": "Anh ấy lái một chiếc coupé.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "deign",
+        "ipa_word": "/deɪn/",
+        "type": "Verb",
+        "meaning_word": "hạ mình",
+        "phrase": "He did not deign to reply.",
+        "ipa_phrase": "/hi dɪd nɑːt deɪn tə rɪˈplaɪ/",
+        "meaning_phrase": "Anh ta không thèm hạ mình để trả lời.",
+        "context": "Văn học"
+    },
+    {
+        "word": "gauge",
+        "ipa_word": "/ɡeɪdʒ/",
+        "type": "Noun",
+        "meaning_word": "thước đo",
+        "phrase": "Check the fuel gauge.",
+        "ipa_phrase": "/tʃek ðə fjuːəl ɡeɪdʒ/",
+        "meaning_phrase": "Kiểm tra đồng hồ nhiên liệu.",
+        "context": "Khoa học"
+    },
+    {
+        "word": "heirloom",
+        "ipa_word": "/ˈerluːm/",
+        "type": "Noun",
+        "meaning_word": "vật gia truyền",
+        "phrase": "The ring is a family heirloom.",
+        "ipa_phrase": "/ðə rɪŋ ɪz ə ˈfæməli ˈerluːm/",
+        "meaning_phrase": "Chiếc nhẫn là vật gia truyền.",
+        "context": "Gia đình"
+    },
+    {
+        "word": "leopard",
+        "ipa_word": "/ˈlepərd/",
+        "type": "Noun",
+        "meaning_word": "báo đốm",
+        "phrase": "A leopard cannot change its spots.",
+        "ipa_phrase": "/ə ˈlepərd ˈkænɑːt tʃeɪndʒ ɪts spɑːts/",
+        "meaning_phrase": "Con báo không thể thay đổi đốm của nó.",
+        "context": "Động vật"
+    },
+    {
+        "word": "lieutenant",
+        "ipa_word": "/lefˈtenənt/",
+        "type": "Noun",
+        "meaning_word": "trung úy",
+        "phrase": "The lieutenant gave orders.",
+        "ipa_phrase": "/ðə lefˈtenənt ɡeɪv ˈɔːrdərz/",
+        "meaning_phrase": "Viên trung úy ra lệnh.",
+        "context": "Quân đội"
+    },
+    {
+        "word": "mortgage",
+        "ipa_word": "/ˈmɔːrɡɪdʒ/",
+        "type": "Noun",
+        "meaning_word": "thế chấp",
+        "phrase": "They applied for a mortgage.",
+        "ipa_phrase": "/ðeɪ əˈplaɪd fər ə ˈmɔːrɡɪdʒ/",
+        "meaning_phrase": "Họ nộp đơn xin thế chấp.",
+        "context": "Tài chính"
+    },
+    {
+        "word": "mosquito",
+        "ipa_word": "/məˈskiːtoʊ/",
+        "type": "Noun",
+        "meaning_word": "muỗi",
+        "phrase": "Mosquitoes can carry diseases.",
+        "ipa_phrase": "/məˈskiːtoʊz kæn ˈkæri dɪˈziːzɪz/",
+        "meaning_phrase": "Muỗi có thể truyền bệnh.",
+        "context": "Sức khỏe"
+    },
+    {
+        "word": "often",
+        "ipa_word": "/ˈɔːfn/",
+        "type": "Adv",
+        "meaning_word": "thường xuyên",
+        "phrase": "I often go jogging.",
+        "ipa_phrase": "/aɪ ˈɔːfn ɡoʊ ˈʤɑːɡɪŋ/",
+        "meaning_phrase": "Tôi thường đi chạy bộ.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "parliament",
+        "ipa_word": "/ˈpɑːrləmənt/",
+        "type": "Noun",
+        "meaning_word": "quốc hội",
+        "phrase": "The law passed in parliament.",
+        "ipa_phrase": "/ðə lɔː pæst ɪn ˈpɑːrləmənt/",
+        "meaning_phrase": "Luật được thông qua trong quốc hội.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "picturesque",
+        "ipa_word": "/ˌpɪktʃəˈresk/",
+        "type": "Adj",
+        "meaning_word": "đẹp như tranh",
+        "phrase": "The village is picturesque.",
+        "ipa_phrase": "/ðə ˈvɪlɪdʒ ɪz ˌpɪktʃəˈresk/",
+        "meaning_phrase": "Ngôi làng đẹp như tranh.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "raspberry",
+        "ipa_word": "/ˈræzbəri/",
+        "type": "Noun",
+        "meaning_word": "quả mâm xôi",
+        "phrase": "I like raspberry jam.",
+        "ipa_phrase": "/aɪ laɪk ˈræzbəri dʒæm/",
+        "meaning_phrase": "Tôi thích mứt mâm xôi.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "schedule (US)",
+        "ipa_word": "/ˈskedʒuːl/",
+        "type": "Noun",
+        "meaning_word": "lịch trình",
+        "phrase": "Check the train schedule.",
+        "ipa_phrase": "/tʃek ðə treɪn ˈskedʒuːl/",
+        "meaning_phrase": "Kiểm tra lịch tàu.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "schedule (UK)",
+        "ipa_word": "/ˈʃedjuːl/",
+        "type": "Noun",
+        "meaning_word": "lịch trình",
+        "phrase": "She checked her work schedule.",
+        "ipa_phrase": "/ʃi tʃekt hər wɜːk ˈʃedjuːl/",
+        "meaning_phrase": "Cô ấy kiểm tra lịch làm việc.",
+        "context": "Công việc"
+    },
+    {
+        "word": "sword",
+        "ipa_word": "/sɔːrd/",
+        "type": "Noun",
+        "meaning_word": "thanh kiếm",
+        "phrase": "The knight drew his sword.",
+        "ipa_phrase": "/ðə naɪt druː hɪz sɔːrd/",
+        "meaning_phrase": "Hiệp sĩ rút kiếm ra.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "thorough",
+        "ipa_word": "/ˈθʌroʊ/",
+        "type": "Adj",
+        "meaning_word": "kỹ lưỡng",
+        "phrase": "She did a thorough job.",
+        "ipa_phrase": "/ʃi dɪd ə ˈθʌroʊ dʒɑːb/",
+        "meaning_phrase": "Cô ấy làm việc rất kỹ lưỡng.",
+        "context": "Công việc"
+    },
+    {
+        "word": "tomb",
+        "ipa_word": "/tuːm/",
+        "type": "Noun",
+        "meaning_word": "ngôi mộ",
+        "phrase": "The tomb was discovered.",
+        "ipa_phrase": "/ðə tuːm wəz dɪˈskʌvərd/",
+        "meaning_phrase": "Ngôi mộ được phát hiện.",
+        "context": "Khảo cổ"
+    },
+    {
+        "word": "vehicle",
+        "ipa_word": "/ˈviːɪkl/",
+        "type": "Noun",
+        "meaning_word": "phương tiện",
+        "phrase": "The road was full of vehicles.",
+        "ipa_phrase": "/ðə roʊd wəz fʊl əv ˈviːɪklz/",
+        "meaning_phrase": "Con đường đầy phương tiện.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "Wednesday",
+        "ipa_word": "/ˈwenzdeɪ/",
+        "type": "Noun",
+        "meaning_word": "thứ Tư",
+        "phrase": "The meeting is on Wednesday.",
+        "ipa_phrase": "/ðə ˈmiːtɪŋ ɪz ɑːn ˈwenzdeɪ/",
+        "meaning_phrase": "Cuộc họp diễn ra vào thứ Tư.",
+        "context": "Thời gian"
+    },
+    {
+        "word": "wrap",
+        "ipa_word": "/ræp/",
+        "type": "Verb",
+        "meaning_word": "gói",
+        "phrase": "She wrapped the gift.",
+        "ipa_phrase": "/ʃi ræpt ðə ɡɪft/",
+        "meaning_phrase": "Cô ấy gói món quà.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "wrestle",
+        "ipa_word": "/ˈresl/",
+        "type": "Verb",
+        "meaning_word": "đấu vật",
+        "phrase": "They wrestle every weekend.",
+        "ipa_phrase": "/ðeɪ ˈresl ˈevri ˈwiːkend/",
+        "meaning_phrase": "Họ đấu vật mỗi cuối tuần.",
+        "context": "Thể thao"
+    },
+    {
+        "word": "wrist",
+        "ipa_word": "/rɪst/",
+        "type": "Noun",
+        "meaning_word": "cổ tay",
+        "phrase": "He broke his wrist.",
+        "ipa_phrase": "/hi broʊk hɪz rɪst/",
+        "meaning_phrase": "Anh ấy gãy cổ tay.",
+        "context": "Cơ thể"
+    },
+    {
+        "word": "zebra (US)",
+        "ipa_word": "/ˈziːbrə/",
+        "type": "Noun",
+        "meaning_word": "ngựa vằn",
+        "phrase": "A zebra has stripes.",
+        "ipa_phrase": "/ə ˈziːbrə hæz straɪps/",
+        "meaning_phrase": "Ngựa vằn có sọc.",
+        "context": "Động vật"
+    },
+    {
+        "word": "zebra (UK)",
+        "ipa_word": "/ˈzebrə/",
+        "type": "Noun",
+        "meaning_word": "ngựa vằn",
+        "phrase": "We saw a zebra in the zoo.",
+        "ipa_phrase": "/wi sɔː ə ˈzebrə ɪn ðə zuː/",
+        "meaning_phrase": "Chúng tôi thấy một con ngựa vằn trong sở thú.",
+        "context": "Động vật"
+    },
+    {
+        "word": "rendezvous (verb)",
+        "ipa_word": "/ˈrɑːndɪvuː/",
+        "type": "Verb",
+        "meaning_word": "gặp gỡ",
+        "phrase": "They will rendezvous at noon.",
+        "ipa_phrase": "/ðeɪ wɪl ˈrɑːndɪvuː æt nuːn/",
+        "meaning_phrase": "Họ sẽ gặp nhau vào buổi trưa.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "buffet (food)",
+        "ipa_word": "/bəˈfeɪ/",
+        "type": "Noun",
+        "meaning_word": "tiệc tự chọn",
+        "phrase": "We had a buffet dinner.",
+        "ipa_phrase": "/wi hæd ə bəˈfeɪ ˈdɪnər/",
+        "meaning_phrase": "Chúng tôi ăn tiệc buffet.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "buffet (verb)",
+        "ipa_word": "/ˈbʌfɪt/",
+        "type": "Verb",
+        "meaning_word": "đánh mạnh, vùi dập",
+        "phrase": "The ship was buffeted by waves.",
+        "ipa_phrase": "/ðə ʃɪp wəz ˈbʌfɪtɪd baɪ weɪvz/",
+        "meaning_phrase": "Con tàu bị sóng đánh dữ dội.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "rogue",
+        "ipa_word": "/roʊɡ/",
+        "type": "Noun",
+        "meaning_word": "kẻ lừa đảo",
+        "phrase": "He acted like a rogue.",
+        "ipa_phrase": "/hi ˈæktɪd laɪk ə roʊɡ/",
+        "meaning_phrase": "Anh ta hành động như một kẻ lừa đảo.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "cupboard",
+        "ipa_word": "/ˈkʌbərd/",
+        "type": "Noun",
+        "meaning_word": "tủ chén",
+        "phrase": "The plates are in the cupboard.",
+        "ipa_phrase": "/ðə pleɪts ɑːr ɪn ðə ˈkʌbərd/",
+        "meaning_phrase": "Đĩa ở trong tủ chén.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "colonelcy",
+        "ipa_word": "/ˈkɜːrnəlsi/",
+        "type": "Noun",
+        "meaning_word": "chức vụ đại tá",
+        "phrase": "He achieved the colonelcy.",
+        "ipa_phrase": "/hi əˈtʃiːvd ðə ˈkɜːrnəlsi/",
+        "meaning_phrase": "Ông ấy đạt chức vụ đại tá.",
+        "context": "Quân đội"
+    },
+    {
+        "word": "iron",
+        "ipa_word": "/ˈaɪərn/",
+        "type": "Noun",
+        "meaning_word": "sắt, bàn ủi",
+        "phrase": "The gate is made of iron.",
+        "ipa_phrase": "/ðə ɡeɪt ɪz meɪd əv ˈaɪərn/",
+        "meaning_phrase": "Cánh cổng làm bằng sắt.",
+        "context": "Vật liệu"
+    },
+    {
+        "word": "debris",
+        "ipa_word": "/dəˈbriː/",
+        "type": "Noun",
+        "meaning_word": "mảnh vỡ",
+        "phrase": "The street was full of debris.",
+        "ipa_phrase": "/ðə striːt wəz fʊl əv dəˈbriː/",
+        "meaning_phrase": "Con đường đầy mảnh vỡ.",
+        "context": "Thiên tai"
+    },
+    {
+        "word": "coup",
+        "ipa_word": "/kuː/",
+        "type": "Noun",
+        "meaning_word": "cuộc đảo chính",
+        "phrase": "The coup surprised everyone.",
+        "ipa_phrase": "/ðə kuː sərˈpraɪzd ˈevriwʌn/",
+        "meaning_phrase": "Cuộc đảo chính khiến mọi người ngạc nhiên.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "debt",
+        "ipa_word": "/det/",
+        "type": "Noun",
+        "meaning_word": "nợ",
+        "phrase": "He is in debt.",
+        "ipa_phrase": "/hi ɪz ɪn det/",
+        "meaning_phrase": "Anh ấy đang mắc nợ.",
+        "context": "Tài chính"
+    },
+    {
+        "word": "receipt",
+        "ipa_word": "/rɪˈsiːt/",
+        "type": "Noun",
+        "meaning_word": "hóa đơn",
+        "phrase": "Keep the receipt.",
+        "ipa_phrase": "/kiːp ðə rɪˈsiːt/",
+        "meaning_phrase": "Hãy giữ hóa đơn.",
+        "context": "Mua sắm"
+    },
+    {
+        "word": "island",
+        "ipa_word": "/ˈaɪlənd/",
+        "type": "Noun",
+        "meaning_word": "hòn đảo",
+        "phrase": "We stayed on a small island.",
+        "ipa_phrase": "/wi steɪd ɑːn ə smɔːl ˈaɪlənd/",
+        "meaning_phrase": "Chúng tôi ở trên một hòn đảo nhỏ.",
+        "context": "Địa lý"
+    },
+    {
+        "word": "psalm",
+        "ipa_word": "/sɑːm/",
+        "type": "Noun",
+        "meaning_word": "thánh ca",
+        "phrase": "They sang a psalm.",
+        "ipa_phrase": "/ðeɪ sæŋ ə sɑːm/",
+        "meaning_phrase": "Họ hát một bài thánh ca.",
+        "context": "Tôn giáo"
+    },
+    {
+        "word": "pneumonia",
+        "ipa_word": "/nuːˈmoʊniə/",
+        "type": "Noun",
+        "meaning_word": "viêm phổi",
+        "phrase": "She was diagnosed with pneumonia.",
+        "ipa_phrase": "/ʃi wəz ˈdaɪəɡnoʊzd wɪð nuːˈmoʊniə/",
+        "meaning_phrase": "Cô ấy được chẩn đoán viêm phổi.",
+        "context": "Sức khỏe"
+    },
+    {
+        "word": "salmon",
+        "ipa_word": "/ˈsæmən/",
+        "type": "Noun",
+        "meaning_word": "cá hồi",
+        "phrase": "We had grilled salmon.",
+        "ipa_phrase": "/wi hæd ɡrɪld ˈsæmən/",
+        "meaning_phrase": "Chúng tôi ăn cá hồi nướng.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "subtle",
+        "ipa_word": "/ˈsʌtl/",
+        "type": "Adj",
+        "meaning_word": "tinh tế, khó thấy",
+        "phrase": "She made a subtle change.",
+        "ipa_phrase": "/ʃi meɪd ə ˈsʌtl tʃeɪndʒ/",
+        "meaning_phrase": "Cô ấy đã tạo ra một thay đổi tinh tế.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "ballet",
+        "ipa_word": "/bæˈleɪ/",
+        "type": "Noun",
+        "meaning_word": "múa ba lê",
+        "phrase": "She practices ballet every day.",
+        "ipa_phrase": "/ʃi ˈpræktɪsɪz bæˈleɪ ˈevri deɪ/",
+        "meaning_phrase": "Cô ấy tập ba lê mỗi ngày.",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "bourgeois",
+        "ipa_word": "/ˈbʊrʒwɑː/",
+        "type": "Adj",
+        "meaning_word": "thuộc tầng lớp trung lưu",
+        "phrase": "His taste is quite bourgeois.",
+        "ipa_phrase": "/hɪz teɪst ɪz kwaɪt ˈbʊrʒwɑː/",
+        "meaning_phrase": "Thị hiếu của anh ta khá trưởng giả.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "camaraderie",
+        "ipa_word": "/ˌkɑːməˈrɑːdəri/",
+        "type": "Noun",
+        "meaning_word": "tình bạn thân thiết",
+        "phrase": "There was camaraderie among the team.",
+        "ipa_phrase": "/ðɛr wəz ˌkɑːməˈrɑːdəri əˈmʌŋ ðə tiːm/",
+        "meaning_phrase": "Có tình bạn thân thiết trong nhóm.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "chaos",
+        "ipa_word": "/ˈkeɪɑːs/",
+        "type": "Noun",
+        "meaning_word": "hỗn loạn",
+        "phrase": "The city fell into chaos.",
+        "ipa_phrase": "/ðə ˈsɪti fɛl ˈɪntu ˈkeɪɑːs/",
+        "meaning_phrase": "Thành phố rơi vào hỗn loạn.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "chassis",
+        "ipa_word": "/ˈʃæsi/",
+        "type": "Noun",
+        "meaning_word": "khung xe",
+        "phrase": "The car’s chassis was damaged.",
+        "ipa_phrase": "/ðə kɑːrz ˈʃæsi wəz ˈdæmɪdʒd/",
+        "meaning_phrase": "Khung xe bị hư hỏng.",
+        "context": "Cơ khí"
+    },
+    {
+        "word": "chef",
+        "ipa_word": "/ʃef/",
+        "type": "Noun",
+        "meaning_word": "đầu bếp",
+        "phrase": "The chef prepared a special dish.",
+        "ipa_phrase": "/ðə ʃef prɪˈperd ə ˈspɛʃəl dɪʃ/",
+        "meaning_phrase": "Đầu bếp chuẩn bị một món đặc biệt.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "choir",
+        "ipa_word": "/kwaɪər/",
+        "type": "Noun",
+        "meaning_word": "dàn hợp xướng",
+        "phrase": "She sings in a choir.",
+        "ipa_phrase": "/ʃi sɪŋz ɪn ə kwaɪər/",
+        "meaning_phrase": "Cô ấy hát trong một dàn hợp xướng.",
+        "context": "Âm nhạc"
+    },
+    {
+        "word": "colonel",
+        "ipa_word": "/ˈkɜːrnəl/",
+        "type": "Noun",
+        "meaning_word": "đại tá",
+        "phrase": "The colonel gave the order.",
+        "ipa_phrase": "/ðə ˈkɜːrnəl ɡeɪv ði ˈɔːrdər/",
+        "meaning_phrase": "Vị đại tá ra lệnh.",
+        "context": "Quân đội"
+    },
+    {
+        "word": "debris",
+        "ipa_word": "/dəˈbriː/",
+        "type": "Noun",
+        "meaning_word": "mảnh vỡ",
+        "phrase": "The road was blocked by debris.",
+        "ipa_phrase": "/ðə roʊd wəz blɑːkt baɪ dəˈbriː/",
+        "meaning_phrase": "Con đường bị chặn bởi mảnh vỡ.",
+        "context": "Thiên tai"
+    },
+    {
+        "word": "entrepreneur",
+        "ipa_word": "/ˌɑːntrəprəˈnɜːr/",
+        "type": "Noun",
+        "meaning_word": "doanh nhân",
+        "phrase": "She is a young entrepreneur.",
+        "ipa_phrase": "/ʃi ɪz ə jʌŋ ˌɑːntrəprəˈnɜːr/",
+        "meaning_phrase": "Cô ấy là một doanh nhân trẻ.",
+        "context": "Kinh doanh"
+    },
+    {
+        "word": "façade",
+        "ipa_word": "/fəˈsɑːd/",
+        "type": "Noun",
+        "meaning_word": "mặt tiền",
+        "phrase": "The building has a grand façade.",
+        "ipa_phrase": "/ðə ˈbɪldɪŋ hæz ə ɡrænd fəˈsɑːd/",
+        "meaning_phrase": "Tòa nhà có mặt tiền hoành tráng.",
+        "context": "Kiến trúc"
+    },
+    {
+        "word": "genre",
+        "ipa_word": "/ˈʒɑːnrə/",
+        "type": "Noun",
+        "meaning_word": "thể loại",
+        "phrase": "My favorite genre is jazz.",
+        "ipa_phrase": "/maɪ ˈfeɪvərɪt ˈʒɑːnrə ɪz dʒæz/",
+        "meaning_phrase": "Thể loại yêu thích của tôi là nhạc jazz.",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "gnome",
+        "ipa_word": "/noʊm/",
+        "type": "Noun",
+        "meaning_word": "người lùn (thần thoại)",
+        "phrase": "There was a gnome in the garden.",
+        "ipa_phrase": "/ðɛr wəz ə noʊm ɪn ðə ˈɡɑːrdn/",
+        "meaning_phrase": "Có một người lùn trong vườn.",
+        "context": "Văn hóa"
+    },
+    {
+        "word": "honor",
+        "ipa_word": "/ˈɑːnər/",
+        "type": "Noun",
+        "meaning_word": "vinh dự",
+        "phrase": "It was an honor to meet her.",
+        "ipa_phrase": "/ɪt wəz ən ˈɑːnər tə miːt hɜːr/",
+        "meaning_phrase": "Thật là một vinh dự khi gặp cô ấy.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "hors d’oeuvre",
+        "ipa_word": "/ɔːr ˈdɜːrv/",
+        "type": "Noun",
+        "meaning_word": "món khai vị",
+        "phrase": "They served hors d’oeuvres.",
+        "ipa_phrase": "/ðeɪ sɜːrvd ɔːr ˈdɜːrvz/",
+        "meaning_phrase": "Họ phục vụ món khai vị.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "indict",
+        "ipa_word": "/ɪnˈdaɪt/",
+        "type": "Verb",
+        "meaning_word": "truy tố",
+        "phrase": "He was indicted for fraud.",
+        "ipa_phrase": "/hi wəz ɪnˈdaɪtɪd fər frɔːd/",
+        "meaning_phrase": "Anh ta bị truy tố vì gian lận.",
+        "context": "Pháp luật"
+    },
+    {
+        "word": "jeopardy",
+        "ipa_word": "/ˈdʒepərdi/",
+        "type": "Noun",
+        "meaning_word": "nguy cơ",
+        "phrase": "His life is in jeopardy.",
+        "ipa_phrase": "/hɪz laɪf ɪz ɪn ˈdʒepərdi/",
+        "meaning_phrase": "Tính mạng của anh ấy đang gặp nguy.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "liaison",
+        "ipa_word": "/liˈeɪzɑːn/",
+        "type": "Noun",
+        "meaning_word": "liên lạc",
+        "phrase": "She works as a liaison officer.",
+        "ipa_phrase": "/ʃi wɜːrks æz ə liˈeɪzɑːn ˈɔːfəsər/",
+        "meaning_phrase": "Cô ấy làm sĩ quan liên lạc.",
+        "context": "Công việc"
+    },
+    {
+        "word": "niche",
+        "ipa_word": "/niːʃ/",
+        "type": "Noun",
+        "meaning_word": "thị trường ngách",
+        "phrase": "He found his niche in teaching.",
+        "ipa_phrase": "/hi faʊnd hɪz niːʃ ɪn ˈtiːtʃɪŋ/",
+        "meaning_phrase": "Anh ấy tìm thấy lĩnh vực phù hợp trong dạy học.",
+        "context": "Kinh doanh"
+    },
+    {
+        "word": "opulent",
+        "ipa_word": "/ˈɑːpjʊlənt/",
+        "type": "Adj",
+        "meaning_word": "sang trọng",
+        "phrase": "They live in an opulent mansion.",
+        "ipa_phrase": "/ðeɪ lɪv ɪn ən ˈɑːpjʊlənt ˈmænʃən/",
+        "meaning_phrase": "Họ sống trong một biệt thự sang trọng.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "paradigm",
+        "ipa_word": "/ˈpærədaɪm/",
+        "type": "Noun",
+        "meaning_word": "mô hình, khuôn mẫu",
+        "phrase": "This is a new paradigm in science.",
+        "ipa_phrase": "/ðɪs ɪz ə njuː ˈpærədaɪm ɪn ˈsaɪəns/",
+        "meaning_phrase": "Đây là một khuôn mẫu mới trong khoa học.",
+        "context": "Khoa học"
+    },
+    {
+        "word": "quay",
+        "ipa_word": "/kiː/",
+        "type": "Noun",
+        "meaning_word": "bến cảng",
+        "phrase": "The ship is moored at the quay.",
+        "ipa_phrase": "/ðə ʃɪp ɪz mʊrd æt ðə kiː/",
+        "meaning_phrase": "Con tàu được neo ở bến cảng.",
+        "context": "Hàng hải"
+    },
+    {
+        "word": "rendezvous",
+        "ipa_word": "/ˈrɑːndɪvuː/",
+        "type": "Noun",
+        "meaning_word": "cuộc hẹn, điểm hẹn",
+        "phrase": "They had a secret rendezvous.",
+        "ipa_phrase": "/ðeɪ hæd ə ˈsiːkrət ˈrɑːndɪvuː/",
+        "meaning_phrase": "Họ có một cuộc hẹn bí mật.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "salmon",
+        "ipa_word": "/ˈsæmən/",
+        "type": "Noun",
+        "meaning_word": "cá hồi",
+        "phrase": "We had grilled salmon for dinner.",
+        "ipa_phrase": "/wi hæd ɡrɪld ˈsæmən fər ˈdɪnər/",
+        "meaning_phrase": "Chúng tôi ăn cá hồi nướng cho bữa tối.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "subtle",
+        "ipa_word": "/ˈsʌtl/",
+        "type": "Adj",
+        "meaning_word": "tinh tế, khó thấy",
+        "phrase": "She made a subtle suggestion.",
+        "ipa_phrase": "/ʃi meɪd ə ˈsʌtl səɡˈdʒestʃən/",
+        "meaning_phrase": "Cô ấy đưa ra một gợi ý tinh tế.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "tsunami",
+        "ipa_word": "/tsuːˈnɑːmi/",
+        "type": "Noun",
+        "meaning_word": "sóng thần",
+        "phrase": "The tsunami caused great damage.",
+        "ipa_phrase": "/ðə tsuːˈnɑːmi kɔːzd ɡreɪt ˈdæmɪdʒ/",
+        "meaning_phrase": "Sóng thần gây ra thiệt hại lớn.",
+        "context": "Thiên tai"
+    },
+    {
+        "word": "victuals",
+        "ipa_word": "/ˈvɪtlz/",
+        "type": "Noun",
+        "meaning_word": "thực phẩm",
+        "phrase": "The victuals were stored in the cellar.",
+        "ipa_phrase": "/ðə ˈvɪtlz wər stɔːrd ɪn ðə ˈselər/",
+        "meaning_phrase": "Thực phẩm được cất trong hầm.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "yacht",
+        "ipa_word": "/jɒt/",
+        "type": "Noun",
+        "meaning_word": "du thuyền",
+        "phrase": "They own a luxury yacht.",
+        "ipa_phrase": "/ðeɪ oʊn ə ˈlʌkʃəri jɒt/",
+        "meaning_phrase": "Họ sở hữu một chiếc du thuyền sang trọng.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "aisle",
+        "ipa_word": "/aɪl/",
+        "type": "Noun",
+        "meaning_word": "lối đi (giữa hàng ghế, kệ)",
+        "phrase": "She walked down the aisle.",
+        "ipa_phrase": "/ʃi wɔːkt daʊn ði aɪl/",
+        "meaning_phrase": "Cô ấy đi dọc lối đi.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "colonel",
+        "ipa_word": "/ˈkɜːrnəl/",
+        "type": "Noun",
+        "meaning_word": "đại tá",
+        "phrase": "The colonel inspected the troops.",
+        "ipa_phrase": "/ðə ˈkɜːrnəl ɪnˈspektɪd ðə truːps/",
+        "meaning_phrase": "Vị đại tá kiểm tra quân đội.",
+        "context": "Quân đội"
+    },
+    {
+        "word": "epitome",
+        "ipa_word": "/ɪˈpɪtəmi/",
+        "type": "Noun",
+        "meaning_word": "hình mẫu hoàn hảo",
+        "phrase": "She is the epitome of kindness.",
+        "ipa_phrase": "/ʃi ɪz ði ɪˈpɪtəmi əv ˈkaɪndnəs/",
+        "meaning_phrase": "Cô ấy là hình mẫu của lòng tốt.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "fiancé",
+        "ipa_word": "/fiˈɑːnseɪ/",
+        "type": "Noun",
+        "meaning_word": "hôn phu",
+        "phrase": "Her fiancé is very supportive.",
+        "ipa_phrase": "/hɜːr fiˈɑːnseɪ ɪz ˈveri səˈpɔːrtɪv/",
+        "meaning_phrase": "Hôn phu của cô ấy rất ủng hộ.",
+        "context": "Gia đình"
+    },
+    {
+        "word": "gauge",
+        "ipa_word": "/ɡeɪdʒ/",
+        "type": "Noun",
+        "meaning_word": "đồng hồ đo",
+        "phrase": "Check the fuel gauge.",
+        "ipa_phrase": "/ʧek ðə fjuːəl ɡeɪdʒ/",
+        "meaning_phrase": "Kiểm tra đồng hồ đo nhiên liệu.",
+        "context": "Kỹ thuật"
+    },
+    {
+        "word": "heir",
+        "ipa_word": "/er/",
+        "type": "Noun",
+        "meaning_word": "người thừa kế",
+        "phrase": "He is the heir to the throne.",
+        "ipa_phrase": "/hi ɪz ði er tə ðə θroʊn/",
+        "meaning_phrase": "Anh ta là người thừa kế ngai vàng.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "kernel",
+        "ipa_word": "/ˈkɜːrnəl/",
+        "type": "Noun",
+        "meaning_word": "hạt nhân, lõi",
+        "phrase": "Each kernel of corn was golden.",
+        "ipa_phrase": "/iːʧ ˈkɜːrnəl əv kɔːrn wəz ˈɡoʊldən/",
+        "meaning_phrase": "Mỗi hạt ngô đều vàng óng.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "lament",
+        "ipa_word": "/ləˈment/",
+        "type": "Verb",
+        "meaning_word": "than khóc, thương tiếc",
+        "phrase": "They lamented the loss of their friend.",
+        "ipa_phrase": "/ðeɪ ləˈmentɪd ðə lɔːs əv ðɛr frɛnd/",
+        "meaning_phrase": "Họ than khóc cái chết của bạn mình.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "meringue",
+        "ipa_word": "/məˈræŋ/",
+        "type": "Noun",
+        "meaning_word": "bánh trứng đường",
+        "phrase": "She baked a lemon meringue pie.",
+        "ipa_phrase": "/ʃi beɪkt ə ˈlemən məˈræŋ paɪ/",
+        "meaning_phrase": "Cô ấy nướng một chiếc bánh chanh meringue.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "mnemonic",
+        "ipa_word": "/nɪˈmɑːnɪk/",
+        "type": "Noun",
+        "meaning_word": "mẹo ghi nhớ",
+        "phrase": "He used a mnemonic to remember names.",
+        "ipa_phrase": "/hi juːzd ə nɪˈmɑːnɪk tə rɪˈmembər neɪmz/",
+        "meaning_phrase": "Anh ấy dùng mẹo ghi nhớ để nhớ tên.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "plumber",
+        "ipa_word": "/ˈplʌmər/",
+        "type": "Noun",
+        "meaning_word": "thợ sửa ống nước",
+        "phrase": "The plumber fixed the leak.",
+        "ipa_phrase": "/ðə ˈplʌmər fɪkst ðə liːk/",
+        "meaning_phrase": "Người thợ sửa ống nước đã sửa chỗ rò rỉ.",
+        "context": "Công việc"
+    },
+    {
+        "word": "queue",
+        "ipa_word": "/kjuː/",
+        "type": "Noun",
+        "meaning_word": "hàng chờ",
+        "phrase": "We stood in a long queue.",
+        "ipa_phrase": "/wi stʊd ɪn ə lɔːŋ kjuː/",
+        "meaning_phrase": "Chúng tôi đứng trong một hàng chờ dài.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "rogue",
+        "ipa_word": "/roʊɡ/",
+        "type": "Noun",
+        "meaning_word": "kẻ lừa đảo, phá hoại",
+        "phrase": "A rogue trader caused huge losses.",
+        "ipa_phrase": "/ə roʊɡ ˈtreɪdər kɔːzd hjuːdʒ ˈlɔːsɪz/",
+        "meaning_phrase": "Một kẻ buôn gian gây ra thiệt hại lớn.",
+        "context": "Kinh tế"
+    },
+    {
+        "word": "sword",
+        "ipa_word": "/sɔːrd/",
+        "type": "Noun",
+        "meaning_word": "thanh kiếm",
+        "phrase": "He drew his sword.",
+        "ipa_phrase": "/hi druː hɪz sɔːrd/",
+        "meaning_phrase": "Anh ta rút kiếm.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "tryst",
+        "ipa_word": "/trɪst/",
+        "type": "Noun",
+        "meaning_word": "cuộc hẹn hò bí mật",
+        "phrase": "They arranged a midnight tryst.",
+        "ipa_phrase": "/ðeɪ əˈreɪndʒd ə ˈmɪdnaɪt trɪst/",
+        "meaning_phrase": "Họ sắp xếp một cuộc hẹn nửa đêm.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "vehement",
+        "ipa_word": "/ˈviːəmənt/",
+        "type": "Adj",
+        "meaning_word": "mãnh liệt",
+        "phrase": "She gave a vehement speech.",
+        "ipa_phrase": "/ʃi ɡeɪv ə ˈviːəmənt spiːtʃ/",
+        "meaning_phrase": "Cô ấy đã có một bài phát biểu mãnh liệt.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "wrangle",
+        "ipa_word": "/ˈræŋɡl/",
+        "type": "Verb",
+        "meaning_word": "tranh cãi",
+        "phrase": "They wrangled over money.",
+        "ipa_phrase": "/ðeɪ ˈræŋɡld ˈoʊvər ˈmʌni/",
+        "meaning_phrase": "Họ tranh cãi về tiền bạc.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "wrestle",
+        "ipa_word": "/ˈresl/",
+        "type": "Verb",
+        "meaning_word": "đấu vật",
+        "phrase": "He used to wrestle in high school.",
+        "ipa_phrase": "/hi juːzd tə ˈresl ɪn haɪ skuːl/",
+        "meaning_phrase": "Anh ta từng đấu vật ở trường trung học.",
+        "context": "Thể thao"
+    },
+    {
+        "word": "wrought",
+        "ipa_word": "/rɔːt/",
+        "type": "Adj",
+        "meaning_word": "được rèn, chế tác",
+        "phrase": "The gate was made of wrought iron.",
+        "ipa_phrase": "/ðə ɡeɪt wəz meɪd əv rɔːt ˈaɪərn/",
+        "meaning_phrase": "Cánh cổng được làm bằng sắt rèn.",
+        "context": "Vật liệu"
+    },
+    {
+        "word": "bourgeois",
+        "ipa_word": "/ˈbʊrʒwɑː/",
+        "type": "Adj",
+        "meaning_word": "thuộc giai cấp tư sản",
+        "phrase": "He lived a bourgeois lifestyle.",
+        "ipa_phrase": "/hi lɪvd ə ˈbʊrʒwɑː ˈlaɪfstaɪl/",
+        "meaning_phrase": "Anh ta sống một lối sống tư sản.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "cache",
+        "ipa_word": "/kæʃ/",
+        "type": "Noun",
+        "meaning_word": "bộ nhớ đệm; nơi cất giấu",
+        "phrase": "The browser cleared its cache.",
+        "ipa_phrase": "/ðə ˈbraʊzər klɪrd ɪts kæʃ/",
+        "meaning_phrase": "Trình duyệt đã xóa bộ nhớ đệm.",
+        "context": "Công nghệ"
+    },
+    {
+        "word": "coup",
+        "ipa_word": "/kuː/",
+        "type": "Noun",
+        "meaning_word": "cuộc đảo chính",
+        "phrase": "The coup changed the country.",
+        "ipa_phrase": "/ðə kuː ʧeɪndʒd ðə ˈkʌntri/",
+        "meaning_phrase": "Cuộc đảo chính đã thay đổi đất nước.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "debris",
+        "ipa_word": "/dəˈbriː/",
+        "type": "Noun",
+        "meaning_word": "mảnh vỡ, đống đổ nát",
+        "phrase": "The storm left a lot of debris.",
+        "ipa_phrase": "/ðə stɔːrm left ə lɑːt əv dəˈbriː/",
+        "meaning_phrase": "Cơn bão để lại nhiều đống đổ nát.",
+        "context": "Thiên tai"
+    },
+    {
+        "word": "hors d'oeuvre",
+        "ipa_word": "/ɔːr ˈdɜːrv/",
+        "type": "Noun",
+        "meaning_word": "món khai vị",
+        "phrase": "They served hors d'oeuvres before dinner.",
+        "ipa_phrase": "/ðeɪ sɜːrvd ɔːr ˈdɜːrvz bɪˈfɔːr ˈdɪnər/",
+        "meaning_phrase": "Họ phục vụ món khai vị trước bữa tối.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "debt",
+        "ipa_word": "/det/",
+        "type": "Noun",
+        "meaning_word": "khoản nợ",
+        "phrase": "He is in heavy debt.",
+        "ipa_phrase": "/hi ɪz ɪn ˈhevi det/",
+        "meaning_phrase": "Anh ấy đang mắc nợ nặng.",
+        "context": "Tài chính"
+    },
+    {
+        "word": "gnome",
+        "ipa_word": "/noʊm/",
+        "type": "Noun",
+        "meaning_word": "người lùn (trong truyện), thần lùn",
+        "phrase": "A gnome stood in the garden.",
+        "ipa_phrase": "/ə noʊm stʊd ɪn ðə ˈɡɑːrdən/",
+        "meaning_phrase": "Một chú thần lùn đứng trong vườn.",
+        "context": "Truyện cổ tích"
+    },
+    {
+        "word": "indict",
+        "ipa_word": "/ɪnˈdaɪt/",
+        "type": "Verb",
+        "meaning_word": "truy tố",
+        "phrase": "He was indicted for fraud.",
+        "ipa_phrase": "/hi wəz ɪnˈdaɪtɪd fər frɔːd/",
+        "meaning_phrase": "Anh ta bị truy tố vì tội lừa đảo.",
+        "context": "Pháp luật"
+    },
+    {
+        "word": "liaison",
+        "ipa_word": "/liˈeɪzɑːn/",
+        "type": "Noun",
+        "meaning_word": "người liên lạc",
+        "phrase": "She worked as a liaison officer.",
+        "ipa_phrase": "/ʃi wɜːrkt æz ə liˈeɪzɑːn ˈɔːfɪsər/",
+        "meaning_phrase": "Cô ấy làm sĩ quan liên lạc.",
+        "context": "Công việc"
+    },
+    {
+        "word": "segue",
+        "ipa_word": "/ˈseɡweɪ/",
+        "type": "Verb",
+        "meaning_word": "chuyển tiếp mượt mà",
+        "phrase": "The song segued into the next one.",
+        "ipa_phrase": "/ðə sɔːŋ ˈseɡweɪd ˈɪntuː ðə nekst wʌn/",
+        "meaning_phrase": "Bài hát chuyển tiếp sang bài tiếp theo.",
+        "context": "Âm nhạc"
+    },
+    {
+        "word": "victuals",
+        "ipa_word": "/ˈvɪtlz/",
+        "type": "Noun",
+        "meaning_word": "thực phẩm",
+        "phrase": "They packed victuals for the trip.",
+        "ipa_phrase": "/ðeɪ pækt ˈvɪtlz fər ðə trɪp/",
+        "meaning_phrase": "Họ đóng gói thực phẩm cho chuyến đi.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "wrath",
+        "ipa_word": "/ræθ/",
+        "type": "Noun",
+        "meaning_word": "cơn thịnh nộ",
+        "phrase": "He feared God's wrath.",
+        "ipa_phrase": "/hi fɪrd ɡɑːdz ræθ/",
+        "meaning_phrase": "Anh ta sợ cơn thịnh nộ của Chúa.",
+        "context": "Tôn giáo"
+    },
+    {
+        "word": "tsar",
+        "ipa_word": "/zɑːr/",
+        "type": "Noun",
+        "meaning_word": "Nga hoàng",
+        "phrase": "The tsar ruled Russia for centuries.",
+        "ipa_phrase": "/ðə zɑːr ruːld ˈrʌʃə fər ˈsentʃəriz/",
+        "meaning_phrase": "Nga hoàng cai trị nước Nga trong nhiều thế kỷ.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "yacht",
+        "ipa_word": "/jɒt/",
+        "type": "Noun",
+        "meaning_word": "du thuyền",
+        "phrase": "They sailed on a luxury yacht.",
+        "ipa_phrase": "/ðeɪ seɪld ɑːn ə ˈlʌkʃəri jɒt/",
+        "meaning_phrase": "Họ đi thuyền buồm sang trọng.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "rendezvous",
+        "ipa_word": "/ˈrɑːndɪvuː/",
+        "type": "Noun",
+        "meaning_word": "cuộc hẹn",
+        "phrase": "They arranged a secret rendezvous.",
+        "ipa_phrase": "/ðeɪ əˈreɪndʒd ə ˈsiːkrət ˈrɑːndɪvuː/",
+        "meaning_phrase": "Họ sắp xếp một cuộc hẹn bí mật.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "epitome",
+        "ipa_word": "/ɪˈpɪtəmi/",
+        "type": "Noun",
+        "meaning_word": "tấm gương hoàn hảo",
+        "phrase": "She is the epitome of grace.",
+        "ipa_phrase": "/ʃi ɪz ði ɪˈpɪtəmi əv ɡreɪs/",
+        "meaning_phrase": "Cô ấy là tấm gương của sự duyên dáng.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "aisle",
+        "ipa_word": "/aɪl/",
+        "type": "Noun",
+        "meaning_word": "lối đi",
+        "phrase": "She walked down the aisle.",
+        "ipa_phrase": "/ʃi wɔːkt daʊn ði aɪl/",
+        "meaning_phrase": "Cô ấy đi xuống lối đi.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "colonel",
+        "ipa_word": "/ˈkɜːrnəl/",
+        "type": "Noun",
+        "meaning_word": "đại tá",
+        "phrase": "The colonel gave the orders.",
+        "ipa_phrase": "/ðə ˈkɜːrnəl ɡeɪv ði ˈɔːrdərz/",
+        "meaning_phrase": "Vị đại tá đưa ra mệnh lệnh.",
+        "context": "Quân đội"
+    },
+    {
+        "word": "kernel",
+        "ipa_word": "/ˈkɜːrnəl/",
+        "type": "Noun",
+        "meaning_word": "hạt nhân, lõi",
+        "phrase": "A kernel of truth remained.",
+        "ipa_phrase": "/ə ˈkɜːrnəl əv truːθ rɪˈmeɪnd/",
+        "meaning_phrase": "Một phần sự thật vẫn còn.",
+        "context": "Ẩn dụ"
+    },
+    {
+        "word": "rogue",
+        "ipa_word": "/roʊɡ/",
+        "type": "Noun",
+        "meaning_word": "kẻ gian, kẻ lừa đảo",
+        "phrase": "A rogue trader was arrested.",
+        "ipa_phrase": "/ə roʊɡ ˈtreɪdər wəz əˈrestɪd/",
+        "meaning_phrase": "Một kẻ buôn gian bị bắt.",
+        "context": "Pháp luật"
+    },
+    {
+        "word": "ballet",
+        "ipa_word": "/bæˈleɪ/",
+        "type": "Noun",
+        "meaning_word": "múa ba lê",
+        "phrase": "She studied ballet for years.",
+        "ipa_phrase": "/ʃi ˈstʌdid bæˈleɪ fər jɪrz/",
+        "meaning_phrase": "Cô ấy học múa ba lê nhiều năm.",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "tsunami",
+        "ipa_word": "/tsuːˈnɑːmi/",
+        "type": "Noun",
+        "meaning_word": "sóng thần",
+        "phrase": "A tsunami hit the coast.",
+        "ipa_phrase": "/ə tsuːˈnɑːmi hɪt ðə koʊst/",
+        "meaning_phrase": "Một trận sóng thần đã đánh vào bờ biển.",
+        "context": "Thiên tai"
+    },
+    {
+        "word": "gnaw",
+        "ipa_word": "/nɔː/",
+        "type": "Verb",
+        "meaning_word": "gặm, nhấm",
+        "phrase": "The mouse gnawed the cheese.",
+        "ipa_phrase": "/ðə maʊs nɔːd ðə tʃiːz/",
+        "meaning_phrase": "Con chuột gặm pho mát.",
+        "context": "Động vật"
+    },
+    {
+        "word": "wrangle",
+        "ipa_word": "/ˈræŋɡl/",
+        "type": "Verb",
+        "meaning_word": "cãi lộn",
+        "phrase": "They wrangled over money.",
+        "ipa_phrase": "/ðeɪ ˈræŋɡld ˈoʊvər ˈmʌni/",
+        "meaning_phrase": "Họ cãi nhau về tiền.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "sword",
+        "ipa_word": "/sɔːrd/",
+        "type": "Noun",
+        "meaning_word": "thanh kiếm",
+        "phrase": "He drew his sword.",
+        "ipa_phrase": "/hi druː hɪz sɔːrd/",
+        "meaning_phrase": "Anh ta rút kiếm ra.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "subtle",
+        "ipa_word": "/ˈsʌtl/",
+        "type": "Adj",
+        "meaning_word": "tinh tế, khó nhận ra",
+        "phrase": "There was a subtle difference.",
+        "ipa_phrase": "/ðɛr wəz ə ˈsʌtl ˈdɪfrəns/",
+        "meaning_phrase": "Có một sự khác biệt tinh tế.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "meringue",
+        "ipa_word": "/məˈræŋ/",
+        "type": "Noun",
+        "meaning_word": "món bánh trứng đường",
+        "phrase": "She made a meringue dessert.",
+        "ipa_phrase": "/ʃi meɪd ə məˈræŋ dɪˈzɜːrt/",
+        "meaning_phrase": "Cô ấy làm một món tráng miệng meringue.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "mnemonic",
+        "ipa_word": "/nɪˈmɑːnɪk/",
+        "type": "Noun",
+        "meaning_word": "mẹo ghi nhớ",
+        "phrase": "Use a mnemonic to study vocabulary.",
+        "ipa_phrase": "/juːz ə nɪˈmɑːnɪk tə ˈstʌdi vəˈkæbjələrɪ/",
+        "meaning_phrase": "Hãy dùng mẹo ghi nhớ để học từ vựng.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "depot",
+        "ipa_word": "/ˈdiːpoʊ/",
+        "type": "Noun",
+        "meaning_word": "ga, kho",
+        "phrase": "The bus depot is nearby.",
+        "ipa_phrase": "/ðə bʌs ˈdiːpoʊ ɪz ˈnɪrˌbaɪ/",
+        "meaning_phrase": "Bến xe buýt ở gần đây.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "ballet",
+        "ipa_word": "/bæˈleɪ/",
+        "type": "Noun",
+        "meaning_word": "múa ba lê",
+        "phrase": "She practices ballet every day.",
+        "ipa_phrase": "/ʃi ˈpræktɪsɪz bæˈleɪ ˈevri deɪ/",
+        "meaning_phrase": "Cô ấy tập múa ba lê mỗi ngày.",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "bourgeois",
+        "ipa_word": "/ˈbʊrʒwɑː/",
+        "type": "Adj",
+        "meaning_word": "trung lưu",
+        "phrase": "They lived a bourgeois lifestyle.",
+        "ipa_phrase": "/ðeɪ lɪvd ə ˈbʊrʒwɑː ˈlaɪfstaɪl/",
+        "meaning_phrase": "Họ sống một lối sống trung lưu.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "façade",
+        "ipa_word": "/fəˈsɑːd/",
+        "type": "Noun",
+        "meaning_word": "mặt tiền, vẻ ngoài",
+        "phrase": "The building has a beautiful façade.",
+        "ipa_phrase": "/ðə ˈbɪldɪŋ hæz ə ˈbjuːtəfəl fəˈsɑːd/",
+        "meaning_phrase": "Tòa nhà có mặt tiền đẹp.",
+        "context": "Kiến trúc"
+    },
+    {
+        "word": "genre",
+        "ipa_word": "/ˈʒɑːnrə/",
+        "type": "Noun",
+        "meaning_word": "thể loại",
+        "phrase": "What is your favorite genre?",
+        "ipa_phrase": "/wɑːt ɪz jʊr ˈfeɪvərɪt ˈʒɑːnrə/",
+        "meaning_phrase": "Thể loại yêu thích của bạn là gì?",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "hors d'oeuvre",
+        "ipa_word": "/ɔːr ˈdɜːrv/",
+        "type": "Noun",
+        "meaning_word": "món khai vị",
+        "phrase": "They served hors d'oeuvres before dinner.",
+        "ipa_phrase": "/ðeɪ sɜːrv ɔːr ˈdɜːrvz bɪˈfɔːr ˈdɪnər/",
+        "meaning_phrase": "Họ phục vụ món khai vị trước bữa tối.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "lingerie",
+        "ipa_word": "/ˌlɑːnʒəˈreɪ/",
+        "type": "Noun",
+        "meaning_word": "đồ lót phụ nữ",
+        "phrase": "The shop sells lingerie.",
+        "ipa_phrase": "/ðə ʃɑːp selz ˌlɑːnʒəˈreɪ/",
+        "meaning_phrase": "Cửa hàng bán đồ lót phụ nữ.",
+        "context": "Thời trang"
+    },
+    {
+        "word": "rogue",
+        "ipa_word": "/roʊɡ/",
+        "type": "Noun",
+        "meaning_word": "kẻ lừa đảo, kẻ gian",
+        "phrase": "He acted like a rogue.",
+        "ipa_phrase": "/hi ˈæktɪd laɪk ə roʊɡ/",
+        "meaning_phrase": "Anh ta hành xử như một kẻ gian.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "buffet",
+        "ipa_word": "/bəˈfeɪ/",
+        "type": "Noun",
+        "meaning_word": "tiệc đứng",
+        "phrase": "We enjoyed the hotel buffet.",
+        "ipa_phrase": "/wi ɪnˈdʒɔɪd ðə hoʊˈtel bəˈfeɪ/",
+        "meaning_phrase": "Chúng tôi thưởng thức tiệc buffet ở khách sạn.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "crochet",
+        "ipa_word": "/kroʊˈʃeɪ/",
+        "type": "Noun",
+        "meaning_word": "đan móc",
+        "phrase": "She learned crochet.",
+        "ipa_phrase": "/ʃi lɜrnd kroʊˈʃeɪ/",
+        "meaning_phrase": "Cô ấy học đan móc.",
+        "context": "Thủ công"
+    },
+    {
+        "word": "gauge",
+        "ipa_word": "/ɡeɪdʒ/",
+        "type": "Noun",
+        "meaning_word": "đồng hồ đo",
+        "phrase": "The gauge shows the pressure.",
+        "ipa_phrase": "/ðə ɡeɪdʒ ʃoʊz ðə ˈpreʃər/",
+        "meaning_phrase": "Đồng hồ đo hiển thị áp suất.",
+        "context": "Kỹ thuật"
+    },
+    {
+        "word": "lieutenant",
+        "ipa_word": "/lefˈtenənt/ (BrE), /luːˈtenənt/ (AmE)",
+        "type": "Noun",
+        "meaning_word": "trung úy",
+        "phrase": "He became a lieutenant in the army.",
+        "ipa_phrase": "/hi bɪˈkeɪm ə lefˈtenənt ɪn ði ˈɑːrmi/",
+        "meaning_phrase": "Anh ấy trở thành trung úy trong quân đội.",
+        "context": "Quân sự"
+    },
+    {
+        "word": "segue",
+        "ipa_word": "/ˈseɡweɪ/",
+        "type": "Verb",
+        "meaning_word": "chuyển tiếp",
+        "phrase": "He smoothly segued into another topic.",
+        "ipa_phrase": "/hi ˈsmuːðli ˈseɡweɪd ˈɪntu əˈnʌðər ˈtɑːpɪk/",
+        "meaning_phrase": "Anh ấy khéo léo chuyển sang một chủ đề khác.",
+        "context": "Ngôn ngữ"
+    },
+    {
+        "word": "viscount",
+        "ipa_word": "/ˈvaɪkaʊnt/",
+        "type": "Noun",
+        "meaning_word": "tước tử nam",
+        "phrase": "The viscount owned a castle.",
+        "ipa_phrase": "/ðə ˈvaɪkaʊnt oʊnd ə ˈkæsəl/",
+        "meaning_phrase": "Ngài tử nam sở hữu một lâu đài.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "fiancé",
+        "ipa_word": "/fiˈɑːnseɪ/",
+        "type": "Noun",
+        "meaning_word": "hôn phu",
+        "phrase": "She introduced her fiancé.",
+        "ipa_phrase": "/ʃi ˌɪntrəˈdjuːst hɜːr fiˈɑːnseɪ/",
+        "meaning_phrase": "Cô ấy giới thiệu hôn phu của mình.",
+        "context": "Gia đình"
+    },
+    {
+        "word": "heir",
+        "ipa_word": "/er/",
+        "type": "Noun",
+        "meaning_word": "người thừa kế",
+        "phrase": "He is the heir to the throne.",
+        "ipa_phrase": "/hi ɪz ði er tu ðə θroʊn/",
+        "meaning_phrase": "Anh ta là người thừa kế ngai vàng.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "almond",
+        "ipa_word": "/ˈɑːmənd/",
+        "type": "Noun",
+        "meaning_word": "hạnh nhân",
+        "phrase": "She ate some almonds.",
+        "ipa_phrase": "/ʃi eɪt səm ˈɑːməndz/",
+        "meaning_phrase": "Cô ấy ăn vài hạt hạnh nhân.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "leisure",
+        "ipa_word": "/ˈliːʒər/ (AmE), /ˈleʒər/ (BrE)",
+        "type": "Noun",
+        "meaning_word": "thời gian rảnh",
+        "phrase": "He enjoys reading in his leisure time.",
+        "ipa_phrase": "/hi ɪnˈdʒɔɪz ˈriːdɪŋ ɪn hɪz ˈleʒər taɪm/",
+        "meaning_phrase": "Anh ấy thích đọc sách vào thời gian rảnh.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "Rendezvous",
+        "ipa_word": "/ˈrɑːndɪvuː/",
+        "type": "Noun",
+        "meaning_word": "cuộc hẹn",
+        "phrase": "They had a secret rendezvous.",
+        "ipa_phrase": "/ðeɪ hæd ə ˈsiːkrət ˈrɑːndɪvuː/",
+        "meaning_phrase": "Họ có một cuộc hẹn bí mật.",
+        "context": "Quan hệ"
+    },
+    {
+        "word": "Colonel",
+        "ipa_word": "/ˈkɜːrnəl/",
+        "type": "Noun",
+        "meaning_word": "đại tá",
+        "phrase": "The colonel gave an order.",
+        "ipa_phrase": "/ðə ˈkɜːrnəl ɡeɪv ən ˈɔːrdər/",
+        "meaning_phrase": "Ngài đại tá ra lệnh.",
+        "context": "Quân sự"
+    },
+    {
+        "word": "Debut",
+        "ipa_word": "/ˈdeɪbjuː/",
+        "type": "Noun",
+        "meaning_word": "màn ra mắt",
+        "phrase": "She made her debut on stage.",
+        "ipa_phrase": "/ʃi meɪd hɜːr ˈdeɪbjuː ɑːn steɪdʒ/",
+        "meaning_phrase": "Cô ấy có màn ra mắt trên sân khấu.",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "Depot",
+        "ipa_word": "/ˈdiːpoʊ/",
+        "type": "Noun",
+        "meaning_word": "kho, ga",
+        "phrase": "The train stopped at the depot.",
+        "ipa_phrase": "/ðə treɪn stɑːpt æt ðə ˈdiːpoʊ/",
+        "meaning_phrase": "Con tàu dừng ở nhà ga.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "Rogue",
+        "ipa_word": "/roʊɡ/",
+        "type": "Noun",
+        "meaning_word": "kẻ lưu manh",
+        "phrase": "He was known as a rogue.",
+        "ipa_phrase": "/hi wəz noʊn æz ə roʊɡ/",
+        "meaning_phrase": "Anh ta được biết đến như một kẻ lưu manh.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "Draught",
+        "ipa_word": "/drɑːft/",
+        "type": "Noun",
+        "meaning_word": "gió lùa; bia hơi",
+        "phrase": "He ordered a pint of draught beer.",
+        "ipa_phrase": "/hi ˈɔːrdərd ə paɪnt əv drɑːft bɪr/",
+        "meaning_phrase": "Anh ấy gọi một cốc bia hơi.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "Yacht",
+        "ipa_word": "/jɑːt/",
+        "type": "Noun",
+        "meaning_word": "du thuyền",
+        "phrase": "They sailed on a yacht.",
+        "ipa_phrase": "/ðeɪ seɪld ɑːn ə jɑːt/",
+        "meaning_phrase": "Họ đi thuyền buồm trên một chiếc du thuyền.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "Aisle",
+        "ipa_word": "/aɪl/",
+        "type": "Noun",
+        "meaning_word": "lối đi giữa",
+        "phrase": "She walked down the aisle.",
+        "ipa_phrase": "/ʃi wɔːkt daʊn ði aɪl/",
+        "meaning_phrase": "Cô ấy bước xuống lối đi giữa.",
+        "context": "Đám cưới"
+    },
+    {
+        "word": "Cache",
+        "ipa_word": "/kæʃ/",
+        "type": "Noun",
+        "meaning_word": "bộ nhớ đệm",
+        "phrase": "Clear your browser cache.",
+        "ipa_phrase": "/klɪr jʊr ˈbraʊzər kæʃ/",
+        "meaning_phrase": "Hãy xóa bộ nhớ đệm trình duyệt.",
+        "context": "Công nghệ"
+    },
+    {
+        "word": "Quay",
+        "ipa_word": "/kiː/",
+        "type": "Noun",
+        "meaning_word": "bến cảng",
+        "phrase": "The ship docked at the quay.",
+        "ipa_phrase": "/ðə ʃɪp dɑːkt æt ðə kiː/",
+        "meaning_phrase": "Con tàu cập bến cảng.",
+        "context": "Hàng hải"
+    }
+]

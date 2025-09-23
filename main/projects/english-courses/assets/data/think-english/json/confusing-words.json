@@ -1,0 +1,3643 @@
+[
+    {
+        "word": "receipt",
+        "ipa_word": "/rɪˈsiːt/",
+        "type": "Noun",
+        "meaning_word": "hóa đơn, biên lai",
+        "phrase": "She kept the receipt in case she needed to return the shoes.",
+        "ipa_phrase": "/ʃiː kept ðə rɪˈsiːt ɪn keɪs ʃiː ˈniː.dɪd tuː rɪˈtɜːrn ðə ʃuːz/",
+        "meaning_phrase": "Cô ấy giữ hóa đơn phòng khi cần trả lại giày.",
+        "context": "Mua sắm"
+    },
+    {
+        "word": "recipe",
+        "ipa_word": "/ˈresəpi/",
+        "type": "Noun",
+        "meaning_word": "công thức nấu ăn",
+        "phrase": "I tried a new recipe for pasta yesterday.",
+        "ipa_phrase": "/aɪ traɪd ə njuː ˈresəpi fɔːr ˈpæstə ˈjestərdeɪ/",
+        "meaning_phrase": "Hôm qua tôi thử một công thức mới cho món mì ống.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "mirror",
+        "ipa_word": "/ˈmɪrər/",
+        "type": "Noun",
+        "meaning_word": "cái gương",
+        "phrase": "He looked at himself in the mirror.",
+        "ipa_phrase": "/hiː lʊkt æt hɪmˈself ɪn ðə ˈmɪrər/",
+        "meaning_phrase": "Anh ấy nhìn mình trong gương.",
+        "context": "Đồ vật"
+    },
+    {
+        "word": "minor",
+        "ipa_word": "/ˈmaɪnər/",
+        "type": "Noun/Adj",
+        "meaning_word": "người chưa đủ tuổi / nhỏ, không quan trọng",
+        "phrase": "In many countries, a person under 18 is considered a minor.",
+        "ipa_phrase": "/ɪn ˈmɛni ˈkʌntriz ə ˈpɜːrsn ˈʌndər eɪˈtiːn ɪz kənˈsɪdərd ə ˈmaɪnər/",
+        "meaning_phrase": "Ở nhiều nước, người dưới 18 tuổi được coi là trẻ vị thành niên.",
+        "context": "Luật pháp"
+    },
+    {
+        "word": "advise",
+        "ipa_word": "/ədˈvaɪz/",
+        "type": "Verb",
+        "meaning_word": "khuyên nhủ",
+        "phrase": "I advise you to take an umbrella.",
+        "ipa_phrase": "/aɪ ədˈvaɪz juː tuː teɪk ən ʌmˈbrelə/",
+        "meaning_phrase": "Tôi khuyên bạn mang theo ô.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "advice",
+        "ipa_word": "/ədˈvaɪs/",
+        "type": "Noun",
+        "meaning_word": "lời khuyên",
+        "phrase": "He gave me some good advice.",
+        "ipa_phrase": "/hiː ɡeɪv miː sʌm ɡʊd ədˈvaɪs/",
+        "meaning_phrase": "Anh ấy đưa cho tôi vài lời khuyên hay.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "complement",
+        "ipa_word": "/ˈkɑːmplɪment/",
+        "type": "Verb",
+        "meaning_word": "bổ sung, hoàn thiện",
+        "phrase": "This wine complements the meal perfectly.",
+        "ipa_phrase": "/ðɪs waɪn ˈkɑːmplɪˌments ðə miːl ˈpɜːrfɪktli/",
+        "meaning_phrase": "Loại rượu này bổ sung hoàn hảo cho bữa ăn.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "compliment",
+        "ipa_word": "/ˈkɑːmpləmənt/",
+        "type": "Noun",
+        "meaning_word": "lời khen",
+        "phrase": "She received a compliment on her dress.",
+        "ipa_phrase": "/ʃiː rɪˈsiːvd ə ˈkɑːmpləmənt ɑːn hər dres/",
+        "meaning_phrase": "Cô ấy nhận được một lời khen về chiếc váy.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "desert",
+        "ipa_word": "/ˈdezərt/",
+        "type": "Noun",
+        "meaning_word": "sa mạc",
+        "phrase": "Camels live in the desert.",
+        "ipa_phrase": "/ˈkæməlz lɪv ɪn ðə ˈdezərt/",
+        "meaning_phrase": "Lạc đà sống trong sa mạc.",
+        "context": "Địa lý"
+    },
+    {
+        "word": "dessert",
+        "ipa_word": "/dɪˈzɜːrt/",
+        "type": "Noun",
+        "meaning_word": "món tráng miệng",
+        "phrase": "We had ice cream for dessert.",
+        "ipa_phrase": "/wiː hæd aɪs kriːm fɔːr dɪˈzɜːrt/",
+        "meaning_phrase": "Chúng tôi ăn kem tráng miệng.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "affect",
+        "ipa_word": "/əˈfekt/",
+        "type": "Verb",
+        "meaning_word": "ảnh hưởng",
+        "phrase": "The weather can affect your mood.",
+        "ipa_phrase": "/ðə ˈweðər kæn əˈfekt jʊr muːd/",
+        "meaning_phrase": "Thời tiết có thể ảnh hưởng đến tâm trạng của bạn.",
+        "context": "Tâm lý học"
+    },
+    {
+        "word": "effect",
+        "ipa_word": "/ɪˈfekt/",
+        "type": "Noun",
+        "meaning_word": "tác động, kết quả",
+        "phrase": "The new law had a positive effect on education.",
+        "ipa_phrase": "/ðə njuː lɔː hæd ə ˈpɑːzətɪv ɪˈfekt ɑːn ˌedʒuˈkeɪʃn/",
+        "meaning_phrase": "Luật mới có tác động tích cực đến giáo dục.",
+        "context": "Luật pháp"
+    },
+    {
+        "word": "stationary",
+        "ipa_word": "/ˈsteɪʃəneri/",
+        "type": "Adj",
+        "meaning_word": "đứng yên, bất động",
+        "phrase": "The car remained stationary at the traffic light.",
+        "ipa_phrase": "/ðə kɑːr rɪˈmeɪnd ˈsteɪʃəˌneri æt ðə ˈtræfɪk laɪt/",
+        "meaning_phrase": "Chiếc xe đứng yên tại đèn giao thông.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "stationery",
+        "ipa_word": "/ˈsteɪʃəˌneri/",
+        "type": "Noun",
+        "meaning_word": "đồ văn phòng phẩm",
+        "phrase": "She bought some stationery for school.",
+        "ipa_phrase": "/ʃiː bɔːt sʌm ˈsteɪʃəˌneri fɔːr skuːl/",
+        "meaning_phrase": "Cô ấy mua một số đồ văn phòng phẩm cho trường học.",
+        "context": "Học tập"
+    },
+    {
+        "word": "lose",
+        "ipa_word": "/luːz/",
+        "type": "Verb",
+        "meaning_word": "mất, thua",
+        "phrase": "Don’t lose your keys again.",
+        "ipa_phrase": "/doʊnt luːz jʊr kiːz əˈɡen/",
+        "meaning_phrase": "Đừng để mất chìa khóa nữa.",
+        "context": "Cuộc sống hàng ngày"
+    },
+    {
+        "word": "loose",
+        "ipa_word": "/luːs/",
+        "type": "Adj",
+        "meaning_word": "lỏng lẻo",
+        "phrase": "The shirt is too loose for me.",
+        "ipa_phrase": "/ðə ʃɜːrt ɪz tuː luːs fɔːr miː/",
+        "meaning_phrase": "Chiếc áo này quá rộng so với tôi.",
+        "context": "Trang phục"
+    },
+    {
+        "word": "quiet",
+        "ipa_word": "/ˈkwaɪət/",
+        "type": "Adj",
+        "meaning_word": "yên lặng",
+        "phrase": "Please be quiet in the library.",
+        "ipa_phrase": "/pliːz biː ˈkwaɪət ɪn ðə ˈlaɪbreri/",
+        "meaning_phrase": "Làm ơn giữ yên lặng trong thư viện.",
+        "context": "Học tập"
+    },
+    {
+        "word": "quite",
+        "ipa_word": "/kwaɪt/",
+        "type": "Adv",
+        "meaning_word": "khá là",
+        "phrase": "This movie is quite interesting.",
+        "ipa_phrase": "/ðɪs ˈmuːvi ɪz kwaɪt ˈɪntrəstɪŋ/",
+        "meaning_phrase": "Bộ phim này khá thú vị.",
+        "context": "Giải trí"
+    },
+    {
+        "word": "then",
+        "ipa_word": "/ðen/",
+        "type": "Adv",
+        "meaning_word": "sau đó, khi đó",
+        "phrase": "First we went to the park, then we had lunch.",
+        "ipa_phrase": "/fɜːrst wiː went tuː ðə pɑːrk, ðen wiː hæd lʌntʃ/",
+        "meaning_phrase": "Đầu tiên chúng tôi đi công viên, sau đó chúng tôi ăn trưa.",
+        "context": "Kể chuyện"
+    },
+    {
+        "word": "than",
+        "ipa_word": "/ðæn/",
+        "type": "Conjunction",
+        "meaning_word": "so với",
+        "phrase": "She is taller than her brother.",
+        "ipa_phrase": "/ʃiː ɪz ˈtɔːlər ðæn hər ˈbrʌðər/",
+        "meaning_phrase": "Cô ấy cao hơn anh trai của mình.",
+        "context": "So sánh"
+    },
+    {
+        "word": "accept",
+        "ipa_word": "/əkˈsept/",
+        "type": "Verb",
+        "meaning_word": "chấp nhận",
+        "phrase": "He accepted the job offer.",
+        "ipa_phrase": "/hiː əkˈseptɪd ðə dʒɑːb ˈɔːfər/",
+        "meaning_phrase": "Anh ấy đã chấp nhận lời mời làm việc.",
+        "context": "Công việc"
+    },
+    {
+        "word": "except",
+        "ipa_word": "/ɪkˈsept/",
+        "type": "Preposition",
+        "meaning_word": "ngoại trừ",
+        "phrase": "Everyone went to the party except John.",
+        "ipa_phrase": "/ˈevriwʌn went tuː ðə ˈpɑːrti ɪkˈsept dʒɑːn/",
+        "meaning_phrase": "Mọi người đều đi dự tiệc ngoại trừ John.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "economic",
+        "ipa_word": "/ˌiːkəˈnɑːmɪk/",
+        "type": "Adj",
+        "meaning_word": "thuộc về kinh tế",
+        "phrase": "The country is facing economic challenges.",
+        "ipa_phrase": "/ðə ˈkʌntri ɪz ˈfeɪsɪŋ ˌiːkəˈnɑːmɪk ˈʧæləndʒɪz/",
+        "meaning_phrase": "Đất nước đang đối mặt với những thách thức kinh tế.",
+        "context": "Kinh tế"
+    },
+    {
+        "word": "economical",
+        "ipa_word": "/ˌiːkəˈnɑːmɪkl/",
+        "type": "Adj",
+        "meaning_word": "tiết kiệm",
+        "phrase": "This car is very economical to run.",
+        "ipa_phrase": "/ðɪs kɑːr ɪz ˈveri ˌiːkəˈnɑːmɪkl tuː rʌn/",
+        "meaning_phrase": "Chiếc xe này rất tiết kiệm chi phí vận hành.",
+        "context": "Cuộc sống hàng ngày"
+    },
+    {
+        "word": "borrow",
+        "ipa_word": "/ˈbɑːroʊ/",
+        "type": "Verb",
+        "meaning_word": "mượn",
+        "phrase": "Can I borrow your book?",
+        "ipa_phrase": "/kæn aɪ ˈbɑːroʊ jʊr bʊk/",
+        "meaning_phrase": "Tôi có thể mượn quyển sách của bạn không?",
+        "context": "Học tập"
+    },
+    {
+        "word": "lend",
+        "ipa_word": "/lend/",
+        "type": "Verb",
+        "meaning_word": "cho mượn",
+        "phrase": "She lent me her pen.",
+        "ipa_phrase": "/ʃiː lent miː hər pen/",
+        "meaning_phrase": "Cô ấy cho tôi mượn cây bút.",
+        "context": "Học tập"
+    },
+    {
+        "word": "historic",
+        "ipa_word": "/hɪˈstɔːrɪk/",
+        "type": "Adj",
+        "meaning_word": "có ý nghĩa lịch sử",
+        "phrase": "It was a historic moment for the nation.",
+        "ipa_phrase": "/ɪt wəz ə hɪˈstɔːrɪk ˈmoʊmənt fɔːr ðə ˈneɪʃn/",
+        "meaning_phrase": "Đó là một khoảnh khắc lịch sử đối với quốc gia.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "historical",
+        "ipa_word": "/hɪˈstɔːrɪkl/",
+        "type": "Adj",
+        "meaning_word": "thuộc về lịch sử",
+        "phrase": "She is reading a historical novel.",
+        "ipa_phrase": "/ʃiː ɪz ˈriːdɪŋ ə hɪˈstɔːrɪkl ˈnɑːvəl/",
+        "meaning_phrase": "Cô ấy đang đọc một cuốn tiểu thuyết lịch sử.",
+        "context": "Văn học"
+    },
+    {
+        "word": "emigrate",
+        "ipa_word": "/ˈemɪɡreɪt/",
+        "type": "Verb",
+        "meaning_word": "di cư (rời khỏi)",
+        "phrase": "Many people emigrated from Europe to America.",
+        "ipa_phrase": "/ˈmeni ˈpiːpl ˈemɪɡreɪtɪd frəm ˈjʊrəp tuː əˈmerɪkə/",
+        "meaning_phrase": "Nhiều người đã di cư từ châu Âu sang Mỹ.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "immigrate",
+        "ipa_word": "/ˈɪmɪɡreɪt/",
+        "type": "Verb",
+        "meaning_word": "nhập cư",
+        "phrase": "He immigrated to Canada in 2010.",
+        "ipa_phrase": "/hiː ˈɪmɪɡreɪtɪd tuː ˈkænədə ɪn tuː ˈθaʊznd ænd ten/",
+        "meaning_phrase": "Anh ấy nhập cư vào Canada năm 2010.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "sensitive",
+        "ipa_word": "/ˈsensətɪv/",
+        "type": "Adj",
+        "meaning_word": "nhạy cảm",
+        "phrase": "She is very sensitive to criticism.",
+        "ipa_phrase": "/ʃiː ɪz ˈveri ˈsensətɪv tuː ˈkrɪtɪsɪzəm/",
+        "meaning_phrase": "Cô ấy rất nhạy cảm với những lời chỉ trích.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "sensible",
+        "ipa_word": "/ˈsensəbl/",
+        "type": "Adj",
+        "meaning_word": "hợp lý, khôn ngoan",
+        "phrase": "It’s sensible to save money for the future.",
+        "ipa_phrase": "/ɪts ˈsensəbl tuː seɪv ˈmʌni fɔːr ðə ˈfjuːʧər/",
+        "meaning_phrase": "Tiết kiệm tiền cho tương lai là điều hợp lý.",
+        "context": "Cuộc sống hàng ngày"
+    },
+    {
+        "word": "personal",
+        "ipa_word": "/ˈpɜːrsənl/",
+        "type": "Adj",
+        "meaning_word": "cá nhân",
+        "phrase": "This is my personal opinion.",
+        "ipa_phrase": "/ðɪs ɪz maɪ ˈpɜːrsənl əˈpɪnjən/",
+        "meaning_phrase": "Đây là ý kiến cá nhân của tôi.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "personnel",
+        "ipa_word": "/ˌpɜːrsəˈnel/",
+        "type": "Noun",
+        "meaning_word": "nhân sự",
+        "phrase": "The company has over 200 personnel.",
+        "ipa_phrase": "/ðə ˈkʌmpəni hæz ˈoʊvər tuː ˈhʌndrəd ˌpɜːrsəˈnel/",
+        "meaning_phrase": "Công ty có hơn 200 nhân sự.",
+        "context": "Kinh doanh"
+    },
+    {
+        "word": "affluent",
+        "ipa_word": "/ˈæfluənt/",
+        "type": "Adj",
+        "meaning_word": "giàu có, sung túc",
+        "phrase": "They live in an affluent neighborhood.",
+        "ipa_phrase": "/ðeɪ lɪv ɪn æn ˈæfluənt ˈneɪbərhʊd/",
+        "meaning_phrase": "Họ sống trong một khu phố giàu có.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "effluent",
+        "ipa_word": "/ˈefluənt/",
+        "type": "Noun",
+        "meaning_word": "nước thải",
+        "phrase": "The factory released toxic effluent into the river.",
+        "ipa_phrase": "/ðə ˈfæktri rɪˈliːst ˈtɑːksɪk ˈefluənt ˈɪntuː ðə ˈrɪvər/",
+        "meaning_phrase": "Nhà máy thải nước độc hại ra sông.",
+        "context": "Môi trường"
+    },
+    {
+        "word": "ensure",
+        "ipa_word": "/ɪnˈʃʊr/",
+        "type": "Verb",
+        "meaning_word": "đảm bảo",
+        "phrase": "Please ensure that all doors are locked.",
+        "ipa_phrase": "/pliːz ɪnˈʃʊr ðæt ɔːl dɔːrz ɑːr lɑːkt/",
+        "meaning_phrase": "Hãy đảm bảo rằng tất cả các cửa đều đã khóa.",
+        "context": "Cuộc sống hàng ngày"
+    },
+    {
+        "word": "insure",
+        "ipa_word": "/ɪnˈʃʊr/",
+        "type": "Verb",
+        "meaning_word": "mua bảo hiểm",
+        "phrase": "He insured his car against accidents.",
+        "ipa_phrase": "/hiː ɪnˈʃʊrd hɪz kɑːr əˈɡenst ˈæksɪdənts/",
+        "meaning_phrase": "Anh ấy đã mua bảo hiểm cho xe ô tô của mình phòng tai nạn.",
+        "context": "Tài chính"
+    },
+    {
+        "word": "principal",
+        "ipa_word": "/ˈprɪnsəpl/",
+        "type": "Noun",
+        "meaning_word": "hiệu trưởng; khoản vốn",
+        "phrase": "The principal of the school gave a speech.",
+        "ipa_phrase": "/ðə ˈprɪnsəpl əv ðə skuːl ɡeɪv ə spiːʧ/",
+        "meaning_phrase": "Hiệu trưởng của trường đã phát biểu.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "principle",
+        "ipa_word": "/ˈprɪnsəpl/",
+        "type": "Noun",
+        "meaning_word": "nguyên tắc",
+        "phrase": "Honesty is an important principle in life.",
+        "ipa_phrase": "/ˈɑːnəsti ɪz æn ɪmˈpɔːrtnt ˈprɪnsəpl ɪn laɪf/",
+        "meaning_phrase": "Trung thực là một nguyên tắc quan trọng trong cuộc sống.",
+        "context": "Triết lý sống"
+    },
+    {
+        "word": "affectation",
+        "ipa_word": "/ˌæfekˈteɪʃn/",
+        "type": "Noun",
+        "meaning_word": "sự giả tạo, kiểu cách",
+        "phrase": "Her accent was just an affectation.",
+        "ipa_phrase": "/hɜːr ˈæksent wəz dʒʌst æn ˌæfekˈteɪʃn/",
+        "meaning_phrase": "Giọng của cô ấy chỉ là sự giả tạo.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "affection",
+        "ipa_word": "/əˈfekʃn/",
+        "type": "Noun",
+        "meaning_word": "tình cảm, sự yêu mến",
+        "phrase": "He shows great affection for his children.",
+        "ipa_phrase": "/hiː ʃoʊz ɡreɪt əˈfekʃn fɔːr hɪz ˈʧɪldrən/",
+        "meaning_phrase": "Anh ấy thể hiện tình cảm lớn dành cho các con.",
+        "context": "Gia đình"
+    },
+    {
+        "word": "appraise",
+        "ipa_word": "/əˈpreɪz/",
+        "type": "Verb",
+        "meaning_word": "đánh giá, định giá",
+        "phrase": "The jeweler appraised the diamond ring.",
+        "ipa_phrase": "/ðə ˈdʒuːlər əˈpreɪzd ðə ˈdaɪəmənd rɪŋ/",
+        "meaning_phrase": "Người thợ kim hoàn đã định giá chiếc nhẫn kim cương.",
+        "context": "Kinh doanh"
+    },
+    {
+        "word": "apprise",
+        "ipa_word": "/əˈpraɪz/",
+        "type": "Verb",
+        "meaning_word": "thông báo, báo tin",
+        "phrase": "Please apprise me of any changes.",
+        "ipa_phrase": "/pliːz əˈpraɪz miː əv ˈeni ˈʧeɪndʒɪz/",
+        "meaning_phrase": "Xin hãy thông báo cho tôi bất kỳ thay đổi nào.",
+        "context": "Giao tiếp công việc"
+    },
+    {
+        "word": "decent",
+        "ipa_word": "/ˈdiːsnt/",
+        "type": "Adj",
+        "meaning_word": "tốt, tử tế",
+        "phrase": "He is a very decent person.",
+        "ipa_phrase": "/hiː ɪz ə ˈveri ˈdiːsnt ˈpɜːrsn/",
+        "meaning_phrase": "Anh ấy là một người rất tử tế.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "descent",
+        "ipa_word": "/dɪˈsent/",
+        "type": "Noun",
+        "meaning_word": "sự hạ xuống; nguồn gốc",
+        "phrase": "The plane began its descent.",
+        "ipa_phrase": "/ðə pleɪn bɪˈɡæn ɪts dɪˈsent/",
+        "meaning_phrase": "Chiếc máy bay bắt đầu hạ cánh.",
+        "context": "Hàng không"
+    },
+    {
+        "word": "elicit",
+        "ipa_word": "/ɪˈlɪsɪt/",
+        "type": "Verb",
+        "meaning_word": "gợi ra, khơi gợi",
+        "phrase": "The teacher elicited answers from the students.",
+        "ipa_phrase": "/ðə ˈtiːʧər ɪˈlɪsɪtɪd ˈænsərz frəm ðə ˈstuːdənts/",
+        "meaning_phrase": "Giáo viên đã gợi ra câu trả lời từ học sinh.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "illicit",
+        "ipa_word": "/ɪˈlɪsɪt/",
+        "type": "Adj",
+        "meaning_word": "bất hợp pháp",
+        "phrase": "He was arrested for selling illicit drugs.",
+        "ipa_phrase": "/hiː wəz əˈrestɪd fɔːr ˈselɪŋ ɪˈlɪsɪt drʌɡz/",
+        "meaning_phrase": "Anh ấy bị bắt vì buôn bán ma túy bất hợp pháp.",
+        "context": "Luật pháp"
+    },
+    {
+        "word": "famous",
+        "ipa_word": "/ˈfeɪməs/",
+        "type": "Adj",
+        "meaning_word": "nổi tiếng",
+        "phrase": "She is a famous singer.",
+        "ipa_phrase": "/ʃiː ɪz ə ˈfeɪməs ˈsɪŋər/",
+        "meaning_phrase": "Cô ấy là một ca sĩ nổi tiếng.",
+        "context": "Giải trí"
+    },
+    {
+        "word": "notorious",
+        "ipa_word": "/noʊˈtɔːriəs/",
+        "type": "Adj",
+        "meaning_word": "khét tiếng (theo nghĩa xấu)",
+        "phrase": "The city is notorious for its traffic jams.",
+        "ipa_phrase": "/ðə ˈsɪti ɪz noʊˈtɔːriəs fɔːr ɪts ˈtræfɪk dʒæmz/",
+        "meaning_phrase": "Thành phố này khét tiếng vì tắc nghẽn giao thông.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "luxurious",
+        "ipa_word": "/lʌɡˈʒʊriəs/",
+        "type": "Adj",
+        "meaning_word": "sang trọng",
+        "phrase": "They stayed in a luxurious hotel.",
+        "ipa_phrase": "/ðeɪ steɪd ɪn ə lʌɡˈʒʊriəs hoʊˈtel/",
+        "meaning_phrase": "Họ ở trong một khách sạn sang trọng.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "luxuriant",
+        "ipa_word": "/lʌɡˈʒʊriənt/",
+        "type": "Adj",
+        "meaning_word": "sum suê, rậm rạp",
+        "phrase": "The garden is full of luxuriant plants.",
+        "ipa_phrase": "/ðə ˈɡɑːrdn ɪz fʊl əv lʌɡˈʒʊriənt plænts/",
+        "meaning_phrase": "Khu vườn đầy cây cối rậm rạp.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "moral",
+        "ipa_word": "/ˈmɔːrəl/",
+        "type": "Adj/Noun",
+        "meaning_word": "thuộc đạo đức; bài học",
+        "phrase": "The story teaches a moral lesson.",
+        "ipa_phrase": "/ðə ˈstɔːri ˈtiːʧɪz ə ˈmɔːrəl ˈlesn/",
+        "meaning_phrase": "Câu chuyện dạy một bài học đạo đức.",
+        "context": "Văn học"
+    },
+    {
+        "word": "morale",
+        "ipa_word": "/məˈræl/",
+        "type": "Noun",
+        "meaning_word": "tinh thần, nhuệ khí",
+        "phrase": "The team’s morale was high after the victory.",
+        "ipa_phrase": "/ðə tiːmz məˈræl wəz haɪ ˈæftər ðə ˈvɪktəri/",
+        "meaning_phrase": "Tinh thần của đội rất cao sau chiến thắng.",
+        "context": "Thể thao"
+    },
+    {
+        "word": "persecute",
+        "ipa_word": "/ˈpɜːrsɪkjuːt/",
+        "type": "Verb",
+        "meaning_word": "ngược đãi, đàn áp",
+        "phrase": "They were persecuted for their beliefs.",
+        "ipa_phrase": "/ðeɪ wɜːr ˈpɜːrsɪkjuːtɪd fɔːr ðer bɪˈliːfs/",
+        "meaning_phrase": "Họ bị đàn áp vì niềm tin của mình.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "prosecute",
+        "ipa_word": "/ˈprɑːsɪkjuːt/",
+        "type": "Verb",
+        "meaning_word": "khởi tố, truy tố",
+        "phrase": "The company was prosecuted for fraud.",
+        "ipa_phrase": "/ðə ˈkʌmpəni wəz ˈprɑːsɪkjuːtɪd fɔːr frɔːd/",
+        "meaning_phrase": "Công ty bị truy tố vì gian lận.",
+        "context": "Luật pháp"
+    },
+    {
+        "word": "sensible",
+        "ipa_word": "/ˈsensəbl/",
+        "type": "Adj",
+        "meaning_word": "hợp lý, biết điều",
+        "phrase": "It was sensible to save money for emergencies.",
+        "ipa_phrase": "/ɪt wəz ˈsensəbl tə seɪv ˈmʌni fɔːr ɪˈmɜːrdʒənsiz/",
+        "meaning_phrase": "Tiết kiệm tiền cho trường hợp khẩn cấp là hợp lý.",
+        "context": "Lối sống"
+    },
+    {
+        "word": "sensitive",
+        "ipa_word": "/ˈsensətɪv/",
+        "type": "Adj",
+        "meaning_word": "nhạy cảm",
+        "phrase": "He is sensitive to criticism.",
+        "ipa_phrase": "/hiː ɪz ˈsensətɪv tə ˈkrɪtɪsɪzəm/",
+        "meaning_phrase": "Anh ấy rất nhạy cảm với sự chỉ trích.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "stationary",
+        "ipa_word": "/ˈsteɪʃəneri/",
+        "type": "Adj",
+        "meaning_word": "đứng yên, bất động",
+        "phrase": "The car remained stationary at the traffic light.",
+        "ipa_phrase": "/ðə kɑːr rɪˈmeɪnd ˈsteɪʃəneri ət ðə ˈtræfɪk laɪt/",
+        "meaning_phrase": "Chiếc xe đứng yên tại đèn giao thông.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "stationery",
+        "ipa_word": "/ˈsteɪʃəneri/",
+        "type": "Noun",
+        "meaning_word": "đồ dùng văn phòng phẩm",
+        "phrase": "She bought some stationery for school.",
+        "ipa_phrase": "/ʃiː bɔːt sʌm ˈsteɪʃəneri fɔːr skuːl/",
+        "meaning_phrase": "Cô ấy mua một số đồ văn phòng phẩm cho trường học.",
+        "context": "Học tập"
+    },
+    {
+        "word": "emigrate",
+        "ipa_word": "/ˈemɪɡreɪt/",
+        "type": "Verb",
+        "meaning_word": "di cư (rời khỏi một nước)",
+        "phrase": "They decided to emigrate to Canada.",
+        "ipa_phrase": "/ðeɪ dɪˈsaɪdɪd tuː ˈemɪɡreɪt tuː ˈkænədə/",
+        "meaning_phrase": "Họ quyết định di cư sang Canada.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "immigrate",
+        "ipa_word": "/ˈɪmɪɡreɪt/",
+        "type": "Verb",
+        "meaning_word": "nhập cư (đến một nước mới)",
+        "phrase": "He immigrated to the United States in 2010.",
+        "ipa_phrase": "/hiː ˈɪmɪɡreɪtɪd tuː ðə juːˈnaɪtɪd steɪts ɪn ˈtwenti ten/",
+        "meaning_phrase": "Anh ấy nhập cư vào Mỹ năm 2010.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "compliment",
+        "ipa_word": "/ˈkɑːmplɪmənt/",
+        "type": "Noun/Verb",
+        "meaning_word": "lời khen, khen ngợi",
+        "phrase": "She received many compliments on her dress.",
+        "ipa_phrase": "/ʃiː rɪˈsiːvd ˈmɛni ˈkɑːmplɪmənts ɑːn hɜːr drɛs/",
+        "meaning_phrase": "Cô ấy nhận được nhiều lời khen về chiếc váy.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "complement",
+        "ipa_word": "/ˈkɑːmplɪment/",
+        "type": "Noun/Verb",
+        "meaning_word": "bổ sung, hoàn thiện",
+        "phrase": "This wine complements the meal perfectly.",
+        "ipa_phrase": "/ðɪs waɪn ˈkɑːmplɪments ðə miːl ˈpɜːrfɪktli/",
+        "meaning_phrase": "Rượu này bổ sung hoàn hảo cho bữa ăn.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "historic",
+        "ipa_word": "/hɪˈstɔːrɪk/",
+        "type": "Adj",
+        "meaning_word": "có tính lịch sử (quan trọng, ghi dấu mốc)",
+        "phrase": "It was a historic moment for the country.",
+        "ipa_phrase": "/ɪt wəz ə hɪˈstɔːrɪk ˈmoʊmənt fɔːr ðə ˈkʌntri/",
+        "meaning_phrase": "Đó là một khoảnh khắc lịch sử cho đất nước.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "historical",
+        "ipa_word": "/hɪˈstɔːrɪkl/",
+        "type": "Adj",
+        "meaning_word": "thuộc về lịch sử (liên quan đến quá khứ)",
+        "phrase": "He is reading a historical novel.",
+        "ipa_phrase": "/hiː ɪz ˈriːdɪŋ ə hɪˈstɔːrɪkl ˈnɑːvl/",
+        "meaning_phrase": "Anh ấy đang đọc một tiểu thuyết lịch sử.",
+        "context": "Văn học"
+    },
+    {
+        "word": "economic",
+        "ipa_word": "/ˌiːkəˈnɑːmɪk/",
+        "type": "Adj",
+        "meaning_word": "thuộc kinh tế",
+        "phrase": "The country is facing economic challenges.",
+        "ipa_phrase": "/ðə ˈkʌntri ɪz ˈfeɪsɪŋ ˌiːkəˈnɑːmɪk ˈʧælɪndʒɪz/",
+        "meaning_phrase": "Đất nước đang đối mặt với những thách thức kinh tế.",
+        "context": "Kinh tế"
+    },
+    {
+        "word": "economical",
+        "ipa_word": "/ˌiːkəˈnɑːmɪkl/",
+        "type": "Adj",
+        "meaning_word": "tiết kiệm, hiệu quả",
+        "phrase": "This car is very economical on fuel.",
+        "ipa_phrase": "/ðɪs kɑːr ɪz ˈvɛri ˌiːkəˈnɑːmɪkl ɑːn fjuːl/",
+        "meaning_phrase": "Chiếc xe này rất tiết kiệm nhiên liệu.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "disinterested",
+        "ipa_word": "/dɪsˈɪntrəstɪd/",
+        "type": "Adj",
+        "meaning_word": "khách quan, vô tư",
+        "phrase": "The judge must remain disinterested.",
+        "ipa_phrase": "/ðə ʤʌʤ məst rɪˈmeɪn dɪsˈɪntrəstɪd/",
+        "meaning_phrase": "Thẩm phán phải giữ thái độ khách quan.",
+        "context": "Luật pháp"
+    },
+    {
+        "word": "uninterested",
+        "ipa_word": "/ʌnˈɪntrəstɪd/",
+        "type": "Adj",
+        "meaning_word": "không quan tâm",
+        "phrase": "He seemed uninterested in the discussion.",
+        "ipa_phrase": "/hiː siːmd ʌnˈɪntrəstɪd ɪn ðə dɪsˈkʌʃən/",
+        "meaning_phrase": "Anh ấy có vẻ không quan tâm đến cuộc thảo luận.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "enquire",
+        "ipa_word": "/ɪnˈkwaɪər/",
+        "type": "Verb",
+        "meaning_word": "hỏi thăm, thắc mắc (thường dùng Anh-Anh)",
+        "phrase": "She enquired about the train schedule.",
+        "ipa_phrase": "/ʃiː ɪnˈkwaɪərd əˈbaʊt ðə treɪn ˈʃɛʤuːl/",
+        "meaning_phrase": "Cô ấy hỏi về lịch tàu.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "inquire",
+        "ipa_word": "/ɪnˈkwaɪər/",
+        "type": "Verb",
+        "meaning_word": "hỏi thông tin, điều tra (thường dùng Anh-Mỹ)",
+        "phrase": "He inquired about job opportunities.",
+        "ipa_phrase": "/hiː ɪnˈkwaɪərd əˈbaʊt ʤɑːb ˌɑːpərˈtuːnətiz/",
+        "meaning_phrase": "Anh ấy hỏi về cơ hội việc làm.",
+        "context": "Công việc"
+    },
+    {
+        "word": "raise",
+        "ipa_word": "/reɪz/",
+        "type": "Verb",
+        "meaning_word": "nâng lên; tăng",
+        "phrase": "They raised the flag at sunrise.",
+        "ipa_phrase": "/ðeɪ reɪzd ðə flæɡ æt ˈsʌnraɪz/",
+        "meaning_phrase": "Họ kéo lá cờ lên vào lúc bình minh.",
+        "context": "Hoạt động"
+    },
+    {
+        "word": "rise",
+        "ipa_word": "/raɪz/",
+        "type": "Verb",
+        "meaning_word": "tăng, mọc, đứng dậy",
+        "phrase": "The sun rises in the east.",
+        "ipa_phrase": "/ðə sʌn ˈraɪzɪz ɪn ði iːst/",
+        "meaning_phrase": "Mặt trời mọc ở phía đông.",
+        "context": "Tự nhiên"
+    },
+    {
+        "word": "desert",
+        "ipa_word": "/ˈdezərt/",
+        "type": "Noun",
+        "meaning_word": "sa mạc",
+        "phrase": "The Sahara is the largest hot desert in the world.",
+        "ipa_phrase": "/ðə səˈhɑːrə ɪz ðə ˈlɑːrdʒəst hɑːt ˈdezərt ɪn ðə wɜːrld/",
+        "meaning_phrase": "Sahara là sa mạc nóng lớn nhất thế giới.",
+        "context": "Địa lý"
+    },
+    {
+        "word": "dessert",
+        "ipa_word": "/dɪˈzɜːrt/",
+        "type": "Noun",
+        "meaning_word": "món tráng miệng",
+        "phrase": "We had ice cream for dessert.",
+        "ipa_phrase": "/wiː hæd aɪs kriːm fɔːr dɪˈzɜːrt/",
+        "meaning_phrase": "Chúng tôi ăn kem làm món tráng miệng.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "loose",
+        "ipa_word": "/luːs/",
+        "type": "Adj",
+        "meaning_word": "lỏng, rộng",
+        "phrase": "These shoes are too loose for me.",
+        "ipa_phrase": "/ðiːz ʃuːz ɑːr tuː luːs fɔːr miː/",
+        "meaning_phrase": "Đôi giày này quá rộng đối với tôi.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "lose",
+        "ipa_word": "/luːz/",
+        "type": "Verb",
+        "meaning_word": "mất, thua",
+        "phrase": "Be careful not to lose your keys.",
+        "ipa_phrase": "/bi ˈkerfl nɑːt tə luːz jɔːr kiːz/",
+        "meaning_phrase": "Hãy cẩn thận đừng để mất chìa khóa.",
+        "context": "Sinh hoạt"
+    },
+    {
+        "word": "later",
+        "ipa_word": "/ˈleɪtər/",
+        "type": "Adv",
+        "meaning_word": "sau đó",
+        "phrase": "I will call you later.",
+        "ipa_phrase": "/aɪ wɪl kɔːl juː ˈleɪtər/",
+        "meaning_phrase": "Tôi sẽ gọi cho bạn sau.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "latter",
+        "ipa_word": "/ˈlætər/",
+        "type": "Adj",
+        "meaning_word": "cái sau, phần sau",
+        "phrase": "Of the two options, I prefer the latter.",
+        "ipa_phrase": "/ʌv ðə tuː ˈɑːpʃənz, aɪ prɪˈfɜːr ðə ˈlætər/",
+        "meaning_phrase": "Trong hai lựa chọn, tôi thích cái sau hơn.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "quiet",
+        "ipa_word": "/ˈkwaɪət/",
+        "type": "Adj",
+        "meaning_word": "yên tĩnh",
+        "phrase": "The library is very quiet.",
+        "ipa_phrase": "/ðə ˈlaɪbreri ɪz ˈveri ˈkwaɪət/",
+        "meaning_phrase": "Thư viện rất yên tĩnh.",
+        "context": "Học tập"
+    },
+    {
+        "word": "quite",
+        "ipa_word": "/kwaɪt/",
+        "type": "Adv",
+        "meaning_word": "khá, hoàn toàn",
+        "phrase": "She is quite good at math.",
+        "ipa_phrase": "/ʃiː ɪz kwaɪt ɡʊd æt mæθ/",
+        "meaning_phrase": "Cô ấy khá giỏi toán.",
+        "context": "Học tập"
+    },
+    {
+        "word": "weather",
+        "ipa_word": "/ˈweðər/",
+        "type": "Noun",
+        "meaning_word": "thời tiết",
+        "phrase": "The weather is sunny today.",
+        "ipa_phrase": "/ðə ˈweðər ɪz ˈsʌni təˈdeɪ/",
+        "meaning_phrase": "Thời tiết hôm nay nắng.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "whether",
+        "ipa_word": "/ˈweðər/",
+        "type": "Conjunction",
+        "meaning_word": "liệu rằng",
+        "phrase": "I don’t know whether he will come.",
+        "ipa_phrase": "/aɪ doʊnt noʊ ˈweðər hiː wɪl kʌm/",
+        "meaning_phrase": "Tôi không biết liệu anh ấy có đến không.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "advise",
+        "ipa_word": "/ədˈvaɪz/",
+        "type": "Verb",
+        "meaning_word": "khuyên nhủ",
+        "phrase": "The doctor advised him to rest.",
+        "ipa_phrase": "/ðə ˈdɑːktər ədˈvaɪzd hɪm tə rɛst/",
+        "meaning_phrase": "Bác sĩ khuyên anh ấy nghỉ ngơi.",
+        "context": "Sức khỏe"
+    },
+    {
+        "word": "advice",
+        "ipa_word": "/ədˈvaɪs/",
+        "type": "Noun",
+        "meaning_word": "lời khuyên",
+        "phrase": "She gave me good advice.",
+        "ipa_phrase": "/ʃiː ɡeɪv miː ɡʊd ədˈvaɪs/",
+        "meaning_phrase": "Cô ấy đã cho tôi một lời khuyên hay.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "borrow",
+        "ipa_word": "/ˈbɑːroʊ/",
+        "type": "Verb",
+        "meaning_word": "mượn",
+        "phrase": "Can I borrow your book?",
+        "ipa_phrase": "/kæn aɪ ˈbɑːroʊ jɔːr bʊk/",
+        "meaning_phrase": "Tôi có thể mượn sách của bạn không?",
+        "context": "Học tập"
+    },
+    {
+        "word": "lend",
+        "ipa_word": "/lend/",
+        "type": "Verb",
+        "meaning_word": "cho mượn",
+        "phrase": "He lent me some money.",
+        "ipa_phrase": "/hiː lent miː sʌm ˈmʌni/",
+        "meaning_phrase": "Anh ấy đã cho tôi mượn một ít tiền.",
+        "context": "Tài chính"
+    },
+    {
+        "word": "affect",
+        "ipa_word": "/əˈfekt/",
+        "type": "Verb",
+        "meaning_word": "ảnh hưởng",
+        "phrase": "The weather can affect your mood.",
+        "ipa_phrase": "/ðə ˈweðər kæn əˈfekt jɔːr muːd/",
+        "meaning_phrase": "Thời tiết có thể ảnh hưởng đến tâm trạng của bạn.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "effect",
+        "ipa_word": "/ɪˈfekt/",
+        "type": "Noun",
+        "meaning_word": "tác động, hiệu quả",
+        "phrase": "The new law had a positive effect.",
+        "ipa_phrase": "/ðə nuː lɔː hæd ə ˈpɑːzətɪv ɪˈfekt/",
+        "meaning_phrase": "Luật mới có tác động tích cực.",
+        "context": "Luật pháp"
+    },
+    {
+        "word": "accept",
+        "ipa_word": "/əkˈsept/",
+        "type": "Verb",
+        "meaning_word": "chấp nhận",
+        "phrase": "She accepted the job offer.",
+        "ipa_phrase": "/ʃiː əkˈseptɪd ðə ʤɑːb ˈɔːfər/",
+        "meaning_phrase": "Cô ấy đã chấp nhận lời mời làm việc.",
+        "context": "Công việc"
+    },
+    {
+        "word": "except",
+        "ipa_word": "/ɪkˈsept/",
+        "type": "Preposition/Conjunction",
+        "meaning_word": "ngoại trừ",
+        "phrase": "Everyone was there except John.",
+        "ipa_phrase": "/ˈɛvrɪwʌn wəz ðer ɪkˈsept ʤɑːn/",
+        "meaning_phrase": "Mọi người đều có mặt ngoại trừ John.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "beside",
+        "ipa_word": "/bɪˈsaɪd/",
+        "type": "Preposition",
+        "meaning_word": "bên cạnh",
+        "phrase": "She sat beside her friend.",
+        "ipa_phrase": "/ʃiː sæt bɪˈsaɪd hɜːr frɛnd/",
+        "meaning_phrase": "Cô ấy ngồi cạnh bạn mình.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "besides",
+        "ipa_word": "/bɪˈsaɪdz/",
+        "type": "Preposition/Adverb",
+        "meaning_word": "ngoài ra",
+        "phrase": "Besides English, he speaks French.",
+        "ipa_phrase": "/bɪˈsaɪdz ˈɪŋɡlɪʃ, hi spiːks frɛntʃ/",
+        "meaning_phrase": "Ngoài tiếng Anh, anh ấy còn nói tiếng Pháp.",
+        "context": "Học tập"
+    },
+    {
+        "word": "emigrate",
+        "ipa_word": "/ˈemɪɡreɪt/",
+        "type": "Verb",
+        "meaning_word": "di cư (rời khỏi một nước)",
+        "phrase": "Many people emigrated from Europe to America.",
+        "ipa_phrase": "/ˈmɛni ˈpiːpl ˈemɪɡreɪtɪd frəm ˈjʊərəp tə əˈmerɪkə/",
+        "meaning_phrase": "Nhiều người đã di cư từ châu Âu sang Mỹ.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "immigrate",
+        "ipa_word": "/ˈɪmɪɡreɪt/",
+        "type": "Verb",
+        "meaning_word": "nhập cư (vào một nước)",
+        "phrase": "She immigrated to Canada last year.",
+        "ipa_phrase": "/ʃi ˈɪmɪɡreɪtɪd tə ˈkænədə læst jɪr/",
+        "meaning_phrase": "Cô ấy đã nhập cư vào Canada năm ngoái.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "economic",
+        "ipa_word": "/ˌekəˈnɑːmɪk/",
+        "type": "Adj",
+        "meaning_word": "thuộc kinh tế",
+        "phrase": "The country faces economic challenges.",
+        "ipa_phrase": "/ðə ˈkʌntri feɪsɪz ˌekəˈnɑːmɪk ˈʧælɪnʤɪz/",
+        "meaning_phrase": "Đất nước đối mặt với những thách thức kinh tế.",
+        "context": "Kinh tế"
+    },
+    {
+        "word": "economical",
+        "ipa_word": "/ˌekəˈnɑːmɪkl/",
+        "type": "Adj",
+        "meaning_word": "tiết kiệm, kinh tế",
+        "phrase": "This car is very economical on fuel.",
+        "ipa_phrase": "/ðɪs kɑːr ɪz ˈveri ˌekəˈnɑːmɪkl ɑːn fjuːəl/",
+        "meaning_phrase": "Chiếc xe này rất tiết kiệm nhiên liệu.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "historic",
+        "ipa_word": "/hɪˈstɔːrɪk/",
+        "type": "Adj",
+        "meaning_word": "mang tính lịch sử (quan trọng)",
+        "phrase": "It was a historic event.",
+        "ipa_phrase": "/ɪt wəz ə hɪˈstɔːrɪk ɪˈvent/",
+        "meaning_phrase": "Đó là một sự kiện lịch sử quan trọng.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "historical",
+        "ipa_word": "/hɪˈstɔːrɪkl/",
+        "type": "Adj",
+        "meaning_word": "thuộc về lịch sử (liên quan quá khứ)",
+        "phrase": "He enjoys reading historical novels.",
+        "ipa_phrase": "/hi ɪnˈʤɔɪz ˈriːdɪŋ hɪˈstɔːrɪkl ˈnɑːvlz/",
+        "meaning_phrase": "Anh ấy thích đọc tiểu thuyết lịch sử.",
+        "context": "Văn học"
+    },
+    {
+        "word": "personal",
+        "ipa_word": "/ˈpɜːrsənl/",
+        "type": "Adj",
+        "meaning_word": "cá nhân, riêng tư",
+        "phrase": "This is my personal opinion.",
+        "ipa_phrase": "/ðɪs ɪz maɪ ˈpɜːrsənl əˈpɪnjən/",
+        "meaning_phrase": "Đây là ý kiến cá nhân của tôi.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "personnel",
+        "ipa_word": "/ˌpɜːrsəˈnel/",
+        "type": "Noun",
+        "meaning_word": "nhân sự",
+        "phrase": "The company needs more trained personnel.",
+        "ipa_phrase": "/ðə ˈkʌmpəni niːdz mɔːr treɪnd ˌpɜːrsəˈnel/",
+        "meaning_phrase": "Công ty cần thêm nhân sự được đào tạo.",
+        "context": "Kinh doanh"
+    },
+    {
+        "word": "famous",
+        "ipa_word": "/ˈfeɪməs/",
+        "type": "Adj",
+        "meaning_word": "nổi tiếng (được biết đến rộng rãi)",
+        "phrase": "Paris is famous for its cuisine.",
+        "ipa_phrase": "/ˈpærɪs ɪz ˈfeɪməs fɔːr ɪts kwɪˈziːn/",
+        "meaning_phrase": "Paris nổi tiếng với ẩm thực.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "infamous",
+        "ipa_word": "/ˈɪnfəməs/",
+        "type": "Adj",
+        "meaning_word": "tai tiếng (nổi tiếng xấu)",
+        "phrase": "The city was infamous for its crime rate.",
+        "ipa_phrase": "/ðə ˈsɪti wəz ˈɪnfəməs fɔːr ɪts kraɪm reɪt/",
+        "meaning_phrase": "Thành phố đó từng khét tiếng vì tội phạm.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "complement",
+        "ipa_word": "/ˈkɑːmplɪment/",
+        "type": "Verb/Noun",
+        "meaning_word": "bổ sung, hoàn thiện",
+        "phrase": "The scarf complements her dress.",
+        "ipa_phrase": "/ðə skɑːrf ˈkɑːmplɪments hɜːr drɛs/",
+        "meaning_phrase": "Chiếc khăn làm tôn thêm bộ váy của cô ấy.",
+        "context": "Thời trang"
+    },
+    {
+        "word": "compliment",
+        "ipa_word": "/ˈkɑːmplɪmənt/",
+        "type": "Noun/Verb",
+        "meaning_word": "lời khen, khen ngợi",
+        "phrase": "He gave me a nice compliment.",
+        "ipa_phrase": "/hi ɡeɪv miː ə naɪs ˈkɑːmplɪmənt/",
+        "meaning_phrase": "Anh ấy đã dành cho tôi một lời khen dễ thương.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "principal",
+        "ipa_word": "/ˈprɪnsəpl/",
+        "type": "Noun/Adj",
+        "meaning_word": "hiệu trưởng; chính, chủ yếu",
+        "phrase": "The school principal gave a speech.",
+        "ipa_phrase": "/ðə skuːl ˈprɪnsəpl ɡeɪv ə spiːʧ/",
+        "meaning_phrase": "Hiệu trưởng đã phát biểu.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "principle",
+        "ipa_word": "/ˈprɪnsəpl/",
+        "type": "Noun",
+        "meaning_word": "nguyên tắc",
+        "phrase": "He is a man of strong principles.",
+        "ipa_phrase": "/hi ɪz ə mæn əv strɔːŋ ˈprɪnsəplz/",
+        "meaning_phrase": "Anh ấy là một người có nguyên tắc vững vàng.",
+        "context": "Đạo đức"
+    },
+    {
+        "word": "stationary",
+        "ipa_word": "/ˈsteɪʃəneri/",
+        "type": "Adj",
+        "meaning_word": "đứng yên, cố định",
+        "phrase": "The car remained stationary at the traffic light.",
+        "ipa_phrase": "/ðə kɑːr rɪˈmeɪnd ˈsteɪʃəneri æt ðə ˈtræfɪk laɪt/",
+        "meaning_phrase": "Chiếc xe đứng yên tại đèn giao thông.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "stationery",
+        "ipa_word": "/ˈsteɪʃəneri/",
+        "type": "Noun",
+        "meaning_word": "văn phòng phẩm",
+        "phrase": "She bought some stationery for school.",
+        "ipa_phrase": "/ʃi bɔːt sʌm ˈsteɪʃəneri fɔːr skuːl/",
+        "meaning_phrase": "Cô ấy mua một số đồ văn phòng phẩm cho trường học.",
+        "context": "Học tập"
+    },
+    {
+        "word": "practice",
+        "ipa_word": "/ˈpræktɪs/",
+        "type": "Noun",
+        "meaning_word": "sự thực hành",
+        "phrase": "You need more practice to improve.",
+        "ipa_phrase": "/juː niːd mɔːr ˈpræktɪs tə ɪmˈpruːv/",
+        "meaning_phrase": "Bạn cần thực hành nhiều hơn để tiến bộ.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "practise",
+        "ipa_word": "/ˈpræktɪs/",
+        "type": "Verb (UK)",
+        "meaning_word": "luyện tập",
+        "phrase": "She practises the piano every day.",
+        "ipa_phrase": "/ʃi ˈpræktɪsɪz ðə piˈænoʊ ˈevri deɪ/",
+        "meaning_phrase": "Cô ấy luyện đàn piano mỗi ngày.",
+        "context": "Âm nhạc"
+    },
+    {
+        "word": "affluent",
+        "ipa_word": "/ˈæfluənt/",
+        "type": "Adj",
+        "meaning_word": "giàu có",
+        "phrase": "They live in an affluent neighborhood.",
+        "ipa_phrase": "/ðeɪ lɪv ɪn ən ˈæfluənt ˈneɪbərhʊd/",
+        "meaning_phrase": "Họ sống trong một khu phố giàu có.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "effluent",
+        "ipa_word": "/ˈefluənt/",
+        "type": "Noun",
+        "meaning_word": "nước thải",
+        "phrase": "The factory released toxic effluent into the river.",
+        "ipa_phrase": "/ðə ˈfæktri rɪˈliːst ˈtɑːksɪk ˈefluənt ˈɪntuː ðə ˈrɪvər/",
+        "meaning_phrase": "Nhà máy xả nước thải độc hại ra sông.",
+        "context": "Môi trường"
+    },
+    {
+        "word": "illusion",
+        "ipa_word": "/ɪˈluːʒən/",
+        "type": "Noun",
+        "meaning_word": "ảo giác",
+        "phrase": "The magician created an amazing illusion.",
+        "ipa_phrase": "/ðə məˈʤɪʃən kriˈeɪtɪd ən əˈmeɪzɪŋ ɪˈluːʒən/",
+        "meaning_phrase": "Ảo thuật gia đã tạo ra một ảo giác tuyệt vời.",
+        "context": "Giải trí"
+    },
+    {
+        "word": "delusion",
+        "ipa_word": "/dɪˈluːʒən/",
+        "type": "Noun",
+        "meaning_word": "ảo tưởng, hoang tưởng",
+        "phrase": "He suffers from the delusion that he is famous.",
+        "ipa_phrase": "/hi ˈsʌfərz frəm ðə dɪˈluːʒən ðæt hi ɪz ˈfeɪməs/",
+        "meaning_phrase": "Anh ta mắc ảo tưởng rằng mình nổi tiếng.",
+        "context": "Tâm lý"
+    },
+    {
+        "word": "prescribe",
+        "ipa_word": "/prɪˈskraɪb/",
+        "type": "Verb",
+        "meaning_word": "kê đơn thuốc",
+        "phrase": "The doctor prescribed antibiotics.",
+        "ipa_phrase": "/ðə ˈdɑːktər prɪˈskraɪbd ˌæntibaɪˈɑːtɪks/",
+        "meaning_phrase": "Bác sĩ đã kê thuốc kháng sinh.",
+        "context": "Y tế"
+    },
+    {
+        "word": "proscribe",
+        "ipa_word": "/proʊˈskraɪb/",
+        "type": "Verb",
+        "meaning_word": "cấm, bài trừ",
+        "phrase": "Certain books were proscribed by the government.",
+        "ipa_phrase": "/ˈsɜːrtən bʊks wɜːr proʊˈskraɪbd baɪ ðə ˈɡʌvərnmənt/",
+        "meaning_phrase": "Một số sách bị chính phủ cấm.",
+        "context": "Luật pháp"
+    },
+    {
+        "word": "respectfully",
+        "ipa_word": "/rɪˈspɛktfəli/",
+        "type": "Adv",
+        "meaning_word": "một cách tôn trọng",
+        "phrase": "He bowed respectfully before the teacher.",
+        "ipa_phrase": "/hi baʊd rɪˈspɛktfəli bɪˈfɔːr ðə ˈtiːʧər/",
+        "meaning_phrase": "Anh ấy cúi chào một cách tôn trọng trước thầy giáo.",
+        "context": "Văn hóa"
+    },
+    {
+        "word": "respectively",
+        "ipa_word": "/rɪˈspɛktɪvli/",
+        "type": "Adv",
+        "meaning_word": "tương ứng",
+        "phrase": "The two brothers are 10 and 12 years old, respectively.",
+        "ipa_phrase": "/ðə tuː ˈbrʌðərz ɑːr tɛn ənd twɛlv jɪrz oʊld rɪˈspɛktɪvli/",
+        "meaning_phrase": "Hai anh em lần lượt 10 và 12 tuổi.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "human",
+        "ipa_word": "/ˈhjuːmən/",
+        "type": "Noun/Adj",
+        "meaning_word": "con người; thuộc về con người",
+        "phrase": "Humans need food and water to survive.",
+        "ipa_phrase": "/ˈhjuːmənz niːd fuːd ənd ˈwɔːtər tə sərˈvaɪv/",
+        "meaning_phrase": "Con người cần thức ăn và nước để tồn tại.",
+        "context": "Sinh học"
+    },
+    {
+        "word": "humane",
+        "ipa_word": "/hjuːˈmeɪn/",
+        "type": "Adj",
+        "meaning_word": "nhân đạo",
+        "phrase": "The organization promotes humane treatment of animals.",
+        "ipa_phrase": "/ði ˌɔːrgənaɪˈzeɪʃən prəˈmoʊts hjuːˈmeɪn ˈtriːtmənt əv ˈænɪməlz/",
+        "meaning_phrase": "Tổ chức thúc đẩy việc đối xử nhân đạo với động vật.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "appraise",
+        "ipa_word": "/əˈpreɪz/",
+        "type": "Verb",
+        "meaning_word": "đánh giá, thẩm định",
+        "phrase": "The jeweler appraised the diamond ring.",
+        "ipa_phrase": "/ðə ˈʤuːələr əˈpreɪzd ðə ˈdaɪəmənd rɪŋ/",
+        "meaning_phrase": "Thợ kim hoàn đã thẩm định chiếc nhẫn kim cương.",
+        "context": "Kinh doanh"
+    },
+    {
+        "word": "apprise",
+        "ipa_word": "/əˈpraɪz/",
+        "type": "Verb",
+        "meaning_word": "thông báo, báo cho biết",
+        "phrase": "Please apprise me of any changes.",
+        "ipa_phrase": "/pliːz əˈpraɪz mi əv ˈeni ˈʧeɪnʤɪz/",
+        "meaning_phrase": "Xin hãy thông báo cho tôi về bất kỳ thay đổi nào.",
+        "context": "Công việc"
+    },
+    {
+        "word": "eminent",
+        "ipa_word": "/ˈemɪnənt/",
+        "type": "Adj",
+        "meaning_word": "xuất sắc, kiệt xuất",
+        "phrase": "He is an eminent scientist.",
+        "ipa_phrase": "/hi ɪz ən ˈemɪnənt ˈsaɪəntɪst/",
+        "meaning_phrase": "Ông ấy là một nhà khoa học kiệt xuất.",
+        "context": "Khoa học"
+    },
+    {
+        "word": "imminent",
+        "ipa_word": "/ˈɪmɪnənt/",
+        "type": "Adj",
+        "meaning_word": "sắp xảy ra",
+        "phrase": "A storm is imminent.",
+        "ipa_phrase": "/ə stɔːrm ɪz ˈɪmɪnənt/",
+        "meaning_phrase": "Một cơn bão sắp xảy ra.",
+        "context": "Thời tiết"
+    },
+    {
+        "word": "conscience",
+        "ipa_word": "/ˈkɑːnʃəns/",
+        "type": "Noun",
+        "meaning_word": "lương tâm",
+        "phrase": "He has a guilty conscience.",
+        "ipa_phrase": "/hi hæz ə ˈɡɪlti ˈkɑːnʃəns/",
+        "meaning_phrase": "Anh ấy có lương tâm cắn rứt.",
+        "context": "Đạo đức"
+    },
+    {
+        "word": "conscious",
+        "ipa_word": "/ˈkɑːnʃəs/",
+        "type": "Adj",
+        "meaning_word": "có ý thức, tỉnh táo",
+        "phrase": "She was fully conscious after the surgery.",
+        "ipa_phrase": "/ʃi wəz ˈfʊli ˈkɑːnʃəs ˈæftər ðə ˈsɜːrʤəri/",
+        "meaning_phrase": "Cô ấy hoàn toàn tỉnh táo sau ca phẫu thuật.",
+        "context": "Y tế"
+    },
+    {
+        "word": "desirable",
+        "ipa_word": "/dɪˈzaɪərəbl/",
+        "type": "Adj",
+        "meaning_word": "đáng mong muốn",
+        "phrase": "A good education is highly desirable.",
+        "ipa_phrase": "/ə gʊd ˌɛʤuˈkeɪʃən ɪz ˈhaɪli dɪˈzaɪərəbl/",
+        "meaning_phrase": "Một nền giáo dục tốt là điều rất đáng mong muốn.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "undesirable",
+        "ipa_word": "/ˌʌndɪˈzaɪərəbl/",
+        "type": "Adj",
+        "meaning_word": "không mong muốn",
+        "phrase": "Smoking is considered undesirable.",
+        "ipa_phrase": "/ˈsmoʊkɪŋ ɪz kənˈsɪdərd ˌʌndɪˈzaɪərəbl/",
+        "meaning_phrase": "Hút thuốc được xem là điều không mong muốn.",
+        "context": "Sức khỏe"
+    },
+    {
+        "word": "applicant",
+        "ipa_word": "/ˈæplɪkənt/",
+        "type": "Noun",
+        "meaning_word": "người nộp đơn",
+        "phrase": "There were many applicants for the job.",
+        "ipa_phrase": "/ðer wər ˈmɛni ˈæplɪkənts fər ðə ʤɑːb/",
+        "meaning_phrase": "Có nhiều người nộp đơn xin việc.",
+        "context": "Công việc"
+    },
+    {
+        "word": "application",
+        "ipa_word": "/ˌæplɪˈkeɪʃən/",
+        "type": "Noun",
+        "meaning_word": "đơn xin, sự ứng dụng",
+        "phrase": "He submitted his job application yesterday.",
+        "ipa_phrase": "/hi səbˈmɪtɪd hɪz ʤɑːb ˌæplɪˈkeɪʃən ˈjɛstərˌdeɪ/",
+        "meaning_phrase": "Anh ấy đã nộp đơn xin việc ngày hôm qua.",
+        "context": "Công việc"
+    },
+    {
+        "word": "flesh",
+        "ipa_word": "/fleʃ/",
+        "type": "Noun",
+        "meaning_word": "thịt (cơ thể)",
+        "phrase": "The fish has soft white flesh.",
+        "ipa_phrase": "/ðə fɪʃ hæz sɑːft waɪt fleʃ/",
+        "meaning_phrase": "Cá có thịt trắng mềm.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "flash",
+        "ipa_word": "/flæʃ/",
+        "type": "Noun/Verb",
+        "meaning_word": "tia sáng, lóe sáng",
+        "phrase": "A flash of lightning lit up the sky.",
+        "ipa_phrase": "/ə flæʃ əv ˈlaɪtnɪŋ lɪt ʌp ðə skaɪ/",
+        "meaning_phrase": "Một tia chớp lóe sáng trên bầu trời.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "sensual",
+        "ipa_word": "/ˈsenʃuəl/",
+        "type": "Adj",
+        "meaning_word": "gợi cảm, liên quan đến giác quan",
+        "phrase": "The music had a sensual rhythm.",
+        "ipa_phrase": "/ðə ˈmjuːzɪk hæd ə ˈsenʃuəl ˈrɪðəm/",
+        "meaning_phrase": "Âm nhạc có nhịp điệu gợi cảm.",
+        "context": "Âm nhạc"
+    },
+    {
+        "word": "sensible",
+        "ipa_word": "/ˈsensəbl/",
+        "type": "Adj",
+        "meaning_word": "hợp lý, biết điều",
+        "phrase": "It is sensible to save money.",
+        "ipa_phrase": "/ɪt ɪz ˈsensəbl tə seɪv ˈmʌni/",
+        "meaning_phrase": "Tiết kiệm tiền là điều hợp lý.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "intensive",
+        "ipa_word": "/ɪnˈtensɪv/",
+        "type": "Adj",
+        "meaning_word": "tập trung, chuyên sâu",
+        "phrase": "She attended an intensive English course.",
+        "ipa_phrase": "/ʃi əˈtɛndɪd ən ɪnˈtensɪv ˈɪŋɡlɪʃ kɔːrs/",
+        "meaning_phrase": "Cô ấy tham gia một khóa học tiếng Anh chuyên sâu.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "extensive",
+        "ipa_word": "/ɪkˈstensɪv/",
+        "type": "Adj",
+        "meaning_word": "rộng rãi, bao quát",
+        "phrase": "The library has an extensive collection of books.",
+        "ipa_phrase": "/ðə ˈlaɪbrɛri hæz ən ɪkˈstensɪv kəˈlɛkʃən əv bʊks/",
+        "meaning_phrase": "Thư viện có bộ sưu tập sách rất phong phú.",
+        "context": "Học tập"
+    },
+    {
+        "word": "formally",
+        "ipa_word": "/ˈfɔːrməli/",
+        "type": "Adv",
+        "meaning_word": "một cách trang trọng",
+        "phrase": "He was formally dressed for the ceremony.",
+        "ipa_phrase": "/hi wəz ˈfɔːrməli drɛst fər ðə ˈserəməˌni/",
+        "meaning_phrase": "Anh ấy mặc trang trọng cho buổi lễ.",
+        "context": "Văn hóa"
+    },
+    {
+        "word": "formerly",
+        "ipa_word": "/ˈfɔːrmərli/",
+        "type": "Adv",
+        "meaning_word": "trước đây",
+        "phrase": "The city was formerly known as Saigon.",
+        "ipa_phrase": "/ðə ˈsɪti wəz ˈfɔːrmərli noʊn æz ˈsaɪˌɡɑːn/",
+        "meaning_phrase": "Thành phố trước đây được gọi là Sài Gòn.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "luxuriant",
+        "ipa_word": "/lʌɡˈʒʊriənt/",
+        "type": "Adj",
+        "meaning_word": "xum xuê, tươi tốt",
+        "phrase": "The garden was full of luxuriant plants.",
+        "ipa_phrase": "/ðə ˈɡɑːrdən wəz fʊl əv lʌɡˈʒʊriənt plænts/",
+        "meaning_phrase": "Khu vườn đầy những cây cối tươi tốt.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "luxurious",
+        "ipa_word": "/lʌɡˈʒʊriəs/",
+        "type": "Adj",
+        "meaning_word": "sang trọng",
+        "phrase": "They stayed at a luxurious hotel.",
+        "ipa_phrase": "/ðeɪ steɪd æt ə lʌɡˈʒʊriəs hoʊˈtɛl/",
+        "meaning_phrase": "Họ ở tại một khách sạn sang trọng.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "disease",
+        "ipa_word": "/dɪˈziːz/",
+        "type": "Noun",
+        "meaning_word": "căn bệnh",
+        "phrase": "Malaria is a serious disease.",
+        "ipa_phrase": "/məˈleriə ɪz ə ˈsɪriəs dɪˈziːz/",
+        "meaning_phrase": "Sốt rét là một căn bệnh nghiêm trọng.",
+        "context": "Y tế"
+    },
+    {
+        "word": "illness",
+        "ipa_word": "/ˈɪlnəs/",
+        "type": "Noun",
+        "meaning_word": "sự ốm, tình trạng bệnh",
+        "phrase": "She missed school because of illness.",
+        "ipa_phrase": "/ʃi mɪst skuːl bɪˈkɔːz əv ˈɪlnəs/",
+        "meaning_phrase": "Cô ấy nghỉ học vì bị ốm.",
+        "context": "Sức khỏe"
+    },
+    {
+        "word": "funny",
+        "ipa_word": "/ˈfʌni/",
+        "type": "Adj",
+        "meaning_word": "buồn cười",
+        "phrase": "That movie was really funny.",
+        "ipa_phrase": "/ðæt ˈmuːvi wəz ˈrɪəli ˈfʌni/",
+        "meaning_phrase": "Bộ phim đó thật sự buồn cười.",
+        "context": "Giải trí"
+    },
+    {
+        "word": "fun",
+        "ipa_word": "/fʌn/",
+        "type": "Noun/Adj",
+        "meaning_word": "niềm vui, thú vị",
+        "phrase": "We had a lot of fun at the party.",
+        "ipa_phrase": "/wi hæd ə lɑːt əv fʌn æt ðə ˈpɑːrti/",
+        "meaning_phrase": "Chúng tôi đã có rất nhiều niềm vui ở bữa tiệc.",
+        "context": "Giải trí"
+    },
+    {
+        "word": "dairy",
+        "ipa_word": "/ˈderi/",
+        "type": "Noun/Adj",
+        "meaning_word": "sữa, sản phẩm từ sữa",
+        "phrase": "She doesn’t eat dairy products.",
+        "ipa_phrase": "/ʃi ˈdʌznt iːt ˈderi ˈprɑːdʌkts/",
+        "meaning_phrase": "Cô ấy không ăn các sản phẩm từ sữa.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "diary",
+        "ipa_word": "/ˈdaɪəri/",
+        "type": "Noun",
+        "meaning_word": "nhật ký",
+        "phrase": "She writes in her diary every night.",
+        "ipa_phrase": "/ʃi raɪts ɪn hɜːr ˈdaɪəri ˈevri naɪt/",
+        "meaning_phrase": "Cô ấy viết nhật ký mỗi tối.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "advise",
+        "ipa_word": "/ədˈvaɪz/",
+        "type": "Verb",
+        "meaning_word": "khuyên bảo",
+        "phrase": "The doctor advised him to rest.",
+        "ipa_phrase": "/ðə ˈdɑːktər ədˈvaɪzd hɪm tə rɛst/",
+        "meaning_phrase": "Bác sĩ khuyên anh ấy nghỉ ngơi.",
+        "context": "Lời khuyên"
+    },
+    {
+        "word": "advice",
+        "ipa_word": "/ədˈvaɪs/",
+        "type": "Noun",
+        "meaning_word": "lời khuyên",
+        "phrase": "She gave me good advice.",
+        "ipa_phrase": "/ʃi ɡeɪv mi ɡʊd ədˈvaɪs/",
+        "meaning_phrase": "Cô ấy đã cho tôi lời khuyên tốt.",
+        "context": "Lời khuyên"
+    },
+    {
+        "word": "borrow",
+        "ipa_word": "/ˈbɑːroʊ/",
+        "type": "Verb",
+        "meaning_word": "mượn",
+        "phrase": "Can I borrow your pen?",
+        "ipa_phrase": "/kæn aɪ ˈbɑːroʊ jɔːr pɛn/",
+        "meaning_phrase": "Tôi có thể mượn bút của bạn không?",
+        "context": "Học tập"
+    },
+    {
+        "word": "lend",
+        "ipa_word": "/lend/",
+        "type": "Verb",
+        "meaning_word": "cho mượn",
+        "phrase": "She lent me some money.",
+        "ipa_phrase": "/ʃi lent mi sʌm ˈmʌni/",
+        "meaning_phrase": "Cô ấy cho tôi mượn một ít tiền.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "discover",
+        "ipa_word": "/dɪˈskʌvər/",
+        "type": "Verb",
+        "meaning_word": "khám phá ra",
+        "phrase": "He discovered a new species of bird.",
+        "ipa_phrase": "/hi dɪˈskʌvərd ə nuː ˈspiːʃiːz əv bɜːrd/",
+        "meaning_phrase": "Anh ấy đã khám phá ra một loài chim mới.",
+        "context": "Khoa học"
+    },
+    {
+        "word": "invent",
+        "ipa_word": "/ɪnˈvent/",
+        "type": "Verb",
+        "meaning_word": "phát minh",
+        "phrase": "Thomas Edison invented the light bulb.",
+        "ipa_phrase": "/ˈtɑːməs ˈɛdɪsən ɪnˈventɪd ðə laɪt bʌlb/",
+        "meaning_phrase": "Thomas Edison phát minh ra bóng đèn.",
+        "context": "Khoa học"
+    },
+    {
+        "word": "sympathetic",
+        "ipa_word": "/ˌsɪmpəˈθetɪk/",
+        "type": "Adj",
+        "meaning_word": "cảm thông",
+        "phrase": "She was sympathetic to his problems.",
+        "ipa_phrase": "/ʃi wəz ˌsɪmpəˈθetɪk tə hɪz ˈprɑːbləmz/",
+        "meaning_phrase": "Cô ấy cảm thông với những vấn đề của anh ấy.",
+        "context": "Tình cảm"
+    },
+    {
+        "word": "empathetic",
+        "ipa_word": "/ˌempəˈθetɪk/",
+        "type": "Adj",
+        "meaning_word": "thấu cảm",
+        "phrase": "A good leader is empathetic towards others.",
+        "ipa_phrase": "/ə ɡʊd ˈliːdər ɪz ˌempəˈθetɪk təˈwɔːrdz ˈʌðərz/",
+        "meaning_phrase": "Một nhà lãnh đạo giỏi thì thấu cảm với người khác.",
+        "context": "Tâm lý"
+    },
+    {
+        "word": "historic",
+        "ipa_word": "/hɪˈstɔːrɪk/",
+        "type": "Adj",
+        "meaning_word": "có tính lịch sử (quan trọng)",
+        "phrase": "It was a historic event.",
+        "ipa_phrase": "/ɪt wəz ə hɪˈstɔːrɪk ɪˈvent/",
+        "meaning_phrase": "Đó là một sự kiện lịch sử quan trọng.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "historical",
+        "ipa_word": "/hɪˈstɔːrɪkəl/",
+        "type": "Adj",
+        "meaning_word": "thuộc về lịch sử",
+        "phrase": "He wrote a historical novel.",
+        "ipa_phrase": "/hi roʊt ə hɪˈstɔːrɪkəl ˈnɑːvəl/",
+        "meaning_phrase": "Anh ấy viết một tiểu thuyết lịch sử.",
+        "context": "Văn học"
+    },
+    {
+        "word": "stationary",
+        "ipa_word": "/ˈsteɪʃəˌneri/",
+        "type": "Adj",
+        "meaning_word": "đứng yên, bất động",
+        "phrase": "The car remained stationary at the traffic light.",
+        "ipa_phrase": "/ðə kɑːr rɪˈmeɪnd ˈsteɪʃəˌneri æt ðə ˈtræfɪk laɪt/",
+        "meaning_phrase": "Chiếc xe đứng yên tại đèn giao thông.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "stationery",
+        "ipa_word": "/ˈsteɪʃəˌneri/",
+        "type": "Noun",
+        "meaning_word": "đồ dùng văn phòng phẩm",
+        "phrase": "She bought some stationery from the shop.",
+        "ipa_phrase": "/ʃi bɔːt sʌm ˈsteɪʃəˌneri frəm ðə ʃɑːp/",
+        "meaning_phrase": "Cô ấy đã mua một số văn phòng phẩm từ cửa hàng.",
+        "context": "Đồ dùng học tập"
+    },
+    {
+        "word": "credible",
+        "ipa_word": "/ˈkredəbl/",
+        "type": "Adj",
+        "meaning_word": "đáng tin cậy",
+        "phrase": "The witness gave a credible statement.",
+        "ipa_phrase": "/ðə ˈwɪtnəs ɡeɪv ə ˈkredəbl ˈsteɪtmənt/",
+        "meaning_phrase": "Nhân chứng đã đưa ra một lời khai đáng tin cậy.",
+        "context": "Pháp luật"
+    },
+    {
+        "word": "creditable",
+        "ipa_word": "/ˈkredɪtəbl/",
+        "type": "Adj",
+        "meaning_word": "đáng khen ngợi",
+        "phrase": "She made a creditable effort in the competition.",
+        "ipa_phrase": "/ʃi meɪd ə ˈkredɪtəbl ˈɛfərt ɪn ðə ˌkɑːmpəˈtɪʃən/",
+        "meaning_phrase": "Cô ấy đã nỗ lực đáng khen trong cuộc thi.",
+        "context": "Học tập"
+    },
+    {
+        "word": "compliment",
+        "ipa_word": "/ˈkɑːmplɪmənt/",
+        "type": "Noun",
+        "meaning_word": "lời khen ngợi",
+        "phrase": "He gave her a nice compliment.",
+        "ipa_phrase": "/hi ɡeɪv hɜːr ə naɪs ˈkɑːmplɪmənt/",
+        "meaning_phrase": "Anh ấy đã dành cho cô ấy một lời khen.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "complement",
+        "ipa_word": "/ˈkɑːmplɪˌment/",
+        "type": "Noun/Verb",
+        "meaning_word": "bổ sung, phần bù",
+        "phrase": "The wine perfectly complements the meal.",
+        "ipa_phrase": "/ðə waɪn ˈpɜːrfɪktli ˈkɑːmplɪˌmɛnts ðə miːl/",
+        "meaning_phrase": "Rượu vang bổ sung hoàn hảo cho bữa ăn.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "moral",
+        "ipa_word": "/ˈmɔːrəl/",
+        "type": "Adj/Noun",
+        "meaning_word": "thuộc đạo đức; bài học đạo đức",
+        "phrase": "The story has an important moral.",
+        "ipa_phrase": "/ðə ˈstɔːri hæz ən ɪmˈpɔːrtənt ˈmɔːrəl/",
+        "meaning_phrase": "Câu chuyện có một bài học đạo đức quan trọng.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "morale",
+        "ipa_word": "/məˈræl/",
+        "type": "Noun",
+        "meaning_word": "tinh thần, nhuệ khí",
+        "phrase": "The team's morale is very high.",
+        "ipa_phrase": "/ðə tiːmz məˈræl ɪz ˈvɛri haɪ/",
+        "meaning_phrase": "Tinh thần của đội rất cao.",
+        "context": "Làm việc nhóm"
+    },
+    {
+        "word": "respectful",
+        "ipa_word": "/rɪˈspektfl/",
+        "type": "Adj",
+        "meaning_word": "lễ phép, tôn trọng",
+        "phrase": "The students were respectful to their teacher.",
+        "ipa_phrase": "/ðə ˈstjuːdənts wər rɪˈspektfl tə ðer ˈtiːtʃər/",
+        "meaning_phrase": "Học sinh rất lễ phép với giáo viên của họ.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "respectable",
+        "ipa_word": "/rɪˈspektəbl/",
+        "type": "Adj",
+        "meaning_word": "đáng kính, đứng đắn",
+        "phrase": "He comes from a respectable family.",
+        "ipa_phrase": "/hi kʌmz frəm ə rɪˈspektəbl ˈfæməli/",
+        "meaning_phrase": "Anh ấy đến từ một gia đình đáng kính.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "recipe",
+        "ipa_word": "/ˈresəpi/",
+        "type": "Noun",
+        "meaning_word": "công thức nấu ăn",
+        "phrase": "I tried a new recipe for cake.",
+        "ipa_phrase": "/aɪ traɪd ə nuː ˈresəpi fər keɪk/",
+        "meaning_phrase": "Tôi đã thử một công thức bánh mới.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "receipt",
+        "ipa_word": "/rɪˈsiːt/",
+        "type": "Noun",
+        "meaning_word": "hóa đơn, biên lai",
+        "phrase": "Keep the receipt for a refund.",
+        "ipa_phrase": "/kiːp ðə rɪˈsiːt fər ə ˈriːfʌnd/",
+        "meaning_phrase": "Hãy giữ lại hóa đơn để được hoàn tiền.",
+        "context": "Mua sắm"
+    },
+    {
+        "word": "ingenious",
+        "ipa_word": "/ɪnˈdʒiːniəs/",
+        "type": "Adj",
+        "meaning_word": "khéo léo, tài tình",
+        "phrase": "She devised an ingenious solution.",
+        "ipa_phrase": "/ʃi dɪˈvaɪzd ən ɪnˈdʒiːniəs səˈluːʃən/",
+        "meaning_phrase": "Cô ấy nghĩ ra một giải pháp tài tình.",
+        "context": "Khoa học"
+    },
+    {
+        "word": "ingenuous",
+        "ipa_word": "/ɪnˈdʒenjuəs/",
+        "type": "Adj",
+        "meaning_word": "ngây thơ, thật thà",
+        "phrase": "He gave her an ingenuous smile.",
+        "ipa_phrase": "/hi ɡeɪv hɜːr ən ɪnˈdʒenjuəs smaɪl/",
+        "meaning_phrase": "Anh ấy trao cô ấy một nụ cười ngây thơ.",
+        "context": "Tình cảm"
+    },
+    {
+        "word": "principal",
+        "ipa_word": "/ˈprɪnsəpl/",
+        "type": "Noun/Adj",
+        "meaning_word": "hiệu trưởng; chính, chủ yếu",
+        "phrase": "The principal of the school gave a speech.",
+        "ipa_phrase": "/ðə ˈprɪnsəpl əv ðə skuːl ɡeɪv ə spiːʧ/",
+        "meaning_phrase": "Hiệu trưởng của trường đã phát biểu.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "principle",
+        "ipa_word": "/ˈprɪnsəpl/",
+        "type": "Noun",
+        "meaning_word": "nguyên tắc",
+        "phrase": "Honesty is an important principle.",
+        "ipa_phrase": "/ˈɑːnəsti ɪz ən ɪmˈpɔːrtənt ˈprɪnsəpl/",
+        "meaning_phrase": "Trung thực là một nguyên tắc quan trọng.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "economic",
+        "ipa_word": "/ˌekəˈnɑːmɪk/",
+        "type": "Adj",
+        "meaning_word": "thuộc về kinh tế",
+        "phrase": "The country is facing economic problems.",
+        "ipa_phrase": "/ðə ˈkʌntri ɪz ˈfeɪsɪŋ ˌekəˈnɑːmɪk ˈprɑːbləmz/",
+        "meaning_phrase": "Đất nước đang đối mặt với các vấn đề kinh tế.",
+        "context": "Kinh tế"
+    },
+    {
+        "word": "economical",
+        "ipa_word": "/ˌekəˈnɑːmɪkl/",
+        "type": "Adj",
+        "meaning_word": "tiết kiệm, kinh tế",
+        "phrase": "This car is very economical on fuel.",
+        "ipa_phrase": "/ðɪs kɑːr ɪz ˈvɛri ˌekəˈnɑːmɪkl ɑːn fjʊəl/",
+        "meaning_phrase": "Chiếc xe này rất tiết kiệm nhiên liệu.",
+        "context": "Kinh tế"
+    },
+    {
+        "word": "succeed",
+        "ipa_word": "/səkˈsiːd/",
+        "type": "Verb",
+        "meaning_word": "thành công",
+        "phrase": "She succeeded in passing the exam.",
+        "ipa_phrase": "/ʃi səkˈsiːdɪd ɪn ˈpæsɪŋ ði ɪɡˈzæm/",
+        "meaning_phrase": "Cô ấy đã thành công trong kỳ thi.",
+        "context": "Học tập"
+    },
+    {
+        "word": "success",
+        "ipa_word": "/səkˈses/",
+        "type": "Noun",
+        "meaning_word": "sự thành công",
+        "phrase": "His project was a big success.",
+        "ipa_phrase": "/hɪz ˈprɑːʤɛkt wəz ə bɪɡ səkˈses/",
+        "meaning_phrase": "Dự án của anh ấy là một thành công lớn.",
+        "context": "Học tập"
+    },
+    {
+        "word": "affect",
+        "ipa_word": "/əˈfekt/",
+        "type": "Verb",
+        "meaning_word": "ảnh hưởng",
+        "phrase": "The weather can affect our mood.",
+        "ipa_phrase": "/ðə ˈweðər kæn əˈfekt ˈaʊər muːd/",
+        "meaning_phrase": "Thời tiết có thể ảnh hưởng đến tâm trạng của chúng ta.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "effect",
+        "ipa_word": "/ɪˈfekt/",
+        "type": "Noun",
+        "meaning_word": "tác động, hiệu ứng",
+        "phrase": "The new law had a positive effect.",
+        "ipa_phrase": "/ðə nuː lɔː hæd ə ˈpɑːzətɪv ɪˈfekt/",
+        "meaning_phrase": "Luật mới có tác động tích cực.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "eminent",
+        "ipa_word": "/ˈemɪnənt/",
+        "type": "Adj",
+        "meaning_word": "nổi tiếng, xuất sắc",
+        "phrase": "He is an eminent scientist.",
+        "ipa_phrase": "/hi ɪz ən ˈemɪnənt ˈsaɪəntɪst/",
+        "meaning_phrase": "Ông ấy là một nhà khoa học nổi tiếng.",
+        "context": "Khoa học"
+    },
+    {
+        "word": "imminent",
+        "ipa_word": "/ˈɪmɪnənt/",
+        "type": "Adj",
+        "meaning_word": "sắp xảy ra",
+        "phrase": "A storm is imminent.",
+        "ipa_phrase": "/ə stɔːrm ɪz ˈɪmɪnənt/",
+        "meaning_phrase": "Một cơn bão sắp xảy ra.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "council",
+        "ipa_word": "/ˈkaʊnsl/",
+        "type": "Noun",
+        "meaning_word": "hội đồng",
+        "phrase": "The city council passed a new law.",
+        "ipa_phrase": "/ðə ˈsɪti ˈkaʊnsl pæst ə nuː lɔː/",
+        "meaning_phrase": "Hội đồng thành phố đã thông qua một luật mới.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "counsel",
+        "ipa_word": "/ˈkaʊnsl/",
+        "type": "Noun/Verb",
+        "meaning_word": "lời khuyên, tư vấn; tư vấn",
+        "phrase": "He sought counsel from his lawyer.",
+        "ipa_phrase": "/hi sɔːt ˈkaʊnsl frəm hɪz ˈlɔːjər/",
+        "meaning_phrase": "Anh ấy tìm kiếm lời khuyên từ luật sư của mình.",
+        "context": "Pháp luật"
+    },
+    {
+        "word": "advice",
+        "ipa_word": "/ədˈvaɪs/",
+        "type": "Noun",
+        "meaning_word": "lời khuyên",
+        "phrase": "She gave me good advice.",
+        "ipa_phrase": "/ʃi ɡeɪv mi ɡʊd ədˈvaɪs/",
+        "meaning_phrase": "Cô ấy đã cho tôi lời khuyên tốt.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "advise",
+        "ipa_word": "/ədˈvaɪz/",
+        "type": "Verb",
+        "meaning_word": "khuyên bảo",
+        "phrase": "The doctor advised him to rest.",
+        "ipa_phrase": "/ðə ˈdɑːktər ədˈvaɪzd hɪm tə rest/",
+        "meaning_phrase": "Bác sĩ khuyên anh ấy nghỉ ngơi.",
+        "context": "Sức khỏe"
+    },
+    {
+        "word": "borrow",
+        "ipa_word": "/ˈbɑːroʊ/",
+        "type": "Verb",
+        "meaning_word": "mượn",
+        "phrase": "Can I borrow your book?",
+        "ipa_phrase": "/kæn aɪ ˈbɑːroʊ jʊr bʊk/",
+        "meaning_phrase": "Tôi có thể mượn sách của bạn không?",
+        "context": "Đời sống"
+    },
+    {
+        "word": "lend",
+        "ipa_word": "/lend/",
+        "type": "Verb",
+        "meaning_word": "cho mượn",
+        "phrase": "He lent me some money.",
+        "ipa_phrase": "/hi lent mi səm ˈmʌni/",
+        "meaning_phrase": "Anh ấy đã cho tôi mượn ít tiền.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "sensible",
+        "ipa_word": "/ˈsensəbl/",
+        "type": "Adj",
+        "meaning_word": "hợp lý, biết điều",
+        "phrase": "That’s a sensible decision.",
+        "ipa_phrase": "/ðæts ə ˈsensəbl dɪˈsɪʒən/",
+        "meaning_phrase": "Đó là một quyết định hợp lý.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "sensitive",
+        "ipa_word": "/ˈsensətɪv/",
+        "type": "Adj",
+        "meaning_word": "nhạy cảm",
+        "phrase": "She is very sensitive to criticism.",
+        "ipa_phrase": "/ʃi ɪz ˈvɛri ˈsensətɪv tə ˈkrɪtɪsɪzəm/",
+        "meaning_phrase": "Cô ấy rất nhạy cảm với sự chỉ trích.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "historic",
+        "ipa_word": "/hɪˈstɔːrɪk/",
+        "type": "Adj",
+        "meaning_word": "có tính lịch sử, quan trọng",
+        "phrase": "It was a historic event.",
+        "ipa_phrase": "/ɪt wəz ə hɪˈstɔːrɪk ɪˈvent/",
+        "meaning_phrase": "Đó là một sự kiện lịch sử.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "historical",
+        "ipa_word": "/hɪˈstɔːrɪkl/",
+        "type": "Adj",
+        "meaning_word": "thuộc về lịch sử",
+        "phrase": "He is reading a historical novel.",
+        "ipa_phrase": "/hi ɪz ˈriːdɪŋ ə hɪˈstɔːrɪkl ˈnɑːvl/",
+        "meaning_phrase": "Anh ấy đang đọc một tiểu thuyết lịch sử.",
+        "context": "Văn học"
+    },
+    {
+        "word": "later",
+        "ipa_word": "/ˈleɪtər/",
+        "type": "Adv",
+        "meaning_word": "sau, muộn hơn",
+        "phrase": "I will call you later.",
+        "ipa_phrase": "/aɪ wɪl kɔːl ju ˈleɪtər/",
+        "meaning_phrase": "Tôi sẽ gọi cho bạn sau.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "latter",
+        "ipa_word": "/ˈlætər/",
+        "type": "Adj/Noun",
+        "meaning_word": "cái thứ hai, phần sau",
+        "phrase": "Of the two options, I prefer the latter.",
+        "ipa_phrase": "/ʌv ðə tuː ˈɑːpʃənz, aɪ prɪˈfɜːr ðə ˈlætər/",
+        "meaning_phrase": "Trong hai lựa chọn, tôi thích cái thứ hai hơn.",
+        "context": "So sánh"
+    },
+    {
+        "word": "stationary",
+        "ipa_word": "/ˈsteɪʃəneri/",
+        "type": "Adj",
+        "meaning_word": "đứng yên, cố định",
+        "phrase": "The car remained stationary.",
+        "ipa_phrase": "/ðə kɑːr rɪˈmeɪnd ˈsteɪʃəneri/",
+        "meaning_phrase": "Chiếc xe vẫn đứng yên.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "stationery",
+        "ipa_word": "/ˈsteɪʃəneri/",
+        "type": "Noun",
+        "meaning_word": "đồ dùng văn phòng phẩm",
+        "phrase": "She bought some stationery for school.",
+        "ipa_phrase": "/ʃi bɔːt səm ˈsteɪʃəneri fər skuːl/",
+        "meaning_phrase": "Cô ấy đã mua ít văn phòng phẩm cho trường.",
+        "context": "Học tập"
+    },
+    {
+        "word": "emigrate",
+        "ipa_word": "/ˈemɪɡreɪt/",
+        "type": "Verb",
+        "meaning_word": "di cư (rời đi)",
+        "phrase": "They emigrated to Canada in 1990.",
+        "ipa_phrase": "/ðeɪ ˈemɪɡreɪtɪd tə ˈkænədə ɪn naɪnˈtiːn ˈnaɪnti/",
+        "meaning_phrase": "Họ đã di cư sang Canada vào năm 1990.",
+        "context": "Di trú"
+    },
+    {
+        "word": "immigrate",
+        "ipa_word": "/ˈɪmɪɡreɪt/",
+        "type": "Verb",
+        "meaning_word": "nhập cư (đến)",
+        "phrase": "Many people immigrated to the US.",
+        "ipa_phrase": "/ˈmɛni ˈpiːpl ˈɪmɪɡreɪtɪd tə ði juː ˈes/",
+        "meaning_phrase": "Nhiều người đã nhập cư vào Mỹ.",
+        "context": "Di trú"
+    },
+    {
+        "word": "compliment",
+        "ipa_word": "/ˈkɑːmplɪmənt/",
+        "type": "Noun/Verb",
+        "meaning_word": "lời khen, khen ngợi",
+        "phrase": "She received many compliments on her dress.",
+        "ipa_phrase": "/ʃi rɪˈsiːvd ˈmɛni ˈkɑːmplɪmənts ɑːn hɜːr drɛs/",
+        "meaning_phrase": "Cô ấy nhận được nhiều lời khen về chiếc váy.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "complement",
+        "ipa_word": "/ˈkɑːmplɪment/",
+        "type": "Noun/Verb",
+        "meaning_word": "bổ sung, hoàn thiện",
+        "phrase": "The wine complements the meal perfectly.",
+        "ipa_phrase": "/ðə waɪn ˈkɑːmplɪments ðə miːl ˈpɜːrfɪktli/",
+        "meaning_phrase": "Rượu vang bổ sung cho bữa ăn một cách hoàn hảo.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "desert",
+        "ipa_word": "/ˈdezərt/",
+        "type": "Noun",
+        "meaning_word": "sa mạc",
+        "phrase": "The Sahara is the largest desert in the world.",
+        "ipa_phrase": "/ðə səˈhɑːrə ɪz ðə ˈlɑːrdʒəst ˈdezərt ɪn ðə wɜːrld/",
+        "meaning_phrase": "Sahara là sa mạc lớn nhất thế giới.",
+        "context": "Địa lý"
+    },
+    {
+        "word": "dessert",
+        "ipa_word": "/dɪˈzɜːrt/",
+        "type": "Noun",
+        "meaning_word": "món tráng miệng",
+        "phrase": "Ice cream is my favorite dessert.",
+        "ipa_phrase": "/aɪs kriːm ɪz maɪ ˈfeɪvərɪt dɪˈzɜːrt/",
+        "meaning_phrase": "Kem là món tráng miệng yêu thích của tôi.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "personal",
+        "ipa_word": "/ˈpɜːrsənl/",
+        "type": "Adj",
+        "meaning_word": "cá nhân",
+        "phrase": "This is my personal opinion.",
+        "ipa_phrase": "/ðɪs ɪz maɪ ˈpɜːrsənl əˈpɪnjən/",
+        "meaning_phrase": "Đây là ý kiến cá nhân của tôi.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "personnel",
+        "ipa_word": "/ˌpɜːrsəˈnel/",
+        "type": "Noun",
+        "meaning_word": "nhân sự",
+        "phrase": "The company has over 200 personnel.",
+        "ipa_phrase": "/ðə ˈkʌmpəni hæz ˈoʊvər tuː ˈhʌndrəd ˌpɜːrsəˈnel/",
+        "meaning_phrase": "Công ty có hơn 200 nhân viên.",
+        "context": "Công việc"
+    },
+    {
+        "word": "beside",
+        "ipa_word": "/bɪˈsaɪd/",
+        "type": "Prep",
+        "meaning_word": "bên cạnh",
+        "phrase": "She sat beside her friend.",
+        "ipa_phrase": "/ʃi sæt bɪˈsaɪd hɜːr frend/",
+        "meaning_phrase": "Cô ấy ngồi cạnh bạn mình.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "besides",
+        "ipa_word": "/bɪˈsaɪdz/",
+        "type": "Prep/Adv",
+        "meaning_word": "ngoài ra, hơn nữa",
+        "phrase": "Besides English, she speaks French.",
+        "ipa_phrase": "/bɪˈsaɪdz ˈɪŋɡlɪʃ, ʃi spiːks frentʃ/",
+        "meaning_phrase": "Ngoài tiếng Anh, cô ấy còn nói tiếng Pháp.",
+        "context": "Ngôn ngữ"
+    },
+    {
+        "word": "quiet",
+        "ipa_word": "/ˈkwaɪət/",
+        "type": "Adj",
+        "meaning_word": "yên tĩnh",
+        "phrase": "The library is very quiet.",
+        "ipa_phrase": "/ðə ˈlaɪbreri ɪz ˈvɛri ˈkwaɪət/",
+        "meaning_phrase": "Thư viện rất yên tĩnh.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "quite",
+        "ipa_word": "/kwaɪt/",
+        "type": "Adv",
+        "meaning_word": "khá, hoàn toàn",
+        "phrase": "The movie was quite interesting.",
+        "ipa_phrase": "/ðə ˈmuːvi wəz kwaɪt ˈɪntrəstɪŋ/",
+        "meaning_phrase": "Bộ phim khá thú vị.",
+        "context": "Giải trí"
+    },
+    {
+        "word": "lose",
+        "ipa_word": "/luːz/",
+        "type": "Verb",
+        "meaning_word": "mất, thua",
+        "phrase": "I don’t want to lose my keys.",
+        "ipa_phrase": "/aɪ doʊnt wɑːnt tə luːz maɪ kiːz/",
+        "meaning_phrase": "Tôi không muốn mất chìa khóa.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "loose",
+        "ipa_word": "/luːs/",
+        "type": "Adj",
+        "meaning_word": "lỏng lẻo",
+        "phrase": "These shoes are too loose.",
+        "ipa_phrase": "/ðiːz ʃuːz ɑːr tuː luːs/",
+        "meaning_phrase": "Đôi giày này quá rộng.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "economic",
+        "ipa_word": "/ˌiːkəˈnɑːmɪk/",
+        "type": "Adj",
+        "meaning_word": "thuộc về kinh tế",
+        "phrase": "The country faces economic problems.",
+        "ipa_phrase": "/ðə ˈkʌntri feɪsɪz ˌiːkəˈnɑːmɪk ˈprɑːbləmz/",
+        "meaning_phrase": "Đất nước đang đối mặt với các vấn đề kinh tế.",
+        "context": "Kinh tế"
+    },
+    {
+        "word": "economical",
+        "ipa_word": "/ˌekəˈnɑːmɪkl/",
+        "type": "Adj",
+        "meaning_word": "tiết kiệm",
+        "phrase": "This car is very economical on fuel.",
+        "ipa_phrase": "/ðɪs kɑːr ɪz ˈvɛri ˌekəˈnɑːmɪkl ɑːn fjuːəl/",
+        "meaning_phrase": "Chiếc xe này rất tiết kiệm nhiên liệu.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "remember",
+        "ipa_word": "/rɪˈmembər/",
+        "type": "Verb",
+        "meaning_word": "nhớ",
+        "phrase": "I remember his name.",
+        "ipa_phrase": "/aɪ rɪˈmembər hɪz neɪm/",
+        "meaning_phrase": "Tôi nhớ tên anh ấy.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "remind",
+        "ipa_word": "/rɪˈmaɪnd/",
+        "type": "Verb",
+        "meaning_word": "nhắc nhở",
+        "phrase": "Please remind me to call her.",
+        "ipa_phrase": "/pliːz rɪˈmaɪnd mi tə kɔːl hɜːr/",
+        "meaning_phrase": "Làm ơn nhắc tôi gọi cho cô ấy.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "luxurious",
+        "ipa_word": "/lʌɡˈʒʊriəs/",
+        "type": "Adj",
+        "meaning_word": "xa hoa, sang trọng",
+        "phrase": "They stayed in a luxurious hotel.",
+        "ipa_phrase": "/ðeɪ steɪd ɪn ə lʌɡˈʒʊriəs hoʊˈtel/",
+        "meaning_phrase": "Họ ở trong một khách sạn sang trọng.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "luxuriant",
+        "ipa_word": "/lʌɡˈʒʊriənt/",
+        "type": "Adj",
+        "meaning_word": "sum suê, phong phú",
+        "phrase": "The garden has luxuriant vegetation.",
+        "ipa_phrase": "/ðə ˈɡɑːrdn hæz lʌɡˈʒʊriənt ˌvedʒəˈteɪʃn/",
+        "meaning_phrase": "Khu vườn có thảm thực vật sum suê.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "appraise",
+        "ipa_word": "/əˈpreɪz/",
+        "type": "Verb",
+        "meaning_word": "đánh giá, thẩm định",
+        "phrase": "The jeweler appraised the diamond.",
+        "ipa_phrase": "/ðə ˈdʒuːələr əˈpreɪzd ðə ˈdaɪəmənd/",
+        "meaning_phrase": "Thợ kim hoàn đã thẩm định viên kim cương.",
+        "context": "Kinh doanh"
+    },
+    {
+        "word": "apprise",
+        "ipa_word": "/əˈpraɪz/",
+        "type": "Verb",
+        "meaning_word": "thông báo",
+        "phrase": "He apprised me of the situation.",
+        "ipa_phrase": "/hi əˈpraɪzd mi əv ðə ˌsɪtʃuˈeɪʃn/",
+        "meaning_phrase": "Anh ấy đã thông báo cho tôi về tình hình.",
+        "context": "Công việc"
+    },
+    {
+        "word": "conscious",
+        "ipa_word": "/ˈkɑːnʃəs/",
+        "type": "Adj",
+        "meaning_word": "tỉnh táo, có ý thức",
+        "phrase": "She remained conscious after the accident.",
+        "ipa_phrase": "/ʃi rɪˈmeɪnd ˈkɑːnʃəs ˈæftər ði ˈæksɪdənt/",
+        "meaning_phrase": "Cô ấy vẫn tỉnh táo sau tai nạn.",
+        "context": "Sức khỏe"
+    },
+    {
+        "word": "conscience",
+        "ipa_word": "/ˈkɑːnʃəns/",
+        "type": "Noun",
+        "meaning_word": "lương tâm",
+        "phrase": "He has a guilty conscience.",
+        "ipa_phrase": "/hi hæz ə ˈɡɪlti ˈkɑːnʃəns/",
+        "meaning_phrase": "Anh ấy có lương tâm cắn rứt.",
+        "context": "Đạo đức"
+    },
+    {
+        "word": "moral",
+        "ipa_word": "/ˈmɔːrəl/",
+        "type": "Adj/Noun",
+        "meaning_word": "đạo đức; bài học",
+        "phrase": "The story teaches a moral lesson.",
+        "ipa_phrase": "/ðə ˈstɔːri ˈtiːtʃɪz ə ˈmɔːrəl ˈlesn/",
+        "meaning_phrase": "Câu chuyện dạy một bài học đạo đức.",
+        "context": "Đạo đức"
+    },
+    {
+        "word": "morale",
+        "ipa_word": "/məˈræl/",
+        "type": "Noun",
+        "meaning_word": "tinh thần",
+        "phrase": "The team's morale is very high.",
+        "ipa_phrase": "/ðə tiːmz məˈræl ɪz ˈvɛri haɪ/",
+        "meaning_phrase": "Tinh thần của đội rất cao.",
+        "context": "Công việc"
+    },
+    {
+        "word": "prescribe",
+        "ipa_word": "/prɪˈskraɪb/",
+        "type": "Verb",
+        "meaning_word": "kê đơn thuốc",
+        "phrase": "The doctor prescribed antibiotics.",
+        "ipa_phrase": "/ðə ˈdɑːktər prɪˈskraɪbd ˌæntibaɪˈɑːtɪks/",
+        "meaning_phrase": "Bác sĩ kê đơn thuốc kháng sinh.",
+        "context": "Y học"
+    },
+    {
+        "word": "proscribe",
+        "ipa_word": "/proʊˈskraɪb/",
+        "type": "Verb",
+        "meaning_word": "cấm đoán",
+        "phrase": "The law proscribes smoking in public places.",
+        "ipa_phrase": "/ðə lɔː proʊˈskraɪbz ˈsmoʊkɪŋ ɪn ˈpʌblɪk ˈpleɪsɪz/",
+        "meaning_phrase": "Luật pháp cấm hút thuốc nơi công cộng.",
+        "context": "Luật pháp"
+    },
+    {
+        "word": "respectful",
+        "ipa_word": "/rɪˈspektfl/",
+        "type": "Adj",
+        "meaning_word": "lễ phép, tôn trọng",
+        "phrase": "The student was respectful to the teacher.",
+        "ipa_phrase": "/ðə ˈstuːdənt wəz rɪˈspektfl tə ðə ˈtiːtʃər/",
+        "meaning_phrase": "Học sinh đã lễ phép với giáo viên.",
+        "context": "Học tập"
+    },
+    {
+        "word": "respectable",
+        "ipa_word": "/rɪˈspektəbl/",
+        "type": "Adj",
+        "meaning_word": "đáng kính, đáng nể",
+        "phrase": "He comes from a respectable family.",
+        "ipa_phrase": "/hi kʌmz frəm ə rɪˈspektəbl ˈfæməli/",
+        "meaning_phrase": "Anh ấy xuất thân từ một gia đình đáng kính.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "ingenious",
+        "ipa_word": "/ɪnˈdʒiːniəs/",
+        "type": "Adj",
+        "meaning_word": "khéo léo, tài tình",
+        "phrase": "She designed an ingenious solution.",
+        "ipa_phrase": "/ʃi dɪˈzaɪnd ən ɪnˈdʒiːniəs səˈluːʃn/",
+        "meaning_phrase": "Cô ấy đã thiết kế một giải pháp tài tình.",
+        "context": "Khoa học"
+    },
+    {
+        "word": "ingenuous",
+        "ipa_word": "/ɪnˈdʒenjuəs/",
+        "type": "Adj",
+        "meaning_word": "ngây thơ, chân thật",
+        "phrase": "He gave an ingenuous smile.",
+        "ipa_phrase": "/hi ɡeɪv ən ɪnˈdʒenjuəs smaɪl/",
+        "meaning_phrase": "Anh ấy nở một nụ cười ngây thơ.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "healthy",
+        "ipa_word": "/ˈhelθi/",
+        "type": "Adj",
+        "meaning_word": "khỏe mạnh",
+        "phrase": "She is a healthy child.",
+        "ipa_phrase": "/ʃi ɪz ə ˈhelθi tʃaɪld/",
+        "meaning_phrase": "Cô bé là một đứa trẻ khỏe mạnh.",
+        "context": "Sức khỏe"
+    },
+    {
+        "word": "healthful",
+        "ipa_word": "/ˈhelθfl/",
+        "type": "Adj",
+        "meaning_word": "có lợi cho sức khỏe",
+        "phrase": "Vegetables are healthful foods.",
+        "ipa_phrase": "/ˈvedʒtəblz ɑːr ˈhelθfl fuːdz/",
+        "meaning_phrase": "Rau củ là thực phẩm có lợi cho sức khỏe.",
+        "context": "Dinh dưỡng"
+    },
+    {
+        "word": "imaginary",
+        "ipa_word": "/ɪˈmædʒɪneri/",
+        "type": "Adj",
+        "meaning_word": "tưởng tượng, hư cấu",
+        "phrase": "Children often have imaginary friends.",
+        "ipa_phrase": "/ˈtʃɪldrən ˈɔːfn hæv ɪˈmædʒɪneri frendz/",
+        "meaning_phrase": "Trẻ em thường có những người bạn tưởng tượng.",
+        "context": "Tâm lý"
+    },
+    {
+        "word": "imaginative",
+        "ipa_word": "/ɪˈmædʒɪnətɪv/",
+        "type": "Adj",
+        "meaning_word": "giàu trí tưởng tượng",
+        "phrase": "He is an imaginative writer.",
+        "ipa_phrase": "/hi ɪz ən ɪˈmædʒɪnətɪv ˈraɪtər/",
+        "meaning_phrase": "Anh ấy là một nhà văn giàu trí tưởng tượng.",
+        "context": "Văn học"
+    },
+    {
+        "word": "childlike",
+        "ipa_word": "/ˈtʃaɪldlaɪk/",
+        "type": "Adj",
+        "meaning_word": "ngây thơ, như trẻ con",
+        "phrase": "She has a childlike innocence.",
+        "ipa_phrase": "/ʃi hæz ə ˈtʃaɪldlaɪk ˈɪnəsns/",
+        "meaning_phrase": "Cô ấy có sự ngây thơ của trẻ nhỏ.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "childish",
+        "ipa_word": "/ˈtʃaɪldɪʃ/",
+        "type": "Adj",
+        "meaning_word": "trẻ con (tiêu cực)",
+        "phrase": "Stop being so childish!",
+        "ipa_phrase": "/stɑːp ˈbiːɪŋ soʊ ˈtʃaɪldɪʃ/",
+        "meaning_phrase": "Đừng cư xử trẻ con như vậy!",
+        "context": "Tính cách"
+    },
+    {
+        "word": "politic",
+        "ipa_word": "/ˈpɑːlətɪk/",
+        "type": "Adj",
+        "meaning_word": "khôn ngoan, thận trọng",
+        "phrase": "It was politic to remain silent.",
+        "ipa_phrase": "/ɪt wəz ˈpɑːlətɪk tə rɪˈmeɪn ˈsaɪlənt/",
+        "meaning_phrase": "Giữ im lặng là khôn ngoan.",
+        "context": "Chiến lược"
+    },
+    {
+        "word": "political",
+        "ipa_word": "/pəˈlɪtɪkl/",
+        "type": "Adj",
+        "meaning_word": "thuộc về chính trị",
+        "phrase": "He is active in political debates.",
+        "ipa_phrase": "/hi ɪz ˈæktɪv ɪn pəˈlɪtɪkl dɪˈbeɪts/",
+        "meaning_phrase": "Anh ấy tích cực tham gia các cuộc tranh luận chính trị.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "famous",
+        "ipa_word": "/ˈfeɪməs/",
+        "type": "Adj",
+        "meaning_word": "nổi tiếng",
+        "phrase": "Paris is famous for its fashion.",
+        "ipa_phrase": "/ˈpærɪs ɪz ˈfeɪməs fər ɪts ˈfæʃn/",
+        "meaning_phrase": "Paris nổi tiếng với thời trang.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "notorious",
+        "ipa_word": "/noʊˈtɔːriəs/",
+        "type": "Adj",
+        "meaning_word": "khét tiếng (tiêu cực)",
+        "phrase": "The area is notorious for crime.",
+        "ipa_phrase": "/ði ˈeriə ɪz noʊˈtɔːriəs fər kraɪm/",
+        "meaning_phrase": "Khu vực này khét tiếng về tội phạm.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "luxurious",
+        "ipa_word": "/lʌɡˈʒʊriəs/",
+        "type": "Adj",
+        "meaning_word": "sang trọng",
+        "phrase": "They stayed in a luxurious hotel.",
+        "ipa_phrase": "/ðeɪ steɪd ɪn ə lʌɡˈʒʊriəs hoʊˈtel/",
+        "meaning_phrase": "Họ ở trong một khách sạn sang trọng.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "luxuriant",
+        "ipa_word": "/lʌɡˈʒʊriənt/",
+        "type": "Adj",
+        "meaning_word": "tươi tốt, xum xuê",
+        "phrase": "The garden is full of luxuriant plants.",
+        "ipa_phrase": "/ðə ˈɡɑːrdn ɪz fʊl əv lʌɡˈʒʊriənt plænts/",
+        "meaning_phrase": "Khu vườn đầy cây cối xum xuê.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "economic",
+        "ipa_word": "/ˌiːkəˈnɑːmɪk/",
+        "type": "Adj",
+        "meaning_word": "thuộc kinh tế",
+        "phrase": "The country is facing economic challenges.",
+        "ipa_phrase": "/ðə ˈkʌntri ɪz ˈfeɪsɪŋ ˌiːkəˈnɑːmɪk ˈtʃælɪndʒɪz/",
+        "meaning_phrase": "Đất nước đang đối mặt với những thách thức kinh tế.",
+        "context": "Kinh tế"
+    },
+    {
+        "word": "economical",
+        "ipa_word": "/ˌiːkəˈnɑːmɪkl/",
+        "type": "Adj",
+        "meaning_word": "tiết kiệm, hiệu quả",
+        "phrase": "This car is very economical on fuel.",
+        "ipa_phrase": "/ðɪs kɑːr ɪz ˈvɛri ˌiːkəˈnɑːmɪkl ɑːn fjuːl/",
+        "meaning_phrase": "Chiếc xe này rất tiết kiệm nhiên liệu.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "historic",
+        "ipa_word": "/hɪˈstɔːrɪk/",
+        "type": "Adj",
+        "meaning_word": "có tính lịch sử (quan trọng)",
+        "phrase": "It was a historic moment for the nation.",
+        "ipa_phrase": "/ɪt wəz ə hɪˈstɔːrɪk ˈmoʊmənt fər ðə ˈneɪʃn/",
+        "meaning_phrase": "Đó là một khoảnh khắc lịch sử cho đất nước.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "historical",
+        "ipa_word": "/hɪˈstɔːrɪkl/",
+        "type": "Adj",
+        "meaning_word": "thuộc về lịch sử",
+        "phrase": "She is writing a historical novel.",
+        "ipa_phrase": "/ʃi ɪz ˈraɪtɪŋ ə hɪˈstɔːrɪkl ˈnɑːvl/",
+        "meaning_phrase": "Cô ấy đang viết một tiểu thuyết lịch sử.",
+        "context": "Văn học"
+    },
+    {
+        "word": "principle",
+        "ipa_word": "/ˈprɪnsəpl/",
+        "type": "Noun",
+        "meaning_word": "nguyên tắc",
+        "phrase": "He sticks to his moral principles.",
+        "ipa_phrase": "/hi stɪks tə hɪz ˈmɔːrəl ˈprɪnsəplz/",
+        "meaning_phrase": "Anh ấy luôn tuân theo các nguyên tắc đạo đức của mình.",
+        "context": "Đạo đức"
+    },
+    {
+        "word": "principal",
+        "ipa_word": "/ˈprɪnsəpl/",
+        "type": "Noun/Adj",
+        "meaning_word": "hiệu trưởng; chính, chủ yếu",
+        "phrase": "The school principal gave a speech.",
+        "ipa_phrase": "/ðə skuːl ˈprɪnsəpl ɡeɪv ə spiːtʃ/",
+        "meaning_phrase": "Hiệu trưởng nhà trường đã phát biểu.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "stationary",
+        "ipa_word": "/ˈsteɪʃəneri/",
+        "type": "Adj",
+        "meaning_word": "đứng yên, bất động",
+        "phrase": "The car remained stationary at the traffic light.",
+        "ipa_phrase": "/ðə kɑːr rɪˈmeɪnd ˈsteɪʃəneri ət ðə ˈtræfɪk laɪt/",
+        "meaning_phrase": "Chiếc xe đứng yên tại đèn giao thông.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "stationery",
+        "ipa_word": "/ˈsteɪʃəneri/",
+        "type": "Noun",
+        "meaning_word": "đồ dùng văn phòng phẩm",
+        "phrase": "I bought some new stationery.",
+        "ipa_phrase": "/aɪ bɔːt səm nuː ˈsteɪʃəneri/",
+        "meaning_phrase": "Tôi đã mua một số đồ dùng văn phòng phẩm mới.",
+        "context": "Văn phòng"
+    },
+    {
+        "word": "credible",
+        "ipa_word": "/ˈkredəbl/",
+        "type": "Adj",
+        "meaning_word": "đáng tin, hợp lý",
+        "phrase": "The witness gave a credible account.",
+        "ipa_phrase": "/ðə ˈwɪtnəs ɡeɪv ə ˈkredəbl əˈkaʊnt/",
+        "meaning_phrase": "Nhân chứng đã đưa ra một lời khai đáng tin.",
+        "context": "Luật pháp"
+    },
+    {
+        "word": "credulous",
+        "ipa_word": "/ˈkredʒələs/",
+        "type": "Adj",
+        "meaning_word": "dễ tin người, cả tin",
+        "phrase": "He was too credulous and believed the scam.",
+        "ipa_phrase": "/hi wəz tuː ˈkredʒələs ənd bɪˈliːvd ðə skæm/",
+        "meaning_phrase": "Anh ấy quá cả tin và đã tin vào trò lừa đảo.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "emigrate",
+        "ipa_word": "/ˈemɪɡreɪt/",
+        "type": "Verb",
+        "meaning_word": "di cư (rời khỏi quê hương)",
+        "phrase": "They emigrated to Canada in 1990.",
+        "ipa_phrase": "/ðeɪ ˈemɪɡreɪtɪd tə ˈkænədə ɪn naɪnˈtiːn ˈnaɪnti/",
+        "meaning_phrase": "Họ đã di cư sang Canada năm 1990.",
+        "context": "Di cư"
+    },
+    {
+        "word": "immigrate",
+        "ipa_word": "/ˈɪmɪɡreɪt/",
+        "type": "Verb",
+        "meaning_word": "nhập cư (đến quốc gia khác để sống)",
+        "phrase": "Many people immigrate to the US for work.",
+        "ipa_phrase": "/ˈmɛni ˈpiːpl ˈɪmɪɡreɪt tə ðə juː ɛs fər wɜːrk/",
+        "meaning_phrase": "Nhiều người nhập cư vào Mỹ để làm việc.",
+        "context": "Di cư"
+    },
+    {
+        "word": "human",
+        "ipa_word": "/ˈhjuːmən/",
+        "type": "Noun/Adj",
+        "meaning_word": "con người; thuộc về con người",
+        "phrase": "Humans need water to survive.",
+        "ipa_phrase": "/ˈhjuːmənz niːd ˈwɔːtər tə sərˈvaɪv/",
+        "meaning_phrase": "Con người cần nước để tồn tại.",
+        "context": "Sinh học"
+    },
+    {
+        "word": "humane",
+        "ipa_word": "/hjuːˈmeɪn/",
+        "type": "Adj",
+        "meaning_word": "nhân đạo, nhân từ",
+        "phrase": "The organization promotes humane treatment of animals.",
+        "ipa_phrase": "/ði ˌɔːrɡənəˈzeɪʃn prəˈmoʊts hjuːˈmeɪn ˈtriːtmənt əv ˈænɪmlz/",
+        "meaning_phrase": "Tổ chức thúc đẩy đối xử nhân đạo với động vật.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "loose",
+        "ipa_word": "/luːs/",
+        "type": "Adj",
+        "meaning_word": "lỏng, rộng",
+        "phrase": "The shirt is too loose for him.",
+        "ipa_phrase": "/ðə ʃɜːrt ɪz tuː luːs fər hɪm/",
+        "meaning_phrase": "Chiếc áo sơ mi quá rộng với anh ấy.",
+        "context": "Trang phục"
+    },
+    {
+        "word": "lose",
+        "ipa_word": "/luːz/",
+        "type": "Verb",
+        "meaning_word": "mất, thua",
+        "phrase": "Don’t lose your keys again.",
+        "ipa_phrase": "/doʊnt luːz jʊr kiːz əˈɡɛn/",
+        "meaning_phrase": "Đừng làm mất chìa khóa nữa.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "adapt",
+        "ipa_word": "/əˈdæpt/",
+        "type": "Verb",
+        "meaning_word": "thích nghi, điều chỉnh",
+        "phrase": "He quickly adapted to the new environment.",
+        "ipa_phrase": "/hi ˈkwɪkli əˈdæptɪd tə ðə nuː ɪnˈvaɪrənmənt/",
+        "meaning_phrase": "Anh ấy nhanh chóng thích nghi với môi trường mới.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "adopt",
+        "ipa_word": "/əˈdɑːpt/",
+        "type": "Verb",
+        "meaning_word": "nhận nuôi; áp dụng",
+        "phrase": "They adopted a child from Vietnam.",
+        "ipa_phrase": "/ðeɪ əˈdɑːptɪd ə tʃaɪld frəm ˌviːetˈnæm/",
+        "meaning_phrase": "Họ đã nhận nuôi một đứa trẻ từ Việt Nam.",
+        "context": "Gia đình"
+    },
+    {
+        "word": "classic",
+        "ipa_word": "/ˈklæsɪk/",
+        "type": "Adj/Noun",
+        "meaning_word": "kinh điển, mẫu mực",
+        "phrase": "This novel is a classic of literature.",
+        "ipa_phrase": "/ðɪs ˈnɑːvl ɪz ə ˈklæsɪk əv ˈlɪtərətʃər/",
+        "meaning_phrase": "Cuốn tiểu thuyết này là một tác phẩm kinh điển.",
+        "context": "Văn học"
+    },
+    {
+        "word": "classical",
+        "ipa_word": "/ˈklæsɪkl/",
+        "type": "Adj",
+        "meaning_word": "cổ điển (âm nhạc, văn hóa)",
+        "phrase": "She enjoys classical music.",
+        "ipa_phrase": "/ʃi ɪnˈdʒɔɪz ˈklæsɪkl ˈmjuːzɪk/",
+        "meaning_phrase": "Cô ấy thích nhạc cổ điển.",
+        "context": "Âm nhạc"
+    },
+    {
+        "word": "desert",
+        "ipa_word": "/ˈdezərt/",
+        "type": "Noun",
+        "meaning_word": "sa mạc",
+        "phrase": "The Sahara is the largest hot desert.",
+        "ipa_phrase": "/ðə səˈhɑːrə ɪz ðə ˈlɑːrdʒəst hɑːt ˈdezərt/",
+        "meaning_phrase": "Sahara là sa mạc nóng lớn nhất.",
+        "context": "Địa lý"
+    },
+    {
+        "word": "dessert",
+        "ipa_word": "/dɪˈzɜːrt/",
+        "type": "Noun",
+        "meaning_word": "món tráng miệng",
+        "phrase": "Ice cream is my favorite dessert.",
+        "ipa_phrase": "/aɪs kriːm ɪz maɪ ˈfeɪvərɪt dɪˈzɜːrt/",
+        "meaning_phrase": "Kem là món tráng miệng yêu thích của tôi.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "personal",
+        "ipa_word": "/ˈpɜːrsənl/",
+        "type": "Adj",
+        "meaning_word": "cá nhân",
+        "phrase": "This is my personal opinion.",
+        "ipa_phrase": "/ðɪs ɪz maɪ ˈpɜːrsənl əˈpɪnjən/",
+        "meaning_phrase": "Đây là ý kiến cá nhân của tôi.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "personnel",
+        "ipa_word": "/ˌpɜːrsəˈnel/",
+        "type": "Noun",
+        "meaning_word": "nhân sự",
+        "phrase": "The company hired new personnel.",
+        "ipa_phrase": "/ðə ˈkʌmpəni haɪərd nuː ˌpɜːrsəˈnel/",
+        "meaning_phrase": "Công ty đã tuyển nhân sự mới.",
+        "context": "Kinh doanh"
+    },
+    {
+        "word": "advise",
+        "ipa_word": "/ədˈvaɪz/",
+        "type": "Verb",
+        "meaning_word": "khuyên bảo",
+        "phrase": "The doctor advised him to rest.",
+        "ipa_phrase": "/ðə ˈdɑːktər ədˈvaɪzd hɪm tə rest/",
+        "meaning_phrase": "Bác sĩ khuyên anh ấy nghỉ ngơi.",
+        "context": "Y học"
+    },
+    {
+        "word": "advice",
+        "ipa_word": "/ədˈvaɪs/",
+        "type": "Noun",
+        "meaning_word": "lời khuyên",
+        "phrase": "She gave me some good advice.",
+        "ipa_phrase": "/ʃi ɡeɪv mi səm ɡʊd ədˈvaɪs/",
+        "meaning_phrase": "Cô ấy đã cho tôi vài lời khuyên hay.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "sensitive",
+        "ipa_word": "/ˈsensətɪv/",
+        "type": "Adj",
+        "meaning_word": "nhạy cảm",
+        "phrase": "He is sensitive to criticism.",
+        "ipa_phrase": "/hi ɪz ˈsensətɪv tə ˈkrɪtɪsɪzəm/",
+        "meaning_phrase": "Anh ấy nhạy cảm với những lời chỉ trích.",
+        "context": "Tính cách"
+    },
+    {
+        "word": "sensible",
+        "ipa_word": "/ˈsensəbl/",
+        "type": "Adj",
+        "meaning_word": "hợp lý, biết điều",
+        "phrase": "It’s sensible to save money for emergencies.",
+        "ipa_phrase": "/ɪts ˈsensəbl tə seɪv ˈmʌni fər ɪˈmɜːrdʒənsiz/",
+        "meaning_phrase": "Tiết kiệm tiền cho trường hợp khẩn cấp là hợp lý.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "aisle",
+        "ipa_word": "/aɪl/",
+        "type": "Noun",
+        "meaning_word": "lối đi giữa các hàng ghế/kệ",
+        "phrase": "He walked down the aisle of the plane.",
+        "ipa_phrase": "/hi wɔːkt daʊn ði aɪl əv ðə pleɪn/",
+        "meaning_phrase": "Anh ấy đi xuống lối đi của máy bay.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "isle",
+        "ipa_word": "/aɪl/",
+        "type": "Noun",
+        "meaning_word": "hòn đảo nhỏ",
+        "phrase": "They visited a remote isle in Greece.",
+        "ipa_phrase": "/ðeɪ ˈvɪzɪtɪd ə rɪˈmoʊt aɪl ɪn ɡriːs/",
+        "meaning_phrase": "Họ đã ghé thăm một hòn đảo nhỏ ở Hy Lạp.",
+        "context": "Địa lý"
+    },
+    {
+        "word": "ensure",
+        "ipa_word": "/ɪnˈʃʊr/",
+        "type": "Verb",
+        "meaning_word": "đảm bảo",
+        "phrase": "We must ensure everyone’s safety.",
+        "ipa_phrase": "/wi mʌst ɪnˈʃʊr ˈɛvrɪwʌnz ˈseɪfti/",
+        "meaning_phrase": "Chúng ta phải đảm bảo an toàn cho mọi người.",
+        "context": "An toàn"
+    },
+    {
+        "word": "insure",
+        "ipa_word": "/ɪnˈʃʊr/",
+        "type": "Verb",
+        "meaning_word": "mua bảo hiểm",
+        "phrase": "They insured their house against fire.",
+        "ipa_phrase": "/ðeɪ ɪnˈʃʊrd ðer haʊs əˈɡɛnst ˈfaɪər/",
+        "meaning_phrase": "Họ đã mua bảo hiểm cháy nổ cho ngôi nhà.",
+        "context": "Tài chính"
+    },
+    {
+        "word": "complement",
+        "ipa_word": "/ˈkɑːmplɪment/",
+        "type": "Verb/Noun",
+        "meaning_word": "bổ sung, làm hoàn thiện",
+        "phrase": "Her scarf complements her outfit.",
+        "ipa_phrase": "/hər skɑːrf ˈkɑːmplɪments hər ˈaʊtfɪt/",
+        "meaning_phrase": "Chiếc khăn của cô ấy bổ sung cho bộ trang phục.",
+        "context": "Thời trang"
+    },
+    {
+        "word": "compliment",
+        "ipa_word": "/ˈkɑːmplɪmənt/",
+        "type": "Noun/Verb",
+        "meaning_word": "lời khen, khen ngợi",
+        "phrase": "She received many compliments on her dress.",
+        "ipa_phrase": "/ʃi rɪˈsiːvd ˈmɛni ˈkɑːmplɪmənts ɑːn hər drɛs/",
+        "meaning_phrase": "Cô ấy nhận được nhiều lời khen về chiếc váy.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "credible",
+        "ipa_word": "/ˈkredəbl/",
+        "type": "Adj",
+        "meaning_word": "đáng tin cậy",
+        "phrase": "She gave a credible explanation.",
+        "ipa_phrase": "/ʃi ɡeɪv ə ˈkredəbl ˌekspləˈneɪʃn/",
+        "meaning_phrase": "Cô ấy đưa ra một lời giải thích đáng tin.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "creditable",
+        "ipa_word": "/ˈkredɪtəbl/",
+        "type": "Adj",
+        "meaning_word": "đáng khen ngợi",
+        "phrase": "The team’s performance was creditable.",
+        "ipa_phrase": "/ðə tiːmz pərˈfɔːrməns wəz ˈkredɪtəbl/",
+        "meaning_phrase": "Màn trình diễn của đội rất đáng khen ngợi.",
+        "context": "Thể thao"
+    },
+    {
+        "word": "recipe",
+        "ipa_word": "/ˈresəpi/",
+        "type": "Noun",
+        "meaning_word": "công thức nấu ăn",
+        "phrase": "She tried a new recipe for pasta.",
+        "ipa_phrase": "/ʃi traɪd ə nuː ˈresəpi fər ˈpɑːstə/",
+        "meaning_phrase": "Cô ấy thử một công thức nấu mì ống mới.",
+        "context": "Ẩm thực"
+    },
+    {
+        "word": "receipt",
+        "ipa_word": "/rɪˈsiːt/",
+        "type": "Noun",
+        "meaning_word": "hóa đơn, biên lai",
+        "phrase": "Don’t forget to take your receipt.",
+        "ipa_phrase": "/doʊnt fərˈɡɛt tə teɪk jʊr rɪˈsiːt/",
+        "meaning_phrase": "Đừng quên lấy hóa đơn của bạn.",
+        "context": "Mua sắm"
+    },
+    {
+        "word": "illusion",
+        "ipa_word": "/ɪˈluːʒn/",
+        "type": "Noun",
+        "meaning_word": "ảo giác, ảo tưởng",
+        "phrase": "It was just an optical illusion.",
+        "ipa_phrase": "/ɪt wəz dʒʌst ən ˈɑːptɪkl ɪˈluːʒn/",
+        "meaning_phrase": "Đó chỉ là một ảo giác quang học.",
+        "context": "Khoa học"
+    },
+    {
+        "word": "delusion",
+        "ipa_word": "/dɪˈluːʒn/",
+        "type": "Noun",
+        "meaning_word": "ảo tưởng, hoang tưởng",
+        "phrase": "He suffers from the delusion of being followed.",
+        "ipa_phrase": "/hi ˈsʌfərz frəm ðə dɪˈluːʒn əv ˈbiːɪŋ ˈfɑːloʊd/",
+        "meaning_phrase": "Anh ấy bị ảo tưởng rằng mình bị theo dõi.",
+        "context": "Tâm lý"
+    },
+    {
+        "word": "empathy",
+        "ipa_word": "/ˈempəθi/",
+        "type": "Noun",
+        "meaning_word": "sự đồng cảm",
+        "phrase": "She showed empathy towards the victims.",
+        "ipa_phrase": "/ʃi ʃoʊd ˈempəθi təˈwɔːrdz ðə ˈvɪktɪmz/",
+        "meaning_phrase": "Cô ấy thể hiện sự đồng cảm với các nạn nhân.",
+        "context": "Tâm lý"
+    },
+    {
+        "word": "sympathy",
+        "ipa_word": "/ˈsɪmpəθi/",
+        "type": "Noun",
+        "meaning_word": "sự thông cảm, chia buồn",
+        "phrase": "They expressed their sympathy to the family.",
+        "ipa_phrase": "/ðeɪ ɪkˈsprest ðer ˈsɪmpəθi tə ðə ˈfæməli/",
+        "meaning_phrase": "Họ bày tỏ sự chia buồn với gia đình.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "ability",
+        "ipa_word": "/əˈbɪləti/",
+        "type": "Noun",
+        "meaning_word": "khả năng, năng lực",
+        "phrase": "She has the ability to solve problems.",
+        "ipa_phrase": "/ʃi hæz ði əˈbɪləti tə sɑːlv ˈprɑːbləmz/",
+        "meaning_phrase": "Cô ấy có khả năng giải quyết vấn đề.",
+        "context": "Kỹ năng"
+    },
+    {
+        "word": "capacity",
+        "ipa_word": "/kəˈpæsəti/",
+        "type": "Noun",
+        "meaning_word": "sức chứa; năng lực tiềm tàng",
+        "phrase": "The stadium has a seating capacity of 50,000.",
+        "ipa_phrase": "/ðə ˈsteɪdiəm hæz ə ˈsiːtɪŋ kəˈpæsəti əv ˈfɪfti ˈθaʊzənd/",
+        "meaning_phrase": "Sân vận động có sức chứa 50.000 chỗ ngồi.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "succeed",
+        "ipa_word": "/səkˈsiːd/",
+        "type": "Verb",
+        "meaning_word": "thành công; kế vị",
+        "phrase": "She succeeded in her career.",
+        "ipa_phrase": "/ʃi səkˈsiːdɪd ɪn hər kəˈrɪr/",
+        "meaning_phrase": "Cô ấy đã thành công trong sự nghiệp.",
+        "context": "Công việc"
+    },
+    {
+        "word": "secede",
+        "ipa_word": "/sɪˈsiːd/",
+        "type": "Verb",
+        "meaning_word": "ly khai, tách ra",
+        "phrase": "The region seceded from the union.",
+        "ipa_phrase": "/ðə ˈriːdʒən sɪˈsiːdɪd frəm ðə ˈjuːnjən/",
+        "meaning_phrase": "Khu vực đó đã ly khai khỏi liên minh.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "continuous",
+        "ipa_word": "/kənˈtɪnjuəs/",
+        "type": "Adj",
+        "meaning_word": "liên tục, không ngừng",
+        "phrase": "There was continuous rain all night.",
+        "ipa_phrase": "/ðer wəz kənˈtɪnjuəs reɪn ɔːl naɪt/",
+        "meaning_phrase": "Trời mưa liên tục suốt đêm.",
+        "context": "Thời tiết"
+    },
+    {
+        "word": "continual",
+        "ipa_word": "/kənˈtɪnjuəl/",
+        "type": "Adj",
+        "meaning_word": "liên tiếp (ngắt quãng)",
+        "phrase": "He faced continual interruptions at work.",
+        "ipa_phrase": "/hi feɪst kənˈtɪnjuəl ˌɪntəˈrʌpʃnz ət wɜːrk/",
+        "meaning_phrase": "Anh ấy liên tục bị gián đoạn trong công việc.",
+        "context": "Công việc"
+    },
+    {
+        "word": "credible",
+        "ipa_word": "/ˈkredəbl/",
+        "type": "Adj",
+        "meaning_word": "đáng tin cậy",
+        "phrase": "The news report seemed credible.",
+        "ipa_phrase": "/ðə njuːz rɪˈpɔːrt siːmd ˈkredəbl/",
+        "meaning_phrase": "Bản tin trông có vẻ đáng tin.",
+        "context": "Truyền thông"
+    },
+    {
+        "word": "incredible",
+        "ipa_word": "/ɪnˈkredəbl/",
+        "type": "Adj",
+        "meaning_word": "khó tin; tuyệt vời",
+        "phrase": "The view from the mountain was incredible.",
+        "ipa_phrase": "/ðə vjuː frəm ðə ˈmaʊntən wəz ɪnˈkredəbl/",
+        "meaning_phrase": "Khung cảnh từ trên núi thật tuyệt vời.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "verbal",
+        "ipa_word": "/ˈvɜːrbl/",
+        "type": "Adj",
+        "meaning_word": "bằng lời nói",
+        "phrase": "They had a verbal agreement.",
+        "ipa_phrase": "/ðeɪ hæd ə ˈvɜːrbl əˈɡriːmənt/",
+        "meaning_phrase": "Họ đã có một thỏa thuận bằng lời nói.",
+        "context": "Luật pháp"
+    },
+    {
+        "word": "oral",
+        "ipa_word": "/ˈɔːrəl/",
+        "type": "Adj",
+        "meaning_word": "bằng miệng",
+        "phrase": "He had to take an oral exam.",
+        "ipa_phrase": "/hi hæd tə teɪk ən ˈɔːrəl ɪɡˈzæm/",
+        "meaning_phrase": "Anh ấy phải thi vấn đáp.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "ingenious",
+        "ipa_word": "/ɪnˈdʒiːniəs/",
+        "type": "Adj",
+        "meaning_word": "khéo léo, tài tình",
+        "phrase": "She designed an ingenious solution.",
+        "ipa_phrase": "/ʃi dɪˈzaɪnd ən ɪnˈdʒiːniəs səˈluːʃn/",
+        "meaning_phrase": "Cô ấy đã thiết kế một giải pháp tài tình.",
+        "context": "Khoa học"
+    },
+    {
+        "word": "ingenuous",
+        "ipa_word": "/ɪnˈdʒenjuəs/",
+        "type": "Adj",
+        "meaning_word": "ngây thơ, chân thật",
+        "phrase": "He gave her an ingenuous smile.",
+        "ipa_phrase": "/hi ɡeɪv hər ən ɪnˈdʒenjuəs smaɪl/",
+        "meaning_phrase": "Anh ấy trao cô ấy một nụ cười ngây thơ.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "historic",
+        "ipa_word": "/hɪˈstɔːrɪk/",
+        "type": "Adj",
+        "meaning_word": "có tính lịch sử (quan trọng)",
+        "phrase": "They signed a historic agreement.",
+        "ipa_phrase": "/ðeɪ saɪnd ə hɪˈstɔːrɪk əˈɡriːmənt/",
+        "meaning_phrase": "Họ đã ký một thỏa thuận mang tính lịch sử.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "historical",
+        "ipa_word": "/hɪˈstɔːrɪkl/",
+        "type": "Adj",
+        "meaning_word": "liên quan đến lịch sử",
+        "phrase": "She loves reading historical novels.",
+        "ipa_phrase": "/ʃi lʌvz ˈriːdɪŋ hɪˈstɔːrɪkl ˈnɑːvlz/",
+        "meaning_phrase": "Cô ấy thích đọc tiểu thuyết lịch sử.",
+        "context": "Văn học"
+    },
+    {
+        "word": "sensible",
+        "ipa_word": "/ˈsensəbl/",
+        "type": "Adj",
+        "meaning_word": "hợp lý, khôn ngoan",
+        "phrase": "That’s a sensible decision.",
+        "ipa_phrase": "/ðæts ə ˈsensəbl dɪˈsɪʒn/",
+        "meaning_phrase": "Đó là một quyết định hợp lý.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "sensitive",
+        "ipa_word": "/ˈsensətɪv/",
+        "type": "Adj",
+        "meaning_word": "nhạy cảm",
+        "phrase": "She is sensitive to criticism.",
+        "ipa_phrase": "/ʃi ɪz ˈsensətɪv tə ˈkrɪtɪsɪzəm/",
+        "meaning_phrase": "Cô ấy nhạy cảm với sự chỉ trích.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "economic",
+        "ipa_word": "/ˌiːkəˈnɑːmɪk/",
+        "type": "Adj",
+        "meaning_word": "thuộc về kinh tế",
+        "phrase": "The country faces economic challenges.",
+        "ipa_phrase": "/ðə ˈkʌntri feɪsɪz ˌiːkəˈnɑːmɪk ˈʧælɪndʒɪz/",
+        "meaning_phrase": "Đất nước đang đối mặt với thách thức kinh tế.",
+        "context": "Kinh tế"
+    },
+    {
+        "word": "economical",
+        "ipa_word": "/ˌekəˈnɑːmɪkl/",
+        "type": "Adj",
+        "meaning_word": "tiết kiệm",
+        "phrase": "This car is very economical on fuel.",
+        "ipa_phrase": "/ðɪs kɑːr ɪz ˈveri ˌekəˈnɑːmɪkl ɑːn fjuːəl/",
+        "meaning_phrase": "Chiếc xe này rất tiết kiệm nhiên liệu.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "industrial",
+        "ipa_word": "/ɪnˈdʌstriəl/",
+        "type": "Adj",
+        "meaning_word": "thuộc công nghiệp",
+        "phrase": "The city is an important industrial center.",
+        "ipa_phrase": "/ðə ˈsɪti ɪz ən ɪmˈpɔːrtnt ɪnˈdʌstriəl ˈsentər/",
+        "meaning_phrase": "Thành phố là một trung tâm công nghiệp quan trọng.",
+        "context": "Kinh tế"
+    },
+    {
+        "word": "industrious",
+        "ipa_word": "/ɪnˈdʌstriəs/",
+        "type": "Adj",
+        "meaning_word": "cần cù, siêng năng",
+        "phrase": "She is an industrious worker.",
+        "ipa_phrase": "/ʃi ɪz ən ɪnˈdʌstriəs ˈwɜːrkər/",
+        "meaning_phrase": "Cô ấy là một công nhân chăm chỉ.",
+        "context": "Công việc"
+    },
+    {
+        "word": "respectful",
+        "ipa_word": "/rɪˈspektfl/",
+        "type": "Adj",
+        "meaning_word": "lễ phép, kính cẩn",
+        "phrase": "The students were respectful to the teacher.",
+        "ipa_phrase": "/ðə ˈstjuːdənts wər rɪˈspektfl tə ðə ˈtiːtʃər/",
+        "meaning_phrase": "Các học sinh rất lễ phép với giáo viên.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "respectable",
+        "ipa_word": "/rɪˈspektəbl/",
+        "type": "Adj",
+        "meaning_word": "đáng kính, đàng hoàng",
+        "phrase": "He comes from a respectable family.",
+        "ipa_phrase": "/hi kʌmz frəm ə rɪˈspektəbl ˈfæməli/",
+        "meaning_phrase": "Anh ấy đến từ một gia đình đàng hoàng.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "specious",
+        "ipa_word": "/ˈspiːʃəs/",
+        "type": "Adj",
+        "meaning_word": "có vẻ đúng nhưng sai",
+        "phrase": "He gave a specious argument.",
+        "ipa_phrase": "/hi ɡeɪv ə ˈspiːʃəs ˈɑːrɡjumənt/",
+        "meaning_phrase": "Anh ta đưa ra một lập luận có vẻ đúng nhưng thực chất sai.",
+        "context": "Tranh luận"
+    },
+    {
+        "word": "spacious",
+        "ipa_word": "/ˈspeɪʃəs/",
+        "type": "Adj",
+        "meaning_word": "rộng rãi",
+        "phrase": "The apartment is spacious and bright.",
+        "ipa_phrase": "/ði əˈpɑːrtmənt ɪz ˈspeɪʃəs ənd braɪt/",
+        "meaning_phrase": "Căn hộ rộng rãi và sáng sủa.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "famous",
+        "ipa_word": "/ˈfeɪməs/",
+        "type": "Adj",
+        "meaning_word": "nổi tiếng",
+        "phrase": "He is a famous singer.",
+        "ipa_phrase": "/hi ɪz ə ˈfeɪməs ˈsɪŋər/",
+        "meaning_phrase": "Anh ấy là một ca sĩ nổi tiếng.",
+        "context": "Giải trí"
+    },
+    {
+        "word": "infamous",
+        "ipa_word": "/ˈɪnfəməs/",
+        "type": "Adj",
+        "meaning_word": "tai tiếng, khét tiếng",
+        "phrase": "The town is infamous for its crime rate.",
+        "ipa_phrase": "/ðə taʊn ɪz ˈɪnfəməs fər ɪts kraɪm reɪt/",
+        "meaning_phrase": "Thị trấn này tai tiếng vì tỷ lệ tội phạm cao.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "luxurious",
+        "ipa_word": "/lʌɡˈʒʊriəs/",
+        "type": "Adj",
+        "meaning_word": "sang trọng",
+        "phrase": "They stayed in a luxurious hotel.",
+        "ipa_phrase": "/ðeɪ steɪd ɪn ə lʌɡˈʒʊriəs hoʊˈtel/",
+        "meaning_phrase": "Họ ở trong một khách sạn sang trọng.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "luxuriant",
+        "ipa_word": "/lʌɡˈʒʊriənt/",
+        "type": "Adj",
+        "meaning_word": "xum xuê, tươi tốt",
+        "phrase": "The garden is full of luxuriant plants.",
+        "ipa_phrase": "/ðə ˈɡɑːrdn ɪz fʊl əv lʌɡˈʒʊriənt plænts/",
+        "meaning_phrase": "Khu vườn đầy cây cối xanh tươi.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "official",
+        "ipa_word": "/əˈfɪʃl/",
+        "type": "Adj",
+        "meaning_word": "chính thức; thuộc cơ quan",
+        "phrase": "She made an official announcement.",
+        "ipa_phrase": "/ʃi meɪd ən əˈfɪʃl əˈnaʊnsmənt/",
+        "meaning_phrase": "Cô ấy đưa ra một thông báo chính thức.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "officious",
+        "ipa_word": "/əˈfɪʃəs/",
+        "type": "Adj",
+        "meaning_word": "lăng xăng, hay xen vào",
+        "phrase": "The officious guard kept interrupting.",
+        "ipa_phrase": "/ðə əˈfɪʃəs ɡɑːrd kept ˌɪntəˈrʌptɪŋ/",
+        "meaning_phrase": "Người bảo vệ lăng xăng cứ ngắt lời.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "momentary",
+        "ipa_word": "/ˈmoʊmənteri/",
+        "type": "Adj",
+        "meaning_word": "chốc lát, thoáng qua",
+        "phrase": "There was a momentary pause.",
+        "ipa_phrase": "/ðer wəz ə ˈmoʊmənteri pɔːz/",
+        "meaning_phrase": "Có một khoảng dừng thoáng qua.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "momentous",
+        "ipa_word": "/moʊˈmentəs/",
+        "type": "Adj",
+        "meaning_word": "quan trọng, trọng đại",
+        "phrase": "They made a momentous decision.",
+        "ipa_phrase": "/ðeɪ meɪd ə moʊˈmentəs dɪˈsɪʒn/",
+        "meaning_phrase": "Họ đã đưa ra một quyết định trọng đại.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "eminent",
+        "ipa_word": "/ˈemɪnənt/",
+        "type": "Adj",
+        "meaning_word": "xuất chúng, lỗi lạc",
+        "phrase": "He is an eminent scientist.",
+        "ipa_phrase": "/hi ɪz ən ˈemɪnənt ˈsaɪəntɪst/",
+        "meaning_phrase": "Ông ấy là một nhà khoa học lỗi lạc.",
+        "context": "Học thuật"
+    },
+    {
+        "word": "imminent",
+        "ipa_word": "/ˈɪmɪnənt/",
+        "type": "Adj",
+        "meaning_word": "sắp xảy ra",
+        "phrase": "A storm is imminent.",
+        "ipa_phrase": "/ə stɔːrm ɪz ˈɪmɪnənt/",
+        "meaning_phrase": "Một cơn bão sắp xảy ra.",
+        "context": "Thời tiết"
+    },
+    {
+        "word": "affect",
+        "ipa_word": "/əˈfekt/",
+        "type": "Verb",
+        "meaning_word": "ảnh hưởng",
+        "phrase": "The weather can affect your mood.",
+        "ipa_phrase": "/ðə ˈweðər kən əˈfekt jʊr muːd/",
+        "meaning_phrase": "Thời tiết có thể ảnh hưởng đến tâm trạng.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "effect",
+        "ipa_word": "/ɪˈfekt/",
+        "type": "Noun",
+        "meaning_word": "tác động, hiệu ứng",
+        "phrase": "The new law had a positive effect.",
+        "ipa_phrase": "/ðə nuː lɔː hæd ə ˈpɑːzətɪv ɪˈfekt/",
+        "meaning_phrase": "Luật mới có tác động tích cực.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "allusion",
+        "ipa_word": "/əˈluːʒn/",
+        "type": "Noun",
+        "meaning_word": "ám chỉ, gợi nhắc",
+        "phrase": "The poem makes an allusion to history.",
+        "ipa_phrase": "/ðə ˈpoʊəm meɪks ən əˈluːʒn tə ˈhɪstri/",
+        "meaning_phrase": "Bài thơ có sự ám chỉ đến lịch sử.",
+        "context": "Văn học"
+    },
+    {
+        "word": "illusion",
+        "ipa_word": "/ɪˈluːʒn/",
+        "type": "Noun",
+        "meaning_word": "ảo giác, ảo tưởng",
+        "phrase": "It was only an illusion of safety.",
+        "ipa_phrase": "/ɪt wəz ˈoʊnli ən ɪˈluːʒn əv ˈseɪfti/",
+        "meaning_phrase": "Đó chỉ là ảo giác về sự an toàn.",
+        "context": "Tâm lý"
+    },
+    {
+        "word": "complement",
+        "ipa_word": "/ˈkɑːmplɪment/",
+        "type": "Noun",
+        "meaning_word": "phần bổ sung, sự bổ trợ",
+        "phrase": "Her skills are a good complement to the team.",
+        "ipa_phrase": "/hɜːr skɪlz ɑːr ə ɡʊd ˈkɑːmplɪmənt tə ðə tiːm/",
+        "meaning_phrase": "Kỹ năng của cô ấy là một sự bổ trợ tốt cho nhóm.",
+        "context": "Công việc"
+    },
+    {
+        "word": "compliment",
+        "ipa_word": "/ˈkɑːmplɪmənt/",
+        "type": "Noun",
+        "meaning_word": "lời khen",
+        "phrase": "She received a nice compliment on her dress.",
+        "ipa_phrase": "/ʃi rɪˈsiːvd ə naɪs ˈkɑːmplɪmənt ɑːn hər dres/",
+        "meaning_phrase": "Cô ấy nhận được một lời khen về chiếc váy.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "principle",
+        "ipa_word": "/ˈprɪnsəpl/",
+        "type": "Noun",
+        "meaning_word": "nguyên tắc, nguyên lý",
+        "phrase": "He sticks to his principles.",
+        "ipa_phrase": "/hi stɪks tə hɪz ˈprɪnsəplz/",
+        "meaning_phrase": "Anh ấy giữ vững các nguyên tắc của mình.",
+        "context": "Đạo đức"
+    },
+    {
+        "word": "principal",
+        "ipa_word": "/ˈprɪnsəpl/",
+        "type": "Noun",
+        "meaning_word": "hiệu trưởng; chính, chủ yếu",
+        "phrase": "The school principal gave a speech.",
+        "ipa_phrase": "/ðə skuːl ˈprɪnsəpl ɡeɪv ə spiːʧ/",
+        "meaning_phrase": "Hiệu trưởng đã phát biểu.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "loath",
+        "ipa_word": "/loʊθ/",
+        "type": "Adj",
+        "meaning_word": "miễn cưỡng, không thích",
+        "phrase": "He was loath to admit his mistake.",
+        "ipa_phrase": "/hi wəz loʊθ tə ədˈmɪt hɪz mɪˈsteɪk/",
+        "meaning_phrase": "Anh ta miễn cưỡng thừa nhận sai lầm.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "loathe",
+        "ipa_word": "/loʊð/",
+        "type": "Verb",
+        "meaning_word": "ghét cay ghét đắng",
+        "phrase": "She loathes dishonest people.",
+        "ipa_phrase": "/ʃi loʊðz dɪsˈɑːnɪst ˈpiːpl/",
+        "meaning_phrase": "Cô ấy ghét cay ghét đắng những người không trung thực.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "stationary",
+        "ipa_word": "/ˈsteɪʃəneri/",
+        "type": "Adj",
+        "meaning_word": "đứng yên, cố định",
+        "phrase": "The car remained stationary at the traffic light.",
+        "ipa_phrase": "/ðə kɑːr rɪˈmeɪnd ˈsteɪʃəneri ət ðə ˈtræfɪk laɪt/",
+        "meaning_phrase": "Chiếc xe đứng yên tại đèn giao thông.",
+        "context": "Giao thông"
+    },
+    {
+        "word": "stationery",
+        "ipa_word": "/ˈsteɪʃəneri/",
+        "type": "Noun",
+        "meaning_word": "đồ dùng văn phòng phẩm",
+        "phrase": "She bought some stationery for the office.",
+        "ipa_phrase": "/ʃi bɔːt səm ˈsteɪʃəneri fər ði ˈɑːfɪs/",
+        "meaning_phrase": "Cô ấy mua một số văn phòng phẩm cho công ty.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "ingenious",
+        "ipa_word": "/ɪnˈdʒiːniəs/",
+        "type": "Adj",
+        "meaning_word": "khéo léo, tài tình",
+        "phrase": "She had an ingenious idea for saving time.",
+        "ipa_phrase": "/ʃi hæd ən ɪnˈdʒiːniəs aɪˈdiːə fər ˈseɪvɪŋ taɪm/",
+        "meaning_phrase": "Cô ấy có một ý tưởng tài tình để tiết kiệm thời gian.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "ingenuous",
+        "ipa_word": "/ɪnˈdʒenjuəs/",
+        "type": "Adj",
+        "meaning_word": "ngây thơ, chân thật",
+        "phrase": "He gave her an ingenuous smile.",
+        "ipa_phrase": "/hi ɡeɪv hər ən ɪnˈdʒenjuəs smaɪl/",
+        "meaning_phrase": "Anh ấy trao cô ấy một nụ cười ngây thơ.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "sensual",
+        "ipa_word": "/ˈsenʃuəl/",
+        "type": "Adj",
+        "meaning_word": "gợi cảm, khoái lạc giác quan",
+        "phrase": "The painting had a sensual quality.",
+        "ipa_phrase": "/ðə ˈpeɪntɪŋ hæd ə ˈsenʃuəl ˈkwɑːləti/",
+        "meaning_phrase": "Bức tranh có nét gợi cảm.",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "sensuous",
+        "ipa_word": "/ˈsenʃuəs/",
+        "type": "Adj",
+        "meaning_word": "thuộc về giác quan, giàu cảm xúc",
+        "phrase": "The music created a sensuous atmosphere.",
+        "ipa_phrase": "/ðə ˈmjuːzɪk kriˈeɪtɪd ə ˈsenʃuəs ˈætməsfɪr/",
+        "meaning_phrase": "Âm nhạc tạo nên một bầu không khí đầy cảm xúc.",
+        "context": "Nghệ thuật"
+    },
+    {
+        "word": "credible",
+        "ipa_word": "/ˈkredəbl/",
+        "type": "Adj",
+        "meaning_word": "đáng tin cậy",
+        "phrase": "The witness gave a credible statement.",
+        "ipa_phrase": "/ðə ˈwɪtnəs ɡeɪv ə ˈkredəbl ˈsteɪtmənt/",
+        "meaning_phrase": "Nhân chứng đã đưa ra một lời khai đáng tin.",
+        "context": "Pháp luật"
+    },
+    {
+        "word": "credulous",
+        "ipa_word": "/ˈkredʒələs/",
+        "type": "Adj",
+        "meaning_word": "cả tin",
+        "phrase": "She was too credulous and believed the scam.",
+        "ipa_phrase": "/ʃi wəz tuː ˈkredʒələs ənd bɪˈliːvd ðə skæm/",
+        "meaning_phrase": "Cô ấy quá cả tin và đã tin vào trò lừa đảo.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "respectfully",
+        "ipa_word": "/rɪˈspektfəli/",
+        "type": "Adv",
+        "meaning_word": "một cách kính cẩn",
+        "phrase": "He respectfully declined the offer.",
+        "ipa_phrase": "/hi rɪˈspektfəli dɪˈklaɪnd ði ˈɔːfər/",
+        "meaning_phrase": "Anh ấy kính cẩn từ chối lời đề nghị.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "respectively",
+        "ipa_word": "/rɪˈspektɪvli/",
+        "type": "Adv",
+        "meaning_word": "tương ứng",
+        "phrase": "The figures were 10 and 20, respectively.",
+        "ipa_phrase": "/ðə ˈfɪɡjərz wər ˈten ənd ˈtwenti rɪˈspektɪvli/",
+        "meaning_phrase": "Các con số lần lượt là 10 và 20.",
+        "context": "Học thuật"
+    },
+    {
+        "word": "luxurious",
+        "ipa_word": "/lʌɡˈʒʊriəs/",
+        "type": "Adj",
+        "meaning_word": "sang trọng, xa hoa",
+        "phrase": "They stayed in a luxurious hotel.",
+        "ipa_phrase": "/ðeɪ steɪd ɪn ə lʌɡˈʒʊriəs hoʊˈtel/",
+        "meaning_phrase": "Họ ở trong một khách sạn sang trọng.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "luxuriant",
+        "ipa_word": "/lʌɡˈʒʊriənt/",
+        "type": "Adj",
+        "meaning_word": "sum suê, tươi tốt",
+        "phrase": "The garden was full of luxuriant plants.",
+        "ipa_phrase": "/ðə ˈɡɑːrdn wəz fʊl əv lʌɡˈʒʊriənt plænts/",
+        "meaning_phrase": "Khu vườn đầy cây cối tươi tốt.",
+        "context": "Thiên nhiên"
+    },
+    {
+        "word": "discreet",
+        "ipa_word": "/dɪˈskriːt/",
+        "type": "Adj",
+        "meaning_word": "thận trọng, kín đáo",
+        "phrase": "He was very discreet about the secret.",
+        "ipa_phrase": "/hi wəz ˈveri dɪˈskriːt əˈbaʊt ðə ˈsiːkrət/",
+        "meaning_phrase": "Anh ấy rất kín đáo về bí mật.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "discrete",
+        "ipa_word": "/dɪˈskriːt/",
+        "type": "Adj",
+        "meaning_word": "riêng biệt, tách rời",
+        "phrase": "The process has three discrete stages.",
+        "ipa_phrase": "/ðə ˈprɑːses hæz θriː dɪˈskriːt ˈsteɪdʒɪz/",
+        "meaning_phrase": "Quá trình có ba giai đoạn riêng biệt.",
+        "context": "Học thuật"
+    },
+    {
+        "word": "historic",
+        "ipa_word": "/hɪˈstɔːrɪk/",
+        "type": "Adj",
+        "meaning_word": "mang tính lịch sử, quan trọng",
+        "phrase": "It was a historic event.",
+        "ipa_phrase": "/ɪt wəz ə hɪˈstɔːrɪk ɪˈvent/",
+        "meaning_phrase": "Đó là một sự kiện mang tính lịch sử.",
+        "context": "Lịch sử"
+    },
+    {
+        "word": "historical",
+        "ipa_word": "/hɪˈstɔːrɪkl/",
+        "type": "Adj",
+        "meaning_word": "liên quan đến lịch sử",
+        "phrase": "He is a historical researcher.",
+        "ipa_phrase": "/hi ɪz ə hɪˈstɔːrɪkl rɪˈsɜːrtʃər/",
+        "meaning_phrase": "Anh ấy là một nhà nghiên cứu lịch sử.",
+        "context": "Học thuật"
+    },
+    {
+        "word": "intensive",
+        "ipa_word": "/ɪnˈtensɪv/",
+        "type": "Adj",
+        "meaning_word": "tập trung, chuyên sâu",
+        "phrase": "She took an intensive English course.",
+        "ipa_phrase": "/ʃi tʊk ən ɪnˈtensɪv ˈɪŋɡlɪʃ kɔːrs/",
+        "meaning_phrase": "Cô ấy tham gia một khóa học tiếng Anh chuyên sâu.",
+        "context": "Giáo dục"
+    },
+    {
+        "word": "intensive",
+        "ipa_word": "/ˌɪnˈtenʃɪv/",
+        "type": "Adj",
+        "meaning_word": "có ý định, chủ ý",
+        "phrase": "His actions were fully intentional.",
+        "ipa_phrase": "/hɪz ˈækʃənz wər ˈfʊli ɪnˈtenʃənl/",
+        "meaning_phrase": "Hành động của anh ấy hoàn toàn có chủ ý.",
+        "context": "Pháp luật"
+    },
+    {
+        "word": "prospective",
+        "ipa_word": "/prəˈspektɪv/",
+        "type": "Adj",
+        "meaning_word": "thuộc về tương lai, tiềm năng",
+        "phrase": "They interviewed prospective employees.",
+        "ipa_phrase": "/ðeɪ ˈɪntərvjuːd prəˈspektɪv ˌemplɔɪiːz/",
+        "meaning_phrase": "Họ đã phỏng vấn các nhân viên tiềm năng.",
+        "context": "Kinh doanh"
+    },
+    {
+        "word": "perspective",
+        "ipa_word": "/pərˈspektɪv/",
+        "type": "Noun",
+        "meaning_word": "quan điểm, góc nhìn",
+        "phrase": "We need to look at it from a different perspective.",
+        "ipa_phrase": "/wi niːd tə lʊk ət ɪt frəm ə ˈdɪfrənt pərˈspektɪv/",
+        "meaning_phrase": "Chúng ta cần nhìn nhận nó từ một góc độ khác.",
+        "context": "Giao tiếp"
+    }, 
+    {
+        "word": "complaisant",
+        "ipa_word": "/kəmˈpleɪznt/",
+        "type": "Adj",
+        "meaning_word": "dễ chiều, sẵn lòng phục tùng",
+        "phrase": "He was too complaisant toward his boss.",
+        "ipa_phrase": "/hi wəz tuː kəmˈpleɪznt təˈwɔːrd hɪz bɑːs/",
+        "meaning_phrase": "Anh ấy quá dễ chiều ý sếp.",
+        "context": "Giao tiếp"
+    },
+    {
+        "word": "complacent",
+        "ipa_word": "/kəmˈpleɪsnt/",
+        "type": "Adj",
+        "meaning_word": "tự mãn, bằng lòng",
+        "phrase": "She became complacent about her success.",
+        "ipa_phrase": "/ʃi bɪˈkeɪm kəmˈpleɪsnt əˈbaʊt hər səkˈses/",
+        "meaning_phrase": "Cô ấy trở nên tự mãn về thành công của mình.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "defuse",
+        "ipa_word": "/ˌdiːˈfjuːz/",
+        "type": "Verb",
+        "meaning_word": "xoa dịu, tháo ngòi nổ",
+        "phrase": "The police managed to defuse the situation.",
+        "ipa_phrase": "/ðə pəˈliːs ˈmænɪdʒd tə diːˈfjuːz ðə ˌsɪtʃuˈeɪʃn/",
+        "meaning_phrase": "Cảnh sát đã xoa dịu tình huống.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "diffuse",
+        "ipa_word": "/dɪˈfjuːz/",
+        "type": "Verb",
+        "meaning_word": "khuếch tán, lan truyền",
+        "phrase": "The smell of coffee diffused through the air.",
+        "ipa_phrase": "/ðə smel əv ˈkɔːfi dɪˈfjuːzd θruː ði er/",
+        "meaning_phrase": "Mùi cà phê lan tỏa trong không khí.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "eminent",
+        "ipa_word": "/ˈemɪnənt/",
+        "type": "Adj",
+        "meaning_word": "nổi tiếng, xuất sắc",
+        "phrase": "He is an eminent scientist.",
+        "ipa_phrase": "/hi ɪz ən ˈemɪnənt ˈsaɪəntɪst/",
+        "meaning_phrase": "Ông ấy là một nhà khoa học xuất sắc.",
+        "context": "Học thuật"
+    },
+    {
+        "word": "imminent",
+        "ipa_word": "/ˈɪmɪnənt/",
+        "type": "Adj",
+        "meaning_word": "sắp xảy ra, cận kề",
+        "phrase": "A storm is imminent.",
+        "ipa_phrase": "/ə stɔːrm ɪz ˈɪmɪnənt/",
+        "meaning_phrase": "Một cơn bão sắp xảy ra.",
+        "context": "Thời tiết"
+    },
+    {
+        "word": "appraise",
+        "ipa_word": "/əˈpreɪz/",
+        "type": "Verb",
+        "meaning_word": "đánh giá, thẩm định",
+        "phrase": "The jeweler appraised the diamond.",
+        "ipa_phrase": "/ðə ˈdʒuːələr əˈpreɪzd ðə ˈdaɪəmənd/",
+        "meaning_phrase": "Người thợ kim hoàn đã thẩm định viên kim cương.",
+        "context": "Kinh doanh"
+    },
+    {
+        "word": "apprise",
+        "ipa_word": "/əˈpraɪz/",
+        "type": "Verb",
+        "meaning_word": "thông báo, báo cho biết",
+        "phrase": "She apprised him of the changes.",
+        "ipa_phrase": "/ʃi əˈpraɪzd hɪm əv ðə ˈtʃeɪndʒɪz/",
+        "meaning_phrase": "Cô ấy đã thông báo cho anh ấy về những thay đổi.",
+        "context": "Công việc"
+    },
+    {
+        "word": "morale",
+        "ipa_word": "/məˈræl/",
+        "type": "Noun",
+        "meaning_word": "tinh thần, nhuệ khí",
+        "phrase": "The team's morale was high after the win.",
+        "ipa_phrase": "/ðə tiːmz məˈræl wəz haɪ ˈæftər ðə wɪn/",
+        "meaning_phrase": "Tinh thần của đội rất cao sau chiến thắng.",
+        "context": "Thể thao"
+    },
+    {
+        "word": "moral",
+        "ipa_word": "/ˈmɔːrəl/",
+        "type": "Adj",
+        "meaning_word": "thuộc đạo đức",
+        "phrase": "She faced a moral dilemma.",
+        "ipa_phrase": "/ʃi feɪst ə ˈmɔːrəl dɪˈlemə/",
+        "meaning_phrase": "Cô ấy đối mặt với một tình thế tiến thoái lưỡng nan về đạo đức.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "tortuous",
+        "ipa_word": "/ˈtɔːrtʃuəs/",
+        "type": "Adj",
+        "meaning_word": "quanh co, ngoằn ngoèo",
+        "phrase": "We followed a tortuous path through the mountains.",
+        "ipa_phrase": "/wi ˈfɑːloʊd ə ˈtɔːrtʃuəs pæθ θruː ðə ˈmaʊntənz/",
+        "meaning_phrase": "Chúng tôi theo một con đường quanh co qua núi.",
+        "context": "Du lịch"
+    },
+    {
+        "word": "torturous",
+        "ipa_word": "/ˈtɔːrtʃərəs/",
+        "type": "Adj",
+        "meaning_word": "đầy đau đớn, tra tấn",
+        "phrase": "It was a torturous experience.",
+        "ipa_phrase": "/ɪt wəz ə ˈtɔːrtʃərəs ɪkˈspɪriəns/",
+        "meaning_phrase": "Đó là một trải nghiệm đầy đau đớn.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "envious",
+        "ipa_word": "/ˈenviəs/",
+        "type": "Adj",
+        "meaning_word": "ghen tỵ (với thành công của người khác)",
+        "phrase": "She was envious of her friend’s success.",
+        "ipa_phrase": "/ʃi wəz ˈenviəs əv hər frendz səkˈses/",
+        "meaning_phrase": "Cô ấy ghen tỵ với thành công của bạn mình.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "jealous",
+        "ipa_word": "/ˈdʒeləs/",
+        "type": "Adj",
+        "meaning_word": "ghen tuông (trong tình cảm)",
+        "phrase": "He felt jealous when she talked to another man.",
+        "ipa_phrase": "/hi felt ˈdʒeləs wen ʃi tɔːkt tə əˈnʌðər mæn/",
+        "meaning_phrase": "Anh ấy thấy ghen tuông khi cô nói chuyện với người đàn ông khác.",
+        "context": "Tình cảm"
+    },
+    {
+        "word": "specially",
+        "ipa_word": "/ˈspeʃəli/",
+        "type": "Adv",
+        "meaning_word": "một cách đặc biệt (cho mục đích nào đó)",
+        "phrase": "This room was specially designed for meetings.",
+        "ipa_phrase": "/ðɪs ruːm wəz ˈspeʃəli dɪˈzaɪnd fər ˈmiːtɪŋz/",
+        "meaning_phrase": "Phòng này được thiết kế đặc biệt cho các cuộc họp.",
+        "context": "Công việc"
+    },
+    {
+        "word": "especially",
+        "ipa_word": "/ɪˈspeʃəli/",
+        "type": "Adv",
+        "meaning_word": "đặc biệt (hơn cái khác)",
+        "phrase": "I love fruit, especially mangoes.",
+        "ipa_phrase": "/aɪ lʌv fruːt, ɪˈspeʃəli ˈmæŋɡoʊz/",
+        "meaning_phrase": "Tôi thích hoa quả, đặc biệt là xoài.",
+        "context": "Đời sống"
+    },
+    {
+        "word": "venal",
+        "ipa_word": "/ˈviːnl/",
+        "type": "Adj",
+        "meaning_word": "dễ bị mua chuộc, tham nhũng",
+        "phrase": "The venal politician accepted the bribe.",
+        "ipa_phrase": "/ðə ˈviːnl ˌpɑːləˈtɪʃn əkˈseptɪd ðə braɪb/",
+        "meaning_phrase": "Chính trị gia tham nhũng đã nhận hối lộ.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "venial",
+        "ipa_word": "/ˈviːniəl/",
+        "type": "Adj",
+        "meaning_word": "nhỏ nhặt, có thể tha thứ",
+        "phrase": "It was only a venial mistake.",
+        "ipa_phrase": "/ɪt wəz ˈoʊnli ə ˈviːniəl mɪˈsteɪk/",
+        "meaning_phrase": "Đó chỉ là một lỗi nhỏ có thể tha thứ.",
+        "context": "Đời sống"
+    } 
+
+]

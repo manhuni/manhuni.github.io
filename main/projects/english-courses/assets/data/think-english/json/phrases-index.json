@@ -153,5 +153,15 @@
         "category": "Common Phrasal Verbs",
         "file": "phrasal-verbs.json",
         "description": "Các cụm động từ phổ biến trong tiếng Anh, kèm IPA, nghĩa tiếng Việt và ví dụ minh họa. Ví dụ: think of, run out of, look after, give up…"
+    },
+    {
+        "category": "Confusing Words",
+        "file": "confusing-words.json",
+        "description": "Các cặp từ dễ nhầm lẫn trong tiếng Anh, ví dụ: receipt vs recipe, affect vs effect…"
+    },
+    {
+        "category": "Spelling vs Pronunciation",
+        "file": "spelling-pronunciation.json",
+        "description": "Các từ tiếng Anh có cách viết và phát âm khác biệt, chữ câm hoặc đọc không theo quy tắc, ví dụ: hour, colonel, choir, debt, island…"
     }
 ]
