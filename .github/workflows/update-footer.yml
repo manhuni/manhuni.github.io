@@ -5,13 +5,35 @@ on:
     branches:
       - main   
 
+<<<<<<< HEAD
+=======
+# THÊM PERMISSIONS Ở ĐÂY
+permissions:
+  actions: write  # Quyền xóa workflow runs
+  contents: write # Quyền write cho repository
+
+>>>>>>> 6a02fc49faa0cd58140979765f86c584431e5df0
 jobs:
   update-footer:
     runs-on: ubuntu-latest
 
+<<<<<<< HEAD
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+=======
+    # Có thể thêm permissions ở job level nếu cần
+    permissions:
+      actions: write
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          # Cần token có quyền write
+          token: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> 6a02fc49faa0cd58140979765f86c584431e5df0
 
       - name: Update footer.html
         run: |
@@ -27,3 +49,54 @@ jobs:
           git add components/footer.html
           git commit -m "chore: update footer [skip ci]" || echo "No changes"
           git push
+<<<<<<< HEAD
+=======
+
+      - name: Xóa logs GitHub Actions cũ
+        if: success()
+        run: |
+          echo "🔄 Đang xóa logs GitHub Actions cũ..."
+          
+          # Cài đặt GitHub CLI
+          if ! command -v gh &> /dev/null; then
+              echo "📦 Đang cài đặt GitHub CLI..."
+              type -p curl >/dev/null || (sudo apt update && sudo apt install curl -y)
+              curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+              sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg
+              echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+              sudo apt update
+              sudo apt install gh -y
+          fi
+
+          # Đăng nhập với token
+          echo "🔐 Đang đăng nhập GitHub CLI..."
+          echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+
+          # Xóa runs - CHỈ XÓA NHỮNG RUNS ĐÃ HOÀN THÀNH
+          echo "🗑️ Đang lấy danh sách runs đã hoàn thành để xóa..."
+          runs=$(gh run list --repo ${{ github.repository }} --limit 50 --status completed --json databaseId --jq ".[].databaseId")
+          
+          if [ -z "$runs" ]; then
+              echo "✅ Không có logs nào để xóa!"
+              exit 0
+          fi
+
+          count=$(echo "$runs" | wc -l)
+          echo "📊 Tìm thấy $count runs đã hoàn thành để xóa"
+
+          success_count=0
+          error_count=0
+          
+          for run_id in $runs; do
+              if gh run delete "$run_id" --repo ${{ github.repository }}; then
+                  echo "✅ Đã xóa run: $run_id"
+                  success_count=$((success_count + 1))
+              else
+                  echo "❌ Lỗi khi xóa run: $run_id"
+                  error_count=$((error_count + 1))
+              fi
+              sleep 0.2
+          done
+
+          echo "🎉 Hoàn thành! Đã xóa $success_count runs, lỗi: $error_count"
+>>>>>>> 6a02fc49faa0cd58140979765f86c584431e5df0
