@@ -1,0 +1,802 @@
+[
+    {
+        "word": "borrow",
+        "ipa_word": "/ˈbɒr.oʊ/",
+        "type": "Verb",
+        "meaning_word": "mượn",
+        "phrase": "Can I borrow your book?",
+        "ipa_phrase": "/kæn aɪ ˈbɒr.oʊ jɔːr bʊk/",
+        "meaning_phrase": "Tôi có thể mượn quyển sách của bạn không?",
+        "context": "Người nhận vật"
+    },
+    {
+        "word": "lend",
+        "ipa_word": "/lend/",
+        "type": "Verb",
+        "meaning_word": "cho mượn",
+        "phrase": "I can lend you some money.",
+        "ipa_phrase": "/aɪ kæn lend juː sʌm ˈmʌn.i/",
+        "meaning_phrase": "Tôi có thể cho bạn mượn một ít tiền.",
+        "context": "Người cho vật"
+    },
+    {
+        "word": "come",
+        "ipa_word": "/kʌm/",
+        "type": "Verb",
+        "meaning_word": "đến",
+        "phrase": "Please come to my house.",
+        "ipa_phrase": "/pliːz kʌm tə maɪ haʊs/",
+        "meaning_phrase": "Làm ơn đến nhà tôi.",
+        "context": "Hướng về người nói"
+    },
+    {
+        "word": "go",
+        "ipa_word": "/ɡoʊ/",
+        "type": "Verb",
+        "meaning_word": "đi",
+        "phrase": "I will go to school now.",
+        "ipa_phrase": "/aɪ wɪl ɡoʊ tə skuːl naʊ/",
+        "meaning_phrase": "Tôi sẽ đi học ngay bây giờ.",
+        "context": "Rời xa người nói"
+    },
+    {
+        "word": "buy",
+        "ipa_word": "/baɪ/",
+        "type": "Verb",
+        "meaning_word": "mua",
+        "phrase": "I want to buy a new phone.",
+        "ipa_phrase": "/aɪ wɑːnt tə baɪ ə njuː foʊn/",
+        "meaning_phrase": "Tôi muốn mua một chiếc điện thoại mới.",
+        "context": "Người trả tiền"
+    },
+    {
+        "word": "sell",
+        "ipa_word": "/sel/",
+        "type": "Verb",
+        "meaning_word": "bán",
+        "phrase": "She sells fruit at the market.",
+        "ipa_phrase": "/ʃiː selz fruːt ət ðə ˈmɑːr.kɪt/",
+        "meaning_phrase": "Cô ấy bán trái cây ở chợ.",
+        "context": "Người nhận tiền"
+    }, 
+    {
+        "word": "teach",
+        "ipa_word": "/tiːtʃ/",
+        "type": "Verb",
+        "meaning_word": "dạy",
+        "phrase": "She teaches English at school.",
+        "ipa_phrase": "/ʃiː tiːtʃɪz ˈɪŋ.ɡlɪʃ ət skuːl/",
+        "meaning_phrase": "Cô ấy dạy tiếng Anh ở trường.",
+        "context": "Người truyền đạt kiến thức"
+    },
+    {
+        "word": "learn",
+        "ipa_word": "/lɜːrn/",
+        "type": "Verb",
+        "meaning_word": "học",
+        "phrase": "I want to learn English.",
+        "ipa_phrase": "/aɪ wɑːnt tə lɜːrn ˈɪŋ.ɡlɪʃ/",
+        "meaning_phrase": "Tôi muốn học tiếng Anh.",
+        "context": "Người tiếp nhận kiến thức"
+    },
+    {
+        "word": "give",
+        "ipa_word": "/ɡɪv/",
+        "type": "Verb",
+        "meaning_word": "cho",
+        "phrase": "He gave me a gift.",
+        "ipa_phrase": "/hiː ɡeɪv miː ə ɡɪft/",
+        "meaning_phrase": "Anh ấy đã cho tôi một món quà.",
+        "context": "Người trao vật"
+    },
+    {
+        "word": "receive",
+        "ipa_word": "/rɪˈsiːv/",
+        "type": "Verb",
+        "meaning_word": "nhận",
+        "phrase": "I received a letter from my friend.",
+        "ipa_phrase": "/aɪ rɪˈsiːvd ə ˈletər frəm maɪ frend/",
+        "meaning_phrase": "Tôi đã nhận một bức thư từ bạn mình.",
+        "context": "Người nhận vật"
+    },
+    {
+        "word": "send",
+        "ipa_word": "/send/",
+        "type": "Verb",
+        "meaning_word": "gửi",
+        "phrase": "I will send you an email.",
+        "ipa_phrase": "/aɪ wɪl send juː ən ˈiː.meɪl/",
+        "meaning_phrase": "Tôi sẽ gửi cho bạn một email.",
+        "context": "Người chuyển thông tin/vật"
+    },
+    {
+        "word": "receive",
+        "ipa_word": "/rɪˈsiːv/",
+        "type": "Verb",
+        "meaning_word": "nhận",
+        "phrase": "Did you receive my email?",
+        "ipa_phrase": "/dɪd juː rɪˈsiːv maɪ ˈiː.meɪl/",
+        "meaning_phrase": "Bạn có nhận được email của tôi không?",
+        "context": "Người nhận thông tin/vật"
+    },
+    {
+        "word": "bring",
+        "ipa_word": "/brɪŋ/",
+        "type": "Verb",
+        "meaning_word": "mang đến",
+        "phrase": "Please bring your notebook to class.",
+        "ipa_phrase": "/pliːz brɪŋ jɔːr ˈnoʊtbʊk tə klæs/",
+        "meaning_phrase": "Hãy mang vở đến lớp.",
+        "context": "Hướng về nơi của người nói/người nghe"
+    },
+    {
+        "word": "take",
+        "ipa_word": "/teɪk/",
+        "type": "Verb",
+        "meaning_word": "mang đi",
+        "phrase": "Take this umbrella with you.",
+        "ipa_phrase": "/teɪk ðɪs ʌmˈbrelə wɪð juː/",
+        "meaning_phrase": "Hãy mang chiếc ô này theo bạn.",
+        "context": "Rời xa người nói/người nghe"
+    },
+    {
+        "word": "ask",
+        "ipa_word": "/æsk/",
+        "type": "Verb",
+        "meaning_word": "hỏi",
+        "phrase": "She asked me a question.",
+        "ipa_phrase": "/ʃiː æskt miː ə ˈkwes.tʃən/",
+        "meaning_phrase": "Cô ấy đã hỏi tôi một câu hỏi.",
+        "context": "Người đưa câu hỏi"
+    },
+    {
+        "word": "answer",
+        "ipa_word": "/ˈæn.sər/",
+        "type": "Verb",
+        "meaning_word": "trả lời",
+        "phrase": "I answered his question.",
+        "ipa_phrase": "/aɪ ˈæn.sərd hɪz ˈkwes.tʃən/",
+        "meaning_phrase": "Tôi đã trả lời câu hỏi của anh ấy.",
+        "context": "Người phản hồi"
+    },
+    {
+        "word": "win",
+        "ipa_word": "/wɪn/",
+        "type": "Verb",
+        "meaning_word": "thắng",
+        "phrase": "Our team won the match.",
+        "ipa_phrase": "/ˈaʊər tiːm wʌn ðə mætʃ/",
+        "meaning_phrase": "Đội của chúng tôi đã thắng trận đấu.",
+        "context": "Người chiến thắng"
+    },
+    {
+        "word": "lose",
+        "ipa_word": "/luːz/",
+        "type": "Verb",
+        "meaning_word": "thua",
+        "phrase": "They lost the game.",
+        "ipa_phrase": "/ðeɪ lɑːst ðə ɡeɪm/",
+        "meaning_phrase": "Họ đã thua trận đấu.",
+        "context": "Người thất bại"
+    },
+    {
+        "word": "enter",
+        "ipa_word": "/ˈen.tər/",
+        "type": "Verb",
+        "meaning_word": "vào",
+        "phrase": "He entered the room quietly.",
+        "ipa_phrase": "/hiː ˈen.tərd ðə ruːm ˈkwaɪətli/",
+        "meaning_phrase": "Anh ấy bước vào phòng một cách lặng lẽ.",
+        "context": "Di chuyển vào"
+    },
+    {
+        "word": "exit",
+        "ipa_word": "/ˈeɡ.zɪt/",
+        "type": "Verb",
+        "meaning_word": "ra, thoát ra",
+        "phrase": "She exited the building.",
+        "ipa_phrase": "/ʃiː ˈeɡ.zɪtɪd ðə ˈbɪldɪŋ/",
+        "meaning_phrase": "Cô ấy đã rời khỏi tòa nhà.",
+        "context": "Di chuyển ra ngoài"
+    },
+    {
+        "word": "arrive",
+        "ipa_word": "/əˈraɪv/",
+        "type": "Verb",
+        "meaning_word": "đến",
+        "phrase": "They arrived at the station.",
+        "ipa_phrase": "/ðeɪ əˈraɪvd ət ðə ˈsteɪʃən/",
+        "meaning_phrase": "Họ đã đến nhà ga.",
+        "context": "Điểm đến"
+    },
+    {
+        "word": "depart",
+        "ipa_word": "/dɪˈpɑːrt/",
+        "type": "Verb",
+        "meaning_word": "khởi hành",
+        "phrase": "The train departs at 7 a.m.",
+        "ipa_phrase": "/ðə treɪn dɪˈpɑːrts ət ˈsev.ən eɪ.em/",
+        "meaning_phrase": "Chuyến tàu khởi hành lúc 7 giờ sáng.",
+        "context": "Điểm xuất phát"
+    },
+    {
+        "word": "marry",
+        "ipa_word": "/ˈmær.i/",
+        "type": "Verb",
+        "meaning_word": "kết hôn với",
+        "phrase": "He married his childhood friend.",
+        "ipa_phrase": "/hiː ˈmær.id hɪz ˈtʃaɪld.hʊd frend/",
+        "meaning_phrase": "Anh ấy đã kết hôn với bạn thời thơ ấu.",
+        "context": "Người chủ động kết hôn"
+    },
+    {
+        "word": "divorce",
+        "ipa_word": "/dɪˈvɔːrs/",
+        "type": "Verb",
+        "meaning_word": "ly hôn",
+        "phrase": "They divorced after 10 years.",
+        "ipa_phrase": "/ðeɪ dɪˈvɔːrst ˈæftər ten jɪrz/",
+        "meaning_phrase": "Họ đã ly hôn sau 10 năm.",
+        "context": "Chấm dứt hôn nhân"
+    },
+    {
+        "word": "accept",
+        "ipa_word": "/əkˈsept/",
+        "type": "Verb",
+        "meaning_word": "chấp nhận",
+        "phrase": "She accepted the job offer.",
+        "ipa_phrase": "/ʃiː əkˈseptɪd ðə dʒɒb ˈɒfər/",
+        "meaning_phrase": "Cô ấy đã chấp nhận lời mời làm việc.",
+        "context": "Người đồng ý nhận"
+    },
+    {
+        "word": "refuse",
+        "ipa_word": "/rɪˈfjuːz/",
+        "type": "Verb",
+        "meaning_word": "từ chối",
+        "phrase": "He refused to help.",
+        "ipa_phrase": "/hiː rɪˈfjuːzd tə help/",
+        "meaning_phrase": "Anh ấy từ chối giúp đỡ.",
+        "context": "Người từ chối"
+    },
+    {
+        "word": "attack",
+        "ipa_word": "/əˈtæk/",
+        "type": "Verb",
+        "meaning_word": "tấn công",
+        "phrase": "The army attacked the city.",
+        "ipa_phrase": "/ði ˈɑːrmi əˈtækt ðə ˈsɪti/",
+        "meaning_phrase": "Quân đội đã tấn công thành phố.",
+        "context": "Người gây ra hành động"
+    },
+    {
+        "word": "defend",
+        "ipa_word": "/dɪˈfend/",
+        "type": "Verb",
+        "meaning_word": "phòng thủ, bảo vệ",
+        "phrase": "They defended their homeland.",
+        "ipa_phrase": "/ðeɪ dɪˈfendɪd ðer ˈhoʊmlænd/",
+        "meaning_phrase": "Họ đã bảo vệ quê hương.",
+        "context": "Người chống lại hành động"
+    },
+    {
+        "word": "push",
+        "ipa_word": "/pʊʃ/",
+        "type": "Verb",
+        "meaning_word": "đẩy",
+        "phrase": "He pushed the door open.",
+        "ipa_phrase": "/hiː pʊʃt ðə dɔːr ˈoʊpən/",
+        "meaning_phrase": "Anh ấy đã đẩy cửa ra.",
+        "context": "Hành động ra xa"
+    },
+    {
+        "word": "pull",
+        "ipa_word": "/pʊl/",
+        "type": "Verb",
+        "meaning_word": "kéo",
+        "phrase": "She pulled the chair closer.",
+        "ipa_phrase": "/ʃiː pʊld ðə tʃer ˈkloʊsər/",
+        "meaning_phrase": "Cô ấy kéo ghế lại gần hơn.",
+        "context": "Hành động lại gần"
+    },
+    {
+        "word": "expand",
+        "ipa_word": "/ɪkˈspænd/",
+        "type": "Verb",
+        "meaning_word": "mở rộng",
+        "phrase": "The company expanded its business overseas.",
+        "ipa_phrase": "/ðə ˈkʌmpəni ɪkˈspændɪd ɪts ˈbɪznəs ˌoʊvərˈsiːz/",
+        "meaning_phrase": "Công ty đã mở rộng kinh doanh ra nước ngoài.",
+        "context": "Tăng quy mô"
+    },
+    {
+        "word": "contract",
+        "ipa_word": "/kənˈtrækt/",
+        "type": "Verb",
+        "meaning_word": "thu hẹp, co lại",
+        "phrase": "The market contracted during the crisis.",
+        "ipa_phrase": "/ðə ˈmɑːrkɪt kənˈtræktɪd ˈdjʊrɪŋ ðə ˈkraɪsɪs/",
+        "meaning_phrase": "Thị trường đã thu hẹp trong khủng hoảng.",
+        "context": "Giảm quy mô"
+    },
+    {
+        "word": "hire",
+        "ipa_word": "/ˈhaɪər/",
+        "type": "Verb",
+        "meaning_word": "thuê",
+        "phrase": "The company hired new staff.",
+        "ipa_phrase": "/ðə ˈkʌmpəni ˈhaɪərd nuː stæf/",
+        "meaning_phrase": "Công ty đã thuê nhân viên mới.",
+        "context": "Người tuyển dụng"
+    },
+    {
+        "word": "fire",
+        "ipa_word": "/ˈfaɪər/",
+        "type": "Verb",
+        "meaning_word": "sa thải",
+        "phrase": "He was fired for being late.",
+        "ipa_phrase": "/hiː wəz ˈfaɪərd fər ˈbiːɪŋ leɪt/",
+        "meaning_phrase": "Anh ấy bị sa thải vì đi trễ.",
+        "context": "Người chấm dứt hợp đồng"
+    },
+    {
+        "word": "accept",
+        "ipa_word": "/əkˈsept/",
+        "type": "Verb",
+        "meaning_word": "nhận (một lời mời)",
+        "phrase": "She accepted his invitation.",
+        "ipa_phrase": "/ʃiː əkˈseptɪd hɪz ˌɪnvɪˈteɪʃən/",
+        "meaning_phrase": "Cô ấy đã nhận lời mời của anh.",
+        "context": "Đồng ý tham gia"
+    },
+    {
+        "word": "decline",
+        "ipa_word": "/dɪˈklaɪn/",
+        "type": "Verb",
+        "meaning_word": "từ chối (một lời mời)",
+        "phrase": "He declined the dinner invitation.",
+        "ipa_phrase": "/hiː dɪˈklaɪnd ðə ˈdɪnər ˌɪnvɪˈteɪʃən/",
+        "meaning_phrase": "Anh ấy từ chối lời mời ăn tối.",
+        "context": "Không tham gia"
+    },
+    {
+        "word": "attack",
+        "ipa_word": "/əˈtæk/",
+        "type": "Verb",
+        "meaning_word": "chỉ trích",
+        "phrase": "The article attacked the government.",
+        "ipa_phrase": "/ði ˈɑːrtɪkl əˈtækt ðə ˈɡʌvərnmənt/",
+        "meaning_phrase": "Bài báo đã chỉ trích chính phủ.",
+        "context": "Phê phán mạnh"
+    },
+    {
+        "word": "praise",
+        "ipa_word": "/preɪz/",
+        "type": "Verb",
+        "meaning_word": "khen ngợi",
+        "phrase": "She praised the students for their hard work.",
+        "ipa_phrase": "/ʃiː preɪzd ðə ˈstuːdənts fər ðer hɑːrd wɜːrk/",
+        "meaning_phrase": "Cô ấy đã khen ngợi học sinh vì sự chăm chỉ.",
+        "context": "Đánh giá tích cực"
+    },
+    {
+        "word": "start",
+        "ipa_word": "/stɑːrt/",
+        "type": "Verb",
+        "meaning_word": "bắt đầu",
+        "phrase": "They started a new project.",
+        "ipa_phrase": "/ðeɪ ˈstɑːrtɪd ə njuː ˈprɒdʒekt/",
+        "meaning_phrase": "Họ đã bắt đầu một dự án mới.",
+        "context": "Khởi đầu"
+    },
+    {
+        "word": "finish",
+        "ipa_word": "/ˈfɪnɪʃ/",
+        "type": "Verb",
+        "meaning_word": "kết thúc",
+        "phrase": "He finished his homework.",
+        "ipa_phrase": "/hiː ˈfɪnɪʃt hɪz ˈhoʊmwɜːrk/",
+        "meaning_phrase": "Anh ấy đã làm xong bài tập về nhà.",
+        "context": "Hoàn tất"
+    },
+    {
+        "word": "rise",
+        "ipa_word": "/raɪz/",
+        "type": "Verb",
+        "meaning_word": "tăng",
+        "phrase": "Prices are rising quickly.",
+        "ipa_phrase": "/ˈpraɪsɪz ər ˈraɪzɪŋ ˈkwɪkli/",
+        "meaning_phrase": "Giá cả đang tăng nhanh.",
+        "context": "Đi lên"
+    },
+    {
+        "word": "fall",
+        "ipa_word": "/fɔːl/",
+        "type": "Verb",
+        "meaning_word": "giảm",
+        "phrase": "The temperature fell sharply.",
+        "ipa_phrase": "/ðə ˈtemprətʃər fel ˈʃɑːrpli/",
+        "meaning_phrase": "Nhiệt độ đã giảm mạnh.",
+        "context": "Đi xuống"
+    },
+    {
+        "word": "open",
+        "ipa_word": "/ˈoʊpən/",
+        "type": "Verb",
+        "meaning_word": "mở",
+        "phrase": "He opened the window.",
+        "ipa_phrase": "/hiː ˈoʊpənd ðə ˈwɪndoʊ/",
+        "meaning_phrase": "Anh ấy đã mở cửa sổ.",
+        "context": "Cho phép vào/ra"
+    },
+    {
+        "word": "close",
+        "ipa_word": "/kloʊz/",
+        "type": "Verb",
+        "meaning_word": "đóng",
+        "phrase": "Please close the door.",
+        "ipa_phrase": "/pliːz kloʊz ðə dɔːr/",
+        "meaning_phrase": "Làm ơn đóng cửa lại.",
+        "context": "Ngăn không cho vào/ra"
+    },
+    {
+        "word": "accept",
+        "ipa_word": "/əkˈsept/",
+        "type": "Verb",
+        "meaning_word": "nhận vào (kết quả, lỗi sai)",
+        "phrase": "She accepted her mistake.",
+        "ipa_phrase": "/ʃiː əkˈseptɪd hər mɪˈsteɪk/",
+        "meaning_phrase": "Cô ấy đã chấp nhận lỗi lầm của mình.",
+        "context": "Thừa nhận"
+    },
+    {
+        "word": "deny",
+        "ipa_word": "/dɪˈnaɪ/",
+        "type": "Verb",
+        "meaning_word": "phủ nhận",
+        "phrase": "He denied the accusation.",
+        "ipa_phrase": "/hiː dɪˈnaɪd ði ˌæk.jəˈzeɪʃən/",
+        "meaning_phrase": "Anh ấy phủ nhận lời buộc tội.",
+        "context": "Không thừa nhận"
+    },
+    {
+        "word": "love",
+        "ipa_word": "/lʌv/",
+        "type": "Verb",
+        "meaning_word": "yêu",
+        "phrase": "I love my family.",
+        "ipa_phrase": "/aɪ lʌv maɪ ˈfæməli/",
+        "meaning_phrase": "Tôi yêu gia đình mình.",
+        "context": "Tình cảm tích cực"
+    },
+    {
+        "word": "hate",
+        "ipa_word": "/heɪt/",
+        "type": "Verb",
+        "meaning_word": "ghét",
+        "phrase": "She hates waiting in line.",
+        "ipa_phrase": "/ʃiː heɪts ˈweɪtɪŋ ɪn laɪn/",
+        "meaning_phrase": "Cô ấy ghét phải xếp hàng.",
+        "context": "Tình cảm tiêu cực"
+    },
+    {
+        "word": "appear",
+        "ipa_word": "/əˈpɪr/",
+        "type": "Verb",
+        "meaning_word": "xuất hiện",
+        "phrase": "A rainbow appeared in the sky.",
+        "ipa_phrase": "/ə ˈreɪn.boʊ əˈpɪrd ɪn ðə skaɪ/",
+        "meaning_phrase": "Một cầu vồng đã xuất hiện trên bầu trời.",
+        "context": "Bắt đầu hiện ra"
+    },
+    {
+        "word": "disappear",
+        "ipa_word": "/ˌdɪs.əˈpɪr/",
+        "type": "Verb",
+        "meaning_word": "biến mất",
+        "phrase": "The cat disappeared suddenly.",
+        "ipa_phrase": "/ðə kæt ˌdɪsəˈpɪrd ˈsʌdənli/",
+        "meaning_phrase": "Con mèo biến mất đột ngột.",
+        "context": "Không còn thấy"
+    },
+    {
+        "word": "increase",
+        "ipa_word": "/ɪnˈkriːs/",
+        "type": "Verb",
+        "meaning_word": "tăng",
+        "phrase": "The population increased rapidly.",
+        "ipa_phrase": "/ðə ˌpɑːpjəˈleɪʃən ɪnˈkriːst ˈræpɪdli/",
+        "meaning_phrase": "Dân số đã tăng nhanh chóng.",
+        "context": "Tăng số lượng"
+    },
+    {
+        "word": "decrease",
+        "ipa_word": "/dɪˈkriːs/",
+        "type": "Verb",
+        "meaning_word": "giảm",
+        "phrase": "The number of accidents decreased last year.",
+        "ipa_phrase": "/ðə ˈnʌmbər əv ˈæksɪdənts dɪˈkriːst læst jɪr/",
+        "meaning_phrase": "Số vụ tai nạn đã giảm trong năm ngoái.",
+        "context": "Giảm số lượng"
+    },
+    {
+        "word": "accept",
+        "ipa_word": "/əkˈsept/",
+        "type": "Verb",
+        "meaning_word": "chấp thuận",
+        "phrase": "The bank accepted the loan request.",
+        "ipa_phrase": "/ðə bæŋk əkˈseptɪd ðə loʊn rɪˈkwest/",
+        "meaning_phrase": "Ngân hàng đã chấp thuận yêu cầu vay.",
+        "context": "Đồng ý"
+    },
+    {
+        "word": "reject",
+        "ipa_word": "/rɪˈdʒekt/",
+        "type": "Verb",
+        "meaning_word": "từ chối, bác bỏ",
+        "phrase": "The application was rejected.",
+        "ipa_phrase": "/ði ˌæplɪˈkeɪʃən wəz rɪˈdʒektɪd/",
+        "meaning_phrase": "Đơn xin đã bị từ chối.",
+        "context": "Không đồng ý"
+    },
+    {
+        "word": "agree",
+        "ipa_word": "/əˈɡriː/",
+        "type": "Verb",
+        "meaning_word": "đồng ý",
+        "phrase": "I agree with your opinion.",
+        "ipa_phrase": "/aɪ əˈɡriː wɪð jɔːr əˈpɪn.jən/",
+        "meaning_phrase": "Tôi đồng ý với ý kiến của bạn.",
+        "context": "Chấp thuận"
+    },
+    {
+        "word": "disagree",
+        "ipa_word": "/ˌdɪsəˈɡriː/",
+        "type": "Verb",
+        "meaning_word": "không đồng ý",
+        "phrase": "They disagreed on the solution.",
+        "ipa_phrase": "/ðeɪ ˌdɪsəˈɡriːd ɑːn ðə səˈluːʃən/",
+        "meaning_phrase": "Họ không đồng ý về giải pháp.",
+        "context": "Phản đối"
+    },
+    {
+        "word": "create",
+        "ipa_word": "/kriˈeɪt/",
+        "type": "Verb",
+        "meaning_word": "tạo ra",
+        "phrase": "She created a beautiful painting.",
+        "ipa_phrase": "/ʃiː kriˈeɪtɪd ə ˈbjuːtəfl ˈpeɪntɪŋ/",
+        "meaning_phrase": "Cô ấy đã vẽ một bức tranh đẹp.",
+        "context": "Sinh ra cái mới"
+    },
+    {
+        "word": "destroy",
+        "ipa_word": "/dɪˈstrɔɪ/",
+        "type": "Verb",
+        "meaning_word": "phá hủy",
+        "phrase": "The fire destroyed the building.",
+        "ipa_phrase": "/ðə faɪər dɪˈstrɔɪd ðə ˈbɪldɪŋ/",
+        "meaning_phrase": "Ngọn lửa đã phá hủy tòa nhà.",
+        "context": "Làm biến mất cái đã có"
+    },
+    {
+        "word": "arrive",
+        "ipa_word": "/əˈraɪv/",
+        "type": "Verb",
+        "meaning_word": "đến",
+        "phrase": "They arrived late for the meeting.",
+        "ipa_phrase": "/ðeɪ əˈraɪvd leɪt fər ðə ˈmiːtɪŋ/",
+        "meaning_phrase": "Họ đã đến muộn buổi họp.",
+        "context": "Điểm đến"
+    },
+    {
+        "word": "leave",
+        "ipa_word": "/liːv/",
+        "type": "Verb",
+        "meaning_word": "rời đi",
+        "phrase": "She left the office at 6 p.m.",
+        "ipa_phrase": "/ʃiː left ði ˈɒfɪs æt sɪks piː.em/",
+        "meaning_phrase": "Cô ấy rời văn phòng lúc 6 giờ tối.",
+        "context": "Điểm xuất phát"
+    },
+    {
+        "word": "succeed",
+        "ipa_word": "/səkˈsiːd/",
+        "type": "Verb",
+        "meaning_word": "thành công",
+        "phrase": "He succeeded in passing the exam.",
+        "ipa_phrase": "/hiː səkˈsiːdɪd ɪn ˈpæsɪŋ ði ɪɡˈzæm/",
+        "meaning_phrase": "Anh ấy đã thành công vượt qua kỳ thi.",
+        "context": "Đạt được mục tiêu"
+    },
+    {
+        "word": "fail",
+        "ipa_word": "/feɪl/",
+        "type": "Verb",
+        "meaning_word": "thất bại",
+        "phrase": "She failed the driving test.",
+        "ipa_phrase": "/ʃiː feɪld ðə ˈdraɪvɪŋ test/",
+        "meaning_phrase": "Cô ấy đã trượt kỳ thi lái xe.",
+        "context": "Không đạt mục tiêu"
+    },
+    {
+        "word": "allow",
+        "ipa_word": "/əˈlaʊ/",
+        "type": "Verb",
+        "meaning_word": "cho phép",
+        "phrase": "They allowed us to enter.",
+        "ipa_phrase": "/ðeɪ əˈlaʊd əs tuː ˈentər/",
+        "meaning_phrase": "Họ cho phép chúng tôi vào.",
+        "context": "Được phép"
+    },
+    {
+        "word": "forbid",
+        "ipa_word": "/fərˈbɪd/",
+        "type": "Verb",
+        "meaning_word": "cấm",
+        "phrase": "Smoking is forbidden here.",
+        "ipa_phrase": "/ˈsmoʊkɪŋ ɪz fərˈbɪdn hɪr/",
+        "meaning_phrase": "Hút thuốc bị cấm ở đây.",
+        "context": "Không được phép"
+    },
+     {
+        "word": "marry",
+        "ipa_word": "/ˈmær.i/",
+        "type": "Verb",
+        "meaning_word": "kết hôn với",
+        "phrase": "She will marry John next year.",
+        "ipa_phrase": "/ʃiː wɪl ˈmær.i dʒɑːn nekst jɪr/",
+        "meaning_phrase": "Cô ấy sẽ kết hôn với John vào năm tới.",
+        "context": "Người nhận hôn nhân"
+    },
+    {
+        "word": "divorce",
+        "ipa_word": "/dɪˈvɔːrs/",
+        "type": "Verb",
+        "meaning_word": "ly hôn",
+        "phrase": "They decided to divorce after ten years.",
+        "ipa_phrase": "/ðeɪ dɪˈsaɪdəd tə dɪˈvɔːrs ˈæftər ten jɪrz/",
+        "meaning_phrase": "Họ quyết định ly hôn sau mười năm.",
+        "context": "Chấm dứt hôn nhân"
+    },
+    {
+        "word": "employ",
+        "ipa_word": "/ɪmˈplɔɪ/",
+        "type": "Verb",
+        "meaning_word": "thuê (ai đó làm việc)",
+        "phrase": "The company employs over 200 workers.",
+        "ipa_phrase": "/ðə ˈkʌm.pə.ni ɪmˈplɔɪz ˈoʊ.vər tuː ˈhʌn.drəd ˈwɜːrk.ərz/",
+        "meaning_phrase": "Công ty thuê hơn 200 công nhân.",
+        "context": "Người chủ sử dụng lao động"
+    },
+    {
+        "word": "work for",
+        "ipa_word": "/wɜːrk fɔːr/",
+        "type": "Verb",
+        "meaning_word": "làm việc cho",
+        "phrase": "He works for a big law firm.",
+        "ipa_phrase": "/hiː wɜːrks fɔːr ə bɪɡ lɔː fɜːrm/",
+        "meaning_phrase": "Anh ấy làm việc cho một hãng luật lớn.",
+        "context": "Người lao động"
+    },
+    {
+        "word": "invite",
+        "ipa_word": "/ɪnˈvaɪt/",
+        "type": "Verb",
+        "meaning_word": "mời",
+        "phrase": "She invited me to her birthday party.",
+        "ipa_phrase": "/ʃiː ɪnˈvaɪtɪd miː tə hər ˈbɜːrθ.deɪ ˈpɑːr.ti/",
+        "meaning_phrase": "Cô ấy mời tôi đến tiệc sinh nhật.",
+        "context": "Người chủ động mời"
+    },
+    {
+        "word": "accept",
+        "ipa_word": "/əkˈsept/",
+        "type": "Verb",
+        "meaning_word": "nhận lời",
+        "phrase": "I accepted his invitation.",
+        "ipa_phrase": "/aɪ əkˈseptɪd hɪz ˌɪn.vɪˈteɪ.ʃən/",
+        "meaning_phrase": "Tôi đã nhận lời mời của anh ấy.",
+        "context": "Người được mời"
+    },
+    {
+        "word": "start",
+        "ipa_word": "/stɑːrt/",
+        "type": "Verb",
+        "meaning_word": "bắt đầu",
+        "phrase": "The movie starts at 7 p.m.",
+        "ipa_phrase": "/ðə ˈmuː.vi stɑːrts ət ˈsev.ən piː.em/",
+        "meaning_phrase": "Bộ phim bắt đầu lúc 7 giờ tối.",
+        "context": "Điểm mở đầu"
+    },
+    {
+        "word": "finish",
+        "ipa_word": "/ˈfɪn.ɪʃ/",
+        "type": "Verb",
+        "meaning_word": "kết thúc",
+        "phrase": "They finished the project last week.",
+        "ipa_phrase": "/ðeɪ ˈfɪn.ɪʃt ðə ˈprɑː.dʒekt læst wiːk/",
+        "meaning_phrase": "Họ đã hoàn thành dự án vào tuần trước.",
+        "context": "Điểm kết thúc"
+    },
+    {
+        "word": "admit",
+        "ipa_word": "/ədˈmɪt/",
+        "type": "Verb",
+        "meaning_word": "thừa nhận",
+        "phrase": "He admitted his mistake.",
+        "ipa_phrase": "/hiː ədˈmɪtɪd hɪz mɪˈsteɪk/",
+        "meaning_phrase": "Anh ấy đã thừa nhận lỗi lầm của mình.",
+        "context": "Người chấp nhận sự thật"
+    },
+    {
+        "word": "deny",
+        "ipa_word": "/dɪˈnaɪ/",
+        "type": "Verb",
+        "meaning_word": "phủ nhận",
+        "phrase": "She denied breaking the vase.",
+        "ipa_phrase": "/ʃiː dɪˈnaɪd ˈbreɪ.kɪŋ ðə veɪs/",
+        "meaning_phrase": "Cô ấy phủ nhận việc làm vỡ bình hoa.",
+        "context": "Người phản bác sự thật"
+    },
+    {
+        "word": "attack",
+        "ipa_word": "/əˈtæk/",
+        "type": "Verb",
+        "meaning_word": "tấn công",
+        "phrase": "The army attacked the enemy base.",
+        "ipa_phrase": "/ði ˈɑːr.mi əˈtækt ði ˈen.ə.mi beɪs/",
+        "meaning_phrase": "Quân đội đã tấn công căn cứ của kẻ thù.",
+        "context": "Người tấn công"
+    },
+    {
+        "word": "defend",
+        "ipa_word": "/dɪˈfend/",
+        "type": "Verb",
+        "meaning_word": "phòng thủ",
+        "phrase": "They defended their city bravely.",
+        "ipa_phrase": "/ðeɪ dɪˈfendɪd ðer ˈsɪt.i ˈbreɪv.li/",
+        "meaning_phrase": "Họ đã dũng cảm bảo vệ thành phố.",
+        "context": "Người phòng thủ"
+    },
+    {
+        "word": "enter",
+        "ipa_word": "/ˈen.tər/",
+        "type": "Verb",
+        "meaning_word": "vào",
+        "phrase": "He entered the room quietly.",
+        "ipa_phrase": "/hiː ˈen.tərd ðə ruːm ˈkwaɪ.ət.li/",
+        "meaning_phrase": "Anh ấy bước vào phòng một cách yên lặng.",
+        "context": "Hướng vào bên trong"
+    },
+    {
+        "word": "leave",
+        "ipa_word": "/liːv/",
+        "type": "Verb",
+        "meaning_word": "rời đi",
+        "phrase": "She left the office at 6 p.m.",
+        "ipa_phrase": "/ʃiː left ði ˈɑː.fɪs ət sɪks piː.em/",
+        "meaning_phrase": "Cô ấy rời văn phòng lúc 6 giờ tối.",
+        "context": "Hướng ra ngoài"
+    },
+    {
+        "word": "praise",
+        "ipa_word": "/preɪz/",
+        "type": "Verb",
+        "meaning_word": "khen ngợi",
+        "phrase": "The teacher praised her students.",
+        "ipa_phrase": "/ðə ˈtiː.tʃər preɪzd hər ˈstuː.dənts/",
+        "meaning_phrase": "Cô giáo khen ngợi học sinh của mình.",
+        "context": "Lời khen"
+    },
+    {
+        "word": "criticize",
+        "ipa_word": "/ˈkrɪt.ɪ.saɪz/",
+        "type": "Verb",
+        "meaning_word": "chỉ trích",
+        "phrase": "He criticized the new policy.",
+        "ipa_phrase": "/hiː ˈkrɪt.ɪ.saɪzd ðə njuː ˈpɑː.lə.si/",
+        "meaning_phrase": "Anh ấy chỉ trích chính sách mới.",
+        "context": "Lời chê"
+    } 
+]

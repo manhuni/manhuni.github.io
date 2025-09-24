@@ -163,5 +163,10 @@
         "category": "Spelling vs Pronunciation",
         "file": "spelling-pronunciation.json",
         "description": "Các từ tiếng Anh có cách viết và phát âm khác biệt, chữ câm hoặc đọc không theo quy tắc, ví dụ: hour, colonel, choir, debt, island…"
+    },
+    {
+        "category": "Converse Verbs",
+        "file": "converse-verbs.json",
+        "description": "Các cặp động từ đối ứng trong tiếng Anh, thể hiện cùng một hành động nhưng nhìn từ hai phía khác nhau, ví dụ: borrow/lend, come/go, buy/sell…"
     }
 ]
