@@ -168,5 +168,10 @@
         "category": "Converse Verbs",
         "file": "converse-verbs.json",
         "description": "Các cặp động từ đối ứng trong tiếng Anh, thể hiện cùng một hành động nhưng nhìn từ hai phía khác nhau, ví dụ: borrow/lend, come/go, buy/sell…"
+    },
+    {
+        "category": "Reduplication",
+        "file": "reduplication.json",
+        "description": "Các cụm từ trong tiếng Anh hình thành bằng cách lặp lại toàn bộ hoặc một phần từ, nhằm nhấn mạnh hoặc tạo nhịp điệu. Ví dụ: over and over, again and again, bit by bit, day by day…"
     }
 ]

@@ -1,0 +1,562 @@
+[
+    {
+        "word": "again and again",
+        "ipa_word": "/əˈɡɛn ənd əˈɡɛn/",
+        "type": "Adverbial phrase",
+        "meaning_word": "lặp đi lặp lại",
+        "phrase": "She reminded me again and again.",
+        "ipa_phrase": "/ʃi rɪˈmaɪndɪd mi əˈɡɛn ənd əˈɡɛn/",
+        "meaning_phrase": "Cô ấy nhắc tôi lặp đi lặp lại.",
+        "context": "Nhấn mạnh sự lặp lại"
+    },
+    {
+        "word": "over and over",
+        "ipa_word": "/ˈoʊvər ənd ˈoʊvər/",
+        "type": "Adverbial phrase",
+        "meaning_word": "lặp đi lặp lại nhiều lần",
+        "phrase": "He read the book over and over.",
+        "ipa_phrase": "/hi rɛd ðə bʊk ˈoʊvər ənd ˈoʊvər/",
+        "meaning_phrase": "Anh ấy đọc cuốn sách đi đọc lại nhiều lần.",
+        "context": "Sự dai dẳng"
+    },
+    {
+        "word": "bit by bit",
+        "ipa_word": "/bɪt baɪ bɪt/",
+        "type": "Adverbial phrase",
+        "meaning_word": "từng chút một",
+        "phrase": "She recovered bit by bit after the accident.",
+        "ipa_phrase": "/ʃi rɪˈkʌvərd bɪt baɪ bɪt ˈæftər ði ˈæksɪdənt/",
+        "meaning_phrase": "Cô ấy hồi phục từng chút một sau tai nạn.",
+        "context": "Tiến triển dần dần"
+    },
+    {
+        "word": "step by step",
+        "ipa_word": "/stɛp baɪ stɛp/",
+        "type": "Adverbial phrase",
+        "meaning_word": "từng bước một",
+        "phrase": "They solved the problem step by step.",
+        "ipa_phrase": "/ðeɪ sɑːlvd ðə ˈprɑːbləm stɛp baɪ stɛp/",
+        "meaning_phrase": "Họ giải quyết vấn đề từng bước một.",
+        "context": "Hướng dẫn, tiến trình"
+    },
+    {
+        "word": "day by day",
+        "ipa_word": "/deɪ baɪ deɪ/",
+        "type": "Adverbial phrase",
+        "meaning_word": "ngày qua ngày",
+        "phrase": "Her English improved day by day.",
+        "ipa_phrase": "/hɜːr ˈɪŋɡlɪʃ ɪmˈpruːvd deɪ baɪ deɪ/",
+        "meaning_phrase": "Tiếng Anh của cô ấy tiến bộ từng ngày.",
+        "context": "Sự thay đổi dần dần"
+    },
+    {
+        "word": "little by little",
+        "ipa_word": "/ˈlɪtl baɪ ˈlɪtl/",
+        "type": "Adverbial phrase",
+        "meaning_word": "từng chút một",
+        "phrase": "He gained confidence little by little.",
+        "ipa_phrase": "/hi ɡeɪnd ˈkɒnfɪdəns ˈlɪtl baɪ ˈlɪtl/",
+        "meaning_phrase": "Anh ấy dần dần có thêm tự tin.",
+        "context": "Sự thay đổi chậm"
+    },
+    {
+        "word": "side by side",
+        "ipa_word": "/saɪd baɪ saɪd/",
+        "type": "Adverbial phrase",
+        "meaning_word": "cạnh nhau, cùng nhau",
+        "phrase": "The two houses stand side by side.",
+        "ipa_phrase": "/ðə tuː ˈhaʊzɪz stænd saɪd baɪ saɪd/",
+        "meaning_phrase": "Hai ngôi nhà đứng cạnh nhau.",
+        "context": "Vị trí hoặc đoàn kết"
+    },
+    {
+        "word": "hand in hand",
+        "ipa_word": "/hænd ɪn hænd/",
+        "type": "Adverbial phrase",
+        "meaning_word": "tay trong tay, gắn liền với",
+        "phrase": "They walked hand in hand along the beach.",
+        "ipa_phrase": "/ðeɪ wɔːkt hænd ɪn hænd əˈlɔːŋ ðə biːʧ/",
+        "meaning_phrase": "Họ đi dạo tay trong tay dọc bãi biển.",
+        "context": "Quan hệ mật thiết"
+    },
+    {
+        "word": "face to face",
+        "ipa_word": "/feɪs tə feɪs/",
+        "type": "Adverbial phrase",
+        "meaning_word": "mặt đối mặt",
+        "phrase": "We had a face to face meeting.",
+        "ipa_phrase": "/wi hæd ə feɪs tə feɪs ˈmiːtɪŋ/",
+        "meaning_phrase": "Chúng tôi có một cuộc họp trực tiếp.",
+        "context": "Gặp gỡ trực tiếp"
+    },
+    {
+        "word": "time after time",
+        "ipa_word": "/taɪm ˈæftər taɪm/",
+        "type": "Adverbial phrase",
+        "meaning_word": "hết lần này đến lần khác",
+        "phrase": "Time after time, he proved his loyalty.",
+        "ipa_phrase": "/taɪm ˈæftər taɪm, hi pruːvd hɪz ˈlɔɪəlti/",
+        "meaning_phrase": "Hết lần này đến lần khác, anh ấy chứng minh lòng trung thành.",
+        "context": "Sự lặp lại"
+    },
+    {
+        "word": "from time to time",
+        "ipa_word": "/frəm taɪm tə taɪm/",
+        "type": "Adverbial phrase",
+        "meaning_word": "thỉnh thoảng",
+        "phrase": "We meet from time to time.",
+        "ipa_phrase": "/wi miːt frəm taɪm tə taɪm/",
+        "meaning_phrase": "Chúng tôi gặp nhau thỉnh thoảng.",
+        "context": "Tần suất"
+    },
+    {
+        "word": "one by one",
+        "ipa_word": "/wʌn baɪ wʌn/",
+        "type": "Adverbial phrase",
+        "meaning_word": "từng người một",
+        "phrase": "They entered the room one by one.",
+        "ipa_phrase": "/ðeɪ ˈɛntərd ðə ruːm wʌn baɪ wʌn/",
+        "meaning_phrase": "Họ lần lượt bước vào phòng.",
+        "context": "Sự lần lượt"
+    },
+    {
+        "word": "all in all",
+        "ipa_word": "/ɔːl ɪn ɔːl/",
+        "type": "Adverbial phrase",
+        "meaning_word": "nói chung, tổng thể",
+        "phrase": "All in all, it was a good trip.",
+        "ipa_phrase": "/ɔːl ɪn ɔːl, ɪt wəz ə ɡʊd trɪp/",
+        "meaning_phrase": "Nói chung, đó là một chuyến đi tốt đẹp.",
+        "context": "Tóm tắt ý chính"
+    },
+    {
+        "word": "once and for all",
+        "ipa_word": "/wʌns ənd fər ɔːl/",
+        "type": "Adverbial phrase",
+        "meaning_word": "dứt khoát, một lần cho xong",
+        "phrase": "She decided once and for all to quit smoking.",
+        "ipa_phrase": "/ʃi dɪˈsaɪdəd wʌns ənd fər ɔːl tə kwɪt ˈsmoʊkɪŋ/",
+        "meaning_phrase": "Cô ấy quyết định dứt khoát bỏ thuốc lá.",
+        "context": "Quyết định chắc chắn"
+    },
+    {
+        "word": "sooner or later",
+        "ipa_word": "/ˈsuːnər ɔːr ˈleɪtər/",
+        "type": "Adverbial phrase",
+        "meaning_word": "sớm hay muộn",
+        "phrase": "Sooner or later, the truth will come out.",
+        "ipa_phrase": "/ˈsuːnər ɔːr ˈleɪtər, ðə truːθ wɪl kʌm aʊt/",
+        "meaning_phrase": "Sớm hay muộn thì sự thật cũng sẽ được tiết lộ.",
+        "context": "Chắc chắn xảy ra"
+    },
+    {
+        "word": "by and by",
+        "ipa_word": "/baɪ ənd baɪ/",
+        "type": "Adverbial phrase",
+        "meaning_word": "chẳng mấy chốc, sau này",
+        "phrase": "By and by, they became close friends.",
+        "ipa_phrase": "/baɪ ənd baɪ, ðeɪ bɪˈkeɪm kloʊs frɛndz/",
+        "meaning_phrase": "Chẳng mấy chốc, họ đã trở thành bạn thân.",
+        "context": "Thời gian sau"
+    },
+    {
+        "word": "through and through",
+        "ipa_word": "/θruː ənd θruː/",
+        "type": "Adverbial phrase",
+        "meaning_word": "hoàn toàn, trọn vẹn",
+        "phrase": "He is a teacher through and through.",
+        "ipa_phrase": "/hi ɪz ə ˈtiːʧər θruː ənd θruː/",
+        "meaning_phrase": "Anh ấy đúng là một giáo viên chính hiệu.",
+        "context": "Nhấn mạnh bản chất"
+    },
+    {
+        "word": "heart to heart",
+        "ipa_word": "/hɑːrt tə hɑːrt/",
+        "type": "Adjective/Adverbial phrase",
+        "meaning_word": "chân thành, thẳng thắn",
+        "phrase": "We had a heart to heart talk.",
+        "ipa_phrase": "/wi hæd ə hɑːrt tə hɑːrt tɔːk/",
+        "meaning_phrase": "Chúng tôi đã có một cuộc nói chuyện chân thành.",
+        "context": "Trò chuyện sâu sắc"
+    },
+    {
+        "word": "neck and neck",
+        "ipa_word": "/nɛk ənd nɛk/",
+        "type": "Adverbial phrase",
+        "meaning_word": "ngang ngửa, sát nút",
+        "phrase": "The two runners were neck and neck in the final race.",
+        "ipa_phrase": "/ðə tuː ˈrʌnərz wər nɛk ənd nɛk ɪn ðə ˈfaɪnəl reɪs/",
+        "meaning_phrase": "Hai vận động viên chạy gần như ngang nhau trong cuộc đua chung kết.",
+        "context": "Cạnh tranh"
+    },
+    {
+        "word": "tip-top",
+        "ipa_word": "/ˌtɪpˈtɒp/",
+        "type": "Adjective",
+        "meaning_word": "tuyệt hảo",
+        "phrase": "Her performance was tip-top.",
+        "ipa_phrase": "/hɜːr pəˈfɔː.məns wəz ˌtɪpˈtɒp/",
+        "meaning_phrase": "Màn trình diễn của cô ấy tuyệt hảo.",
+        "context": "Lời khen"
+    },
+    {
+        "word": "zig-zag",
+        "ipa_word": "/ˈzɪɡ.zæɡ/",
+        "type": "Noun/Verb",
+        "meaning_word": "đường ngoằn ngoèo; đi ngoằn ngoèo",
+        "phrase": "The road zig-zags up the hill.",
+        "ipa_phrase": "/ðə roʊd ˈzɪɡ.zæɡz ʌp ðə hɪl/",
+        "meaning_phrase": "Con đường ngoằn ngoèo lên đồi.",
+        "context": "Mô tả đường đi"
+    },
+    {
+        "word": "tick-tock",
+        "ipa_word": "/ˌtɪkˈtɒk/",
+        "type": "Noun",
+        "meaning_word": "tiếng tích tắc",
+        "phrase": "I heard the tick-tock of the clock.",
+        "ipa_phrase": "/aɪ hɜːrd ðə ˌtɪkˈtɒk əv ðə klɒk/",
+        "meaning_phrase": "Tôi nghe tiếng tích tắc của chiếc đồng hồ.",
+        "context": "Âm thanh"
+    },
+    {
+        "word": "flip-flop",
+        "ipa_word": "/ˈflɪp.flɒp/",
+        "type": "Noun/Verb",
+        "meaning_word": "dép xỏ ngón; thay đổi ý kiến",
+        "phrase": "He flip-flopped on the issue.",
+        "ipa_phrase": "/hiː ˈflɪp.flɒpt ɒn ði ˈɪʃ.uː/",
+        "meaning_phrase": "Anh ấy thay đổi ý kiến về vấn đề đó.",
+        "context": "Thảo luận"
+    },
+    {
+        "word": "hip-hop",
+        "ipa_word": "/ˈhɪp.hɒp/",
+        "type": "Noun",
+        "meaning_word": "nhạc hip-hop",
+        "phrase": "She loves hip-hop music.",
+        "ipa_phrase": "/ʃiː lʌvz ˈhɪp.hɒp ˈmjuː.zɪk/",
+        "meaning_phrase": "Cô ấy thích nhạc hip-hop.",
+        "context": "Âm nhạc"
+    },
+    {
+        "word": "wishy-washy",
+        "ipa_word": "/ˈwɪʃ.iˌwɒʃ.i/",
+        "type": "Adjective",
+        "meaning_word": "nhạt nhòa, thiếu quyết đoán",
+        "phrase": "He gave a wishy-washy answer.",
+        "ipa_phrase": "/hiː ɡeɪv ə ˈwɪʃ.iˌwɒʃ.i ˈɑːn.sər/",
+        "meaning_phrase": "Anh ấy đưa ra một câu trả lời thiếu quyết đoán.",
+        "context": "Phản hồi"
+    },
+    {
+        "word": "super-duper",
+        "ipa_word": "/ˌsuː.pərˈduː.pər/",
+        "type": "Adjective",
+        "meaning_word": "tuyệt vời, siêu hạng",
+        "phrase": "That was a super-duper idea!",
+        "ipa_phrase": "/ðæt wəz ə ˌsuː.pərˈduː.pər aɪˈdiːə/",
+        "meaning_phrase": "Đó là một ý tưởng cực kỳ tuyệt vời!",
+        "context": "Lời khen"
+    },
+    {
+        "word": "teeny-weeny",
+        "ipa_word": "/ˌtiː.niˈwiː.ni/",
+        "type": "Adjective",
+        "meaning_word": "bé tí",
+        "phrase": "She wore a teeny-weeny hat.",
+        "ipa_phrase": "/ʃiː wɔːr ə ˌtiː.niˈwiː.ni hæt/",
+        "meaning_phrase": "Cô ấy đội một chiếc mũ bé tí.",
+        "context": "Mô tả kích thước"
+    },
+    {
+        "word": "easy-peasy",
+        "ipa_word": "/ˌiː.ziˈpiː.zi/",
+        "type": "Adjective",
+        "meaning_word": "dễ ợt",
+        "phrase": "The exam was easy-peasy.",
+        "ipa_phrase": "/ði ɪɡˈzæm wəz ˌiː.ziˈpiː.zi/",
+        "meaning_phrase": "Kỳ thi dễ ợt.",
+        "context": "Học tập"
+    },
+    {
+        "word": "itty-bitty",
+        "ipa_word": "/ˌɪt.iˈbɪt.i/",
+        "type": "Adjective",
+        "meaning_word": "rất nhỏ, tí hon",
+        "phrase": "They live in an itty-bitty apartment.",
+        "ipa_phrase": "/ðeɪ lɪv ɪn æn ˌɪt.iˈbɪt.i əˈpɑːrt.mənt/",
+        "meaning_phrase": "Họ sống trong một căn hộ rất nhỏ.",
+        "context": "Mô tả không gian"
+    },
+    {
+        "word": "razzle-dazzle",
+        "ipa_word": "/ˌræz.əlˈdæz.əl/",
+        "type": "Noun",
+        "meaning_word": "trò phô trương, hoa mỹ",
+        "phrase": "The show was full of razzle-dazzle.",
+        "ipa_phrase": "/ðə ʃoʊ wəz fʊl əv ˌræz.əlˈdæz.əl/",
+        "meaning_phrase": "Buổi biểu diễn đầy sự phô trương hoa mỹ.",
+        "context": "Biểu diễn"
+    },
+    {
+        "word": "hoity-toity",
+        "ipa_word": "/ˌhɔɪ.tiˈtɔɪ.ti/",
+        "type": "Adjective",
+        "meaning_word": "làm bộ, trưởng giả",
+        "phrase": "He acts so hoity-toity.",
+        "ipa_phrase": "/hiː ækts soʊ ˌhɔɪ.tiˈtɔɪ.ti/",
+        "meaning_phrase": "Anh ta cư xử thật trưởng giả.",
+        "context": "Thái độ"
+    },
+    {
+        "word": "hurly-burly",
+        "ipa_word": "/ˌhɜː.liˈbɜː.li/",
+        "type": "Noun",
+        "meaning_word": "sự ồn ào, hỗn loạn",
+        "phrase": "They got lost in the hurly-burly of the city.",
+        "ipa_phrase": "/ðeɪ ɡɒt lɒst ɪn ðə ˌhɜː.liˈbɜː.li əv ðə ˈsɪt.i/",
+        "meaning_phrase": "Họ bị lạc trong sự hỗn loạn của thành phố.",
+        "context": "Đời sống đô thị"
+    },
+    {
+        "word": "ho-hum",
+        "ipa_word": "/ˈhoʊˌhʌm/",
+        "type": "Adjective",
+        "meaning_word": "tẻ nhạt, chán ngắt",
+        "phrase": "It was just another ho-hum day.",
+        "ipa_phrase": "/ɪt wəz dʒʌst əˈnʌðər ˈhoʊˌhʌm deɪ/",
+        "meaning_phrase": "Đó chỉ là một ngày tẻ nhạt khác.",
+        "context": "Mô tả cảm xúc"
+    },
+    {
+        "word": "lovey-dovey",
+        "ipa_word": "/ˌlʌv.iˈdʌv.i/",
+        "type": "Adjective",
+        "meaning_word": "tình tứ, sến súa",
+        "phrase": "The couple was acting lovey-dovey.",
+        "ipa_phrase": "/ðə ˈkʌp.əl wəz ˈæk.tɪŋ ˌlʌv.iˈdʌv.i/",
+        "meaning_phrase": "Cặp đôi đó cư xử tình tứ sến súa.",
+        "context": "Mô tả cặp đôi"
+    },
+    {
+        "word": "higgledy-piggledy",
+        "ipa_word": "/ˌhɪɡ.əl.diˈpɪɡ.əl.di/",
+        "type": "Adverb/Adjective",
+        "meaning_word": "lộn xộn, bừa bãi",
+        "phrase": "Books were stacked higgledy-piggledy.",
+        "ipa_phrase": "/bʊks wɜːr stækt ˌhɪɡ.əl.diˈpɪɡ.əl.di/",
+        "meaning_phrase": "Sách chất đống lộn xộn.",
+        "context": "Mô tả tình trạng"
+    },
+    {
+        "word": "heebie-jeebies",
+        "ipa_word": "/ˌhiː.biˈdʒiː.biz/",
+        "type": "Noun",
+        "meaning_word": "cảm giác sợ hãi, nổi da gà",
+        "phrase": "That movie gave me the heebie-jeebies.",
+        "ipa_phrase": "/ðæt ˈmuː.vi ɡeɪv miː ðə ˌhiː.biˈdʒiː.biz/",
+        "meaning_phrase": "Bộ phim đó khiến tôi nổi da gà.",
+        "context": "Cảm xúc"
+    },
+    {
+        "word": "hanky-panky",
+        "ipa_word": "/ˌhæŋ.kiˈpæŋ.ki/",
+        "type": "Noun",
+        "meaning_word": "trò mờ ám; hành vi lén lút",
+        "phrase": "There’s no hanky-panky allowed here.",
+        "ipa_phrase": "/ðɛrz noʊ ˌhæŋ.kiˈpæŋ.ki əˈlaʊd hɪr/",
+        "meaning_phrase": "Không được phép có trò mờ ám ở đây.",
+        "context": "Cảnh báo"
+    },
+    {
+        "word": "walkie-talkie",
+        "ipa_word": "/ˌwɔː.kiˈtɔː.ki/",
+        "type": "Noun",
+        "meaning_word": "bộ đàm",
+        "phrase": "The guards use walkie-talkies.",
+        "ipa_phrase": "/ðə ɡɑːrdz juːz ˌwɔː.kiˈtɔː.kiːz/",
+        "meaning_phrase": "Các bảo vệ dùng bộ đàm.",
+        "context": "Thiết bị liên lạc"
+    },
+    {
+        "word": "mumbo-jumbo",
+        "ipa_word": "/ˌmʌm.boʊˈdʒʌm.boʊ/",
+        "type": "Noun",
+        "meaning_word": "lời nói vô nghĩa, khó hiểu",
+        "phrase": "His explanation was just mumbo-jumbo.",
+        "ipa_phrase": "/hɪz ˌɛks.pləˈneɪ.ʃən wəz dʒʌst ˌmʌm.boʊˈdʒʌm.boʊ/",
+        "meaning_phrase": "Lời giải thích của anh ta chỉ là điều vô nghĩa.",
+        "context": "Chỉ trích"
+    },
+    {
+        "word": "riff-raff",
+        "ipa_word": "/ˈrɪf.ræf/",
+        "type": "Noun",
+        "meaning_word": "kẻ hạ lưu, tầng lớp thấp kém",
+        "phrase": "The club doesn’t allow riff-raff inside.",
+        "ipa_phrase": "/ðə klʌb ˈdʌz.ənt əˈlaʊ ˈrɪf.ræf ɪnˈsaɪd/",
+        "meaning_phrase": "Câu lạc bộ không cho tầng lớp hạ lưu vào.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "helter-skelter",
+        "ipa_word": "/ˌhel.tərˈskel.tər/",
+        "type": "Adjective/Adverb",
+        "meaning_word": "hỗn loạn, vội vã",
+        "phrase": "People ran helter-skelter after the alarm.",
+        "ipa_phrase": "/ˈpiː.pəl ræn ˌhel.tərˈskel.tər ˈæf.tər ði əˈlɑːrm/",
+        "meaning_phrase": "Mọi người chạy tán loạn sau khi chuông báo vang lên.",
+        "context": "Khẩn cấp"
+    },
+    {
+        "word": "hodgepodge",
+        "ipa_word": "/ˈhɑːdʒ.pɑːdʒ/",
+        "type": "Noun",
+        "meaning_word": "mớ hỗn tạp",
+        "phrase": "The essay was a hodgepodge of ideas.",
+        "ipa_phrase": "/ði ˈɛs.eɪ wəz ə ˈhɑːdʒ.pɑːdʒ əv aɪˈdiːəz/",
+        "meaning_phrase": "Bài luận là một mớ ý tưởng hỗn tạp.",
+        "context": "Phê bình"
+    },
+    {
+        "word": "hotchpotch",
+        "ipa_word": "/ˈhɒtʃ.pɒtʃ/",
+        "type": "Noun",
+        "meaning_word": "mớ hỗn độn",
+        "phrase": "His room was a hotchpotch of clothes and books.",
+        "ipa_phrase": "/hɪz ruːm wəz ə ˈhɒtʃ.pɒtʃ əv kloʊðz ənd bʊks/",
+        "meaning_phrase": "Phòng của anh ta là một mớ hỗn độn quần áo và sách.",
+        "context": "Miêu tả"
+    },
+    {
+        "word": "zig-zaggy",
+        "ipa_word": "/ˈzɪɡ.zæɡ.i/",
+        "type": "Adjective",
+        "meaning_word": "ngoằn ngoèo",
+        "phrase": "We drove along a zig-zaggy road.",
+        "ipa_phrase": "/wi droʊv əˈlɒŋ ə ˈzɪɡ.zæɡ.i roʊd/",
+        "meaning_phrase": "Chúng tôi lái xe trên con đường ngoằn ngoèo.",
+        "context": "Mô tả đường đi"
+    },
+    {
+        "word": "hocus-pocus",
+        "ipa_word": "/ˌhoʊ.kəsˈpoʊ.kəs/",
+        "type": "Noun",
+        "meaning_word": "ảo thuật; trò lừa bịp",
+        "phrase": "Don’t believe his financial hocus-pocus.",
+        "ipa_phrase": "/doʊnt bɪˈliːv hɪz faɪˈnæn.ʃəl ˌhoʊ.kəsˈpoʊ.kəs/",
+        "meaning_phrase": "Đừng tin vào trò lừa bịp tài chính của hắn.",
+        "context": "Chỉ trích"
+    },
+    {
+        "word": "namby-pamby",
+        "ipa_word": "/ˌnæm.biˈpæm.bi/",
+        "type": "Adjective",
+        "meaning_word": "yếu đuối, ủy mị",
+        "phrase": "He gave a namby-pamby speech.",
+        "ipa_phrase": "/hi ɡeɪv ə ˌnæm.biˈpæm.bi spiːtʃ/",
+        "meaning_phrase": "Anh ta đưa ra một bài phát biểu yếu ớt.",
+        "context": "Chỉ trích"
+    },
+    {
+        "word": "nitty-gritty",
+        "ipa_word": "/ˌnɪt.iˈɡrɪt.i/",
+        "type": "Noun",
+        "meaning_word": "cốt lõi, bản chất",
+        "phrase": "Let’s get down to the nitty-gritty of the issue.",
+        "ipa_phrase": "/lets ɡet daʊn tuː ðə ˌnɪt.iˈɡrɪt.i əv ði ˈɪʃ.uː/",
+        "meaning_phrase": "Hãy đi vào bản chất của vấn đề.",
+        "context": "Thảo luận"
+    },
+    {
+        "word": "wish-wash",
+        "ipa_word": "/ˈwɪʃ.wɒʃ/",
+        "type": "Noun",
+        "meaning_word": "chuyện nhạt nhẽo, vô nghĩa",
+        "phrase": "His argument was full of wish-wash.",
+        "ipa_phrase": "/hɪz ˈɑːr.gjə.mənt wəz fʊl əv ˈwɪʃ.wɒʃ/",
+        "meaning_phrase": "Lập luận của anh ta toàn nhảm nhí.",
+        "context": "Chỉ trích"
+    },
+    {
+        "word": "okey-dokey",
+        "ipa_word": "/ˌoʊ.kiˈdoʊ.ki/",
+        "type": "Interjection",
+        "meaning_word": "ok, được thôi",
+        "phrase": "Okey-dokey, let’s go now!",
+        "ipa_phrase": "/ˌoʊ.kiˈdoʊ.ki, lets ɡoʊ naʊ/",
+        "meaning_phrase": "Ok, đi thôi nào!",
+        "context": "Đồng ý"
+    },
+    {
+        "word": "higgledy-piggledy",
+        "ipa_word": "/ˌhɪɡ.əl.diˈpɪɡ.əl.di/",
+        "type": "Adverb/Adjective",
+        "meaning_word": "bừa bộn, lộn xộn",
+        "phrase": "Toys were scattered higgledy-piggledy.",
+        "ipa_phrase": "/tɔɪz wɜːr ˈskætərd ˌhɪɡ.əl.diˈpɪɡ.əl.di/",
+        "meaning_phrase": "Đồ chơi vứt bừa bộn.",
+        "context": "Miêu tả"
+    },
+    {
+        "word": "argy-bargy",
+        "ipa_word": "/ˌɑːr.dʒiˈbɑːr.dʒi/",
+        "type": "Noun",
+        "meaning_word": "cuộc cãi vã",
+        "phrase": "They had an argy-bargy about politics.",
+        "ipa_phrase": "/ðeɪ hæd æn ˌɑːr.dʒiˈbɑːr.dʒi əˈbaʊt ˈpɑː.lə.tɪks/",
+        "meaning_phrase": "Họ cãi vã về chính trị.",
+        "context": "Tranh luận"
+    },
+    {
+        "word": "claptrap",
+        "ipa_word": "/ˈklæp.træp/",
+        "type": "Noun",
+        "meaning_word": "lời lẽ sáo rỗng",
+        "phrase": "The speech was full of claptrap.",
+        "ipa_phrase": "/ðə spiːtʃ wəz fʊl əv ˈklæp.træp/",
+        "meaning_phrase": "Bài phát biểu đầy sáo rỗng.",
+        "context": "Chỉ trích"
+    },
+    {
+        "word": "flimflam",
+        "ipa_word": "/ˈflɪm.flæm/",
+        "type": "Noun",
+        "meaning_word": "trò bịp bợm",
+        "phrase": "He was caught in a flimflam scheme.",
+        "ipa_phrase": "/hi wəz kɔːt ɪn ə ˈflɪm.flæm skiːm/",
+        "meaning_phrase": "Anh ta bị dính vào một trò bịp bợm.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "hobnob",
+        "ipa_word": "/ˈhɒb.nɒb/",
+        "type": "Verb",
+        "meaning_word": "giao du, kết thân",
+        "phrase": "He loves to hobnob with celebrities.",
+        "ipa_phrase": "/hi lʌvz tuː ˈhɒb.nɒb wɪð səˈleb.rə.tiz/",
+        "meaning_phrase": "Anh ta thích giao du với người nổi tiếng.",
+        "context": "Xã hội"
+    },
+    {
+        "word": "pell-mell",
+        "ipa_word": "/ˌpelˈmel/",
+        "type": "Adverb/Adjective",
+        "meaning_word": "hỗn loạn, vội vàng",
+        "phrase": "People rushed pell-mell into the store.",
+        "ipa_phrase": "/ˈpiː.pəl rʌʃt ˌpelˈmel ˈɪn.tuː ðə stɔːr/",
+        "meaning_phrase": "Mọi người chen lấn vội vã vào cửa hàng.",
+        "context": "Đám đông"
+    },
+    {
+        "word": "super-duper",
+        "ipa_word": "/ˌsuː.pərˈduː.pər/",
+        "type": "Adjective",
+        "meaning_word": "tuyệt vời, siêu hạng",
+        "phrase": "She baked a super-duper cake.",
+        "ipa_phrase": "/ʃi beɪkt ə ˌsuː.pərˈduː.pər keɪk/",
+        "meaning_phrase": "Cô ấy nướng một chiếc bánh siêu ngon.",
+        "context": "Lời khen"
+    }
+]
