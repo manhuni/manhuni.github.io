@@ -1,0 +1,852 @@
+[
+    {
+        "word": "Amazon",
+        "ipa_word": "/ˈæm.ə.zɒn/",
+        "type": "Noun",
+        "meaning_word": "Amazon (tập đoàn thương mại điện tử Mỹ)",
+        "phrase": "Amazon is the largest online retailer in the world.",
+        "ipa_phrase": "/ˈæm.ə.zɒn ɪz ðə ˈlɑːrdʒɪst ˈɒn.laɪn rɪˈteɪ.lər ɪn ðə wɜːld/",
+        "meaning_phrase": "Amazon là nhà bán lẻ trực tuyến lớn nhất thế giới.",
+        "context": "Thương mại điện tử, công nghệ"
+    },
+    {
+        "word": "Apple",
+        "ipa_word": "/ˈæp.əl/",
+        "type": "Noun",
+        "meaning_word": "Apple (tập đoàn công nghệ Mỹ)",
+        "phrase": "Apple designs popular smartphones like the iPhone.",
+        "ipa_phrase": "/ˈæp.əl dɪˈzaɪnz ˈpɒp.jʊ.lər ˈsmɑːrt.foʊnz laɪk ði ˈaɪ.foʊn/",
+        "meaning_phrase": "Apple thiết kế những chiếc điện thoại thông minh phổ biến như iPhone.",
+        "context": "Công nghệ, thiết bị điện tử"
+    },
+    {
+        "word": "Google",
+        "ipa_word": "/ˈɡuː.ɡl̩/",
+        "type": "Noun",
+        "meaning_word": "Google (công ty công nghệ Mỹ, công cụ tìm kiếm)",
+        "phrase": "Google is the most widely used search engine.",
+        "ipa_phrase": "/ˈɡuː.ɡl̩ ɪz ðə moʊst ˈwaɪd.li juːzd sɜːrtʃ ˈen.dʒɪn/",
+        "meaning_phrase": "Google là công cụ tìm kiếm được sử dụng rộng rãi nhất.",
+        "context": "Công cụ tìm kiếm, dịch vụ internet"
+    },
+    {
+        "word": "Microsoft",
+        "ipa_word": "/ˈmaɪ.krə.sɒft/",
+        "type": "Noun",
+        "meaning_word": "Microsoft (tập đoàn phần mềm Mỹ)",
+        "phrase": "Microsoft develops the Windows operating system.",
+        "ipa_phrase": "/ˈmaɪ.krə.sɒft dɪˈvel.əps ðə ˈwɪn.doʊz ˈɒp.ə.reɪ.tɪŋ ˌsɪs.təm/",
+        "meaning_phrase": "Microsoft phát triển hệ điều hành Windows.",
+        "context": "Phần mềm, hệ điều hành"
+    },
+    {
+        "word": "Samsung",
+        "ipa_word": "/ˈsæm.sʌŋ/",
+        "type": "Noun",
+        "meaning_word": "Samsung (tập đoàn điện tử Hàn Quốc)",
+        "phrase": "Samsung produces smartphones, TVs, and home appliances.",
+        "ipa_phrase": "/ˈsæm.sʌŋ prəˈduː.sɪz ˈsmɑːrt.foʊnz, ˌtiːˈviːz, ænd hoʊm əˈplaɪ.ənsɪz/",
+        "meaning_phrase": "Samsung sản xuất điện thoại thông minh, TV và đồ gia dụng.",
+        "context": "Điện tử, thiết bị gia dụng"
+    },
+    {
+        "word": "Facebook",
+        "ipa_word": "/ˈfeɪs.bʊk/",
+        "type": "Noun",
+        "meaning_word": "Facebook (mạng xã hội, thuộc Meta)",
+        "phrase": "Facebook connects billions of people worldwide.",
+        "ipa_phrase": "/ˈfeɪs.bʊk kəˈnekts ˈbɪl.jənz əv ˈpiː.pl̩ ˈwɜːld.waɪd/",
+        "meaning_phrase": "Facebook kết nối hàng tỷ người trên toàn thế giới.",
+        "context": "Mạng xã hội, truyền thông"
+    },
+    {
+        "word": "Meta",
+        "ipa_word": "/ˈmet.ə/",
+        "type": "Noun",
+        "meaning_word": "Meta (tập đoàn mẹ của Facebook, Instagram, WhatsApp)",
+        "phrase": "Meta is investing heavily in virtual reality.",
+        "ipa_phrase": "/ˈmet.ə ɪz ɪnˈvest.ɪŋ ˈhev.ɪ.li ɪn ˈvɜː.tʃu.əl riˈæl.ɪ.ti/",
+        "meaning_phrase": "Meta đang đầu tư mạnh vào thực tế ảo.",
+        "context": "Công nghệ, truyền thông xã hội"
+    },
+    {
+        "word": "Tesla",
+        "ipa_word": "/ˈtes.lə/",
+        "type": "Noun",
+        "meaning_word": "Tesla (hãng xe điện Mỹ)",
+        "phrase": "Tesla is a leader in the electric car industry.",
+        "ipa_phrase": "/ˈtes.lə ɪz ə ˈliː.dər ɪn ði ɪˈlek.trɪk kɑːr ˈɪn.də.stri/",
+        "meaning_phrase": "Tesla là công ty dẫn đầu trong ngành xe điện.",
+        "context": "Xe điện, năng lượng sạch"
+    },
+    {
+        "word": "Toyota",
+        "ipa_word": "/tɔɪˈoʊ.tə/",
+        "type": "Noun",
+        "meaning_word": "Toyota (hãng ô tô Nhật Bản)",
+        "phrase": "Toyota is one of the largest car manufacturers.",
+        "ipa_phrase": "/tɔɪˈoʊ.tə ɪz wʌn əv ðə ˈlɑːrdʒɪst kɑːr ˌmæn.jəˈfæk.tʃər.ərz/",
+        "meaning_phrase": "Toyota là một trong những hãng sản xuất ô tô lớn nhất.",
+        "context": "Công nghiệp ô tô"
+    },
+    {
+        "word": "Coca-Cola",
+        "ipa_word": "/ˌkoʊ.kəˈkoʊ.lə/",
+        "type": "Noun",
+        "meaning_word": "Coca-Cola (tập đoàn đồ uống Mỹ)",
+        "phrase": "Coca-Cola is famous for its soft drinks.",
+        "ipa_phrase": "/ˌkoʊ.kəˈkoʊ.lə ɪz ˈfeɪ.məs fɔːr ɪts sɒft drɪŋks/",
+        "meaning_phrase": "Coca-Cola nổi tiếng với các loại nước ngọt.",
+        "context": "Đồ uống, thương hiệu quốc tế"
+    },
+    {
+        "word": "Pepsi",
+        "ipa_word": "/ˈpep.si/",
+        "type": "Noun",
+        "meaning_word": "Pepsi (tập đoàn đồ uống Mỹ)",
+        "phrase": "Pepsi competes with Coca-Cola worldwide.",
+        "ipa_phrase": "/ˈpep.si kəmˈpiːts wɪð ˌkoʊ.kəˈkoʊ.lə ˈwɜːld.waɪd/",
+        "meaning_phrase": "Pepsi cạnh tranh với Coca-Cola trên toàn thế giới.",
+        "context": "Đồ uống, thương hiệu quốc tế"
+    },
+    {
+        "word": "Nike",
+        "ipa_word": "/ˈnaɪ.ki/",
+        "type": "Noun",
+        "meaning_word": "Nike (tập đoàn thể thao Mỹ)",
+        "phrase": "Nike sponsors many famous athletes.",
+        "ipa_phrase": "/ˈnaɪ.ki ˈspɒn.sərz ˈmen.i ˈfeɪ.məs ˈæθ.liːts/",
+        "meaning_phrase": "Nike tài trợ cho nhiều vận động viên nổi tiếng.",
+        "context": "Thời trang thể thao"
+    },
+    {
+        "word": "Adidas",
+        "ipa_word": "/ˈæd.i.dæs/",
+        "type": "Noun",
+        "meaning_word": "Adidas (tập đoàn thể thao Đức)",
+        "phrase": "Adidas produces sportswear and footwear.",
+        "ipa_phrase": "/ˈæd.i.dæs prəˈduː.sɪz ˈspɔːrts.wer ænd ˈfʊt.wer/",
+        "meaning_phrase": "Adidas sản xuất quần áo và giày thể thao.",
+        "context": "Thời trang thể thao"
+    },
+    {
+        "word": "Sony",
+        "ipa_word": "/ˈsoʊ.ni/",
+        "type": "Noun",
+        "meaning_word": "Sony (tập đoàn điện tử Nhật Bản)",
+        "phrase": "Sony is known for its PlayStation consoles.",
+        "ipa_phrase": "/ˈsoʊ.ni ɪz noʊn fɔːr ɪts ˈpleɪˌsteɪ.ʃən ˈkɒn.soʊlz/",
+        "meaning_phrase": "Sony nổi tiếng với các máy chơi game PlayStation.",
+        "context": "Điện tử, giải trí"
+    },
+    {
+        "word": "Intel",
+        "ipa_word": "/ˈɪn.tel/",
+        "type": "Noun",
+        "meaning_word": "Intel (tập đoàn sản xuất chip Mỹ)",
+        "phrase": "Intel supplies processors for many computers.",
+        "ipa_phrase": "/ˈɪn.tel səˈplaɪz ˈprɑː.ses.ərz fɔːr ˈmen.i kəmˈpjuː.tərz/",
+        "meaning_phrase": "Intel cung cấp bộ vi xử lý cho nhiều máy tính.",
+        "context": "Công nghệ, sản xuất chip"
+    },
+    {
+        "word": "IBM",
+        "ipa_word": "/ˌaɪ.biːˈem/",
+        "type": "Noun",
+        "meaning_word": "IBM (tập đoàn công nghệ Mỹ)",
+        "phrase": "IBM offers cloud and AI solutions.",
+        "ipa_phrase": "/ˌaɪ.biːˈem ˈɒf.ərz klaʊd ænd ˌeɪ.aɪ səˈluː.ʃənz/",
+        "meaning_phrase": "IBM cung cấp giải pháp đám mây và trí tuệ nhân tạo.",
+        "context": "Công nghệ, phần mềm doanh nghiệp"
+    },
+    {
+        "word": "Huawei",
+        "ipa_word": "/ˈhwɑː.weɪ/",
+        "type": "Noun",
+        "meaning_word": "Huawei (tập đoàn công nghệ Trung Quốc)",
+        "phrase": "Huawei manufactures smartphones and 5G equipment.",
+        "ipa_phrase": "/ˈhwɑː.weɪ ˌmæn.jəˈfæk.tʃərz ˈsmɑːrt.foʊnz ænd ˌfaɪv ˈdʒiː ɪˈkwɪp.mənt/",
+        "meaning_phrase": "Huawei sản xuất điện thoại thông minh và thiết bị 5G.",
+        "context": "Công nghệ viễn thông"
+    },
+    {
+        "word": "Alibaba",
+        "ipa_word": "/ˌæ.lɪˈbɑː.bə/",
+        "type": "Noun",
+        "meaning_word": "Alibaba (tập đoàn thương mại điện tử Trung Quốc)",
+        "phrase": "Alibaba is a leading e-commerce platform in Asia.",
+        "ipa_phrase": "/ˌæ.lɪˈbɑː.bə ɪz ə ˈliː.dɪŋ ˈiːˌkɒm.ɜːrs ˈplæt.fɔːrm ɪn ˈeɪ.ʒə/",
+        "meaning_phrase": "Alibaba là nền tảng thương mại điện tử hàng đầu châu Á.",
+        "context": "Thương mại điện tử"
+    },
+    {
+        "word": "Netflix",
+        "ipa_word": "/ˈnet.flɪks/",
+        "type": "Noun",
+        "meaning_word": "Netflix (dịch vụ phát trực tuyến Mỹ)",
+        "phrase": "Netflix streams movies and TV shows online.",
+        "ipa_phrase": "/ˈnet.flɪks striːmz ˈmuː.viz ænd ˌtiːˈviː ʃoʊz ˈɒn.laɪn/",
+        "meaning_phrase": "Netflix phát trực tuyến phim và chương trình TV.",
+        "context": "Giải trí, dịch vụ trực tuyến"
+    },
+    {
+        "word": "Disney",
+        "ipa_word": "/ˈdɪz.ni/",
+        "type": "Noun",
+        "meaning_word": "Disney (tập đoàn giải trí Mỹ)",
+        "phrase": "Disney creates movies, theme parks, and TV channels.",
+        "ipa_phrase": "/ˈdɪz.ni kriːˈeɪts ˈmuː.viz, θiːm pɑːrks, ænd ˌtiːˈviː ˈtʃæn.əlz/",
+        "meaning_phrase": "Disney tạo ra phim, công viên giải trí và kênh truyền hình.",
+        "context": "Giải trí, truyền thông"
+    },
+    {
+        "word": "Oracle",
+        "ipa_word": "/ˈɔːr.ə.kəl/",
+        "type": "Noun",
+        "meaning_word": "Oracle (tập đoàn phần mềm Mỹ)",
+        "phrase": "Oracle provides database solutions worldwide.",
+        "ipa_phrase": "/ˈɔːr.ə.kəl prəˈvaɪdz ˈdeɪ.tə.beɪs səˈluː.ʃənz ˈwɜːld.waɪd/",
+        "meaning_phrase": "Oracle cung cấp các giải pháp cơ sở dữ liệu trên toàn thế giới.",
+        "context": "Phần mềm, cơ sở dữ liệu"
+    },
+    {
+        "word": "Accenture",
+        "ipa_word": "/əkˈsen.tʃər/",
+        "type": "Noun",
+        "meaning_word": "Accenture (công ty tư vấn toàn cầu)",
+        "phrase": "Accenture offers consulting and technology services.",
+        "ipa_phrase": "/əkˈsen.tʃər ˈɒf.ərz kənˈsʌlt.ɪŋ ænd tekˈnɒl.ə.dʒi ˈsɜː.vɪsɪz/",
+        "meaning_phrase": "Accenture cung cấp dịch vụ tư vấn và công nghệ.",
+        "context": "Tư vấn, dịch vụ chuyên nghiệp"
+    },
+    {
+        "word": "Pfizer",
+        "ipa_word": "/ˈfaɪ.zər/",
+        "type": "Noun",
+        "meaning_word": "Pfizer (tập đoàn dược phẩm Mỹ)",
+        "phrase": "Pfizer developed one of the first COVID-19 vaccines.",
+        "ipa_phrase": "/ˈfaɪ.zər dɪˈvel.əpt wʌn əv ðə fɜːrst ˈkoʊ.vɪd naɪnˈtiːn ˈvæk.siːnz/",
+        "meaning_phrase": "Pfizer đã phát triển một trong những vắc-xin COVID-19 đầu tiên.",
+        "context": "Y tế, dược phẩm"
+    },
+    {
+        "word": "Johnson & Johnson",
+        "ipa_word": "/ˈdʒɒn.sən ænd ˈdʒɒn.sən/",
+        "type": "Noun",
+        "meaning_word": "Johnson & Johnson (tập đoàn dược phẩm và chăm sóc sức khỏe Mỹ)",
+        "phrase": "Johnson & Johnson produces medicines and healthcare products.",
+        "ipa_phrase": "/ˈdʒɒn.sən ænd ˈdʒɒn.sən prəˈduːsɪz ˈmed.ɪ.sɪnz ænd ˈhelθ.keər ˈprɒd.əkts/",
+        "meaning_phrase": "Johnson & Johnson sản xuất thuốc và sản phẩm chăm sóc sức khỏe.",
+        "context": "Y tế, dược phẩm"
+    },
+    {
+        "word": "Unilever",
+        "ipa_word": "/ˈjuː.nɪˌliː.vər/",
+        "type": "Noun",
+        "meaning_word": "Unilever (tập đoàn hàng tiêu dùng Anh-Hà Lan)",
+        "phrase": "Unilever owns many household brands like Dove and Lipton.",
+        "ipa_phrase": "/ˈjuː.nɪˌliː.vər oʊnz ˈmen.i ˈhaʊs.hoʊld brændz laɪk doʊv ænd ˈlɪp.tən/",
+        "meaning_phrase": "Unilever sở hữu nhiều thương hiệu gia dụng như Dove và Lipton.",
+        "context": "Hàng tiêu dùng, FMCG"
+    },
+    {
+        "word": "Nestlé",
+        "ipa_word": "/ˈnes.leɪ/",
+        "type": "Noun",
+        "meaning_word": "Nestlé (tập đoàn thực phẩm Thụy Sĩ)",
+        "phrase": "Nestlé produces chocolate, coffee, and baby food.",
+        "ipa_phrase": "/ˈnes.leɪ prəˈduːsɪz ˈtʃɒk.lət, ˈkɒf.i, ænd ˈbeɪ.bi fuːd/",
+        "meaning_phrase": "Nestlé sản xuất sô-cô-la, cà phê và thực phẩm cho trẻ em.",
+        "context": "Thực phẩm, đồ uống"
+    },
+    {
+        "word": "Procter & Gamble",
+        "ipa_word": "/ˌprɒk.tər ænd ˈɡæm.bəl/",
+        "type": "Noun",
+        "meaning_word": "Procter & Gamble (tập đoàn hàng tiêu dùng Mỹ)",
+        "phrase": "Procter & Gamble is known for brands like Tide and Pampers.",
+        "ipa_phrase": "/ˌprɒk.tər ænd ˈɡæm.bəl ɪz noʊn fɔːr brændz laɪk taɪd ænd ˈpæm.pərz/",
+        "meaning_phrase": "Procter & Gamble nổi tiếng với các thương hiệu như Tide và Pampers.",
+        "context": "Hàng tiêu dùng"
+    },
+    {
+        "word": "Shell",
+        "ipa_word": "/ʃel/",
+        "type": "Noun",
+        "meaning_word": "Shell (tập đoàn dầu khí Hà Lan - Anh)",
+        "phrase": "Shell is one of the largest oil companies in the world.",
+        "ipa_phrase": "/ʃel ɪz wʌn əv ðə ˈlɑːrdʒɪst ɔɪl ˈkʌm.pə.niz ɪn ðə wɜːld/",
+        "meaning_phrase": "Shell là một trong những công ty dầu khí lớn nhất thế giới.",
+        "context": "Năng lượng, dầu khí"
+    },
+    {
+        "word": "BP",
+        "ipa_word": "/ˌbiːˈpiː/",
+        "type": "Noun",
+        "meaning_word": "BP (British Petroleum, tập đoàn dầu khí Anh)",
+        "phrase": "BP operates in over 70 countries.",
+        "ipa_phrase": "/ˌbiːˈpiː ˈɒp.ə.reɪts ɪn ˈoʊ.vər ˈsev.ən.ti ˈkʌn.triz/",
+        "meaning_phrase": "BP hoạt động tại hơn 70 quốc gia.",
+        "context": "Năng lượng, dầu khí"
+    },
+    {
+        "word": "ExxonMobil",
+        "ipa_word": "/ˌek.sɒn ˈmoʊ.bɪl/",
+        "type": "Noun",
+        "meaning_word": "ExxonMobil (tập đoàn dầu khí Mỹ)",
+        "phrase": "ExxonMobil is a leader in the oil and gas industry.",
+        "ipa_phrase": "/ˌek.sɒn ˈmoʊ.bɪl ɪz ə ˈliː.dər ɪn ði ɔɪl ænd ɡæs ˈɪn.də.stri/",
+        "meaning_phrase": "ExxonMobil là công ty dẫn đầu trong ngành dầu khí.",
+        "context": "Năng lượng, dầu khí"
+    },
+    {
+        "word": "Chevron",
+        "ipa_word": "/ˈʃev.rɒn/",
+        "type": "Noun",
+        "meaning_word": "Chevron (tập đoàn dầu khí Mỹ)",
+        "phrase": "Chevron invests in renewable as well as fossil fuels.",
+        "ipa_phrase": "/ˈʃev.rɒn ɪnˈvests ɪn rɪˈnuː.ə.bəl æz wel æz ˈfɒs.əl fjuːəlz/",
+        "meaning_phrase": "Chevron đầu tư vào cả năng lượng tái tạo và nhiên liệu hóa thạch.",
+        "context": "Năng lượng, dầu khí"
+    },
+    {
+        "word": "Volkswagen",
+        "ipa_word": "/ˈvoʊksˌwɑː.ɡən/",
+        "type": "Noun",
+        "meaning_word": "Volkswagen (hãng xe hơi Đức)",
+        "phrase": "Volkswagen owns brands like Audi and Porsche.",
+        "ipa_phrase": "/ˈvoʊksˌwɑː.ɡən oʊnz brændz laɪk ˈaʊdi ænd ˈpɔːrʃə/",
+        "meaning_phrase": "Volkswagen sở hữu các thương hiệu như Audi và Porsche.",
+        "context": "Ô tô, công nghiệp"
+    },
+    {
+        "word": "BMW",
+        "ipa_word": "/ˌbiː.emˈdʌb.ljuː/",
+        "type": "Noun",
+        "meaning_word": "BMW (hãng xe hơi Đức)",
+        "phrase": "BMW is famous for luxury cars.",
+        "ipa_phrase": "/ˌbiː.emˈdʌb.ljuː ɪz ˈfeɪ.məs fɔːr ˈlʌk.ʃər.i kɑːrz/",
+        "meaning_phrase": "BMW nổi tiếng với những chiếc xe sang trọng.",
+        "context": "Ô tô, xe sang"
+    },
+    {
+        "word": "Mercedes-Benz",
+        "ipa_word": "/mɜːrˈseɪ.diːz benz/",
+        "type": "Noun",
+        "meaning_word": "Mercedes-Benz (hãng xe hơi Đức)",
+        "phrase": "Mercedes-Benz produces luxury vehicles.",
+        "ipa_phrase": "/mɜːrˈseɪ.diːz benz prəˈduːsɪz ˈlʌk.ʃər.i ˈviː.ɪ.kəlz/",
+        "meaning_phrase": "Mercedes-Benz sản xuất xe sang trọng.",
+        "context": "Ô tô, xe sang"
+    },
+    {
+        "word": "Hyundai",
+        "ipa_word": "/ˈhaɪ.ʌn.daɪ/",
+        "type": "Noun",
+        "meaning_word": "Hyundai (hãng xe hơi Hàn Quốc)",
+        "phrase": "Hyundai is expanding its electric vehicle line.",
+        "ipa_phrase": "/ˈhaɪ.ʌn.daɪ ɪz ɪkˈspændɪŋ ɪts ɪˈlek.trɪk ˈviː.ɪ.kəl laɪn/",
+        "meaning_phrase": "Hyundai đang mở rộng dòng xe điện của mình.",
+        "context": "Ô tô, xe điện"
+    },
+    {
+        "word": "General Motors",
+        "ipa_word": "/ˌdʒen.rəl ˈmoʊ.tərz/",
+        "type": "Noun",
+        "meaning_word": "General Motors (hãng ô tô Mỹ)",
+        "phrase": "General Motors is investing in autonomous vehicles.",
+        "ipa_phrase": "/ˌdʒen.rəl ˈmoʊ.tərz ɪz ɪnˈvestɪŋ ɪn ɔːˈtɑː.nə.məs ˈviː.ɪ.kəlz/",
+        "meaning_phrase": "General Motors đang đầu tư vào xe tự lái.",
+        "context": "Ô tô, công nghệ xe hơi"
+    },
+    {
+        "word": "Ford",
+        "ipa_word": "/fɔːrd/",
+        "type": "Noun",
+        "meaning_word": "Ford (hãng ô tô Mỹ)",
+        "phrase": "Ford is known for its trucks and SUVs.",
+        "ipa_phrase": "/fɔːrd ɪz noʊn fɔːr ɪts trʌks ænd ˌes.juːˈviːz/",
+        "meaning_phrase": "Ford nổi tiếng với xe tải và SUV.",
+        "context": "Ô tô, công nghiệp"
+    },
+    {
+        "word": "Dell",
+        "ipa_word": "/del/",
+        "type": "Noun",
+        "meaning_word": "Dell (tập đoàn máy tính Mỹ)",
+        "phrase": "Dell manufactures laptops and servers.",
+        "ipa_phrase": "/del ˌmæn.jəˈfæk.tʃərz ˈlæp.tɒps ænd ˈsɜː.vərz/",
+        "meaning_phrase": "Dell sản xuất máy tính xách tay và máy chủ.",
+        "context": "Máy tính, công nghệ"
+    },
+    {
+        "word": "HP",
+        "ipa_word": "/ˌeɪtʃˈpiː/",
+        "type": "Noun",
+        "meaning_word": "HP (Hewlett-Packard, tập đoàn máy tính Mỹ)",
+        "phrase": "HP is a leading printer manufacturer.",
+        "ipa_phrase": "/ˌeɪtʃˈpiː ɪz ə ˈliː.dɪŋ ˈprɪn.tər ˌmæn.jəˈfæk.tʃər.ər/",
+        "meaning_phrase": "HP là nhà sản xuất máy in hàng đầu.",
+        "context": "Máy tính, thiết bị văn phòng"
+    },
+    {
+        "word": "Tencent",
+        "ipa_word": "/ˈten.sent/",
+        "type": "Noun",
+        "meaning_word": "Tencent (tập đoàn công nghệ Trung Quốc)",
+        "phrase": "Tencent owns the popular app WeChat.",
+        "ipa_phrase": "/ˈten.sent oʊnz ðə ˈpɒp.jʊ.lər æp ˈwiː.tʃæt/",
+        "meaning_phrase": "Tencent sở hữu ứng dụng phổ biến WeChat.",
+        "context": "Công nghệ, mạng xã hội"
+    },
+    {
+        "word": "Baidu",
+        "ipa_word": "/ˈbaɪ.duː/",
+        "type": "Noun",
+        "meaning_word": "Baidu (công ty internet và AI Trung Quốc)",
+        "phrase": "Baidu operates the largest search engine in China.",
+        "ipa_phrase": "/ˈbaɪ.duː ˈɒp.ə.reɪts ðə ˈlɑːrdʒɪst sɜːrtʃ ˈen.dʒɪn ɪn ˈtʃaɪ.nə/",
+        "meaning_phrase": "Baidu vận hành công cụ tìm kiếm lớn nhất Trung Quốc.",
+        "context": "Internet, trí tuệ nhân tạo"
+    },
+    {
+        "word": "PayPal",
+        "ipa_word": "/ˈpeɪ.pæl/",
+        "type": "Noun",
+        "meaning_word": "PayPal (công ty thanh toán điện tử Mỹ)",
+        "phrase": "PayPal is widely used for online transactions.",
+        "ipa_phrase": "/ˈpeɪ.pæl ɪz ˈwaɪd.li juːzd fɔːr ˈɒn.laɪn trænˈzæk.ʃənz/",
+        "meaning_phrase": "PayPal được sử dụng rộng rãi cho giao dịch trực tuyến.",
+        "context": "Thanh toán trực tuyến"
+    },
+    {
+        "word": "Visa",
+        "ipa_word": "/ˈviː.zə/",
+        "type": "Noun",
+        "meaning_word": "Visa (công ty dịch vụ tài chính Mỹ)",
+        "phrase": "Visa provides global payment solutions.",
+        "ipa_phrase": "/ˈviː.zə prəˈvaɪdz ˈɡloʊ.bəl ˈpeɪ.mənt səˈluː.ʃənz/",
+        "meaning_phrase": "Visa cung cấp giải pháp thanh toán toàn cầu.",
+        "context": "Tài chính, thẻ tín dụng"
+    },
+    {
+        "word": "Mastercard",
+        "ipa_word": "/ˈmæs.tər.kɑːrd/",
+        "type": "Noun",
+        "meaning_word": "Mastercard (công ty dịch vụ tài chính Mỹ)",
+        "phrase": "Mastercard is accepted in over 200 countries.",
+        "ipa_phrase": "/ˈmæs.tər.kɑːrd ɪz əkˈsept.ɪd ɪn ˈoʊ.vər tuː ˈhʌn.drəd ˈkʌn.triz/",
+        "meaning_phrase": "Mastercard được chấp nhận tại hơn 200 quốc gia.",
+        "context": "Tài chính, thẻ tín dụng"
+    },
+    {
+        "word": "Goldman Sachs",
+        "ipa_word": "/ˌɡoʊld.mən ˈsæks/",
+        "type": "Noun",
+        "meaning_word": "Goldman Sachs (ngân hàng đầu tư Mỹ)",
+        "phrase": "Goldman Sachs provides investment banking services.",
+        "ipa_phrase": "/ˌɡoʊld.mən ˈsæks prəˈvaɪdz ɪnˈvest.mənt ˈbæŋ.kɪŋ ˈsɜː.vɪsɪz/",
+        "meaning_phrase": "Goldman Sachs cung cấp dịch vụ ngân hàng đầu tư.",
+        "context": "Tài chính, ngân hàng đầu tư"
+    },
+    {
+        "word": "Morgan Stanley",
+        "ipa_word": "/ˌmɔːr.ɡən ˈstæn.li/",
+        "type": "Noun",
+        "meaning_word": "Morgan Stanley (ngân hàng đầu tư Mỹ)",
+        "phrase": "Morgan Stanley advises corporations on mergers.",
+        "ipa_phrase": "/ˌmɔːr.ɡən ˈstæn.li ədˈvaɪzɪz ˌkɔːr.pəˈreɪʃənz ɒn ˈmɜː.dʒərz/",
+        "meaning_phrase": "Morgan Stanley tư vấn sáp nhập cho các tập đoàn.",
+        "context": "Tài chính, ngân hàng"
+    },
+    {
+        "word": "JPMorgan Chase",
+        "ipa_word": "/ˌdʒeɪ.piːˈmɔːr.ɡən tʃeɪs/",
+        "type": "Noun",
+        "meaning_word": "JPMorgan Chase (ngân hàng lớn của Mỹ)",
+        "phrase": "JPMorgan Chase is the largest bank in the U.S.",
+        "ipa_phrase": "/ˌdʒeɪ.piːˈmɔːr.ɡən tʃeɪs ɪz ðə ˈlɑːrdʒɪst bæŋk ɪn ðə juː.es/",
+        "meaning_phrase": "JPMorgan Chase là ngân hàng lớn nhất ở Mỹ.",
+        "context": "Ngân hàng, tài chính"
+    },
+    {
+        "word": "Bank of America",
+        "ipa_word": "/bæŋk əv əˈmer.ɪ.kə/",
+        "type": "Noun",
+        "meaning_word": "Bank of America (ngân hàng Mỹ)",
+        "phrase": "Bank of America offers retail and corporate banking.",
+        "ipa_phrase": "/bæŋk əv əˈmer.ɪ.kə ˈɒf.ərz ˈriː.teɪl ænd ˈkɔːr.pər.ət ˈbæŋ.kɪŋ/",
+        "meaning_phrase": "Bank of America cung cấp dịch vụ ngân hàng bán lẻ và doanh nghiệp.",
+        "context": "Ngân hàng, tài chính"
+    },
+    {
+        "word": "HSBC",
+        "ipa_word": "/ˌeɪtʃ.es.biːˈsiː/",
+        "type": "Noun",
+        "meaning_word": "HSBC (ngân hàng Anh - Hồng Kông)",
+        "phrase": "HSBC operates in over 60 countries.",
+        "ipa_phrase": "/ˌeɪtʃ.es.biːˈsiː ˈɒp.ə.reɪts ɪn ˈoʊ.vər sɪk.sti ˈkʌn.triz/",
+        "meaning_phrase": "HSBC hoạt động tại hơn 60 quốc gia.",
+        "context": "Ngân hàng quốc tế"
+    },
+    {
+        "word": "Citigroup",
+        "ipa_word": "/ˈsɪt.i.ɡruːp/",
+        "type": "Noun",
+        "meaning_word": "Citigroup (ngân hàng Mỹ)",
+        "phrase": "Citigroup provides global financial services.",
+        "ipa_phrase": "/ˈsɪt.i.ɡruːp prəˈvaɪdz ˈɡloʊ.bəl faɪˈnæn.ʃəl ˈsɜː.vɪsɪz/",
+        "meaning_phrase": "Citigroup cung cấp dịch vụ tài chính toàn cầu.",
+        "context": "Ngân hàng, tài chính"
+    },
+    {
+        "word": "Barclays",
+        "ipa_word": "/ˈbɑːr.kliːz/",
+        "type": "Noun",
+        "meaning_word": "Barclays (ngân hàng Anh)",
+        "phrase": "Barclays is a major player in investment banking.",
+        "ipa_phrase": "/ˈbɑːr.kliːz ɪz ə ˈmeɪ.dʒər ˈpleɪ.ər ɪn ɪnˈvest.mənt ˈbæŋ.kɪŋ/",
+        "meaning_phrase": "Barclays là một tên tuổi lớn trong ngân hàng đầu tư.",
+        "context": "Ngân hàng, đầu tư"
+    },
+    {
+        "word": "Deutsche Bank",
+        "ipa_word": "/ˈdɔɪ.tʃə bæŋk/",
+        "type": "Noun",
+        "meaning_word": "Deutsche Bank (ngân hàng Đức)",
+        "phrase": "Deutsche Bank offers financial services worldwide.",
+        "ipa_phrase": "/ˈdɔɪ.tʃə bæŋk ˈɒf.ərz faɪˈnæn.ʃəl ˈsɜː.vɪsɪz ˈwɜːld.waɪd/",
+        "meaning_phrase": "Deutsche Bank cung cấp dịch vụ tài chính toàn cầu.",
+        "context": "Ngân hàng, tài chính"
+    },
+    {
+        "word": "UBS",
+        "ipa_word": "/ˌjuː.biːˈes/",
+        "type": "Noun",
+        "meaning_word": "UBS (ngân hàng Thuỵ Sĩ)",
+        "phrase": "UBS is well-known for wealth management services.",
+        "ipa_phrase": "/ˌjuː.biːˈes ɪz wel noʊn fɔːr welθ ˈmæn.ɪdʒ.mənt ˈsɜː.vɪsɪz/",
+        "meaning_phrase": "UBS nổi tiếng với dịch vụ quản lý tài sản.",
+        "context": "Ngân hàng, tài chính"
+    },
+    {
+        "word": "Credit Suisse",
+        "ipa_word": "/ˌkrɛd.ɪt ˈswiːs/",
+        "type": "Noun",
+        "meaning_word": "Credit Suisse (ngân hàng Thuỵ Sĩ)",
+        "phrase": "Credit Suisse has a long history in private banking.",
+        "ipa_phrase": "/ˌkrɛd.ɪt ˈswiːs hæz ə lɒŋ ˈhɪs.tər.i ɪn ˈpraɪ.vət ˈbæŋ.kɪŋ/",
+        "meaning_phrase": "Credit Suisse có lịch sử lâu đời trong ngân hàng tư nhân.",
+        "context": "Ngân hàng, tài chính"
+    },
+    {
+        "word": "American Express",
+        "ipa_word": "/əˌmer.ɪ.kən ɪkˈspres/",
+        "type": "Noun",
+        "meaning_word": "American Express (công ty dịch vụ tài chính Mỹ)",
+        "phrase": "American Express issues credit cards worldwide.",
+        "ipa_phrase": "/əˌmer.ɪ.kən ɪkˈspres ˈɪʃ.uːz ˈkrɛd.ɪt kɑːrdz ˈwɜːld.waɪd/",
+        "meaning_phrase": "American Express phát hành thẻ tín dụng trên toàn thế giới.",
+        "context": "Tài chính, thẻ tín dụng"
+    },
+    {
+        "word": "SoftBank",
+        "ipa_word": "/ˈsɒft.bæŋk/",
+        "type": "Noun",
+        "meaning_word": "SoftBank (tập đoàn đầu tư công nghệ Nhật Bản)",
+        "phrase": "SoftBank invests in many technology startups.",
+        "ipa_phrase": "/ˈsɒft.bæŋk ɪnˈvests ɪn ˈmen.i tekˈnɒl.ə.dʒi ˈstɑːrt.ʌps/",
+        "meaning_phrase": "SoftBank đầu tư vào nhiều công ty khởi nghiệp công nghệ.",
+        "context": "Đầu tư, công nghệ"
+    },
+    {
+        "word": "Siemens",
+        "ipa_word": "/ˈziː.mənz/",
+        "type": "Noun",
+        "meaning_word": "Siemens (tập đoàn công nghiệp Đức)",
+        "phrase": "Siemens develops technology for energy and healthcare.",
+        "ipa_phrase": "/ˈziː.mənz dɪˈvel.əps tekˈnɒl.ə.dʒi fɔːr ˈen.ər.dʒi ænd ˈhelθ.keər/",
+        "meaning_phrase": "Siemens phát triển công nghệ cho năng lượng và y tế.",
+        "context": "Công nghiệp, công nghệ"
+    },
+    {
+        "word": "Philips",
+        "ipa_word": "/ˈfɪl.ɪps/",
+        "type": "Noun",
+        "meaning_word": "Philips (tập đoàn điện tử Hà Lan)",
+        "phrase": "Philips is famous for lighting and healthcare equipment.",
+        "ipa_phrase": "/ˈfɪl.ɪps ɪz ˈfeɪ.məs fɔːr ˈlaɪt.ɪŋ ænd ˈhelθ.keər ɪˈkwɪp.mənt/",
+        "meaning_phrase": "Philips nổi tiếng với thiết bị chiếu sáng và y tế.",
+        "context": "Điện tử, thiết bị y tế"
+    },
+    {
+        "word": "Panasonic",
+        "ipa_word": "/ˌpæn.əˈsɒn.ɪk/",
+        "type": "Noun",
+        "meaning_word": "Panasonic (tập đoàn điện tử Nhật Bản)",
+        "phrase": "Panasonic produces a wide range of electronics.",
+        "ipa_phrase": "/ˌpæn.əˈsɒn.ɪk prəˈdjuːsɪz ə waɪd reɪndʒ əv ɪˌlekˈtrɒn.ɪks/",
+        "meaning_phrase": "Panasonic sản xuất nhiều loại thiết bị điện tử.",
+        "context": "Điện tử, công nghệ"
+    },
+    {
+        "word": "Toshiba",
+        "ipa_word": "/toʊˈʃiː.bə/",
+        "type": "Noun",
+        "meaning_word": "Toshiba (tập đoàn công nghệ Nhật Bản)",
+        "phrase": "Toshiba develops energy and IT solutions.",
+        "ipa_phrase": "/toʊˈʃiː.bə dɪˈvel.əps ˈen.ər.dʒi ænd ˌaɪˈti səˈluː.ʃənz/",
+        "meaning_phrase": "Toshiba phát triển giải pháp năng lượng và CNTT.",
+        "context": "Công nghệ, năng lượng"
+    },
+    {
+        "word": "Hitachi",
+        "ipa_word": "/hɪˈtɑː.tʃi/",
+        "type": "Noun",
+        "meaning_word": "Hitachi (tập đoàn đa ngành Nhật Bản)",
+        "phrase": "Hitachi operates in energy, IT, and transport.",
+        "ipa_phrase": "/hɪˈtɑː.tʃi ˈɒp.ə.reɪts ɪn ˈen.ər.dʒi, ˌaɪˈti ænd ˈtræns.pɔːrt/",
+        "meaning_phrase": "Hitachi hoạt động trong lĩnh vực năng lượng, CNTT và giao thông.",
+        "context": "Đa ngành, công nghệ"
+    },
+    {
+        "word": "Lenovo",
+        "ipa_word": "/lɛˈnoʊ.voʊ/",
+        "type": "Noun",
+        "meaning_word": "Lenovo (tập đoàn máy tính Trung Quốc)",
+        "phrase": "Lenovo is one of the largest PC makers.",
+        "ipa_phrase": "/lɛˈnoʊ.voʊ ɪz wʌn əv ðə ˈlɑːrdʒɪst piː siː ˈmeɪ.kərz/",
+        "meaning_phrase": "Lenovo là một trong những hãng sản xuất máy tính lớn nhất.",
+        "context": "Máy tính, công nghệ"
+    },
+    {
+        "word": "Acer",
+        "ipa_word": "/ˈeɪ.sər/",
+        "type": "Noun",
+        "meaning_word": "Acer (tập đoàn máy tính Đài Loan)",
+        "phrase": "Acer produces affordable laptops and PCs.",
+        "ipa_phrase": "/ˈeɪ.sər prəˈdjuːsɪz əˈfɔːrd.ə.bəl ˈlæp.tɒps ænd piː siːz/",
+        "meaning_phrase": "Acer sản xuất laptop và máy tính giá phải chăng.",
+        "context": "Máy tính, điện tử"
+    },
+    {
+        "word": "Asus",
+        "ipa_word": "/əˈsuːs/",
+        "type": "Noun",
+        "meaning_word": "Asus (tập đoàn công nghệ Đài Loan)",
+        "phrase": "Asus is known for gaming laptops and components.",
+        "ipa_phrase": "/əˈsuːs ɪz noʊn fɔːr ˈɡeɪ.mɪŋ ˈlæp.tɒps ænd kəmˈpoʊ.nənts/",
+        "meaning_phrase": "Asus nổi tiếng với laptop chơi game và linh kiện.",
+        "context": "Máy tính, phần cứng"
+    },
+    {
+        "word": "Nokia",
+        "ipa_word": "/ˈnoʊ.ki.ə/",
+        "type": "Noun",
+        "meaning_word": "Nokia (tập đoàn viễn thông Phần Lan)",
+        "phrase": "Nokia was once the world’s largest phone maker.",
+        "ipa_phrase": "/ˈnoʊ.ki.ə wəz wʌns ðə wɜːldz ˈlɑːrdʒɪst foʊn ˈmeɪ.kər/",
+        "meaning_phrase": "Nokia từng là nhà sản xuất điện thoại lớn nhất thế giới.",
+        "context": "Viễn thông, điện tử"
+    },
+    {
+        "word": "Ericsson",
+        "ipa_word": "/ˈer.ɪk.sən/",
+        "type": "Noun",
+        "meaning_word": "Ericsson (tập đoàn viễn thông Thuỵ Điển)",
+        "phrase": "Ericsson is a leader in 5G technology.",
+        "ipa_phrase": "/ˈer.ɪk.sən ɪz ə ˈliː.dər ɪn faɪv dʒiː tekˈnɒl.ə.dʒi/",
+        "meaning_phrase": "Ericsson là công ty dẫn đầu trong công nghệ 5G.",
+        "context": "Viễn thông, mạng"
+    },
+    {
+        "word": "Qualcomm",
+        "ipa_word": "/ˈkwɑːl.kɒm/",
+        "type": "Noun",
+        "meaning_word": "Qualcomm (công ty bán dẫn Mỹ)",
+        "phrase": "Qualcomm designs chips for smartphones.",
+        "ipa_phrase": "/ˈkwɑːl.kɒm dɪˈzaɪnz ʧɪps fɔːr ˈsmɑːrt.foʊnz/",
+        "meaning_phrase": "Qualcomm thiết kế chip cho điện thoại thông minh.",
+        "context": "Bán dẫn, công nghệ"
+    },
+    {
+        "word": "Intel",
+        "ipa_word": "/ˈɪn.tel/",
+        "type": "Noun",
+        "meaning_word": "Intel (công ty bán dẫn Mỹ)",
+        "phrase": "Intel supplies processors for computers worldwide.",
+        "ipa_phrase": "/ˈɪn.tel səˈplaɪz ˈprɑː.ses.ərz fɔːr kəmˈpjuː.tərz ˈwɜːrld.waɪd/",
+        "meaning_phrase": "Intel cung cấp bộ vi xử lý cho máy tính trên toàn thế giới.",
+        "context": "Bán dẫn, công nghệ"
+    },
+    {
+        "word": "AMD",
+        "ipa_word": "/ˌeɪ.emˈdiː/",
+        "type": "Noun",
+        "meaning_word": "AMD (công ty bán dẫn Mỹ)",
+        "phrase": "AMD produces CPUs and GPUs for gaming.",
+        "ipa_phrase": "/ˌeɪ.emˈdiː prəˈdjuːsɪz ˌsiː.piːˈjuːz ænd ˌdʒiː.piːˈjuːz fɔːr ˈɡeɪ.mɪŋ/",
+        "meaning_phrase": "AMD sản xuất CPU và GPU cho chơi game.",
+        "context": "Bán dẫn, máy tính"
+    },
+    {
+        "word": "TSMC",
+        "ipa_word": "/ˌtiː.es.emˈsiː/",
+        "type": "Noun",
+        "meaning_word": "TSMC (hãng sản xuất chip Đài Loan)",
+        "phrase": "TSMC is the world’s largest semiconductor foundry.",
+        "ipa_phrase": "/ˌtiː.es.emˈsiː ɪz ðə wɜːldz ˈlɑːrdʒɪst ˌsem.i.kənˈdʌk.tər ˈfaʊn.dri/",
+        "meaning_phrase": "TSMC là xưởng đúc bán dẫn lớn nhất thế giới.",
+        "context": "Bán dẫn, công nghệ"
+    },
+    {
+        "word": "Samsung Electronics",
+        "ipa_word": "/ˈsæm.sʌŋ ɪˌlekˈtrɒn.ɪks/",
+        "type": "Noun",
+        "meaning_word": "Samsung Electronics (công ty điện tử Hàn Quốc)",
+        "phrase": "Samsung Electronics makes smartphones and TVs.",
+        "ipa_phrase": "/ˈsæm.sʌŋ ɪˌlekˈtrɒn.ɪks meɪks ˈsmɑːrt.foʊnz ænd tiːˈviz/",
+        "meaning_phrase": "Samsung Electronics sản xuất điện thoại thông minh và TV.",
+        "context": "Điện tử, công nghệ"
+    },
+    {
+        "word": "LG Electronics",
+        "ipa_word": "/ˌelˈdʒiː ɪˌlekˈtrɒn.ɪks/",
+        "type": "Noun",
+        "meaning_word": "LG Electronics (công ty điện tử Hàn Quốc)",
+        "phrase": "LG Electronics develops home appliances and TVs.",
+        "ipa_phrase": "/ˌelˈdʒiː ɪˌlekˈtrɒn.ɪks dɪˈvel.əps hoʊm əˈplaɪ.ənsɪz ænd tiːˈviz/",
+        "meaning_phrase": "LG Electronics phát triển đồ gia dụng và TV.",
+        "context": "Điện tử, gia dụng"
+    },
+    {
+        "word": "Foxconn",
+        "ipa_word": "/ˈfɒks.kɒn/",
+        "type": "Noun",
+        "meaning_word": "Foxconn (hãng sản xuất linh kiện Đài Loan)",
+        "phrase": "Foxconn manufactures iPhones for Apple.",
+        "ipa_phrase": "/ˈfɒks.kɒn ˌmæn.jəˈfæk.tʃərz ˈaɪ.foʊnz fɔːr ˈæp.l̩/",
+        "meaning_phrase": "Foxconn sản xuất iPhone cho Apple.",
+        "context": "Sản xuất điện tử"
+    },
+    {
+        "word": "Dell",
+        "ipa_word": "/del/",
+        "type": "Noun",
+        "meaning_word": "Dell (tập đoàn máy tính Mỹ)",
+        "phrase": "Dell is a major computer and server company.",
+        "ipa_phrase": "/del ɪz ə ˈmeɪ.dʒər kəmˈpjuː.tər ænd ˈsɜːr.vər ˈkʌm.pə.ni/",
+        "meaning_phrase": "Dell là công ty lớn về máy tính và máy chủ.",
+        "context": "Máy tính, công nghệ"
+    },
+    {
+        "word": "HP",
+        "ipa_word": "/ˌeɪtʃˈpiː/",
+        "type": "Noun",
+        "meaning_word": "HP (Hewlett-Packard, tập đoàn công nghệ Mỹ)",
+        "phrase": "HP produces laptops, printers, and servers.",
+        "ipa_phrase": "/ˌeɪtʃˈpiː prəˈdjuːsɪz ˈlæp.tɒps, ˈprɪn.tərz ænd ˈsɜːr.vərz/",
+        "meaning_phrase": "HP sản xuất laptop, máy in và máy chủ.",
+        "context": "Máy tính, thiết bị văn phòng"
+    },
+    {
+        "word": "IBM",
+        "ipa_word": "/ˌaɪ.biːˈem/",
+        "type": "Noun",
+        "meaning_word": "IBM (tập đoàn công nghệ Mỹ)",
+        "phrase": "IBM focuses on AI and cloud computing.",
+        "ipa_phrase": "/ˌaɪ.biːˈem ˈfoʊ.kəsɪz ɒn ˌeɪ.aɪ ænd klaʊd kəmˈpjuː.tɪŋ/",
+        "meaning_phrase": "IBM tập trung vào AI và điện toán đám mây.",
+        "context": "Công nghệ, AI"
+    },
+    {
+        "word": "TotalEnergies",
+        "ipa_word": "/toʊˈtæl ˈen.ər.dʒiz/",
+        "type": "Noun",
+        "meaning_word": "TotalEnergies (tập đoàn năng lượng Pháp)",
+        "phrase": "TotalEnergies expands in solar and wind energy.",
+        "ipa_phrase": "/toʊˈtæl ˈen.ər.dʒiz ɪkˈspændz ɪn ˈsoʊ.lɚ ænd wɪnd ˈen.ər.dʒi/",
+        "meaning_phrase": "TotalEnergies mở rộng trong lĩnh vực năng lượng mặt trời và gió.",
+        "context": "Năng lượng, dầu khí"
+    },
+    {
+        "word": "Saudi Aramco",
+        "ipa_word": "/ˈsaʊ.di əˈræm.koʊ/",
+        "type": "Noun",
+        "meaning_word": "Saudi Aramco (tập đoàn dầu khí Ả Rập Xê Út)",
+        "phrase": "Saudi Aramco is the world’s most valuable oil company.",
+        "ipa_phrase": "/ˈsaʊ.di əˈræm.koʊ ɪz ðə wɜːldz moʊst ˈvæl.ju.ə.bəl ɔɪl ˈkʌm.pə.ni/",
+        "meaning_phrase": "Saudi Aramco là công ty dầu mỏ giá trị nhất thế giới.",
+        "context": "Dầu khí, năng lượng"
+    },
+    {
+        "word": "Gazprom",
+        "ipa_word": "/ˈɡæz.prɒm/",
+        "type": "Noun",
+        "meaning_word": "Gazprom (tập đoàn năng lượng Nga)",
+        "phrase": "Gazprom is a major supplier of natural gas to Europe.",
+        "ipa_phrase": "/ˈɡæz.prɒm ɪz ə ˈmeɪ.dʒər səˈplaɪ.ər əv ˈnætʃ.ər.əl ɡæs tə ˈjʊr.əp/",
+        "meaning_phrase": "Gazprom là nhà cung cấp khí đốt lớn cho châu Âu.",
+        "context": "Năng lượng, khí đốt"
+    },
+    {
+        "word": "Rosneft",
+        "ipa_word": "/ˈrɒz.neft/",
+        "type": "Noun",
+        "meaning_word": "Rosneft (tập đoàn dầu khí Nga)",
+        "phrase": "Rosneft explores new oil fields in Siberia.",
+        "ipa_phrase": "/ˈrɒz.neft ɪkˈsplɔːrz njuː ɔɪl fiːldz ɪn saɪˈbɪr.i.ə/",
+        "meaning_phrase": "Rosneft khai thác các mỏ dầu mới ở Siberia.",
+        "context": "Dầu khí, năng lượng"
+    },
+    {
+        "word": "PetroChina",
+        "ipa_word": "/ˌpe.trəʊˈʧaɪ.nə/",
+        "type": "Noun",
+        "meaning_word": "PetroChina (tập đoàn dầu khí Trung Quốc)",
+        "phrase": "PetroChina is one of Asia’s largest oil producers.",
+        "ipa_phrase": "/ˌpe.trəʊˈʧaɪ.nə ɪz wʌn əv ˈeɪ.ʒəz ˈlɑːrdʒɪst ɔɪl prəˈduː.sərz/",
+        "meaning_phrase": "PetroChina là một trong những nhà sản xuất dầu mỏ lớn nhất châu Á.",
+        "context": "Dầu khí, năng lượng"
+    },
+    {
+        "word": "Sinopec",
+        "ipa_word": "/ˈsaɪ.noʊ.pek/",
+        "type": "Noun",
+        "meaning_word": "Sinopec (tập đoàn dầu khí Trung Quốc)",
+        "phrase": "Sinopec refines and markets petroleum products.",
+        "ipa_phrase": "/ˈsaɪ.noʊ.pek rɪˈfaɪnz ænd ˈmɑːrkɪts pəˈtroʊ.liəm ˈprɒd.əkts/",
+        "meaning_phrase": "Sinopec lọc và kinh doanh các sản phẩm dầu mỏ.",
+        "context": "Dầu khí, năng lượng"
+    },
+    {
+        "word": "Honda",
+        "ipa_word": "/ˈhɒn.də/",
+        "type": "Noun",
+        "meaning_word": "Honda (hãng ô tô và xe máy Nhật Bản)",
+        "phrase": "Honda produces cars, motorcycles, and engines.",
+        "ipa_phrase": "/ˈhɒn.də prəˈdjuːsɪz kɑːrz, ˈmoʊ.t̬ɚˌsaɪ.kəlz ænd ˈen.dʒɪnz/",
+        "meaning_phrase": "Honda sản xuất ô tô, xe máy và động cơ.",
+        "context": "Ô tô, xe máy"
+    },
+    {
+        "word": "Stellantis",
+        "ipa_word": "/steˈlæn.tɪs/",
+        "type": "Noun",
+        "meaning_word": "Stellantis (tập đoàn ô tô đa quốc gia châu Âu)",
+        "phrase": "Stellantis owns brands like Fiat, Peugeot, and Jeep.",
+        "ipa_phrase": "/steˈlæn.tɪs oʊnz brændz laɪk ˈfiː.æt, ˈpɜːʒoʊ ænd dʒiːp/",
+        "meaning_phrase": "Stellantis sở hữu các thương hiệu như Fiat, Peugeot và Jeep.",
+        "context": "Ô tô, công nghiệp"
+    },
+    {
+        "word": "NVIDIA",
+        "ipa_word": "/ɛnˈvɪd.i.ə/ hoặc /ɛnˈvɪd.i.eɪ/",
+        "type": "Noun",
+        "meaning_word": "NVIDIA (tập đoàn công nghệ Mỹ, chuyên về chip đồ họa và AI)",
+        "phrase": "NVIDIA designs powerful GPUs for gaming and AI.",
+        "ipa_phrase": "/ɛnˈvɪd.i.ə dɪˈzaɪnz ˈpaʊ.ər.fəl ˌdʒiː.piː.juːz fɔːr ˈɡeɪ.mɪŋ ænd ˌeɪ.aɪ/",
+        "meaning_phrase": "NVIDIA thiết kế các GPU mạnh mẽ cho game và trí tuệ nhân tạo.",
+        "context": "Công nghệ, bán dẫn, AI"
+    }
+]

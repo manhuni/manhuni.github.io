@@ -173,5 +173,11 @@
         "category": "Reduplication",
         "file": "reduplication.json",
         "description": "Các cụm từ trong tiếng Anh hình thành bằng cách lặp lại toàn bộ hoặc một phần từ, nhằm nhấn mạnh hoặc tạo nhịp điệu. Ví dụ: over and over, again and again, bit by bit, day by day…"
-    }
+    },
+    {
+    "category": "Global Corporations",
+    "file": "global-corporations.json",
+    "description": "Tên gọi của các tập đoàn, công ty đa quốc gia lớn trên thế giới, thường xuyên xuất hiện trong các bài đọc IELTS hoặc tin tức quốc tế. Ví dụ: Amazon, Apple, Microsoft, Google, Samsung…"
+}
+
 ]
