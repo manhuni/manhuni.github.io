@@ -1,0 +1,1142 @@
+[
+    {
+        "word": "LOL",
+        "ipa_word": "/ɛl oʊ ɛl/",
+        "type": "Abbreviation",
+        "meaning_word": "cười lớn (laugh out loud)",
+        "phrase": "She texted me 'LOL' after the joke.",
+        "ipa_phrase": "/ʃiː ˈtɛkstɪd mi ɛl oʊ ɛl ˈæftər ðə dʒoʊk/",
+        "meaning_phrase": "Cô ấy nhắn 'LOL' cho tôi sau câu đùa.",
+        "context": "Chat, bình luận vui"
+    },
+    {
+        "word": "OMG",
+        "ipa_word": "/oʊ ɛm dʒiː/",
+        "type": "Abbreviation",
+        "meaning_word": "Trời ơi (Oh my God)",
+        "phrase": "OMG, that dress looks amazing!",
+        "ipa_phrase": "/oʊ ɛm dʒiː ðæt drɛs lʊks əˈmeɪ.zɪŋ/",
+        "meaning_phrase": "Trời ơi, cái váy đó trông tuyệt quá!",
+        "context": "Ngạc nhiên, bất ngờ"
+    },
+    {
+        "word": "BRB",
+        "ipa_word": "/biː ɑːr biː/",
+        "type": "Abbreviation",
+        "meaning_word": "Quay lại ngay (be right back)",
+        "phrase": "BRB, I need some water.",
+        "ipa_phrase": "/biː ɑːr biː aɪ niːd sʌm ˈwɔː.tər/",
+        "meaning_phrase": "Đợi chút, tôi cần uống nước.",
+        "context": "Chat, tạm rời"
+    },
+    {
+        "word": "BTW",
+        "ipa_word": "/biː tiː dʌb.ljuː/",
+        "type": "Abbreviation",
+        "meaning_word": "Nhân tiện (by the way)",
+        "phrase": "BTW, did you finish your homework?",
+        "ipa_phrase": "/biː tiː dʌb.ljuː dɪd juː ˈfɪn.ɪʃ jɔːr ˈhoʊm.wɜːrk/",
+        "meaning_phrase": "À nhân tiện, bạn làm xong bài tập chưa?",
+        "context": "Chuyển chủ đề, thêm thông tin"
+    },
+    {
+        "word": "IDK",
+        "ipa_word": "/aɪ diː keɪ/",
+        "type": "Abbreviation",
+        "meaning_word": "Tôi không biết (I don’t know)",
+        "phrase": "IDK what to say.",
+        "ipa_phrase": "/aɪ diː keɪ wʌt tə seɪ/",
+        "meaning_phrase": "Tôi không biết nói gì.",
+        "context": "Chat, thể hiện sự bối rối"
+    },
+    {
+        "word": "TBH",
+        "ipa_word": "/tiː biː eɪtʃ/",
+        "type": "Abbreviation",
+        "meaning_word": "Thành thật mà nói (to be honest)",
+        "phrase": "TBH, I didn’t like that movie.",
+        "ipa_phrase": "/tiː biː eɪtʃ aɪ ˈdɪd.ənt laɪk ðæt ˈmuː.vi/",
+        "meaning_phrase": "Thành thật mà nói, tôi không thích bộ phim đó.",
+        "context": "Chia sẻ ý kiến cá nhân"
+    },
+    {
+        "word": "SMH",
+        "ipa_word": "/ɛs ɛm eɪtʃ/",
+        "type": "Abbreviation",
+        "meaning_word": "Lắc đầu (shaking my head)",
+        "phrase": "SMH, he forgot his keys again.",
+        "ipa_phrase": "/ɛs ɛm eɪtʃ hi fɔrˈɡɑːt hɪz kiz əˈɡɛn/",
+        "meaning_phrase": "Lắc đầu, anh ấy lại quên chìa khóa rồi.",
+        "context": "Thất vọng, bực mình"
+    },
+    {
+        "word": "YOLO",
+        "ipa_word": "/ˈjoʊ.loʊ/",
+        "type": "Abbreviation",
+        "meaning_word": "Bạn chỉ sống một lần (you only live once)",
+        "phrase": "She bought the shoes because YOLO.",
+        "ipa_phrase": "/ʃiː bɔːt ðə ʃuz bɪˈkɔz ˈjoʊ.loʊ/",
+        "meaning_phrase": "Cô ấy mua đôi giày vì YOLO (sống một lần thôi).",
+        "context": "Khuyến khích hành động liều lĩnh"
+    },
+    {
+        "word": "FOMO",
+        "ipa_word": "/ˈfoʊ.moʊ/",
+        "type": "Abbreviation",
+        "meaning_word": "Sợ bỏ lỡ (fear of missing out)",
+        "phrase": "He joined the party because of FOMO.",
+        "ipa_phrase": "/hiː dʒɔɪnd ðə ˈpɑːr.ti bɪˈkɔz əv ˈfoʊ.moʊ/",
+        "meaning_phrase": "Anh ấy tham gia bữa tiệc vì sợ bỏ lỡ.",
+        "context": "Mạng xã hội, hội chứng tâm lý"
+    },
+    {
+        "word": "Ghosting",
+        "ipa_word": "/ˈɡoʊst.ɪŋ/",
+        "type": "Verb/Noun",
+        "meaning_word": "Biến mất, cắt đứt liên lạc",
+        "phrase": "He started ghosting her after the first date.",
+        "ipa_phrase": "/hiː ˈstɑːr.tɪd ˈɡoʊst.ɪŋ hɜːr ˈæf.tər ðə fɜːrst deɪt/",
+        "meaning_phrase": "Anh ấy bắt đầu biến mất sau buổi hẹn đầu.",
+        "context": "Hẹn hò, chat"
+    },
+    {
+        "word": "Flex",
+        "ipa_word": "/flɛks/",
+        "type": "Verb",
+        "meaning_word": "Khoe khoang",
+        "phrase": "He flexed his new phone on Instagram.",
+        "ipa_phrase": "/hiː flɛkst hɪz njuː foʊn ɑn ˈɪn.stə.ɡræm/",
+        "meaning_phrase": "Anh ấy khoe điện thoại mới trên Instagram.",
+        "context": "Mạng xã hội, khoe đồ"
+    },
+    {
+        "word": "Stan",
+        "ipa_word": "/stæn/",
+        "type": "Verb/Noun",
+        "meaning_word": "Fan cuồng, ủng hộ nhiệt tình",
+        "phrase": "I totally stan this singer.",
+        "ipa_phrase": "/aɪ ˈtoʊ.t̬əl.i stæn ðɪs ˈsɪŋ.ər/",
+        "meaning_phrase": "Tôi cực kỳ hâm mộ ca sĩ này.",
+        "context": "Âm nhạc, fandom"
+    },
+    {
+        "word": "Vibe",
+        "ipa_word": "/vaɪb/",
+        "type": "Noun/Verb",
+        "meaning_word": "Cảm giác, bầu không khí",
+        "phrase": "This café has a chill vibe.",
+        "ipa_phrase": "/ðɪs kæˈfeɪ hæz ə ʧɪl vaɪb/",
+        "meaning_phrase": "Quán cà phê này có không khí thoải mái.",
+        "context": "Phong cách sống, cảm xúc"
+    },
+    {
+        "word": "Binge-watch",
+        "ipa_word": "/ˈbɪndʒ.wɑːʧ/",
+        "type": "Verb",
+        "meaning_word": "Xem liên tục nhiều tập",
+        "phrase": "We binge-watched the whole series last night.",
+        "ipa_phrase": "/wiː ˈbɪndʒ wɑːʧt ðə hoʊl ˈsɪə.riːz læst naɪt/",
+        "meaning_phrase": "Chúng tôi cày hết cả loạt phim tối qua.",
+        "context": "Phim, Netflix, giải trí"
+    },
+    {
+        "word": "Ship",
+        "ipa_word": "/ʃɪp/",
+        "type": "Verb",
+        "meaning_word": "Ủng hộ cặp đôi (trong phim, fandom)",
+        "phrase": "Fans ship those two actors together.",
+        "ipa_phrase": "/fænz ʃɪp ðoʊz tuː ˈæk.tərz təˈɡɛð.ər/",
+        "meaning_phrase": "Fan ghép đôi hai diễn viên đó.",
+        "context": "Fandom, phim, truyện"
+    },
+    {
+        "word": "Cancel",
+        "ipa_word": "/ˈkæn.səl/",
+        "type": "Verb",
+        "meaning_word": "Tẩy chay (trên mạng)",
+        "phrase": "The celebrity was canceled after the scandal.",
+        "ipa_phrase": "/ðə səˈlebrɪti wəz ˈkæn.səld ˈæf.tər ðə ˈskæn.dl̩/",
+        "meaning_phrase": "Ngôi sao đó bị tẩy chay sau bê bối.",
+        "context": "Mạng xã hội, văn hóa 'cancel'"
+    },
+    {
+        "word": "Simp",
+        "ipa_word": "/sɪmp/",
+        "type": "Noun",
+        "meaning_word": "Người mê mẩn, làm mọi thứ vì crush",
+        "phrase": "He’s such a simp for her.",
+        "ipa_phrase": "/hiːz sʌʧ ə sɪmp fɔːr hɜːr/",
+        "meaning_phrase": "Anh ấy đúng là simp vì cô ta.",
+        "context": "Ngôn ngữ mạng, tình cảm"
+    },
+    {
+        "word": "Main character",
+        "ipa_word": "/meɪn ˈkær.ək.tər/",
+        "type": "Noun",
+        "meaning_word": "Nhân vật chính (ám chỉ trung tâm sự chú ý)",
+        "phrase": "She acts like the main character everywhere.",
+        "ipa_phrase": "/ʃiː ækts laɪk ðə meɪn ˈkær.ək.tər ˈɛv.ri.wɛr/",
+        "meaning_phrase": "Cô ấy hành động như nhân vật chính ở mọi nơi.",
+        "context": "Mạng xã hội, xu hướng TikTok"
+    },
+    {
+        "word": "Sus",
+        "ipa_word": "/sʌs/",
+        "type": "Adj",
+        "meaning_word": "Đáng ngờ (suspicious)",
+        "phrase": "That deal sounds sus.",
+        "ipa_phrase": "/ðæt diːl saʊndz sʌs/",
+        "meaning_phrase": "Thỏa thuận đó nghe đáng ngờ.",
+        "context": "Game, mạng xã hội"
+    },
+    {
+        "word": "No cap",
+        "ipa_word": "/noʊ kæp/",
+        "type": "Phrase",
+        "meaning_word": "Không đùa đâu, thật đó",
+        "phrase": "This song is amazing, no cap.",
+        "ipa_phrase": "/ðɪs sɔːŋ ɪz əˈmeɪ.zɪŋ, noʊ kæp/",
+        "meaning_phrase": "Bài hát này hay thật, không đùa đâu.",
+        "context": "Mạng xã hội, nhấn mạnh sự thật"
+    },
+    {
+        "word": "Cap",
+        "ipa_word": "/kæp/",
+        "type": "Noun/Verb",
+        "meaning_word": "Nói xạo, chém gió",
+        "phrase": "That’s cap, I don’t believe you.",
+        "ipa_phrase": "/ðæts kæp, aɪ doʊnt bɪˈliːv juː/",
+        "meaning_phrase": "Xạo đó, tôi không tin bạn đâu.",
+        "context": "Ngôn ngữ mạng, đùa vui"
+    },
+    {
+        "word": "Slay",
+        "ipa_word": "/sleɪ/",
+        "type": "Verb",
+        "meaning_word": "Làm rất tốt, tỏa sáng",
+        "phrase": "She slayed her performance on stage.",
+        "ipa_phrase": "/ʃiː sleɪd hɜːr pərˈfɔːr.məns ɑn steɪdʒ/",
+        "meaning_phrase": "Cô ấy trình diễn cực đỉnh trên sân khấu.",
+        "context": "Khen ngợi, mạng xã hội"
+    },
+    {
+        "word": "Lit",
+        "ipa_word": "/lɪt/",
+        "type": "Adj",
+        "meaning_word": "Tuyệt vời, sôi động",
+        "phrase": "The party last night was lit.",
+        "ipa_phrase": "/ðə ˈpɑːr.ti læst naɪt wəz lɪt/",
+        "meaning_phrase": "Bữa tiệc tối qua thật sôi động.",
+        "context": "Tiệc tùng, cảm xúc"
+    },
+    {
+        "word": "Lowkey",
+        "ipa_word": "/ˌloʊˈkiː/",
+        "type": "Adv/Adj",
+        "meaning_word": "Hơi, thầm kín",
+        "phrase": "I lowkey want to skip the meeting.",
+        "ipa_phrase": "/aɪ ˌloʊˈkiː wɑnt tə skɪp ðə ˈmiː.t̬ɪŋ/",
+        "meaning_phrase": "Tôi hơi muốn trốn buổi họp.",
+        "context": "Chat, cảm xúc cá nhân"
+    },
+    {
+        "word": "Highkey",
+        "ipa_word": "/ˌhaɪˈkiː/",
+        "type": "Adv/Adj",
+        "meaning_word": "Rõ ràng, công khai",
+        "phrase": "She highkey loves that singer.",
+        "ipa_phrase": "/ʃiː ˌhaɪˈkiː lʌvz ðæt ˈsɪŋ.ər/",
+        "meaning_phrase": "Cô ấy công khai rất thích ca sĩ đó.",
+        "context": "Ngôn ngữ mạng, nhấn mạnh"
+    },
+    {
+        "word": "Tea",
+        "ipa_word": "/tiː/",
+        "type": "Noun",
+        "meaning_word": "Tin đồn, chuyện nóng",
+        "phrase": "Spill the tea about their breakup!",
+        "ipa_phrase": "/spɪl ðə tiː əˈbaʊt ðɛr ˈbreɪk.ʌp/",
+        "meaning_phrase": "Kể ngay tin nóng về vụ chia tay của họ đi!",
+        "context": "Gossip, mạng xã hội"
+    },
+    {
+        "word": "Clapback",
+        "ipa_word": "/ˈklæp.bæk/",
+        "type": "Noun",
+        "meaning_word": "Phản pháo, đáp trả sắc bén",
+        "phrase": "Her tweet was the perfect clapback.",
+        "ipa_phrase": "/hɜːr twiːt wəz ðə ˈpɜːr.fɪkt ˈklæp.bæk/",
+        "meaning_phrase": "Bài đăng của cô ấy là một cú phản pháo hoàn hảo.",
+        "context": "Mạng xã hội, tranh luận"
+    },
+    {
+        "word": "Receipts",
+        "ipa_word": "/rɪˈsiːpts/",
+        "type": "Noun",
+        "meaning_word": "Bằng chứng (ảnh, tin nhắn…)",
+        "phrase": "Show me the receipts or I won’t believe you.",
+        "ipa_phrase": "/ʃoʊ miː ðə rɪˈsiːpts ɔːr aɪ woʊnt bɪˈliːv juː/",
+        "meaning_phrase": "Đưa bằng chứng ra, nếu không tôi không tin.",
+        "context": "Drama, mạng xã hội"
+    },
+    {
+        "word": "Cancel culture",
+        "ipa_word": "/ˈkæn.səl ˈkʌl.tʃər/",
+        "type": "Noun",
+        "meaning_word": "Văn hóa tẩy chay",
+        "phrase": "Cancel culture affects many celebrities online.",
+        "ipa_phrase": "/ˈkæn.səl ˈkʌl.tʃər əˈfekts ˈmɛ.ni səˈle.brə.tiz ˈɑn.laɪn/",
+        "meaning_phrase": "Văn hóa tẩy chay ảnh hưởng đến nhiều người nổi tiếng trên mạng.",
+        "context": "Mạng xã hội, xu hướng"
+    },
+    {
+        "word": "Boujee",
+        "ipa_word": "/ˈbuː.ʒi/",
+        "type": "Adj",
+        "meaning_word": "Sang chảnh",
+        "phrase": "She acts so boujee at the party.",
+        "ipa_phrase": "/ʃiː ækts soʊ ˈbuː.ʒi æt ðə ˈpɑːr.ti/",
+        "meaning_phrase": "Cô ấy cư xử rất sang chảnh trong bữa tiệc.",
+        "context": "Phong cách sống, mạng xã hội"
+    },
+    {
+        "word": "Savage",
+        "ipa_word": "/ˈsæv.ɪdʒ/",
+        "type": "Adj",
+        "meaning_word": "Ngầu, gắt, không khoan nhượng",
+        "phrase": "That was a savage reply.",
+        "ipa_phrase": "/ðæt wəz ə ˈsæv.ɪdʒ rɪˈplaɪ/",
+        "meaning_phrase": "Đó là một câu trả lời cực gắt.",
+        "context": "Mạng xã hội, phản ứng"
+    },
+    {
+        "word": "Mood",
+        "ipa_word": "/muːd/",
+        "type": "Noun",
+        "meaning_word": "Cảm xúc chung, relatable",
+        "phrase": "That meme is such a mood.",
+        "ipa_phrase": "/ðæt miːm ɪz sʌʧ ə muːd/",
+        "meaning_phrase": "Meme đó đúng là tâm trạng.",
+        "context": "Meme, mạng xã hội"
+    },
+    {
+        "word": "Extra",
+        "ipa_word": "/ˈek.strə/",
+        "type": "Adj",
+        "meaning_word": "Làm quá, phô trương",
+        "phrase": "He’s so extra about his birthday.",
+        "ipa_phrase": "/hiːz soʊ ˈek.strə əˈbaʊt hɪz ˈbɜːrθ.deɪ/",
+        "meaning_phrase": "Anh ấy làm quá về sinh nhật của mình.",
+        "context": "Mạng xã hội, tính cách"
+    },
+    {
+        "word": "Dead",
+        "ipa_word": "/dɛd/",
+        "type": "Adj (slang)",
+        "meaning_word": "Cười xỉu, cực kỳ buồn cười",
+        "phrase": "That video made me dead.",
+        "ipa_phrase": "/ðæt ˈvɪd.i.oʊ meɪd miː dɛd/",
+        "meaning_phrase": "Video đó làm tôi cười xỉu.",
+        "context": "Ngôn ngữ teen, hài hước"
+    },
+    {
+        "word": "Shook",
+        "ipa_word": "/ʃʊk/",
+        "type": "Adj",
+        "meaning_word": "Sốc, bất ngờ",
+        "phrase": "I was shook when I saw the news.",
+        "ipa_phrase": "/aɪ wəz ʃʊk wɛn aɪ sɔː ðə nuːz/",
+        "meaning_phrase": "Tôi sốc khi thấy tin đó.",
+        "context": "Mạng xã hội, phản ứng"
+    },
+    {
+        "word": "Thirsty",
+        "ipa_word": "/ˈθɜːr.sti/",
+        "type": "Adj",
+        "meaning_word": "Khao khát sự chú ý",
+        "phrase": "He’s so thirsty for likes on Instagram.",
+        "ipa_phrase": "/hiːz soʊ ˈθɜːr.sti fɔːr laɪks ɑn ˈɪn.stə.ɡræm/",
+        "meaning_phrase": "Anh ta quá khao khát lượt thích trên Instagram.",
+        "context": "Mạng xã hội, chú ý"
+    },
+    {
+        "word": "Glow up",
+        "ipa_word": "/ɡloʊ ʌp/",
+        "type": "Verb",
+        "meaning_word": "Lột xác, thay đổi tích cực",
+        "phrase": "She really had a glow up after high school.",
+        "ipa_phrase": "/ʃiː ˈrɪəli hæd ə ɡloʊ ʌp ˈæftər haɪ skuːl/",
+        "meaning_phrase": "Cô ấy thật sự lột xác sau thời trung học.",
+        "context": "Mạng xã hội, thay đổi ngoại hình"
+    },
+    {
+        "word": "Drag",
+        "ipa_word": "/dræɡ/",
+        "type": "Verb",
+        "meaning_word": "Chỉ trích gay gắt",
+        "phrase": "The actor was dragged on Twitter.",
+        "ipa_phrase": "/ði ˈæk.tər wəz dræɡd ɑn ˈtwɪt̬.ər/",
+        "meaning_phrase": "Nam diễn viên bị chỉ trích nặng nề trên Twitter.",
+        "context": "Mạng xã hội, drama"
+    },
+    {
+        "word": "Stan",
+        "ipa_word": "/stæn/",
+        "type": "Verb/Noun",
+        "meaning_word": "Hâm mộ cuồng nhiệt",
+        "phrase": "I totally stan that K-pop group.",
+        "ipa_phrase": "/aɪ ˈtoʊ.t̬əl.i stæn ðæt ˈkeɪ.pɑːp ɡruːp/",
+        "meaning_phrase": "Tôi cực kỳ hâm mộ nhóm K-pop đó.",
+        "context": "Fan văn hóa, mạng xã hội"
+    },
+    {
+        "word": "Ship",
+        "ipa_word": "/ʃɪp/",
+        "type": "Verb",
+        "meaning_word": "Ghép đôi",
+        "phrase": "I ship those two actors together.",
+        "ipa_phrase": "/aɪ ʃɪp ðoʊz tuː ˈæk.tərz təˈɡɛð.ər/",
+        "meaning_phrase": "Tôi ghép đôi hai diễn viên đó.",
+        "context": "Fandom, mạng xã hội"
+    },
+    {
+        "word": "Simp",
+        "ipa_word": "/sɪmp/",
+        "type": "Noun",
+        "meaning_word": "Người quá si mê ai đó",
+        "phrase": "He’s such a simp for her.",
+        "ipa_phrase": "/hiːz sʌʧ ə sɪmp fɔːr hɜːr/",
+        "meaning_phrase": "Anh ấy quá si mê cô ấy.",
+        "context": "Ngôn ngữ teen, mạng xã hội"
+    },
+    {
+        "word": "FOMO",
+        "ipa_word": "/ˈfoʊ.moʊ/",
+        "type": "Noun",
+        "meaning_word": "Sợ bị bỏ lỡ",
+        "phrase": "I have FOMO when I miss the party.",
+        "ipa_phrase": "/aɪ hæv ˈfoʊ.moʊ wɛn aɪ mɪs ðə ˈpɑːr.ti/",
+        "meaning_phrase": "Tôi sợ bị bỏ lỡ khi không đi tiệc.",
+        "context": "Mạng xã hội, cảm xúc"
+    },
+    {
+        "word": "JOMO",
+        "ipa_word": "/ˈdʒoʊ.moʊ/",
+        "type": "Noun",
+        "meaning_word": "Niềm vui khi bỏ lỡ",
+        "phrase": "I felt JOMO staying home and relaxing.",
+        "ipa_phrase": "/aɪ fɛlt ˈdʒoʊ.moʊ ˈsteɪ.ɪŋ hoʊm ənd rɪˈlæksɪŋ/",
+        "meaning_phrase": "Tôi thấy vui vì ở nhà nghỉ ngơi.",
+        "context": "Mạng xã hội, lifestyle"
+    },
+    {
+        "word": "Main character",
+        "ipa_word": "/meɪn ˈkær.ɪk.tər/",
+        "type": "Noun",
+        "meaning_word": "Nhân vật chính, trung tâm",
+        "phrase": "She acts like the main character in every story.",
+        "ipa_phrase": "/ʃiː ækts laɪk ðə meɪn ˈkær.ɪk.tər ɪn ˈɛv.ri ˈstɔːr.i/",
+        "meaning_phrase": "Cô ấy cư xử như nhân vật chính trong mọi câu chuyện.",
+        "context": "Meme, mạng xã hội"
+    },
+    {
+        "word": "Viral",
+        "ipa_word": "/ˈvaɪ.rəl/",
+        "type": "Adj",
+        "meaning_word": "Lan truyền mạnh",
+        "phrase": "That video went viral overnight.",
+        "ipa_phrase": "/ðæt ˈvɪd.i.oʊ wɛnt ˈvaɪ.rəl ˌoʊ.vərˈnaɪt/",
+        "meaning_phrase": "Video đó lan truyền mạnh chỉ sau một đêm.",
+        "context": "Mạng xã hội, video"
+    },
+    {
+        "word": "Influencer",
+        "ipa_word": "/ˈɪn.flu.ən.sər/",
+        "type": "Noun",
+        "meaning_word": "Người có tầm ảnh hưởng",
+        "phrase": "Many influencers promote brands online.",
+        "ipa_phrase": "/ˈmɛ.ni ˈɪn.flu.ən.sərz prəˈmoʊt brændz ˈɑn.laɪn/",
+        "meaning_phrase": "Nhiều influencer quảng bá thương hiệu trên mạng.",
+        "context": "Mạng xã hội, quảng bá"
+    },
+    {
+        "word": "DM",
+        "ipa_word": "/diː em/",
+        "type": "Noun/Verb",
+        "meaning_word": "Tin nhắn trực tiếp",
+        "phrase": "She slid into my DMs last night.",
+        "ipa_phrase": "/ʃiː slɪd ˈɪntuː maɪ diː em læst naɪt/",
+        "meaning_phrase": "Cô ấy nhắn tin riêng cho tôi tối qua.",
+        "context": "Chat, mạng xã hội"
+    },
+    {
+        "word": "Ghost",
+        "ipa_word": "/ɡoʊst/",
+        "type": "Verb",
+        "meaning_word": "Biến mất, bơ ai đó",
+        "phrase": "He ghosted me after our first date.",
+        "ipa_phrase": "/hiː ˈɡoʊstɪd miː ˈæftər ˈaʊər fɜːrst deɪt/",
+        "meaning_phrase": "Anh ta biến mất sau buổi hẹn đầu tiên.",
+        "context": "Hẹn hò online, mạng xã hội"
+    },
+    {
+        "word": "Flex",
+        "ipa_word": "/fleks/",
+        "type": "Verb",
+        "meaning_word": "Khoe khoang",
+        "phrase": "He flexed his new car on Instagram.",
+        "ipa_phrase": "/hiː flekst hɪz njuː kɑːr ɑn ˈɪnstəɡræm/",
+        "meaning_phrase": "Anh ấy khoe xe mới trên Instagram.",
+        "context": "Mạng xã hội, lifestyle"
+    },
+    {
+        "word": "Binge-watch",
+        "ipa_word": "/bɪndʒ wɑːʧ/",
+        "type": "Verb",
+        "meaning_word": "Cày phim",
+        "phrase": "We binge-watched the whole season in two days.",
+        "ipa_phrase": "/wiː bɪndʒ wɑːʧt ðə hoʊl ˈsiː.zən ɪn tuː deɪz/",
+        "meaning_phrase": "Chúng tôi cày hết cả mùa trong hai ngày.",
+        "context": "Phim ảnh, mạng xã hội"
+    },
+    {
+        "word": "Cancel",
+        "ipa_word": "/ˈkæn.səl/",
+        "type": "Verb",
+        "meaning_word": "Tẩy chay ai đó",
+        "phrase": "The actor was canceled after the scandal.",
+        "ipa_phrase": "/ði ˈæk.tər wəz ˈkæn.səld ˈæftər ðə ˈskændl/",
+        "meaning_phrase": "Nam diễn viên bị tẩy chay sau bê bối.",
+        "context": "Mạng xã hội, drama"
+    },
+    {
+        "word": "Wholesome",
+        "ipa_word": "/ˈhoʊl.səm/",
+        "type": "Adj",
+        "meaning_word": "Tích cực, dễ thương",
+        "phrase": "That was such a wholesome meme.",
+        "ipa_phrase": "/ðæt wəz sʌʧ ə ˈhoʊl.səm miːm/",
+        "meaning_phrase": "Đó là một meme tích cực, dễ thương.",
+        "context": "Mạng xã hội, meme"
+    },
+    {
+        "word": "Sus",
+        "ipa_word": "/sʌs/",
+        "type": "Adj",
+        "meaning_word": "Đáng ngờ",
+        "phrase": "He’s acting sus right now.",
+        "ipa_phrase": "/hiːz ˈæk.tɪŋ sʌs raɪt naʊ/",
+        "meaning_phrase": "Anh ta đang cư xử rất đáng ngờ.",
+        "context": "Game Among Us, ngôn ngữ mạng"
+    },
+    {
+        "word": "AF",
+        "ipa_word": "/eɪ ɛf/",
+        "type": "Adv (slang)",
+        "meaning_word": "Cực kỳ",
+        "phrase": "I’m tired AF after work.",
+        "ipa_phrase": "/aɪm ˈtaɪərd eɪ ɛf ˈæftər wɜːrk/",
+        "meaning_phrase": "Tôi mệt cực kỳ sau giờ làm.",
+        "context": "Ngôn ngữ teen, mạng xã hội"
+    },
+    {
+        "word": "Cringe",
+        "ipa_word": "/krɪndʒ/",
+        "type": "Adj/Verb",
+        "meaning_word": "Xấu hổ, gượng gạo",
+        "phrase": "That video was so cringe.",
+        "ipa_phrase": "/ðæt ˈvɪd.i.oʊ wəz soʊ krɪndʒ/",
+        "meaning_phrase": "Video đó thật sự xấu hổ.",
+        "context": "Mạng xã hội, meme"
+    },
+    {
+        "word": "Based",
+        "ipa_word": "/beɪst/",
+        "type": "Adj",
+        "meaning_word": "Ngầu, sống thật",
+        "phrase": "His opinion was so based.",
+        "ipa_phrase": "/hɪz əˈpɪn.jən wəz soʊ beɪst/",
+        "meaning_phrase": "Ý kiến của anh ấy thật sự ngầu, sống thật.",
+        "context": "Ngôn ngữ mạng, bình luận"
+    },
+    {
+        "word": "Karen",
+        "ipa_word": "/ˈkɛr.ən/",
+        "type": "Noun",
+        "meaning_word": "Người phụ nữ hay phàn nàn, khó chịu",
+        "phrase": "The customer was acting like a Karen.",
+        "ipa_phrase": "/ðə ˈkʌs.tə.mər wəz ˈæk.tɪŋ laɪk ə ˈkɛr.ən/",
+        "meaning_phrase": "Khách hàng đó cư xử như một 'Karen'.",
+        "context": "Meme, mạng xã hội"
+    },
+    {
+        "word": "Yeet",
+        "ipa_word": "/jiːt/",
+        "type": "Verb/Exclamation",
+        "meaning_word": "Ném mạnh hoặc thể hiện sự phấn khích",
+        "phrase": "He yeeted the ball across the field.",
+        "ipa_phrase": "/hiː jiːtɪd ðə bɔːl əˈkrɔːs ðə fiːld/",
+        "meaning_phrase": "Anh ta ném quả bóng mạnh sang bên kia sân.",
+        "context": "Ngôn ngữ teen, meme"
+    },
+    {
+        "word": "Bet",
+        "ipa_word": "/bɛt/",
+        "type": "Slang (Verb)",
+        "meaning_word": "Đồng ý, chắc chắn",
+        "phrase": "You coming tonight? — Bet!",
+        "ipa_phrase": "/juː ˈkʌmɪŋ təˈnaɪt? — bɛt!/",
+        "meaning_phrase": "Bạn đi tối nay chứ? — Chắc chắn rồi!",
+        "context": "Chat, mạng xã hội"
+    },
+    {
+        "word": "Periodt",
+        "ipa_word": "/ˈpɪr.i.əd/",
+        "type": "Interjection",
+        "meaning_word": "Kết thúc, không bàn cãi",
+        "phrase": "I’m the best, periodt.",
+        "ipa_phrase": "/aɪm ðə bɛst, ˈpɪr.i.əd/",
+        "meaning_phrase": "Tôi là nhất, hết chuyện.",
+        "context": "Mạng xã hội, khẳng định"
+    },
+    {
+        "word": "Salty",
+        "ipa_word": "/ˈsɔːl.ti/",
+        "type": "Adj",
+        "meaning_word": "Cau có, dỗi",
+        "phrase": "He’s salty because he lost the game.",
+        "ipa_phrase": "/hiːz ˈsɔːl.ti bɪˈkɔːz hiː lɔst ðə ɡeɪm/",
+        "meaning_phrase": "Anh ấy dỗi vì thua trận.",
+        "context": "Game, mạng xã hội"
+    },
+    {
+        "word": "Snack",
+        "ipa_word": "/snæk/",
+        "type": "Noun",
+        "meaning_word": "Người hấp dẫn",
+        "phrase": "She looks like a whole snack.",
+        "ipa_phrase": "/ʃiː lʊks laɪk ə hoʊl snæk/",
+        "meaning_phrase": "Cô ấy trông cực kỳ hấp dẫn.",
+        "context": "Ngôn ngữ teen, khen ngoại hình"
+    },
+    {
+        "word": "Drip",
+        "ipa_word": "/drɪp/",
+        "type": "Noun",
+        "meaning_word": "Phong cách ăn mặc chất",
+        "phrase": "His outfit is full of drip.",
+        "ipa_phrase": "/hɪz ˈaʊtfɪt ɪz fʊl əv drɪp/",
+        "meaning_phrase": "Trang phục của anh ấy cực chất.",
+        "context": "Thời trang, mạng xã hội"
+    },
+    {
+        "word": "Vibe check",
+        "ipa_word": "/vaɪb ʧɛk/",
+        "type": "Phrase",
+        "meaning_word": "Kiểm tra cảm xúc/không khí",
+        "phrase": "Vibe check! Everyone’s happy here.",
+        "ipa_phrase": "/vaɪb ʧɛk! ˈɛvrɪwʌnz ˈhæpi hɪər/",
+        "meaning_phrase": "Kiểm tra vibe! Ai cũng vui ở đây.",
+        "context": "Mạng xã hội, meme"
+    },
+    {
+        "word": "Sksksk",
+        "ipa_word": "/sk sk sk/",
+        "type": "Interjection",
+        "meaning_word": "Âm thanh cười gượng hoặc phấn khích",
+        "phrase": "Sksksk I can’t believe this!",
+        "ipa_phrase": "/sk sk sk aɪ kænt bəˈliːv ðɪs!/",
+        "meaning_phrase": "Sksksk tôi không tin nổi!",
+        "context": "Ngôn ngữ teen, VSCO girls"
+    },
+    {
+        "word": "And I oop",
+        "ipa_word": "/ænd aɪ uːp/",
+        "type": "Phrase",
+        "meaning_word": "Thốt ra khi bất ngờ hoặc ngượng ngùng",
+        "phrase": "And I oop, I dropped my phone.",
+        "ipa_phrase": "/ænd aɪ uːp, aɪ drɑːpt maɪ foʊn/",
+        "meaning_phrase": "Ối trời, tôi làm rơi điện thoại.",
+        "context": "Meme, mạng xã hội"
+    },
+    {
+        "word": "Bruh",
+        "ipa_word": "/brʌ/",
+        "type": "Interjection",
+        "meaning_word": "Trời ơi, thật hả",
+        "phrase": "Bruh, that’s so unfair.",
+        "ipa_phrase": "/brʌ, ðæts soʊ ʌnˈfɛr/",
+        "meaning_phrase": "Trời ơi, thật là bất công.",
+        "context": "Ngôn ngữ teen, cảm xúc"
+    },
+    {
+        "word": "Hype",
+        "ipa_word": "/haɪp/",
+        "type": "Noun/Verb",
+        "meaning_word": "Sự phấn khích, cường điệu",
+        "phrase": "The new movie got so much hype.",
+        "ipa_phrase": "/ðə njuː ˈmuː.vi ɡɑt soʊ mʌʧ haɪp/",
+        "meaning_phrase": "Bộ phim mới được thổi phồng quá nhiều.",
+        "context": "Mạng xã hội, quảng bá"
+    },
+    {
+        "word": "Clout",
+        "ipa_word": "/klaʊt/",
+        "type": "Noun",
+        "meaning_word": "Sức ảnh hưởng, sự nổi tiếng",
+        "phrase": "He’s just doing it for clout.",
+        "ipa_phrase": "/hiːz dʒʌst ˈduːɪŋ ɪt fɔːr klaʊt/",
+        "meaning_phrase": "Anh ta làm vậy chỉ để nổi tiếng.",
+        "context": "Mạng xã hội, danh tiếng"
+    },
+    {
+        "word": "Receipts",
+        "ipa_word": "/rɪˈsiːpts/",
+        "type": "Noun",
+        "meaning_word": "Bằng chứng online",
+        "phrase": "I’ve got receipts to prove it.",
+        "ipa_phrase": "/aɪv gɑt rɪˈsiːpts tə pruːv ɪt/",
+        "meaning_phrase": "Tôi có bằng chứng để chứng minh.",
+        "context": "Drama, mạng xã hội"
+    },
+    {
+        "word": "Boomer",
+        "ipa_word": "/ˈbuː.mər/",
+        "type": "Noun",
+        "meaning_word": "Người già khó bắt kịp xu hướng",
+        "phrase": "Okay boomer, that’s outdated.",
+        "ipa_phrase": "/ˈoʊ.keɪ ˈbuː.mər, ðæts ˌaʊtˈdeɪtɪd/",
+        "meaning_phrase": "Ờ được rồi boomer, cái đó lỗi thời rồi.",
+        "context": "Meme, mạng xã hội"
+    },
+    {
+        "word": "Glow",
+        "ipa_word": "/ɡloʊ/",
+        "type": "Noun/Verb",
+        "meaning_word": "Tỏa sáng, rạng rỡ",
+        "phrase": "Her skin has such a natural glow.",
+        "ipa_phrase": "/hɜːr skɪn hæz sʌʧ ə ˈnæʧ.ər.əl ɡloʊ/",
+        "meaning_phrase": "Làn da của cô ấy thật sự rạng rỡ.",
+        "context": "Mạng xã hội, khen ngoại hình"
+    },
+    {
+        "word": "Slaps",
+        "ipa_word": "/slæps/",
+        "type": "Verb (slang)",
+        "meaning_word": "Cực hay (nói về nhạc)",
+        "phrase": "This new track slaps!",
+        "ipa_phrase": "/ðɪs njuː træk slæps!/",
+        "meaning_phrase": "Bản nhạc mới này hay cực!",
+        "context": "Mạng xã hội, âm nhạc"
+    },
+    {
+        "word": "AFK",
+        "ipa_word": "/eɪ ɛf keɪ/",
+        "type": "Abbreviation",
+        "meaning_word": "Rời bàn phím",
+        "phrase": "BRB, I’m AFK for 10 minutes.",
+        "ipa_phrase": "/biː ɑːr biː, aɪm eɪ ɛf keɪ fɔːr tɛn ˈmɪnɪts/",
+        "meaning_phrase": "Quay lại sau, tôi rời bàn phím 10 phút.",
+        "context": "Game, chat"
+    },
+    {
+        "word": "Epic fail",
+        "ipa_word": "/ˈep.ɪk feɪl/",
+        "type": "Phrase",
+        "meaning_word": "Thất bại thảm hại",
+        "phrase": "That trick was an epic fail.",
+        "ipa_phrase": "/ðæt trɪk wəz ən ˈep.ɪk feɪl/",
+        "meaning_phrase": "Màn biểu diễn đó là một thất bại thảm hại.",
+        "context": "Meme, mạng xã hội"
+    },
+    {
+        "word": "Adulting",
+        "ipa_word": "/əˈdʌltɪŋ/",
+        "type": "Noun (slang)",
+        "meaning_word": "Làm việc của người lớn",
+        "phrase": "Paying bills is hard, adulting is tough.",
+        "ipa_phrase": "/ˈpeɪɪŋ bɪlz ɪz hɑːrd, əˈdʌltɪŋ ɪz tʌf/",
+        "meaning_phrase": "Trả hóa đơn thật khó, làm người lớn thật mệt.",
+        "context": "Mạng xã hội, lifestyle"
+    },
+    {
+        "word": "finsta",
+        "ipa_word": "/ˈfɪn.stə/",
+        "type": "Noun",
+        "meaning_word": "tài khoản Instagram phụ (fake + insta)",
+        "phrase": "She only shares that on her finsta.",
+        "ipa_phrase": "/ʃiː ˈəʊn.li ʃeərz ðæt ɒn hɜːr ˈfɪn.stə/",
+        "meaning_phrase": "Cô ấy chỉ chia sẻ điều đó trên tài khoản phụ.",
+        "context": "Mạng xã hội, Instagram"
+    },
+    {
+        "word": "main",
+        "ipa_word": "/meɪn/",
+        "type": "Noun",
+        "meaning_word": "tài khoản chính (trái nghĩa với finsta)",
+        "phrase": "He posted that on his main.",
+        "ipa_phrase": "/hiː ˈpəʊ.stɪd ðæt ɒn hɪz meɪn/",
+        "meaning_phrase": "Anh ấy đăng điều đó trên tài khoản chính.",
+        "context": "Mạng xã hội"
+    },
+    {
+        "word": "stan",
+        "ipa_word": "/stæn/",
+        "type": "Verb/Noun",
+        "meaning_word": "ủng hộ cuồng nhiệt, fan cuồng",
+        "phrase": "I totally stan this artist.",
+        "ipa_phrase": "/aɪ ˈtəʊ.təl.i stæn ðɪs ˈɑː.tɪst/",
+        "meaning_phrase": "Tôi hoàn toàn hâm mộ nghệ sĩ này.",
+        "context": "Fan culture, mạng xã hội"
+    },
+    {
+        "word": "simp",
+        "ipa_word": "/sɪmp/",
+        "type": "Noun/Verb",
+        "meaning_word": "người quá si mê, làm mọi thứ vì crush",
+        "phrase": "He’s such a simp for her.",
+        "ipa_phrase": "/hiːz sʌtʃ ə sɪmp fɔːr hɜːr/",
+        "meaning_phrase": "Anh ấy thật sự si mê cô ấy.",
+        "context": "Quan hệ, teen slang"
+    },
+    {
+        "word": "cap",
+        "ipa_word": "/kæp/",
+        "type": "Noun/Verb",
+        "meaning_word": "nói dối, phóng đại (No cap = nói thật)",
+        "phrase": "That story is pure cap.",
+        "ipa_phrase": "/ðæt ˈstɔː.ri ɪz pjʊə kæp/",
+        "meaning_phrase": "Câu chuyện đó hoàn toàn là bịa đặt.",
+        "context": "Mạng xã hội, trò chuyện"
+    },
+    {
+        "word": "no cap",
+        "ipa_word": "/nəʊ kæp/",
+        "type": "Phrase",
+        "meaning_word": "không nói dối, thật lòng",
+        "phrase": "This is amazing, no cap.",
+        "ipa_phrase": "/ðɪs ɪz əˈmeɪ.zɪŋ nəʊ kæp/",
+        "meaning_phrase": "Điều này thật tuyệt, không đùa đâu.",
+        "context": "Teen slang, xác nhận sự thật"
+    },
+    {
+        "word": "drip",
+        "ipa_word": "/drɪp/",
+        "type": "Noun",
+        "meaning_word": "phong cách thời trang cực ngầu",
+        "phrase": "His outfit is pure drip.",
+        "ipa_phrase": "/hɪz ˈaʊt.fɪt ɪz pjʊə drɪp/",
+        "meaning_phrase": "Trang phục của anh ấy cực ngầu.",
+        "context": "Thời trang, teen slang"
+    },
+    {
+        "word": "savage",
+        "ipa_word": "/ˈsæv.ɪdʒ/",
+        "type": "Adj",
+        "meaning_word": "ngầu lòi, cực kỳ bá đạo",
+        "phrase": "That comeback was savage.",
+        "ipa_phrase": "/ðæt ˈkʌm.bæk wəz ˈsæv.ɪdʒ/",
+        "meaning_phrase": "Màn đáp trả đó thật bá đạo.",
+        "context": "Teen slang, đối thoại"
+    },
+    {
+        "word": "bet",
+        "ipa_word": "/bɛt/",
+        "type": "Interjection",
+        "meaning_word": "được thôi, ok (thay cho yes)",
+        "phrase": "You want to hang out? Bet!",
+        "ipa_phrase": "/juː wɒnt tuː hæŋ aʊt? bɛt/",
+        "meaning_phrase": "Muốn đi chơi à? Ok luôn!",
+        "context": "Hội thoại, teen slang"
+    },
+    {
+        "word": "yeet",
+        "ipa_word": "/jiːt/",
+        "type": "Verb/Exclamation",
+        "meaning_word": "ném mạnh; hét lên khi hào hứng",
+        "phrase": "He yeeted the ball across the field.",
+        "ipa_phrase": "/hiː jiːtɪd ðə bɔːl əˈkrɒs ðə fiːld/",
+        "meaning_phrase": "Anh ấy ném quả bóng mạnh khắp sân.",
+        "context": "Teen slang, hài hước"
+    },
+    {
+        "word": "woke",
+        "ipa_word": "/wəʊk/",
+        "type": "Adj",
+        "meaning_word": "ý thức xã hội, nhận thức về vấn đề công bằng",
+        "phrase": "She tries to stay woke about current issues.",
+        "ipa_phrase": "/ʃiː traɪz tuː steɪ wəʊk əˈbaʊt ˈkʌrənt ˈɪʃ.uːz/",
+        "meaning_phrase": "Cô ấy cố gắng giữ nhận thức về các vấn đề hiện tại.",
+        "context": "Xã hội, teen slang"
+    },
+    {
+        "word": "fire",
+        "ipa_word": "/ˈfaɪər/",
+        "type": "Adj",
+        "meaning_word": "tuyệt vời, cực chất",
+        "phrase": "That new song is fire!",
+        "ipa_phrase": "/ðæt njuː sɒŋ ɪz ˈfaɪər/",
+        "meaning_phrase": "Bài hát mới đó cực chất!",
+        "context": "Teen slang, âm nhạc"
+    },
+    {
+        "word": "slay",
+        "ipa_word": "/sleɪ/",
+        "type": "Verb",
+        "meaning_word": "làm xuất sắc, tỏa sáng",
+        "phrase": "She slayed her performance.",
+        "ipa_phrase": "/ʃiː sleɪd hɜːr pəˈfɔː.məns/",
+        "meaning_phrase": "Cô ấy đã trình diễn cực kỳ xuất sắc.",
+        "context": "Biểu diễn, teen slang"
+    },
+    {
+        "word": "basic",
+        "ipa_word": "/ˈbeɪ.sɪk/",
+        "type": "Adj",
+        "meaning_word": "tầm thường, sáo rỗng, không đặc biệt",
+        "phrase": "That outfit is so basic.",
+        "ipa_phrase": "/ðæt ˈaʊt.fɪt ɪz səʊ ˈbeɪ.sɪk/",
+        "meaning_phrase": "Bộ đồ đó thật sự tầm thường.",
+        "context": "Teen slang, thời trang"
+    },
+    {
+        "word": "ghost",
+        "ipa_word": "/ɡəʊst/",
+        "type": "Verb",
+        "meaning_word": "bỏ bẵng, biến mất khỏi liên lạc",
+        "phrase": "He ghosted me after our date.",
+        "ipa_phrase": "/hiː ˈɡəʊ.stɪd miː ˈɑːf.tər aʊər deɪt/",
+        "meaning_phrase": "Anh ấy biến mất sau buổi hẹn.",
+        "context": "Quan hệ, teen slang"
+    },
+    {
+        "word": "meme",
+        "ipa_word": "/miːm/",
+        "type": "Noun",
+        "meaning_word": "ảnh chế, nội dung lan truyền hài hước",
+        "phrase": "That meme went viral overnight.",
+        "ipa_phrase": "/ðæt miːm wɛnt ˈvaɪə.rəl ˈəʊ.və.naɪt/",
+        "meaning_phrase": "Meme đó lan truyền chóng mặt chỉ sau một đêm.",
+        "context": "Mạng xã hội"
+    },
+    {
+        "word": "cancel",
+        "ipa_word": "/ˈkæn.səl/",
+        "type": "Verb",
+        "meaning_word": "tẩy chay, loại bỏ khỏi cộng đồng",
+        "phrase": "The fans tried to cancel the influencer.",
+        "ipa_phrase": "/ðə fænz traɪd tuː ˈkæn.səl ði ˈɪn.flu.ənsər/",
+        "meaning_phrase": "Người hâm mộ cố gắng tẩy chay influencer đó.",
+        "context": "Mạng xã hội, văn hóa tẩy chay"
+    },
+    {
+        "word": "tea",
+        "ipa_word": "/tiː/",
+        "type": "Noun",
+        "meaning_word": "tin đồn, chuyện thú vị",
+        "phrase": "Spill the tea, what happened?",
+        "ipa_phrase": "/spɪl ðə tiː, wɒt ˈhæpənd?/",
+        "meaning_phrase": "Khai mau, có chuyện gì vậy?",
+        "context": "Teen slang, mạng xã hội"
+    },
+    {
+        "word": "ship",
+        "ipa_word": "/ʃɪp/",
+        "type": "Verb",
+        "meaning_word": "ghép đôi, mong hai người thành cặp",
+        "phrase": "I totally ship them together.",
+        "ipa_phrase": "/aɪ ˈtəʊtəli ʃɪp ðɛm təˈɡɛð.ər/",
+        "meaning_phrase": "Tôi hoàn toàn ủng hộ việc họ thành một cặp.",
+        "context": "Fan culture, teen slang"
+    },
+    {
+        "word": "sus",
+        "ipa_word": "/sʌs/",
+        "type": "Adj",
+        "meaning_word": "đáng ngờ, khả nghi (suspect)",
+        "phrase": "He’s acting kinda sus.",
+        "ipa_phrase": "/hiːz ˈæktɪŋ ˈkaɪndə sʌs/",
+        "meaning_phrase": "Anh ta hành động hơi đáng ngờ.",
+        "context": "Among Us, teen slang"
+    },
+    {
+        "word": "rizz",
+        "ipa_word": "/rɪz/",
+        "type": "Noun",
+        "meaning_word": "khả năng tán tỉnh, thu hút người khác",
+        "phrase": "He’s got mad rizz.",
+        "ipa_phrase": "/hiːz ɡɒt mæd rɪz/",
+        "meaning_phrase": "Anh ấy cực kỳ có duyên tán tỉnh.",
+        "context": "TikTok slang"
+    },
+    {
+        "word": "mid",
+        "ipa_word": "/mɪd/",
+        "type": "Adj",
+        "meaning_word": "bình thường, không có gì đặc biệt",
+        "phrase": "That movie was so mid.",
+        "ipa_phrase": "/ðæt ˈmuː.vi wəz səʊ mɪd/",
+        "meaning_phrase": "Bộ phim đó quá tầm thường.",
+        "context": "Teen slang, đánh giá"
+    },
+    {
+        "word": "salty",
+        "ipa_word": "/ˈsɔːl.ti/",
+        "type": "Adj",
+        "meaning_word": "cáu kỉnh, ghen tức",
+        "phrase": "She’s salty about losing the game.",
+        "ipa_phrase": "/ʃiːz ˈsɔːl.ti əˈbaʊt ˈluːzɪŋ ðə ɡeɪm/",
+        "meaning_phrase": "Cô ấy ghen tức vì thua trò chơi.",
+        "context": "Teen slang, game"
+    },
+    {
+        "word": "ate",
+        "ipa_word": "/eɪt/",
+        "type": "Verb",
+        "meaning_word": "làm quá xuất sắc (thường trong biểu diễn, thời trang)",
+        "phrase": "She ate that performance up!",
+        "ipa_phrase": "/ʃiː eɪt ðæt pəˈfɔː.məns ʌp/",
+        "meaning_phrase": "Cô ấy đã trình diễn cực xuất sắc!",
+        "context": "TikTok, teen slang"
+    },
+    {
+        "word": "fr",
+        "ipa_word": "/ɛf ɑːr/",
+        "type": "Abbreviation",
+        "meaning_word": "for real = thật đấy",
+        "phrase": "That’s crazy, fr.",
+        "ipa_phrase": "/ðæts ˈkreɪ.zi, ɛf ɑːr/",
+        "meaning_phrase": "Điều đó điên thật, thật đấy.",
+        "context": "Mạng xã hội"
+    },
+    {
+        "word": "ngl",
+        "ipa_word": "/ɛn dʒiː ɛl/",
+        "type": "Abbreviation",
+        "meaning_word": "not gonna lie = nói thật nhé",
+        "phrase": "Ngl, that was boring.",
+        "ipa_phrase": "/ɛn dʒiː ɛl, ðæt wəz ˈbɔː.rɪŋ/",
+        "meaning_phrase": "Nói thật nhé, cái đó chán lắm.",
+        "context": "Mạng xã hội"
+    },
+    {
+        "word": "irl",
+        "ipa_word": "/aɪ ɑːr ɛl/",
+        "type": "Abbreviation",
+        "meaning_word": "in real life = ngoài đời thật",
+        "phrase": "I finally met her irl.",
+        "ipa_phrase": "/aɪ ˈfaɪ.nə.li mɛt hɜːr aɪ ɑːr ɛl/",
+        "meaning_phrase": "Tôi cuối cùng cũng gặp cô ấy ngoài đời.",
+        "context": "Mạng xã hội, gaming"
+    },
+    {
+        "word": "atm",
+        "ipa_word": "/eɪ tiː ɛm/",
+        "type": "Abbreviation",
+        "meaning_word": "at the moment = hiện tại",
+        "phrase": "I’m busy atm.",
+        "ipa_phrase": "/aɪm ˈbɪz.i eɪ tiː ɛm/",
+        "meaning_phrase": "Tôi bận ngay lúc này.",
+        "context": "Teen slang, chat"
+    },
+    {
+        "word": "afk",
+        "ipa_word": "/eɪ ɛf keɪ/",
+        "type": "Abbreviation",
+        "meaning_word": "away from keyboard = vắng mặt",
+        "phrase": "Brb, afk for 5 mins.",
+        "ipa_phrase": "/biː ɑːr biː, eɪ ɛf keɪ fɔːr faɪv mɪnz/",
+        "meaning_phrase": "Quay lại sau, vắng mặt 5 phút.",
+        "context": "Game, chat"
+    },
+    {
+        "word": "lowkey",
+        "ipa_word": "/ˌloʊˈkiː/",
+        "type": "Adv",
+        "meaning_word": "hơi, ngầm, không phô trương",
+        "phrase": "I lowkey like that song.",
+        "ipa_phrase": "/aɪ ˌloʊˈkiː laɪk ðæt sɒŋ/",
+        "meaning_phrase": "Tôi hơi thích bài hát đó.",
+        "context": "Teen slang"
+    },
+    {
+        "word": "highkey",
+        "ipa_word": "/ˌhaɪˈkiː/",
+        "type": "Adv",
+        "meaning_word": "rõ ràng, công khai",
+        "phrase": "I highkey want to go.",
+        "ipa_phrase": "/aɪ ˌhaɪˈkiː wɒnt tuː ɡoʊ/",
+        "meaning_phrase": "Tôi thật sự muốn đi.",
+        "context": "Teen slang"
+    },
+    {
+        "word": "flex",
+        "ipa_word": "/flɛks/",
+        "type": "Verb",
+        "meaning_word": "khoe khoang",
+        "phrase": "He’s flexing his new car.",
+        "ipa_phrase": "/hiːz ˈflɛksɪŋ hɪz njuː kɑːr/",
+        "meaning_phrase": "Anh ấy đang khoe chiếc xe mới.",
+        "context": "Teen slang, mạng xã hội"
+    },
+    {
+        "word": "vibe check",
+        "ipa_word": "/vaɪb tʃɛk/",
+        "type": "Noun/Phrase",
+        "meaning_word": "kiểm tra tâm trạng, năng lượng",
+        "phrase": "That place didn’t pass the vibe check.",
+        "ipa_phrase": "/ðæt pleɪs ˈdɪd.ənt pɑːs ðə vaɪb tʃɛk/",
+        "meaning_phrase": "Chỗ đó không có cảm giác hợp vibe.",
+        "context": "Mạng xã hội"
+    },
+    {
+        "word": "hits different",
+        "ipa_word": "/hɪts ˈdɪf.rənt/",
+        "type": "Phrase",
+        "meaning_word": "cảm giác khác lạ, đặc biệt",
+        "phrase": "This song hits different at night.",
+        "ipa_phrase": "/ðɪs sɒŋ hɪts ˈdɪf.rənt æt naɪt/",
+        "meaning_phrase": "Bài hát này nghe ban đêm lại thấy khác.",
+        "context": "Teen slang, âm nhạc"
+    },
+    {
+        "word": "periodt",
+        "ipa_word": "/ˈpɪr.i.ət/",
+        "type": "Exclamation",
+        "meaning_word": "khẳng định dứt khoát, không bàn thêm",
+        "phrase": "That’s the best, periodt.",
+        "ipa_phrase": "/ðæts ðə bɛst ˈpɪr.i.ət/",
+        "meaning_phrase": "Đó là tuyệt nhất, hết chuyện.",
+        "context": "Teen slang, nhấn mạnh"
+    },
+    {
+        "word": "dead",
+        "ipa_word": "/dɛd/",
+        "type": "Adj/Exclamation",
+        "meaning_word": "cười xỉu, buồn cười chết đi được",
+        "phrase": "That meme had me dead.",
+        "ipa_phrase": "/ðæt miːm hæd miː dɛd/",
+        "meaning_phrase": "Meme đó làm tôi cười xỉu.",
+        "context": "Teen slang, mạng xã hội"
+    },
+    {
+        "word": "receipts",
+        "ipa_word": "/rɪˈsiːts/",
+        "type": "Noun",
+        "meaning_word": "bằng chứng (thường là ảnh chụp màn hình)",
+        "phrase": "Show me the receipts.",
+        "ipa_phrase": "/ʃoʊ miː ðə rɪˈsiːts/",
+        "meaning_phrase": "Cho tôi xem bằng chứng đi.",
+        "context": "Mạng xã hội, tranh cãi"
+    },
+    {
+        "word": "ratio",
+        "ipa_word": "/ˈreɪ.ʃi.oʊ/",
+        "type": "Noun/Verb",
+        "meaning_word": "bị nhiều phản hồi tiêu cực hơn lượt thích",
+        "phrase": "His tweet got ratioed.",
+        "ipa_phrase": "/hɪz twiːt ɡɒt ˈreɪ.ʃi.oʊd/",
+        "meaning_phrase": "Tweet của anh ấy bị áp đảo phản hồi tiêu cực.",
+        "context": "Twitter slang"
+    } 
+]
