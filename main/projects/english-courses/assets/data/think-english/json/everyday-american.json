@@ -1,0 +1,1902 @@
+[
+    {
+        "word": "Hold the ice",
+        "ipa_word": "/hoʊld ðə aɪs/",
+        "type": "Phrase",
+        "meaning_word": "Đừng bỏ đá vào (đồ uống)",
+        "phrase": "Can I get a Coke, hold the ice?",
+        "ipa_phrase": "/kæn aɪ ɡɛt ə koʊk, hoʊld ðə aɪs/",
+        "meaning_phrase": "Cho tôi một ly Coke, đừng bỏ đá nhé.",
+        "context": "Quán ăn, hội thoại thân mật"
+    },
+    {
+        "word": "Grab a bite",
+        "ipa_word": "/ɡræb ə baɪt/",
+        "type": "Phrase",
+        "meaning_word": "Ăn nhanh, đi ăn gì đó nhẹ",
+        "phrase": "Let's grab a bite before class.",
+        "ipa_phrase": "/lɛts ɡræb ə baɪt bɪˈfɔːr klæs/",
+        "meaning_phrase": "Đi ăn nhanh gì đó trước giờ học đi.",
+        "context": "Giao tiếp hằng ngày"
+    },
+    {
+        "word": "You bet",
+        "ipa_word": "/juː bɛt/",
+        "type": "Expression",
+        "meaning_word": "Chắc chắn rồi / Không có gì (thân mật)",
+        "phrase": "— Thanks for helping! — You bet!",
+        "ipa_phrase": "/θæŋks fɔːr ˈhɛlpɪŋ — juː bɛt/",
+        "meaning_phrase": "— Cảm ơn vì đã giúp! — Không có gì!",
+        "context": "Phản hồi thân mật, tự nhiên"
+    },
+    {
+        "word": "No worries",
+        "ipa_word": "/noʊ ˈwɜːriz/",
+        "type": "Expression",
+        "meaning_word": "Không sao đâu, đừng lo",
+        "phrase": "— Sorry I’m late! — No worries!",
+        "ipa_phrase": "/ˈsɑːri aɪm leɪt — noʊ ˈwɜːriz/",
+        "meaning_phrase": "— Xin lỗi tôi đến muộn! — Không sao đâu!",
+        "context": "Hội thoại thân mật, văn hóa Mỹ"
+    },
+    {
+        "word": "Sounds good",
+        "ipa_word": "/saʊndz ɡʊd/",
+        "type": "Expression",
+        "meaning_word": "Nghe ổn đấy, đồng ý",
+        "phrase": "Let’s meet at 7? — Sounds good!",
+        "ipa_phrase": "/lɛts miːt æt ˈsɛvən — saʊndz ɡʊd/",
+        "meaning_phrase": "Gặp lúc 7h nhé? — Nghe ổn đấy!",
+        "context": "Đồng ý trong giao tiếp thân mật"
+    },
+    {
+        "word": "Hang tight",
+        "ipa_word": "/hæŋ taɪt/",
+        "type": "Phrasal expression",
+        "meaning_word": "Chờ chút nhé / Giữ nguyên vị trí",
+        "phrase": "Hang tight, I’ll be right there.",
+        "ipa_phrase": "/hæŋ taɪt, aɪl biː raɪt ðɛr/",
+        "meaning_phrase": "Chờ chút nhé, tôi tới liền.",
+        "context": "Hội thoại thân mật, khi ai đó đang đợi"
+    },
+    {
+        "word": "Chill out",
+        "ipa_word": "/tʃɪl aʊt/",
+        "type": "Phrase",
+        "meaning_word": "Bình tĩnh, thư giãn đi",
+        "phrase": "Dude, chill out! It’s not a big deal.",
+        "ipa_phrase": "/duːd, tʃɪl aʊt, ɪts nɑːt ə bɪɡ diːl/",
+        "meaning_phrase": "Bình tĩnh nào, có gì nghiêm trọng đâu.",
+        "context": "Ngôn ngữ giới trẻ, phim Mỹ"
+    },
+    {
+        "word": "Give me a sec",
+        "ipa_word": "/ɡɪv mi ə sɛk/",
+        "type": "Phrase",
+        "meaning_word": "Đợi tôi một chút nhé",
+        "phrase": "Give me a sec, I need to grab my keys.",
+        "ipa_phrase": "/ɡɪv mi ə sɛk, aɪ niːd tə ɡræb maɪ kiz/",
+        "meaning_phrase": "Chờ tôi chút, tôi đi lấy chìa khóa.",
+        "context": "Hội thoại hằng ngày"
+    },
+    {
+        "word": "You got it",
+        "ipa_word": "/juː ɡɑːt ɪt/",
+        "type": "Expression",
+        "meaning_word": "Rõ rồi / Ok luôn / Tôi sẽ làm ngay",
+        "phrase": "— Can you send me that file? — You got it!",
+        "ipa_phrase": "/kæn juː sɛnd mi ðæt faɪl — juː ɡɑːt ɪt/",
+        "meaning_phrase": "— Gửi tôi file đó nhé? — Ok luôn!",
+        "context": "Phản hồi tích cực, thân mật"
+    },
+    {
+        "word": "Nailed it",
+        "ipa_word": "/neɪld ɪt/",
+        "type": "Expression",
+        "meaning_word": "Làm xuất sắc rồi! / Chuẩn luôn!",
+        "phrase": "You totally nailed that presentation!",
+        "ipa_phrase": "/juː ˈtoʊtəli neɪld ðæt ˌprɛzənˈteɪʃən/",
+        "meaning_phrase": "Bạn làm bài thuyết trình đó cực kỳ xuất sắc!",
+        "context": "Khen ngợi, đời sống, mạng xã hội"
+    },
+    {
+        "word": "Take it easy",
+        "ipa_word": "/ˈteɪk ɪt ˈiːzi/",
+        "type": "Expression",
+        "meaning_word": "Bình tĩnh nhé / Thư giãn đi",
+        "phrase": "Hey man, take it easy. Everything’s fine.",
+        "ipa_phrase": "/heɪ mæn, ˈteɪk ɪt ˈiːzi, ˈɛvriˌθɪŋz faɪn/",
+        "meaning_phrase": "Này, bình tĩnh đi. Mọi thứ ổn mà.",
+        "context": "Hội thoại thân mật, khuyên ai đó đừng căng"
+    },
+    {
+        "word": "Hit the road",
+        "ipa_word": "/hɪt ðə roʊd/",
+        "type": "Phrase",
+        "meaning_word": "Lên đường, đi thôi",
+        "phrase": "It’s getting late, we should hit the road.",
+        "ipa_phrase": "/ɪts ˈɡɛtɪŋ leɪt, wi ʃʊd hɪt ðə roʊd/",
+        "meaning_phrase": "Trễ rồi, mình nên đi thôi.",
+        "context": "Giao tiếp tự nhiên, khi chuẩn bị rời đi"
+    },
+    {
+        "word": "No biggie",
+        "ipa_word": "/noʊ ˈbɪɡi/",
+        "type": "Slang",
+        "meaning_word": "Không sao đâu / Chuyện nhỏ thôi",
+        "phrase": "You forgot my coffee? No biggie!",
+        "ipa_phrase": "/ju fəˈɡɑːt maɪ ˈkɔːfi — noʊ ˈbɪɡi/",
+        "meaning_phrase": "Bạn quên cà phê của tôi à? Không sao đâu!",
+        "context": "Ngôn ngữ thân mật, giảm căng thẳng"
+    },
+    {
+        "word": "What’s up",
+        "ipa_word": "/wʌts ʌp/",
+        "type": "Greeting",
+        "meaning_word": "Có gì mới không / Dạo này sao rồi",
+        "phrase": "Hey, what’s up?",
+        "ipa_phrase": "/heɪ wʌts ʌp/",
+        "meaning_phrase": "Này, có gì mới không?",
+        "context": "Chào hỏi thân mật giữa bạn bè"
+    },
+    {
+        "word": "Catch you later",
+        "ipa_word": "/kæʧ ju ˈleɪtər/",
+        "type": "Phrase",
+        "meaning_word": "Gặp lại sau nhé",
+        "phrase": "I’ve got to go — catch you later!",
+        "ipa_phrase": "/aɪv ɡɑːt tə ɡoʊ — kæʧ ju ˈleɪtər/",
+        "meaning_phrase": "Tôi phải đi rồi — gặp lại sau nhé!",
+        "context": "Chào tạm biệt thân mật"
+    },
+    {
+        "word": "Hang on",
+        "ipa_word": "/hæŋ ɑːn/",
+        "type": "Phrase",
+        "meaning_word": "Chờ chút nhé / Giữ máy",
+        "phrase": "Hang on, I need to check something.",
+        "ipa_phrase": "/hæŋ ɑːn, aɪ niːd tə ʧɛk ˈsʌmθɪŋ/",
+        "meaning_phrase": "Đợi chút, tôi cần kiểm tra cái này.",
+        "context": "Hội thoại hằng ngày, điện thoại"
+    },
+    {
+        "word": "My bad",
+        "ipa_word": "/maɪ bæd/",
+        "type": "Slang",
+        "meaning_word": "Lỗi của tôi / Tôi xin lỗi",
+        "phrase": "Oops, I took your pen — my bad!",
+        "ipa_phrase": "/ups, aɪ tʊk jʊr pɛn — maɪ bæd/",
+        "meaning_phrase": "Ối, tôi lấy nhầm bút của bạn — lỗi của tôi!",
+        "context": "Xin lỗi thân mật, thường dùng giữa bạn bè"
+    },
+    {
+        "word": "I’m down",
+        "ipa_word": "/aɪm daʊn/",
+        "type": "Expression",
+        "meaning_word": "Tôi đồng ý / Tôi tham gia",
+        "phrase": "Pizza tonight? — I’m down!",
+        "ipa_phrase": "/ˈpiːtsə təˈnaɪt — aɪm daʊn/",
+        "meaning_phrase": "Tối nay ăn pizza nhé? — Tôi tham gia!",
+        "context": "Hội thoại bạn bè, đồng ý hứng khởi"
+    },
+    {
+        "word": "I’m good",
+        "ipa_word": "/aɪm ɡʊd/",
+        "type": "Expression",
+        "meaning_word": "Tôi ổn / Tôi không cần đâu (cách từ chối nhẹ nhàng)",
+        "phrase": "Want more coffee? — Nah, I’m good.",
+        "ipa_phrase": "/wɑnt mɔːr ˈkɔːfi — næ, aɪm ɡʊd/",
+        "meaning_phrase": "Muốn thêm cà phê không? — Thôi, tôi ổn rồi.",
+        "context": "Từ chối nhẹ nhàng, thân mật"
+    },
+    {
+        "word": "For real",
+        "ipa_word": "/fɔːr riːəl/",
+        "type": "Expression",
+        "meaning_word": "Thật hả / Nghiêm túc à",
+        "phrase": "You met Taylor Swift? For real?",
+        "ipa_phrase": "/ju mɛt ˈteɪlər swɪft — fɔːr riːəl/",
+        "meaning_phrase": "Bạn gặp Taylor Swift thật à?",
+        "context": "Ngạc nhiên, bất ngờ, thân mật"
+    },
+    {
+        "word": "No way",
+        "ipa_word": "/noʊ weɪ/",
+        "type": "Expression",
+        "meaning_word": "Không thể nào!",
+        "phrase": "No way! You actually won?",
+        "ipa_phrase": "/noʊ weɪ, ju ˈækʧuəli wʌn/",
+        "meaning_phrase": "Không thể nào! Bạn thật sự thắng à?",
+        "context": "Ngạc nhiên, biểu cảm vui"
+    },
+    {
+        "word": "All good",
+        "ipa_word": "/ɔːl ɡʊd/",
+        "type": "Phrase",
+        "meaning_word": "Ổn cả mà / Không sao đâu",
+        "phrase": "It’s all good, don’t worry about it.",
+        "ipa_phrase": "/ɪts ɔːl ɡʊd, doʊnt ˈwɜːri əˈbaʊt ɪt/",
+        "meaning_phrase": "Ổn cả mà, đừng lo về chuyện đó.",
+        "context": "Hội thoại thân mật, xoa dịu"
+    },
+    {
+        "word": "You nailed it",
+        "ipa_word": "/ju neɪld ɪt/",
+        "type": "Expression",
+        "meaning_word": "Bạn làm quá tốt luôn!",
+        "phrase": "Wow, you nailed that speech!",
+        "ipa_phrase": "/waʊ, ju neɪld ðæt spiːʧ/",
+        "meaning_phrase": "Wow, bạn nói bài diễn văn đó xuất sắc thật!",
+        "context": "Khen ngợi thân mật"
+    },
+    {
+        "word": "It’s up to you",
+        "ipa_word": "/ɪts ʌp tə ju/",
+        "type": "Phrase",
+        "meaning_word": "Tùy bạn thôi",
+        "phrase": "We can stay or go — it’s up to you.",
+        "ipa_phrase": "/wi kæn steɪ ɔːr ɡoʊ — ɪts ʌp tə ju/",
+        "meaning_phrase": "Mình có thể ở lại hoặc đi — tùy bạn thôi.",
+        "context": "Ra quyết định, thân mật"
+    },
+    {
+        "word": "I’m in",
+        "ipa_word": "/aɪm ɪn/",
+        "type": "Expression",
+        "meaning_word": "Tôi tham gia / Tôi đồng ý",
+        "phrase": "We’re going camping this weekend — I’m in!",
+        "ipa_phrase": "/wɪr ˈɡoʊɪŋ ˈkæmpɪŋ ðɪs ˈwiːkˌɛnd — aɪm ɪn/",
+        "meaning_phrase": "Cuối tuần này đi cắm trại nhé — Tôi tham gia!",
+        "context": "Phản hồi tích cực, thân mật"
+    },
+    {
+        "word": "That’s sick",
+        "ipa_word": "/ðæts sɪk/",
+        "type": "Slang",
+        "meaning_word": "Tuyệt quá / Ngầu thật (nghĩa khen)",
+        "phrase": "You got front-row tickets? That’s sick!",
+        "ipa_phrase": "/ju ɡɑːt frʌnt roʊ ˈtɪkɪts — ðæts sɪk/",
+        "meaning_phrase": "Bạn có vé hàng đầu à? Quá đỉnh luôn!",
+        "context": "Khen ngợi, giới trẻ Mỹ"
+    },
+    {
+        "word": "No big deal",
+        "ipa_word": "/noʊ bɪɡ diːl/",
+        "type": "Phrase",
+        "meaning_word": "Không có gì to tát / Không sao đâu",
+        "phrase": "It’s no big deal, really.",
+        "ipa_phrase": "/ɪts noʊ bɪɡ diːl ˈrɪəli/",
+        "meaning_phrase": "Không sao đâu, thật đấy.",
+        "context": "Hội thoại hằng ngày"
+    },
+    {
+        "word": "You got this",
+        "ipa_word": "/ju ɡɑːt ðɪs/",
+        "type": "Expression",
+        "meaning_word": "Bạn làm được mà! (Cổ vũ)",
+        "phrase": "Don’t be nervous, you got this!",
+        "ipa_phrase": "/doʊnt bi ˈnɜːrvəs, ju ɡɑːt ðɪs/",
+        "meaning_phrase": "Đừng lo, bạn làm được mà!",
+        "context": "Động viên, khích lệ"
+    },
+    {
+        "word": "Long story short",
+        "ipa_word": "/lɔːŋ ˈstɔːri ʃɔːrt/",
+        "type": "Phrase",
+        "meaning_word": "Nói ngắn gọn là / Tóm lại là",
+        "phrase": "Long story short, we missed the flight.",
+        "ipa_phrase": "/lɔːŋ ˈstɔːri ʃɔːrt, wi mɪst ðə flaɪt/",
+        "meaning_phrase": "Tóm lại là, bọn tôi lỡ chuyến bay.",
+        "context": "Kể chuyện, tóm tắt"
+    },
+    {
+        "word": "I feel you",
+        "ipa_word": "/aɪ fiːl ju/",
+        "type": "Expression",
+        "meaning_word": "Tôi hiểu cảm giác của bạn / Tôi đồng cảm",
+        "phrase": "You’re tired of work? I feel you.",
+        "ipa_phrase": "/jʊr ˈtaɪərd əv wɜːrk — aɪ fiːl ju/",
+        "meaning_phrase": "Bạn mệt vì công việc à? Tôi hiểu mà.",
+        "context": "Đồng cảm, thân mật"
+    },
+    {
+        "word": "Take it easy",
+        "ipa_word": "/ˈteɪk ɪt ˈiːzi/",
+        "type": "Expression",
+        "meaning_word": "Bình tĩnh / Giữ sức / Tạm biệt thân mật",
+        "phrase": "Take it easy, man! Don’t stress out.",
+        "ipa_phrase": "/ˈteɪk ɪt ˈiːzi, mæn, doʊnt strɛs aʊt/",
+        "meaning_phrase": "Bình tĩnh đi, đừng căng thẳng quá.",
+        "context": "Hội thoại thân mật, chào tạm biệt"
+    },
+    {
+        "word": "Hit the road",
+        "ipa_word": "/hɪt ðə roʊd/",
+        "type": "Idiom",
+        "meaning_word": "Lên đường / Đi thôi",
+        "phrase": "We should hit the road before it gets dark.",
+        "ipa_phrase": "/wi ʃʊd hɪt ðə roʊd bɪˈfɔːr ɪt ɡɛts dɑːrk/",
+        "meaning_phrase": "Chúng ta nên đi thôi trước khi trời tối.",
+        "context": "Du lịch, hội thoại đời thường"
+    },
+    {
+        "word": "No biggie",
+        "ipa_word": "/noʊ ˈbɪɡi/",
+        "type": "Slang",
+        "meaning_word": "Không sao đâu / Chuyện nhỏ ấy mà",
+        "phrase": "— Sorry for the mess. — No biggie!",
+        "ipa_phrase": "/ˈsɑːri fɔːr ðə mɛs — noʊ ˈbɪɡi/",
+        "meaning_phrase": "— Xin lỗi vì hơi bừa. — Không sao đâu!",
+        "context": "Thân mật, giới trẻ Mỹ"
+    },
+    {
+        "word": "What’s up",
+        "ipa_word": "/wʌts ʌp/",
+        "type": "Greeting",
+        "meaning_word": "Có gì mới không? / Chào thân mật",
+        "phrase": "Hey, what’s up? Long time no see!",
+        "ipa_phrase": "/heɪ, wʌts ʌp, lɔːŋ taɪm noʊ siː/",
+        "meaning_phrase": "Này, dạo này sao rồi? Lâu quá không gặp!",
+        "context": "Chào hỏi thân mật"
+    },
+    {
+        "word": "Catch you later",
+        "ipa_word": "/kætʃ juː ˈleɪtər/",
+        "type": "Phrase",
+        "meaning_word": "Gặp lại sau nhé",
+        "phrase": "I gotta go. Catch you later!",
+        "ipa_phrase": "/aɪ ˈɡɑːtə ɡoʊ, kætʃ juː ˈleɪtər/",
+        "meaning_phrase": "Tôi phải đi rồi. Gặp lại sau nhé!",
+        "context": "Tạm biệt thân mật"
+    },
+    {
+        "word": "Hang out",
+        "ipa_word": "/hæŋ aʊt/",
+        "type": "Phrasal verb",
+        "meaning_word": "Đi chơi, tụ tập",
+        "phrase": "Do you want to hang out this weekend?",
+        "ipa_phrase": "/duː juː wɑːnt tə hæŋ aʊt ðɪs ˈwiːkɛnd/",
+        "meaning_phrase": "Cuối tuần này đi chơi không?",
+        "context": "Giao tiếp bạn bè"
+    },
+    {
+        "word": "Take your time",
+        "ipa_word": "/teɪk jɔːr taɪm/",
+        "type": "Phrase",
+        "meaning_word": "Cứ từ từ, không cần vội",
+        "phrase": "No rush, take your time.",
+        "ipa_phrase": "/noʊ rʌʃ, teɪk jɔːr taɪm/",
+        "meaning_phrase": "Không vội đâu, cứ từ từ nhé.",
+        "context": "Thân mật, khích lệ nhẹ"
+    },
+    {
+        "word": "Piece of cake",
+        "ipa_word": "/piːs əv keɪk/",
+        "type": "Idiom",
+        "meaning_word": "Dễ như ăn bánh / Quá dễ",
+        "phrase": "The test was a piece of cake.",
+        "ipa_phrase": "/ðə tɛst wəz ə piːs əv keɪk/",
+        "meaning_phrase": "Bài kiểm tra dễ ợt.",
+        "context": "Hội thoại đời thường"
+    },
+    {
+        "word": "Break a leg",
+        "ipa_word": "/breɪk ə lɛɡ/",
+        "type": "Idiom",
+        "meaning_word": "Chúc may mắn (trước khi biểu diễn)",
+        "phrase": "You’ll do great! Break a leg!",
+        "ipa_phrase": "/juːl duː ɡreɪt, breɪk ə lɛɡ/",
+        "meaning_phrase": "Bạn sẽ làm tốt mà! Chúc may mắn nhé!",
+        "context": "Trước buổi biểu diễn, thi cử"
+    },
+    {
+        "word": "I’m down",
+        "ipa_word": "/aɪm daʊn/",
+        "type": "Expression",
+        "meaning_word": "Tôi đồng ý / Tôi tham gia",
+        "phrase": "You want to go hiking? I’m down!",
+        "ipa_phrase": "/juː wɑːnt tə ɡoʊ ˈhaɪkɪŋ — aɪm daʊn/",
+        "meaning_phrase": "Muốn đi leo núi không? Tôi tham!",
+        "context": "Hội thoại giới trẻ"
+    },
+    {
+        "word": "I’m good",
+        "ipa_word": "/aɪm ɡʊd/",
+        "type": "Expression",
+        "meaning_word": "Tôi ổn rồi / Tôi không cần đâu (lịch sự)",
+        "phrase": "You want more coffee? — I’m good, thanks.",
+        "ipa_phrase": "/juː wɑːnt mɔːr ˈkɔːfi — aɪm ɡʊd, θæŋks/",
+        "meaning_phrase": "Bạn muốn thêm cà phê không? — Tôi đủ rồi, cảm ơn.",
+        "context": "Hội thoại thân mật"
+    },
+    {
+        "word": "No big deal",
+        "ipa_word": "/noʊ bɪɡ diːl/",
+        "type": "Phrase",
+        "meaning_word": "Không có gì to tát",
+        "phrase": "It’s no big deal, don’t worry about it.",
+        "ipa_phrase": "/ɪts noʊ bɪɡ diːl, doʊnt ˈwɜːri əˈbaʊt ɪt/",
+        "meaning_phrase": "Không có gì đâu, đừng lo.",
+        "context": "An ủi, phản hồi nhẹ"
+    },
+    {
+        "word": "Long story short",
+        "ipa_word": "/lɔːŋ ˈstɔːri ʃɔːrt/",
+        "type": "Phrase",
+        "meaning_word": "Nói ngắn gọn thì / Tóm lại là",
+        "phrase": "Long story short, we missed the flight.",
+        "ipa_phrase": "/lɔːŋ ˈstɔːri ʃɔːrt, wi mɪst ðə flaɪt/",
+        "meaning_phrase": "Tóm lại là chúng tôi lỡ chuyến bay.",
+        "context": "Kể chuyện, tóm tắt"
+    },
+    {
+        "word": "You nailed it",
+        "ipa_word": "/juː neɪld ɪt/",
+        "type": "Expression",
+        "meaning_word": "Bạn làm xuất sắc rồi!",
+        "phrase": "That cake looks perfect! You nailed it!",
+        "ipa_phrase": "/ðæt keɪk lʊks ˈpɜːrfɪkt, juː neɪld ɪt/",
+        "meaning_phrase": "Cái bánh đó đẹp quá! Bạn làm giỏi ghê!",
+        "context": "Khen ngợi, đời thường"
+    },
+    {
+        "word": "That’s lit",
+        "ipa_word": "/ðæts lɪt/",
+        "type": "Slang",
+        "meaning_word": "Tuyệt vời / Đỉnh quá!",
+        "phrase": "This party is lit!",
+        "ipa_phrase": "/ðɪs ˈpɑːrti ɪz lɪt/",
+        "meaning_phrase": "Buổi tiệc này đỉnh quá!",
+        "context": "Giới trẻ, mạng xã hội"
+    },
+    {
+        "word": "I feel you",
+        "ipa_word": "/aɪ fiːl juː/",
+        "type": "Expression",
+        "meaning_word": "Tôi hiểu cảm giác của bạn",
+        "phrase": "I feel you, Mondays are the worst.",
+        "ipa_phrase": "/aɪ fiːl juː, ˈmʌndeɪz ɑːr ðə wɜːrst/",
+        "meaning_phrase": "Tôi hiểu, thứ Hai đúng là mệt nhất.",
+        "context": "Đồng cảm, thân mật"
+    },
+    {
+        "word": "You rock",
+        "ipa_word": "/juː rɑːk/",
+        "type": "Expression",
+        "meaning_word": "Bạn tuyệt vời lắm!",
+        "phrase": "Thanks for the help, you rock!",
+        "ipa_phrase": "/θæŋks fɔːr ðə hɛlp, juː rɑːk/",
+        "meaning_phrase": "Cảm ơn vì đã giúp, bạn tuyệt vời quá!",
+        "context": "Khen ngợi thân mật"
+    },
+    {
+        "word": "Hang on",
+        "ipa_word": "/hæŋ ɑːn/",
+        "type": "Phrase",
+        "meaning_word": "Đợi chút / Giữ máy nhé",
+        "phrase": "Hang on, I’ll check for you.",
+        "ipa_phrase": "/hæŋ ɑːn, aɪl tʃɛk fɔːr juː/",
+        "meaning_phrase": "Chờ chút, tôi kiểm tra cho bạn.",
+        "context": "Giao tiếp điện thoại, thân mật"
+    },
+    {
+        "word": "No way",
+        "ipa_word": "/noʊ weɪ/",
+        "type": "Expression",
+        "meaning_word": "Không thể nào! / Thật á!",
+        "phrase": "No way! You actually met Taylor Swift?",
+        "ipa_phrase": "/noʊ weɪ, juː ˈækʧuəli mɛt ˈteɪlər swɪft/",
+        "meaning_phrase": "Không thể nào! Bạn thực sự gặp Taylor Swift à?",
+        "context": "Biểu cảm ngạc nhiên"
+    },
+    {
+        "word": "You got this",
+        "ipa_word": "/juː ɡɑːt ðɪs/",
+        "type": "Expression",
+        "meaning_word": "Bạn làm được mà!",
+        "phrase": "Go for it, you got this!",
+        "ipa_phrase": "/ɡoʊ fɔːr ɪt, juː ɡɑːt ðɪs/",
+        "meaning_phrase": "Tiến lên đi, bạn làm được mà!",
+        "context": "Khích lệ, động viên"
+    },
+    {
+        "word": "Spill the tea",
+        "ipa_word": "/spɪl ðə tiː/",
+        "type": "Slang",
+        "meaning_word": "Kể bí mật / bật mí chuyện hot",
+        "phrase": "Come on, spill the tea! What happened?",
+        "ipa_phrase": "/kʌm ɑːn, spɪl ðə tiː, wʌt ˈhæpənd/",
+        "meaning_phrase": "Kể đi, có chuyện gì xảy ra thế?",
+        "context": "Giới trẻ, mạng xã hội"
+    },
+    {
+        "word": "Cut to the chase",
+        "ipa_word": "/kʌt tuː ðə ʧeɪs/",
+        "type": "Idiom",
+        "meaning_word": "Đi thẳng vào vấn đề",
+        "phrase": "Let’s cut to the chase and discuss the main point.",
+        "ipa_phrase": "/lɛts kʌt tuː ðə ʧeɪs ənd dɪˈskʌs ðə meɪn pɔɪnt/",
+        "meaning_phrase": "Vào thẳng vấn đề chính luôn nhé.",
+        "context": "Công việc, hội thoại thân mật"
+    },
+    {
+        "word": "Hit me up",
+        "ipa_word": "/hɪt mi ʌp/",
+        "type": "Slang",
+        "meaning_word": "Liên lạc với tôi / nhắn tôi nhé",
+        "phrase": "Hit me up when you’re free.",
+        "ipa_phrase": "/hɪt mi ʌp wɛn jʊr friː/",
+        "meaning_phrase": "Rảnh thì nhắn tôi nhé.",
+        "context": "Thân mật, giới trẻ"
+    },
+    {
+        "word": "It’s on me",
+        "ipa_word": "/ɪts ɑːn miː/",
+        "type": "Phrase",
+        "meaning_word": "Tôi bao / Tôi trả tiền",
+        "phrase": "Dinner’s on me tonight.",
+        "ipa_phrase": "/ˈdɪnərz ɑːn mi təˈnaɪt/",
+        "meaning_phrase": "Bữa tối nay tôi bao nhé.",
+        "context": "Bạn bè, nhà hàng"
+    },
+    {
+        "word": "You name it",
+        "ipa_word": "/juː neɪm ɪt/",
+        "type": "Expression",
+        "meaning_word": "Cái gì cũng có / bạn kể đi",
+        "phrase": "They sell everything — clothes, phones, snacks, you name it.",
+        "ipa_phrase": "/ðeɪ sɛl ˈɛvriθɪŋ, kloʊðz, foʊnz, snæks, juː neɪm ɪt/",
+        "meaning_phrase": "Họ bán đủ thứ — quần áo, điện thoại, đồ ăn vặt, cái gì cũng có.",
+        "context": "Hội thoại đời thường"
+    },
+    {
+        "word": "In no time",
+        "ipa_word": "/ɪn noʊ taɪm/",
+        "type": "Phrase",
+        "meaning_word": "Rất nhanh / ngay lập tức",
+        "phrase": "He finished the job in no time.",
+        "ipa_phrase": "/hiː ˈfɪnɪʃt ðə dʒɑːb ɪn noʊ taɪm/",
+        "meaning_phrase": "Anh ấy hoàn thành công việc rất nhanh.",
+        "context": "Kể chuyện, khen ngợi"
+    },
+    {
+        "word": "Call it a day",
+        "ipa_word": "/kɔːl ɪt ə deɪ/",
+        "type": "Idiom",
+        "meaning_word": "Ngừng làm / kết thúc công việc hôm nay",
+        "phrase": "It’s getting late, let’s call it a day.",
+        "ipa_phrase": "/ɪts ˈɡɛtɪŋ leɪt, lɛts kɔːl ɪt ə deɪ/",
+        "meaning_phrase": "Trễ rồi, nghỉ hôm nay thôi.",
+        "context": "Công việc, đời sống"
+    },
+    {
+        "word": "Go for it",
+        "ipa_word": "/ɡoʊ fɔːr ɪt/",
+        "type": "Expression",
+        "meaning_word": "Cứ làm đi / cứ thử đi",
+        "phrase": "You want to apply for that job? Go for it!",
+        "ipa_phrase": "/juː wɑːnt tuː əˈplaɪ fɔːr ðæt ʤɑːb, ɡoʊ fɔːr ɪt/",
+        "meaning_phrase": "Bạn muốn nộp đơn công việc đó à? Cứ thử đi!",
+        "context": "Khích lệ, động viên"
+    },
+    {
+        "word": "On the same page",
+        "ipa_word": "/ɑːn ðə seɪm peɪdʒ/",
+        "type": "Idiom",
+        "meaning_word": "Cùng hiểu, cùng quan điểm",
+        "phrase": "Before we start, let’s make sure we’re on the same page.",
+        "ipa_phrase": "/bɪˈfɔːr wi stɑːrt, lɛts meɪk ʃʊr wɪr ɑːn ðə seɪm peɪdʒ/",
+        "meaning_phrase": "Trước khi bắt đầu, hãy đảm bảo rằng chúng ta hiểu nhau nhé.",
+        "context": "Công việc, nhóm làm việc"
+    },
+    {
+        "word": "That makes sense",
+        "ipa_word": "/ðæt meɪks sɛns/",
+        "type": "Phrase",
+        "meaning_word": "Hợp lý đó / tôi hiểu rồi",
+        "phrase": "Oh, that makes sense now.",
+        "ipa_phrase": "/oʊ, ðæt meɪks sɛns naʊ/",
+        "meaning_phrase": "À, giờ thì tôi hiểu rồi.",
+        "context": "Phản ứng tự nhiên, học tập"
+    },
+    {
+        "word": "Fingers crossed",
+        "ipa_word": "/ˈfɪŋɡərz krɔːst/",
+        "type": "Idiom",
+        "meaning_word": "Cầu may / mong mọi chuyện suôn sẻ",
+        "phrase": "Fingers crossed for your interview tomorrow!",
+        "ipa_phrase": "/ˈfɪŋɡərz krɔːst fɔːr jɔːr ˈɪntərvjuː təˈmɑːroʊ/",
+        "meaning_phrase": "Chúc bạn may mắn với buổi phỏng vấn ngày mai!",
+        "context": "Khích lệ, chúc may mắn"
+    },
+    {
+        "word": "Better late than never",
+        "ipa_word": "/ˈbɛtər leɪt ðæn ˈnɛvər/",
+        "type": "Proverb",
+        "meaning_word": "Muộn còn hơn không",
+        "phrase": "He finally apologized — better late than never.",
+        "ipa_phrase": "/hi ˈfaɪnəli əˈpɑːləʤaɪzd — ˈbɛtər leɪt ðæn ˈnɛvər/",
+        "meaning_phrase": "Cuối cùng anh ta cũng xin lỗi — muộn còn hơn không.",
+        "context": "Thành ngữ phổ biến"
+    },
+    {
+        "word": "Let’s roll",
+        "ipa_word": "/lɛts roʊl/",
+        "type": "Phrase",
+        "meaning_word": "Đi thôi / bắt đầu nào",
+        "phrase": "Everyone’s ready? Let’s roll!",
+        "ipa_phrase": "/ˈɛvriwʌnz ˈrɛdi, lɛts roʊl/",
+        "meaning_phrase": "Mọi người sẵn sàng chưa? Đi thôi!",
+        "context": "Bắt đầu hành động, nhóm bạn"
+    },
+    {
+        "word": "I’m starving",
+        "ipa_word": "/aɪm ˈstɑːrvɪŋ/",
+        "type": "Expression",
+        "meaning_word": "Đói lắm rồi",
+        "phrase": "Let’s eat, I’m starving!",
+        "ipa_phrase": "/lɛts iːt, aɪm ˈstɑːrvɪŋ/",
+        "meaning_phrase": "Đi ăn thôi, tôi đói lắm rồi!",
+        "context": "Đời thường, thân mật"
+    },
+    {
+        "word": "That’s messed up",
+        "ipa_word": "/ðæts mɛst ʌp/",
+        "type": "Slang",
+        "meaning_word": "Tệ thật / sai trái quá",
+        "phrase": "They fired him for no reason? That’s messed up.",
+        "ipa_phrase": "/ðeɪ ˈfaɪərd hɪm fɔːr noʊ ˈriːzən — ðæts mɛst ʌp/",
+        "meaning_phrase": "Họ đuổi anh ta mà không lý do à? Tệ thật.",
+        "context": "Phản ứng cảm xúc, thân mật"
+    },
+    {
+        "word": "Take a rain check",
+        "ipa_word": "/teɪk ə reɪn ʧɛk/",
+        "type": "Idiom",
+        "meaning_word": "Hoãn hẹn / để dịp khác nhé",
+        "phrase": "Mind if I take a rain check on dinner?",
+        "ipa_phrase": "/maɪnd ɪf aɪ teɪk ə reɪn ʧɛk ɑːn ˈdɪnər/",
+        "meaning_phrase": "Không phiền nếu tôi để bữa tối sang dịp khác chứ?",
+        "context": "Lịch sự, đời thường"
+    },
+    {
+        "word": "Out of the blue",
+        "ipa_word": "/aʊt əv ðə bluː/",
+        "type": "Idiom",
+        "meaning_word": "Bất ngờ / không báo trước",
+        "phrase": "He called me out of the blue last night.",
+        "ipa_phrase": "/hi kɔːld mi aʊt əv ðə bluː læst naɪt/",
+        "meaning_phrase": "Anh ta gọi cho tôi tối qua — bất ngờ luôn.",
+        "context": "Kể chuyện, giao tiếp tự nhiên"
+    },
+    {
+        "word": "You made my day",
+        "ipa_word": "/juː meɪd maɪ deɪ/",
+        "type": "Expression",
+        "meaning_word": "Bạn làm tôi vui cả ngày!",
+        "phrase": "Thanks for the gift — you made my day!",
+        "ipa_phrase": "/θæŋks fɔːr ðə ɡɪft — juː meɪd maɪ deɪ/",
+        "meaning_phrase": "Cảm ơn vì món quà — bạn làm tôi vui cả ngày!",
+        "context": "Bày tỏ cảm xúc tích cực"
+    },
+    {
+        "word": "That’s the spirit",
+        "ipa_word": "/ðæts ðə ˈspɪrɪt/",
+        "type": "Expression",
+        "meaning_word": "Tinh thần tốt đó / hay lắm!",
+        "phrase": "You’re trying again? That’s the spirit!",
+        "ipa_phrase": "/jʊr ˈtraɪɪŋ əˈɡɛn — ðæts ðə ˈspɪrɪt/",
+        "meaning_phrase": "Bạn đang cố lại à? Tinh thần tốt đấy!",
+        "context": "Động viên, khích lệ"
+    },
+    {
+        "word": "I’m in",
+        "ipa_word": "/aɪm ɪn/",
+        "type": "Expression",
+        "meaning_word": "Tôi tham gia / tôi đồng ý",
+        "phrase": "We’re going to the beach tomorrow. — I’m in!",
+        "ipa_phrase": "/wɪr ˈɡoʊɪŋ tuː ðə biːʧ təˈmɑːroʊ — aɪm ɪn/",
+        "meaning_phrase": "Mai tụi mình đi biển nhé. — Tôi tham!",
+        "context": "Hội thoại thân mật"
+    },
+    {
+        "word": "Piece of cake",
+        "ipa_word": "/pis əv keɪk/",
+        "type": "Idiom",
+        "meaning_word": "Dễ như ăn bánh (rất dễ làm)",
+        "phrase": "The exam was a piece of cake.",
+        "ipa_phrase": "/ði ɪɡˈzæm wəz ə pis əv keɪk/",
+        "meaning_phrase": "Bài kiểm tra đó dễ như ăn bánh.",
+        "context": "Hội thoại hằng ngày, khích lệ"
+    },
+    {
+        "word": "Hit the road",
+        "ipa_word": "/hɪt ðə roʊd/",
+        "type": "Idiom",
+        "meaning_word": "Lên đường, bắt đầu đi",
+        "phrase": "We should hit the road before it gets dark.",
+        "ipa_phrase": "/wi ʃʊd hɪt ðə roʊd bɪˈfɔr ɪt ɡɛts dɑrk/",
+        "meaning_phrase": "Ta nên lên đường trước khi trời tối.",
+        "context": "Du lịch, lái xe, hội thoại thân mật"
+    },
+    {
+        "word": "What’s up",
+        "ipa_word": "/wʌts ʌp/",
+        "type": "Greeting",
+        "meaning_word": "Có gì mới không? / Dạo này sao rồi?",
+        "phrase": "Hey, what’s up, man?",
+        "ipa_phrase": "/heɪ wʌts ʌp mæn/",
+        "meaning_phrase": "Này, dạo này sao rồi?",
+        "context": "Chào hỏi thân mật, giới trẻ"
+    },
+    {
+        "word": "No biggie",
+        "ipa_word": "/noʊ ˈbɪɡi/",
+        "type": "Slang",
+        "meaning_word": "Không sao đâu / Chuyện nhỏ thôi",
+        "phrase": "Sorry I broke your mug. — No biggie!",
+        "ipa_phrase": "/ˈsɑːri aɪ broʊk jʊr mʌɡ — noʊ ˈbɪɡi/",
+        "meaning_phrase": "Xin lỗi tôi làm vỡ cốc bạn. — Không sao đâu!",
+        "context": "Phản ứng thân mật, trấn an"
+    },
+    {
+        "word": "Catch you later",
+        "ipa_word": "/kæʧ juː ˈleɪtər/",
+        "type": "Expression",
+        "meaning_word": "Gặp lại sau nhé",
+        "phrase": "I gotta go now, catch you later!",
+        "ipa_phrase": "/aɪ ˈɡɑtə ɡoʊ naʊ, kæʧ juː ˈleɪtər/",
+        "meaning_phrase": "Tôi đi đây, gặp lại sau nhé!",
+        "context": "Tạm biệt thân mật"
+    },
+    {
+        "word": "Take it easy",
+        "ipa_word": "/teɪk ɪt ˈiːzi/",
+        "type": "Expression",
+        "meaning_word": "Bình tĩnh / Giữ sức / Tạm biệt (thân mật)",
+        "phrase": "Take it easy, don’t stress out.",
+        "ipa_phrase": "/teɪk ɪt ˈiːzi, doʊnt strɛs aʊt/",
+        "meaning_phrase": "Bình tĩnh nào, đừng căng thẳng quá.",
+        "context": "Khuyên nhủ, tạm biệt"
+    },
+    {
+        "word": "My bad",
+        "ipa_word": "/maɪ bæd/",
+        "type": "Slang",
+        "meaning_word": "Lỗi của tôi / Tôi xin lỗi",
+        "phrase": "Oops, my bad! I thought it was tomorrow.",
+        "ipa_phrase": "/ups, maɪ bæd, aɪ θɔt ɪt wəz təˈmɑroʊ/",
+        "meaning_phrase": "Ối, lỗi tôi! Tôi tưởng là ngày mai.",
+        "context": "Xin lỗi thân mật, giao tiếp đời thường"
+    },
+    {
+        "word": "I’m down",
+        "ipa_word": "/aɪm daʊn/",
+        "type": "Expression",
+        "meaning_word": "Tôi đồng ý / Tôi tham gia",
+        "phrase": "Movie night tonight? — I’m down!",
+        "ipa_phrase": "/ˈmuːvi naɪt təˈnaɪt — aɪm daʊn/",
+        "meaning_phrase": "Tối nay xem phim nhé? — Tôi tham gia!",
+        "context": "Đồng ý, hội thoại bạn bè"
+    },
+    {
+        "word": "Hang out",
+        "ipa_word": "/hæŋ aʊt/",
+        "type": "Phrasal verb",
+        "meaning_word": "Đi chơi, tụ tập",
+        "phrase": "We usually hang out at the mall.",
+        "ipa_phrase": "/wi ˈjuːʒuəli hæŋ aʊt æt ðə mɔl/",
+        "meaning_phrase": "Bọn mình thường đi chơi ở trung tâm thương mại.",
+        "context": "Bạn bè, đời sống giới trẻ"
+    },
+    {
+        "word": "No way",
+        "ipa_word": "/noʊ weɪ/",
+        "type": "Expression",
+        "meaning_word": "Không thể nào / Thật á!",
+        "phrase": "You met Taylor Swift? — No way!",
+        "ipa_phrase": "/juː mɛt ˈteɪlər swɪft — noʊ weɪ/",
+        "meaning_phrase": "Bạn gặp Taylor Swift á? — Không thể nào!",
+        "context": "Ngạc nhiên, biểu cảm"
+    },
+    {
+        "word": "For real",
+        "ipa_word": "/fɔːr riːəl/",
+        "type": "Slang",
+        "meaning_word": "Thật luôn á / Nghiêm túc đó",
+        "phrase": "Are you for real right now?",
+        "ipa_phrase": "/ɑr juː fɔːr riːəl raɪt naʊ/",
+        "meaning_phrase": "Bạn nói thật đó hả?",
+        "context": "Ngạc nhiên, xác nhận thông tin"
+    },
+    {
+        "word": "I feel you",
+        "ipa_word": "/aɪ fiːl juː/",
+        "type": "Expression",
+        "meaning_word": "Tôi hiểu cảm giác của bạn",
+        "phrase": "Yeah, I feel you. Mondays are rough.",
+        "ipa_phrase": "/jɛ, aɪ fiːl juː, ˈmʌndeɪz ɑːr rʌf/",
+        "meaning_phrase": "Ừ, tôi hiểu mà. Thứ Hai luôn mệt mỏi.",
+        "context": "Đồng cảm, thân mật"
+    },
+    {
+        "word": "It’s on me",
+        "ipa_word": "/ɪts ɑːn miː/",
+        "type": "Phrase",
+        "meaning_word": "Tôi bao / Tôi trả tiền",
+        "phrase": "Dinner’s on me tonight!",
+        "ipa_phrase": "/ˈdɪnərz ɑːn miː təˈnaɪt/",
+        "meaning_phrase": "Tối nay tôi bao nhé!",
+        "context": "Bạn bè, nhà hàng, thân mật"
+    },
+    {
+        "word": "Come on",
+        "ipa_word": "/kʌm ɑːn/",
+        "type": "Expression",
+        "meaning_word": "Thôi nào / Cố lên / Không thể nào!",
+        "phrase": "Come on, you can do better than that!",
+        "ipa_phrase": "/kʌm ɑːn, juː kæn duː ˈbɛtər ðæn ðæt/",
+        "meaning_phrase": "Thôi nào, bạn có thể làm tốt hơn thế mà!",
+        "context": "Khích lệ, than thở, cảm xúc"
+    },
+    {
+        "word": "You know what I mean",
+        "ipa_word": "/juː noʊ wʌt aɪ miːn/",
+        "type": "Expression",
+        "meaning_word": "Biết ý tôi nói gì không / Hiểu chứ?",
+        "phrase": "It was kinda awkward, you know what I mean?",
+        "ipa_phrase": "/ɪt wəz ˈkaɪndə ˈɔːkwərd, juː noʊ wʌt aɪ miːn/",
+        "meaning_phrase": "Cũng hơi kỳ kỳ, hiểu ý tôi không?",
+        "context": "Hội thoại thân mật"
+    },
+    {
+        "word": "Right on",
+        "ipa_word": "/raɪt ɑːn/",
+        "type": "Expression",
+        "meaning_word": "Chuẩn luôn! / Đồng ý mạnh mẽ",
+        "phrase": "You said it! Right on!",
+        "ipa_phrase": "/juː sɛd ɪt, raɪt ɑːn/",
+        "meaning_phrase": "Chuẩn luôn, đúng ý tôi!",
+        "context": "Thán từ, khích lệ"
+    },
+    {
+        "word": "You nailed it",
+        "ipa_word": "/juː neɪld ɪt/",
+        "type": "Expression",
+        "meaning_word": "Bạn làm rất tốt!",
+        "phrase": "That cake looks amazing. You nailed it!",
+        "ipa_phrase": "/ðæt keɪk lʊks əˈmeɪzɪŋ, juː neɪld ɪt/",
+        "meaning_phrase": "Bánh đó trông tuyệt quá. Bạn làm xuất sắc thật!",
+        "context": "Khen ngợi, thân mật"
+    },
+    {
+        "word": "You got this",
+        "ipa_word": "/juː ɡɑt ðɪs/",
+        "type": "Expression",
+        "meaning_word": "Bạn làm được mà!",
+        "phrase": "Don’t give up, you got this!",
+        "ipa_phrase": "/doʊnt ɡɪv ʌp, juː ɡɑt ðɪs/",
+        "meaning_phrase": "Đừng bỏ cuộc, bạn làm được mà!",
+        "context": "Khích lệ, động viên"
+    },
+    {
+        "word": "Bummer",
+        "ipa_word": "/ˈbʌmər/",
+        "type": "Slang",
+        "meaning_word": "Thật tiếc / Chán thật",
+        "phrase": "We missed the bus? That’s a bummer.",
+        "ipa_phrase": "/wi mɪst ðə bʌs, ðæts ə ˈbʌmər/",
+        "meaning_phrase": "Ta lỡ xe buýt à? Chán thật.",
+        "context": "Thất vọng nhẹ, thân mật"
+    },
+    {
+        "word": "That’s lit",
+        "ipa_word": "/ðæts lɪt/",
+        "type": "Slang",
+        "meaning_word": "Tuyệt vời! / Đỉnh thật!",
+        "phrase": "This party is lit!",
+        "ipa_phrase": "/ðɪs ˈpɑːrti ɪz lɪt/",
+        "meaning_phrase": "Buổi tiệc này đỉnh quá!",
+        "context": "Giới trẻ, mạng xã hội"
+    },
+    {
+        "word": "Break a leg",
+        "ipa_word": "/breɪk ə lɛɡ/",
+        "type": "Idiom",
+        "meaning_word": "Chúc may mắn (đặc biệt trước khi biểu diễn)",
+        "phrase": "You have a big show tonight — break a leg!",
+        "ipa_phrase": "/juː hæv ə bɪɡ ʃoʊ təˈnaɪt — breɪk ə lɛɡ/",
+        "meaning_phrase": "Tối nay bạn diễn lớn đó — chúc may mắn nhé!",
+        "context": "Khích lệ, biểu diễn, sân khấu"
+    },
+    {
+        "word": "It’s up to you",
+        "ipa_word": "/ɪts ʌp tə juː/",
+        "type": "Expression",
+        "meaning_word": "Tùy bạn thôi",
+        "phrase": "We can stay or leave, it’s up to you.",
+        "ipa_phrase": "/wi kæn steɪ ɔr liːv, ɪts ʌp tə juː/",
+        "meaning_phrase": "Ta có thể ở lại hoặc đi, tùy bạn thôi.",
+        "context": "Ra quyết định, thân mật"
+    },
+    {
+        "word": "Sleep on it",
+        "ipa_word": "/sliːp ɑːn ɪt/",
+        "type": "Idiom",
+        "meaning_word": "Suy nghĩ thêm trước khi quyết định",
+        "phrase": "I’ll sleep on it and tell you tomorrow.",
+        "ipa_phrase": "/aɪl sliːp ɑːn ɪt ənd tɛl ju təˈmɑːroʊ/",
+        "meaning_phrase": "Tôi sẽ suy nghĩ thêm và nói bạn biết ngày mai.",
+        "context": "Ra quyết định, lời khuyên"
+    },
+    {
+        "word": "Out of the blue",
+        "ipa_word": "/aʊt əv ðə bluː/",
+        "type": "Idiom",
+        "meaning_word": "Bất ngờ, không báo trước",
+        "phrase": "He called me out of the blue yesterday.",
+        "ipa_phrase": "/hi kɔːld mi aʊt əv ðə bluː ˈjɛstərdeɪ/",
+        "meaning_phrase": "Hôm qua anh ấy gọi cho tôi bất ngờ luôn.",
+        "context": "Kể chuyện, ngạc nhiên"
+    },
+    {
+        "word": "In no time",
+        "ipa_word": "/ɪn noʊ taɪm/",
+        "type": "Phrase",
+        "meaning_word": "Rất nhanh, chẳng bao lâu",
+        "phrase": "She finished the work in no time.",
+        "ipa_phrase": "/ʃi ˈfɪnɪʃt ðə wɜrk ɪn noʊ taɪm/",
+        "meaning_phrase": "Cô ấy hoàn thành công việc rất nhanh.",
+        "context": "Khen ngợi, mô tả tốc độ"
+    },
+    {
+        "word": "Under the weather",
+        "ipa_word": "/ˈʌndər ðə ˈwɛðər/",
+        "type": "Idiom",
+        "meaning_word": "Cảm thấy không khỏe",
+        "phrase": "I’m feeling a bit under the weather today.",
+        "ipa_phrase": "/aɪm ˈfiːlɪŋ ə bɪt ˈʌndər ðə ˈwɛðər təˈdeɪ/",
+        "meaning_phrase": "Hôm nay tôi thấy hơi mệt.",
+        "context": "Sức khỏe, hội thoại đời thường"
+    },
+    {
+        "word": "Cut it out",
+        "ipa_word": "/kʌt ɪt aʊt/",
+        "type": "Phrase",
+        "meaning_word": "Thôi đi / Dừng lại ngay",
+        "phrase": "Cut it out! That’s really annoying.",
+        "ipa_phrase": "/kʌt ɪt aʊt, ðæts ˈrɪəli əˈnɔɪɪŋ/",
+        "meaning_phrase": "Thôi ngay đi! Thật là khó chịu đấy.",
+        "context": "Cảnh báo, thân mật"
+    },
+    {
+        "word": "That figures",
+        "ipa_word": "/ðæt ˈfɪɡjərz/",
+        "type": "Expression",
+        "meaning_word": "Cũng đúng thôi / Chẳng ngạc nhiên gì",
+        "phrase": "He’s late again? That figures.",
+        "ipa_phrase": "/hiːz leɪt əˈɡɛn, ðæt ˈfɪɡjərz/",
+        "meaning_phrase": "Anh ta lại trễ à? Cũng chẳng ngạc nhiên gì.",
+        "context": "Nhận xét, hơi mỉa mai"
+    },
+    {
+        "word": "I’m beat",
+        "ipa_word": "/aɪm biːt/",
+        "type": "Slang",
+        "meaning_word": "Tôi mệt rã rời",
+        "phrase": "I’ve been working all day. I’m beat.",
+        "ipa_phrase": "/aɪv bɪn ˈwɜrkɪŋ ɔːl deɪ, aɪm biːt/",
+        "meaning_phrase": "Tôi làm cả ngày rồi. Mệt rã rời luôn.",
+        "context": "Than mệt, thân mật"
+    },
+    {
+        "word": "You’re telling me",
+        "ipa_word": "/jʊr ˈtɛlɪŋ miː/",
+        "type": "Expression",
+        "meaning_word": "Tôi biết chứ / Đúng là thế luôn",
+        "phrase": "It’s been so hot lately. — You’re telling me!",
+        "ipa_phrase": "/ɪts bɪn soʊ hɑt ˈleɪtli — jʊr ˈtɛlɪŋ miː/",
+        "meaning_phrase": "Dạo này nóng thật. — Tôi biết chứ!",
+        "context": "Đồng tình, cảm xúc mạnh"
+    },
+    {
+        "word": "Take your time",
+        "ipa_word": "/teɪk jʊr taɪm/",
+        "type": "Phrase",
+        "meaning_word": "Cứ từ từ, không cần vội",
+        "phrase": "No rush, take your time.",
+        "ipa_phrase": "/noʊ rʌʃ, teɪk jʊr taɪm/",
+        "meaning_phrase": "Không cần gấp đâu, cứ từ từ nhé.",
+        "context": "Lịch sự, khích lệ"
+    },
+    {
+        "word": "Long story short",
+        "ipa_word": "/lɔŋ ˈstɔːri ʃɔrt/",
+        "type": "Phrase",
+        "meaning_word": "Nói ngắn gọn là...",
+        "phrase": "Long story short, we missed the train.",
+        "ipa_phrase": "/lɔŋ ˈstɔːri ʃɔrt, wi mɪst ðə treɪn/",
+        "meaning_phrase": "Nói ngắn gọn thì bọn tôi lỡ chuyến tàu.",
+        "context": "Kể chuyện, tóm tắt"
+    },
+    {
+        "word": "You betcha",
+        "ipa_word": "/juː ˈbɛtʃə/",
+        "type": "Slang",
+        "meaning_word": "Chắc chắn rồi! (thân mật)",
+        "phrase": "— Thanks for the help! — You betcha!",
+        "ipa_phrase": "/θæŋks fɔr ðə hɛlp — juː ˈbɛtʃə/",
+        "meaning_phrase": "— Cảm ơn vì đã giúp! — Chắc chắn rồi!",
+        "context": "Phản hồi thân mật"
+    },
+    {
+        "word": "I’m starving",
+        "ipa_word": "/aɪm ˈstɑːrvɪŋ/",
+        "type": "Expression",
+        "meaning_word": "Tôi đói lắm rồi!",
+        "phrase": "Let’s get some food, I’m starving!",
+        "ipa_phrase": "/lɛts ɡɛt sʌm fuːd, aɪm ˈstɑːrvɪŋ/",
+        "meaning_phrase": "Đi ăn gì đi, tôi đói lắm rồi!",
+        "context": "Than đói, thân mật"
+    },
+    {
+        "word": "You rock",
+        "ipa_word": "/juː rɑːk/",
+        "type": "Expression",
+        "meaning_word": "Bạn thật tuyệt!",
+        "phrase": "You helped me so much. You rock!",
+        "ipa_phrase": "/juː hɛlpt mi soʊ mʌtʃ, juː rɑːk/",
+        "meaning_phrase": "Bạn giúp tôi nhiều lắm. Bạn tuyệt vời!",
+        "context": "Khen ngợi, thân mật"
+    },
+    {
+        "word": "Fingers crossed",
+        "ipa_word": "/ˈfɪŋɡərz krɔːst/",
+        "type": "Idiom",
+        "meaning_word": "Cầu may mắn / Hy vọng điều tốt",
+        "phrase": "Fingers crossed for your interview tomorrow!",
+        "ipa_phrase": "/ˈfɪŋɡərz krɔːst fɔr jʊr ˈɪntərvju təˈmɑːroʊ/",
+        "meaning_phrase": "Chúc may mắn cho buổi phỏng vấn ngày mai nhé!",
+        "context": "Khích lệ, chúc may"
+    },
+    {
+        "word": "You wish",
+        "ipa_word": "/juː wɪʃ/",
+        "type": "Expression",
+        "meaning_word": "Mơ đi / Đừng có mơ!",
+        "phrase": "You think you can beat me? You wish!",
+        "ipa_phrase": "/juː θɪŋk juː kæn biːt mi, juː wɪʃ/",
+        "meaning_phrase": "Nghĩ rằng thắng được tôi á? Mơ đi!",
+        "context": "Đùa vui, trêu chọc"
+    },
+    {
+        "word": "No offense",
+        "ipa_word": "/noʊ əˈfɛns/",
+        "type": "Phrase",
+        "meaning_word": "Không có ý xúc phạm đâu",
+        "phrase": "No offense, but that shirt looks weird.",
+        "ipa_phrase": "/noʊ əˈfɛns, bʌt ðæt ʃɜːrt lʊks wɪrd/",
+        "meaning_phrase": "Không có ý xúc phạm đâu, nhưng cái áo đó trông kỳ quá.",
+        "context": "Nói ý kiến, giữ lịch sự"
+    },
+    {
+        "word": "That’s the spirit",
+        "ipa_word": "/ðæts ðə ˈspɪrɪt/",
+        "type": "Expression",
+        "meaning_word": "Đúng tinh thần đó! / Tốt lắm!",
+        "phrase": "You’re not giving up? That’s the spirit!",
+        "ipa_phrase": "/jʊr nɑt ˈɡɪvɪŋ ʌp, ðæts ðə ˈspɪrɪt/",
+        "meaning_phrase": "Bạn không bỏ cuộc à? Tinh thần tốt đấy!",
+        "context": "Khích lệ, động viên"
+    },
+    {
+        "word": "Way to go",
+        "ipa_word": "/weɪ tə ɡoʊ/",
+        "type": "Expression",
+        "meaning_word": "Tốt lắm! / Làm tốt đấy!",
+        "phrase": "You passed the test? Way to go!",
+        "ipa_phrase": "/juː pæst ðə tɛst — weɪ tə ɡoʊ/",
+        "meaning_phrase": "Bạn qua bài kiểm tra à? Tốt lắm!",
+        "context": "Khen ngợi, động viên"
+    },
+    {
+        "word": "That figures",
+        "ipa_word": "/ðæt ˈfɪɡjərz/",
+        "type": "Expression",
+        "meaning_word": "Không ngạc nhiên / Hóa ra là vậy (dùng khi điều gì đó đúng như dự đoán).",
+        "phrase": "He forgot again? That figures.",
+        "ipa_phrase": "/hi fəˈɡɑːt əˈɡɛn ðæt ˈfɪɡjərz/",
+        "meaning_phrase": "Anh ta lại quên à? Chẳng ngạc nhiên gì.",
+        "context": "Hội thoại đời thường"
+    },
+    {
+        "word": "You made my day",
+        "ipa_word": "/ju meɪd maɪ deɪ/",
+        "type": "Expression",
+        "meaning_word": "Bạn làm tôi vui cả ngày (rất cảm ơn).",
+        "phrase": "Thanks for the gift! You made my day.",
+        "ipa_phrase": "/θæŋks fər ðə ɡɪft ju meɪd maɪ deɪ/",
+        "meaning_phrase": "Cảm ơn món quà nhé! Bạn làm tôi vui cả ngày.",
+        "context": "Biểu cảm tích cực"
+    },
+    {
+        "word": "Come on",
+        "ipa_word": "/kʌm ɑːn/",
+        "type": "Phrase",
+        "meaning_word": "Thôi mà / Thật á / Nào nào (tùy ngữ cảnh).",
+        "phrase": "Come on, it’s not that bad!",
+        "ipa_phrase": "/kʌm ɑːn ɪts nɑt ðæt bæd/",
+        "meaning_phrase": "Thôi mà, đâu có tệ đến vậy!",
+        "context": "Thân mật, cảm xúc"
+    },
+    {
+        "word": "You wish",
+        "ipa_word": "/ju wɪʃ/",
+        "type": "Expression",
+        "meaning_word": "Còn lâu nhé / Mơ đi (nói vui).",
+        "phrase": "You think you can beat me? You wish!",
+        "ipa_phrase": "/ju θɪŋk ju kən biːt mi ju wɪʃ/",
+        "meaning_phrase": "Nghĩ thắng được tôi à? Còn lâu!",
+        "context": "Đùa cợt, trêu chọc"
+    },
+    {
+        "word": "Deal with it",
+        "ipa_word": "/diːl wɪð ɪt/",
+        "type": "Phrase",
+        "meaning_word": "Chấp nhận đi / Tự xử lý đi.",
+        "phrase": "You lost the bet. Deal with it.",
+        "ipa_phrase": "/ju lɔst ðə bɛt diːl wɪð ɪt/",
+        "meaning_phrase": "Cậu thua rồi, chấp nhận đi.",
+        "context": "Ngắn gọn, dứt khoát"
+    },
+    {
+        "word": "You got this",
+        "ipa_word": "/ju ɡɑt ðɪs/",
+        "type": "Encouragement",
+        "meaning_word": "Cậu làm được mà! (cổ vũ).",
+        "phrase": "Don’t be nervous, you got this!",
+        "ipa_phrase": "/doʊnt bi ˈnɜːrvəs ju ɡɑt ðɪs/",
+        "meaning_phrase": "Đừng lo, cậu làm được mà!",
+        "context": "Động viên, khích lệ"
+    },
+    {
+        "word": "Big deal",
+        "ipa_word": "/bɪɡ diːl/",
+        "type": "Expression",
+        "meaning_word": "Quan trọng gì đâu / Có gì to tát.",
+        "phrase": "So you’re famous now, big deal.",
+        "ipa_phrase": "/soʊ jʊr ˈfeɪməs naʊ bɪɡ diːl/",
+        "meaning_phrase": "Giờ cậu nổi tiếng rồi hả, có gì to tát đâu.",
+        "context": "Mỉa mai, đùa cợt"
+    },
+    {
+        "word": "My bad",
+        "ipa_word": "/maɪ bæd/",
+        "type": "Phrase",
+        "meaning_word": "Lỗi của tôi / Tôi nhầm.",
+        "phrase": "Oops, my bad! I sent the wrong file.",
+        "ipa_phrase": "/ups maɪ bæd aɪ sɛnt ðə rɔŋ faɪl/",
+        "meaning_phrase": "Úi, lỗi tôi! Tôi gửi nhầm file rồi.",
+        "context": "Xin lỗi nhẹ nhàng"
+    },
+    {
+        "word": "Take it easy",
+        "ipa_word": "/teɪk ɪt ˈiːzi/",
+        "type": "Expression",
+        "meaning_word": "Bình tĩnh / Thư giãn đi.",
+        "phrase": "Take it easy, we have plenty of time.",
+        "ipa_phrase": "/teɪk ɪt ˈiːzi wi hæv ˈplɛnti əv taɪm/",
+        "meaning_phrase": "Bình tĩnh nào, mình còn nhiều thời gian mà.",
+        "context": "An ủi, thân thiện"
+    },
+    {
+        "word": "In no time",
+        "ipa_word": "/ɪn noʊ taɪm/",
+        "type": "Idiom",
+        "meaning_word": "Ngay lập tức / Rất nhanh.",
+        "phrase": "He finished the job in no time.",
+        "ipa_phrase": "/hi ˈfɪnɪʃt ðə dʒɑb ɪn noʊ taɪm/",
+        "meaning_phrase": "Anh ấy hoàn thành công việc cực nhanh.",
+        "context": "Miêu tả tốc độ"
+    },
+    {
+        "word": "No biggie",
+        "ipa_word": "/noʊ ˈbɪɡi/",
+        "type": "Slang",
+        "meaning_word": "Không sao đâu / Chuyện nhỏ thôi.",
+        "phrase": "Don’t worry, no biggie.",
+        "ipa_phrase": "/doʊnt ˈwɜːri noʊ ˈbɪɡi/",
+        "meaning_phrase": "Đừng lo, chuyện nhỏ thôi mà.",
+        "context": "Thân mật, xoa dịu"
+    },
+    {
+        "word": "What’s up",
+        "ipa_word": "/wʌts ʌp/",
+        "type": "Greeting",
+        "meaning_word": "Có gì mới không? / Chào (thân mật).",
+        "phrase": "Hey, what’s up, man?",
+        "ipa_phrase": "/heɪ wʌts ʌp mæn/",
+        "meaning_phrase": "Ê, có gì mới không?",
+        "context": "Chào hỏi bạn bè"
+    },
+    {
+        "word": "Not a chance",
+        "ipa_word": "/nɑt ə ʧæns/",
+        "type": "Expression",
+        "meaning_word": "Không đời nào / Không có cơ hội.",
+        "phrase": "You think I’ll lend you money? Not a chance.",
+        "ipa_phrase": "/ju θɪŋk aɪl lɛnd ju ˈmʌni nɑt ə ʧæns/",
+        "meaning_phrase": "Cậu nghĩ tôi sẽ cho vay tiền á? Không đời nào.",
+        "context": "Từ chối dứt khoát"
+    },
+    {
+        "word": "Go for it",
+        "ipa_word": "/ɡoʊ fɔr ɪt/",
+        "type": "Encouragement",
+        "meaning_word": "Cứ làm đi / Cố lên!",
+        "phrase": "You want that job? Go for it!",
+        "ipa_phrase": "/ju wɑnt ðæt dʒɑb ɡoʊ fɔr ɪt/",
+        "meaning_phrase": "Cậu muốn công việc đó à? Cứ làm đi!",
+        "context": "Khích lệ, cổ vũ"
+    },
+    {
+        "word": "You betcha",
+        "ipa_word": "/ju ˈbɛʧə/",
+        "type": "Slang",
+        "meaning_word": "Chắc chắn rồi / Tất nhiên (rất Mỹ).",
+        "phrase": "— Can you help me? — You betcha!",
+        "ipa_phrase": "/kæn ju hɛlp mi ju ˈbɛʧə/",
+        "meaning_phrase": "— Cậu giúp tôi được không? — Tất nhiên rồi!",
+        "context": "Đáp thân thiện"
+    },
+    {
+        "word": "For real",
+        "ipa_word": "/fɔr riːəl/",
+        "type": "Expression",
+        "meaning_word": "Thật luôn á / Nghiêm túc đó.",
+        "phrase": "You won the lottery? For real?",
+        "ipa_phrase": "/ju wʌn ðə ˈlɑtəri fɔr riːəl/",
+        "meaning_phrase": "Cậu trúng số thật á?",
+        "context": "Ngạc nhiên, xác nhận"
+    },
+    {
+        "word": "Good to go",
+        "ipa_word": "/ɡʊd tə ɡoʊ/",
+        "type": "Phrase",
+        "meaning_word": "Sẵn sàng rồi / Ổn để bắt đầu.",
+        "phrase": "Everything’s set, we’re good to go.",
+        "ipa_phrase": "/ˈɛvriθɪŋz sɛt wir ɡʊd tə ɡoʊ/",
+        "meaning_phrase": "Mọi thứ ổn hết rồi, ta sẵn sàng đi thôi.",
+        "context": "Chuẩn bị khởi động"
+    },
+    {
+        "word": "Don’t push it",
+        "ipa_word": "/doʊnt pʊʃ ɪt/",
+        "type": "Warning",
+        "meaning_word": "Đừng quá đáng / Đừng thử thách giới hạn.",
+        "phrase": "I said I’d help once. Don’t push it.",
+        "ipa_phrase": "/aɪ sɛd aɪd hɛlp wʌns doʊnt pʊʃ ɪt/",
+        "meaning_phrase": "Tôi nói giúp một lần thôi nhé. Đừng có quá đáng.",
+        "context": "Cảnh báo nhẹ"
+    },
+    {
+        "word": "I’m on it",
+        "ipa_word": "/aɪm ɑn ɪt/",
+        "type": "Phrase",
+        "meaning_word": "Tôi làm ngay đây / Tôi đang xử lý rồi.",
+        "phrase": "Can you fix this bug? — I’m on it!",
+        "ipa_phrase": "/kæn ju fɪks ðɪs bʌɡ aɪm ɑn ɪt/",
+        "meaning_phrase": "Cậu sửa lỗi này được không? — Tôi làm liền!",
+        "context": "Làm việc, phản ứng nhanh"
+    },
+    {
+        "word": "I feel you",
+        "ipa_word": "/aɪ fiːl ju/",
+        "type": "Expression",
+        "meaning_word": "Tôi hiểu cảm giác của bạn.",
+        "phrase": "Long day, huh? — Yeah, I feel you.",
+        "ipa_phrase": "/lɔŋ deɪ hə jæ aɪ fiːl ju/",
+        "meaning_phrase": "Ngày dài nhỉ? — Ừ, tôi hiểu mà.",
+        "context": "Đồng cảm, thân mật"
+    },
+    {
+        "word": "That’s lit",
+        "ipa_word": "/ðæts lɪt/",
+        "type": "Slang",
+        "meaning_word": "Tuyệt vời / Quá đỉnh (rất phổ biến với giới trẻ).",
+        "phrase": "This party is lit!",
+        "ipa_phrase": "/ðɪs ˈpɑːrti ɪz lɪt/",
+        "meaning_phrase": "Bữa tiệc này quá đỉnh!",
+        "context": "Khen, hứng khởi"
+    },
+    {
+        "word": "No way",
+        "ipa_word": "/noʊ weɪ/",
+        "type": "Expression",
+        "meaning_word": "Không thể nào / Thật á!",
+        "phrase": "You met Taylor Swift? No way!",
+        "ipa_phrase": "/ju mɛt ˈteɪlər swɪft noʊ weɪ/",
+        "meaning_phrase": "Cậu gặp Taylor Swift á? Không thể nào!",
+        "context": "Ngạc nhiên, cảm thán"
+    },
+    {
+        "word": "I’m down",
+        "ipa_word": "/aɪm daʊn/",
+        "type": "Phrase",
+        "meaning_word": "Tôi đồng ý / Tôi tham gia.",
+        "phrase": "Wanna go hiking? — I’m down!",
+        "ipa_phrase": "/ˈwɑːnə ɡoʊ ˈhaɪkɪŋ aɪm daʊn/",
+        "meaning_phrase": "Muốn đi leo núi không? — Tôi tham gia!",
+        "context": "Đồng ý, thân mật"
+    },
+    {
+        "word": "I’m good",
+        "ipa_word": "/aɪm ɡʊd/",
+        "type": "Phrase",
+        "meaning_word": "Tôi ổn / Tôi không cần đâu (từ chối nhẹ nhàng).",
+        "phrase": "Want some coffee? — I’m good, thanks.",
+        "ipa_phrase": "/wɑnt sʌm ˈkɑːfi aɪm ɡʊd θæŋks/",
+        "meaning_phrase": "Uống cà phê không? — Tôi ổn, cảm ơn.",
+        "context": "Từ chối lịch sự"
+    },
+    {
+        "word": "You know what I mean",
+        "ipa_word": "/ju noʊ wʌt aɪ miːn/",
+        "type": "Phrase",
+        "meaning_word": "Biết ý tôi mà / Hiểu chứ?",
+        "phrase": "He’s kinda lazy, you know what I mean?",
+        "ipa_phrase": "/hiz ˈkaɪndə ˈleɪzi ju noʊ wʌt aɪ miːn/",
+        "meaning_phrase": "Anh ta hơi lười, hiểu ý tôi chứ?",
+        "context": "Nói chuyện thân mật"
+    },
+    {
+        "word": "I gotcha",
+        "ipa_word": "/aɪ ˈɡɑːʧə/",
+        "type": "Slang",
+        "meaning_word": "Tôi hiểu rồi / Tôi lo cho.",
+        "phrase": "Need a hand? — Nah, I gotcha.",
+        "ipa_phrase": "/nid ə hænd næ aɪ ˈɡɑːʧə/",
+        "meaning_phrase": "Cần giúp không? — Không, tôi lo được.",
+        "context": "Thân thiện, hiểu ý"
+    },
+    {
+        "word": "That’s messed up",
+        "ipa_word": "/ðæts mɛst ʌp/",
+        "type": "Expression",
+        "meaning_word": "Thật tệ / Bất công / Kỳ quặc quá.",
+        "phrase": "He cheated on her? That’s messed up.",
+        "ipa_phrase": "/hi ˈʧiːtɪd ɑn hər ðæts mɛst ʌp/",
+        "meaning_phrase": "Anh ta lừa dối cô ấy à? Tệ thật.",
+        "context": "Phản ứng tiêu cực"
+    },
+    {
+        "word": "You rock",
+        "ipa_word": "/ju rɑk/",
+        "type": "Compliment",
+        "meaning_word": "Cậu giỏi quá / Cậu tuyệt vời.",
+        "phrase": "Thanks for your help, you rock!",
+        "ipa_phrase": "/θæŋks fər jʊr hɛlp ju rɑk/",
+        "meaning_phrase": "Cảm ơn vì đã giúp, cậu tuyệt quá!",
+        "context": "Khen ngợi, thân mật"
+    },
+    {
+        "word": "No sweat",
+        "ipa_word": "/noʊ swɛt/",
+        "type": "Phrase",
+        "meaning_word": "Không vấn đề gì / Dễ mà.",
+        "phrase": "Can you fix it? — No sweat!",
+        "ipa_phrase": "/kæn ju fɪks ɪt noʊ swɛt/",
+        "meaning_phrase": "Cậu sửa được không? — Dễ mà!",
+        "context": "Thân mật, tự tin"
+    },
+    {
+        "word": "Piece of cake",
+        "ipa_word": "/pis əv keɪk/",
+        "type": "Idiom",
+        "meaning_word": "Dễ ợt / Dễ như ăn bánh.",
+        "phrase": "That exam was a piece of cake.",
+        "ipa_phrase": "/ðæt ɪɡˈzæm wʌz ə pis əv keɪk/",
+        "meaning_phrase": "Bài kiểm tra đó dễ ợt.",
+        "context": "Miêu tả dễ dàng"
+    },
+    {
+        "word": "Hang on",
+        "ipa_word": "/hæŋ ɑn/",
+        "type": "Phrase",
+        "meaning_word": "Chờ chút / Giữ máy nhé.",
+        "phrase": "Hang on, I’ll check something.",
+        "ipa_phrase": "/hæŋ ɑn aɪl ʧɛk ˈsʌmθɪŋ/",
+        "meaning_phrase": "Chờ chút, tôi kiểm tra cái này.",
+        "context": "Giao tiếp, điện thoại"
+    },
+    {
+        "word": "Heads up",
+        "ipa_word": "/hɛdz ʌp/",
+        "type": "Expression",
+        "meaning_word": "Báo trước / Cẩn thận nhé.",
+        "phrase": "Just a heads up, the boss is here.",
+        "ipa_phrase": "/ʤʌst ə hɛdz ʌp ðə bɔs ɪz hɪr/",
+        "meaning_phrase": "Báo trước nhé, sếp tới rồi.",
+        "context": "Cảnh báo nhẹ"
+    },
+    {
+        "word": "All set",
+        "ipa_word": "/ɔl sɛt/",
+        "type": "Phrase",
+        "meaning_word": "Sẵn sàng / Ổn hết rồi.",
+        "phrase": "Are you ready? — Yep, all set.",
+        "ipa_phrase": "/ɑr ju ˈrɛdi jɛp ɔl sɛt/",
+        "meaning_phrase": "Cậu sẵn sàng chưa? — Rồi, ổn hết rồi.",
+        "context": "Chuẩn bị, làm việc"
+    },
+    {
+        "word": "You nailed it",
+        "ipa_word": "/ju neɪld ɪt/",
+        "type": "Compliment",
+        "meaning_word": "Cậu làm xuất sắc rồi!",
+        "phrase": "You nailed that presentation!",
+        "ipa_phrase": "/ju neɪld ðæt ˌprɛzənˈteɪʃən/",
+        "meaning_phrase": "Cậu thuyết trình quá xuất sắc!",
+        "context": "Khen ngợi, thành công"
+    },
+    {
+        "word": "You got me",
+        "ipa_word": "/ju ɡɑt mi/",
+        "type": "Expression",
+        "meaning_word": "Cậu làm tôi bó tay / Tôi chịu.",
+        "phrase": "Why did they cancel it? — You got me.",
+        "ipa_phrase": "/waɪ dɪd ðeɪ ˈkænsəl ɪt ju ɡɑt mi/",
+        "meaning_phrase": "Sao họ hủy vậy? — Tôi chịu.",
+        "context": "Thú nhận không biết"
+    },
+    {
+        "word": "I’m starving",
+        "ipa_word": "/aɪm ˈstɑrvɪŋ/",
+        "type": "Phrase",
+        "meaning_word": "Đói chết mất / Đói lắm rồi.",
+        "phrase": "Let’s grab dinner, I’m starving.",
+        "ipa_phrase": "/lɛts ɡræb ˈdɪnər aɪm ˈstɑrvɪŋ/",
+        "meaning_phrase": "Đi ăn tối thôi, tôi đói lắm rồi.",
+        "context": "Đời thường, thân mật"
+    },
+    {
+        "word": "Catch you later",
+        "ipa_word": "/kæʧ ju ˈleɪtər/",
+        "type": "Farewell",
+        "meaning_word": "Gặp lại sau nhé.",
+        "phrase": "I gotta run, catch you later!",
+        "ipa_phrase": "/aɪ ˈɡɑtə rʌn kæʧ ju ˈleɪtər/",
+        "meaning_phrase": "Tôi phải đi rồi, gặp lại sau nhé!",
+        "context": "Tạm biệt thân mật"
+    },
+    {
+        "word": "Take care",
+        "ipa_word": "/teɪk kɛr/",
+        "type": "Farewell",
+        "meaning_word": "Bảo trọng / Giữ gìn nhé.",
+        "phrase": "Take care, see you soon!",
+        "ipa_phrase": "/teɪk kɛr si ju sun/",
+        "meaning_phrase": "Bảo trọng nhé, sớm gặp lại!",
+        "context": "Tạm biệt lịch sự"
+    },
+    {
+        "word": "Way to go",
+        "ipa_word": "/weɪ tə ɡoʊ/",
+        "type": "Compliment",
+        "meaning_word": "Giỏi lắm / Làm tốt lắm!",
+        "phrase": "You passed the test? Way to go!",
+        "ipa_phrase": "/ju pæst ðə tɛst weɪ tə ɡoʊ/",
+        "meaning_phrase": "Cậu qua bài kiểm tra à? Giỏi lắm!",
+        "context": "Khen ngợi, cổ vũ"
+    },
+    {
+        "word": "Hang tight",
+        "ipa_word": "/hæŋ taɪt/",
+        "type": "Phrase",
+        "meaning_word": "Chờ chút / Giữ nguyên vị trí nhé.",
+        "phrase": "Hang tight, I’ll be right there.",
+        "ipa_phrase": "/hæŋ taɪt aɪl bi raɪt ðɛr/",
+        "meaning_phrase": "Chờ chút, tôi tới liền.",
+        "context": "Hội thoại nhanh"
+    },
+    {
+        "word": "Fair enough",
+        "ipa_word": "/fɛr ɪˈnʌf/",
+        "type": "Expression",
+        "meaning_word": "Hợp lý đấy / Ừ, cũng được thôi.",
+        "phrase": "You don’t want to go? Fair enough.",
+        "ipa_phrase": "/ju doʊnt wɑnt tə ɡoʊ fɛr ɪˈnʌf/",
+        "meaning_phrase": "Cậu không muốn đi à? Ừ, hợp lý thôi.",
+        "context": "Đồng tình nhẹ"
+    },
+    {
+        "word": "Long time no see",
+        "ipa_word": "/lɔŋ taɪm noʊ si/",
+        "type": "Greeting",
+        "meaning_word": "Lâu rồi không gặp!",
+        "phrase": "Hey, long time no see!",
+        "ipa_phrase": "/heɪ lɔŋ taɪm noʊ si/",
+        "meaning_phrase": "Ê, lâu rồi không gặp!",
+        "context": "Chào hỏi thân mật"
+    },
+    {
+        "word": "Give me a break",
+        "ipa_word": "/ɡɪv mi ə breɪk/",
+        "type": "Expression",
+        "meaning_word": "Tha cho tôi đi / Thôi mà!",
+        "phrase": "You think I believe that? Give me a break!",
+        "ipa_phrase": "/ju θɪŋk aɪ bəˈliv ðæt ɡɪv mi ə breɪk/",
+        "meaning_phrase": "Cậu nghĩ tôi tin chuyện đó à? Thôi mà!",
+        "context": "Phản ứng chán nản"
+    },
+    {
+        "word": "I’m in",
+        "ipa_word": "/aɪm ɪn/",
+        "type": "Phrase",
+        "meaning_word": "Tôi tham gia / Tôi đồng ý.",
+        "phrase": "Game night tonight? — I’m in!",
+        "ipa_phrase": "/ɡeɪm naɪt təˈnaɪt aɪm ɪn/",
+        "meaning_phrase": "Tối nay chơi board game nhé? — Tôi tham gia!",
+        "context": "Đồng ý, hào hứng"
+    },
+    {
+        "word": "I’m out",
+        "ipa_word": "/aɪm aʊt/",
+        "type": "Phrase",
+        "meaning_word": "Tôi rút / Tôi không tham gia.",
+        "phrase": "Another round? — Nah, I’m out.",
+        "ipa_phrase": "/əˈnʌðər raʊnd næ aɪm aʊt/",
+        "meaning_phrase": "Thêm vòng nữa không? — Thôi, tôi nghỉ.",
+        "context": "Từ chối nhẹ"
+    },
+    {
+        "word": "Let it go",
+        "ipa_word": "/lɛt ɪt ɡoʊ/",
+        "type": "Expression",
+        "meaning_word": "Bỏ qua đi / Đừng nghĩ nữa.",
+        "phrase": "It’s not worth it, just let it go.",
+        "ipa_phrase": "/ɪts nɑt wɜrθ ɪt ʤʌst lɛt ɪt ɡoʊ/",
+        "meaning_phrase": "Không đáng đâu, bỏ qua đi.",
+        "context": "Khuyên nhủ"
+    },
+    {
+        "word": "No offense",
+        "ipa_word": "/noʊ əˈfɛns/",
+        "type": "Expression",
+        "meaning_word": "Không có ý xúc phạm đâu (dùng trước lời thẳng thắn).",
+        "phrase": "No offense, but that outfit looks weird.",
+        "ipa_phrase": "/noʊ əˈfɛns bʌt ðæt ˈaʊtfɪt lʊks wɪrd/",
+        "meaning_phrase": "Không có ý xúc phạm, nhưng bộ đồ đó trông kỳ lắm.",
+        "context": "Nói thẳng nhưng giữ phép"
+    },
+    {
+        "word": "You never know",
+        "ipa_word": "/ju ˈnɛvər noʊ/",
+        "type": "Phrase",
+        "meaning_word": "Ai mà biết được / Biết đâu đấy.",
+        "phrase": "Maybe he’ll call you back. You never know.",
+        "ipa_phrase": "/ˈmeɪbi hɪl kɔl ju bæk ju ˈnɛvər noʊ/",
+        "meaning_phrase": "Biết đâu anh ta sẽ gọi lại đấy.",
+        "context": "Khuyến khích, lạc quan"
+    },
+    {
+        "word": "Take your time",
+        "ipa_word": "/teɪk jʊr taɪm/",
+        "type": "Phrase",
+        "meaning_word": "Cứ từ từ / Không cần gấp.",
+        "phrase": "Take your time, no rush.",
+        "ipa_phrase": "/teɪk jʊr taɪm noʊ rʌʃ/",
+        "meaning_phrase": "Cứ từ từ nhé, không cần vội.",
+        "context": "Lịch sự, thoải mái"
+    },
+    {
+        "word": "At the end of the day",
+        "ipa_word": "/æt ði ɛnd əv ðə deɪ/",
+        "type": "Idiom",
+        "meaning_word": "Suy cho cùng / Cuối cùng thì.",
+        "phrase": "At the end of the day, it’s your choice.",
+        "ipa_phrase": "/æt ði ɛnd əv ðə deɪ ɪts jʊr ʧɔɪs/",
+        "meaning_phrase": "Suy cho cùng thì, đó là lựa chọn của bạn.",
+        "context": "Kết luận, tổng kết"
+    },
+    {
+        "word": "That’s enough",
+        "ipa_word": "/ðæts ɪˈnʌf/",
+        "type": "Expression",
+        "meaning_word": "Đủ rồi / Dừng lại đi.",
+        "phrase": "Okay kids, that’s enough!",
+        "ipa_phrase": "/ˈoʊkeɪ kɪdz ðæts ɪˈnʌf/",
+        "meaning_phrase": "Thôi nào mấy đứa, đủ rồi đấy!",
+        "context": "Ra lệnh nhẹ"
+    },
+    {
+        "word": "You’re telling me",
+        "ipa_word": "/jʊr ˈtɛlɪŋ mi/",
+        "type": "Expression",
+        "meaning_word": "Nói đúng quá / Tôi biết mà!",
+        "phrase": "It’s been a long week. — You’re telling me!",
+        "ipa_phrase": "/ɪts bɪn ə lɔŋ wik jʊr ˈtɛlɪŋ mi/",
+        "meaning_phrase": "Tuần này dài thật. — Chuẩn luôn!",
+        "context": "Đồng cảm mạnh"
+    },
+    {
+        "word": "Don’t mention it",
+        "ipa_word": "/doʊnt ˈmɛnʃən ɪt/",
+        "type": "Response",
+        "meaning_word": "Không có gì đâu / Đừng khách sáo.",
+        "phrase": "Thanks for helping. — Don’t mention it!",
+        "ipa_phrase": "/θæŋks fər ˈhɛlpɪŋ doʊnt ˈmɛnʃən ɪt/",
+        "meaning_phrase": "Cảm ơn vì đã giúp. — Không có gì đâu!",
+        "context": "Đáp lại lời cảm ơn"
+    },
+    {
+        "word": "You got it",
+        "ipa_word": "/ju ɡɑt ɪt/",
+        "type": "Response",
+        "meaning_word": "Tất nhiên rồi / Được thôi.",
+        "phrase": "Can you send me the file? — You got it!",
+        "ipa_phrase": "/kæn ju sɛnd mi ðə faɪl ju ɡɑt ɪt/",
+        "meaning_phrase": "Gửi tôi file được không? — Tất nhiên rồi!",
+        "context": "Đáp thân thiện"
+    },
+    {
+        "word": "I’m on my way",
+        "ipa_word": "/aɪm ɑn maɪ weɪ/",
+        "type": "Phrase",
+        "meaning_word": "Tôi đang tới đây!",
+        "phrase": "Traffic’s bad, but I’m on my way.",
+        "ipa_phrase": "/ˈtræfɪks bæd bʌt aɪm ɑn maɪ weɪ/",
+        "meaning_phrase": "Đường kẹt nhưng tôi đang tới rồi.",
+        "context": "Trả lời khi đang di chuyển"
+    },
+    {
+        "word": "You’ll see",
+        "ipa_word": "/jul si/",
+        "type": "Expression",
+        "meaning_word": "Rồi sẽ thấy / Cứ chờ xem.",
+        "phrase": "You think it won’t work? You’ll see.",
+        "ipa_phrase": "/ju θɪŋk ɪt woʊnt wɜrk jul si/",
+        "meaning_phrase": "Cậu nghĩ không hiệu quả à? Rồi xem nhé.",
+        "context": "Tự tin, thách thức"
+    },
+    {
+        "word": "It happens",
+        "ipa_word": "/ɪt ˈhæpənz/",
+        "type": "Expression",
+        "meaning_word": "Chuyện bình thường thôi.",
+        "phrase": "You spilled coffee? It happens.",
+        "ipa_phrase": "/ju spɪld ˈkɑːfi ɪt ˈhæpənz/",
+        "meaning_phrase": "Cậu làm đổ cà phê à? Chuyện bình thường thôi.",
+        "context": "An ủi, cảm thông"
+    },
+    {
+        "word": "Let’s roll",
+        "ipa_word": "/lɛts roʊl/",
+        "type": "Phrase",
+        "meaning_word": "Đi thôi / Bắt đầu nào!",
+        "phrase": "Everyone ready? Let’s roll!",
+        "ipa_phrase": "/ˈɛvrɪwʌn ˈrɛdi lɛts roʊl/",
+        "meaning_phrase": "Mọi người sẵn sàng chưa? Đi thôi!",
+        "context": "Hành động, bắt đầu"
+    },
+    {
+        "word": "You too",
+        "ipa_word": "/ju tu/",
+        "type": "Response",
+        "meaning_word": "Bạn cũng vậy nhé.",
+        "phrase": "Have a nice day! — You too!",
+        "ipa_phrase": "/hæv ə naɪs deɪ ju tu/",
+        "meaning_phrase": "Chúc ngày tốt lành! — Bạn cũng vậy nhé!",
+        "context": "Đáp xã giao"
+    },
+    {
+        "word": "You bet",
+        "ipa_word": "/ju bɛt/",
+        "type": "Response",
+        "meaning_word": "Chắc chắn rồi / Không có gì.",
+        "phrase": "Thanks for coming! — You bet!",
+        "ipa_phrase": "/θæŋks fər ˈkʌmɪŋ ju bɛt/",
+        "meaning_phrase": "Cảm ơn vì đã đến! — Không có gì!",
+        "context": "Thân mật, tự nhiên"
+    },
+    {
+        "word": "Take it easy",
+        "ipa_word": "/teɪk ɪt ˈiːzi/",
+        "type": "Expression",
+        "meaning_word": "Bình tĩnh / Thư giãn nhé.",
+        "phrase": "Take it easy, everything will be fine.",
+        "ipa_phrase": "/teɪk ɪt ˈiːzi ˈɛvriθɪŋ wɪl bi faɪn/",
+        "meaning_phrase": "Bình tĩnh đi, mọi chuyện sẽ ổn thôi.",
+        "context": "Khuyên nhủ nhẹ"
+    },
+    {
+        "word": "My bad",
+        "ipa_word": "/maɪ bæd/",
+        "type": "Slang",
+        "meaning_word": "Lỗi của tôi / Tôi xin lỗi nhé.",
+        "phrase": "Oops, I forgot your book. My bad!",
+        "ipa_phrase": "/ups aɪ fərˈɡɑt jʊr bʊk maɪ bæd/",
+        "meaning_phrase": "Ối, tôi quên mang sách của cậu. Lỗi của tôi nhé!",
+        "context": "Xin lỗi thân mật"
+    },
+    {
+        "word": "You got this",
+        "ipa_word": "/ju ɡɑt ðɪs/",
+        "type": "Expression",
+        "meaning_word": "Cậu làm được mà!",
+        "phrase": "You’re nervous? Don’t worry, you got this.",
+        "ipa_phrase": "/jʊr ˈnɜrvəs doʊnt ˈwɜri ju ɡɑt ðɪs/",
+        "meaning_phrase": "Cậu lo à? Đừng lo, cậu làm được mà.",
+        "context": "Khích lệ tinh thần"
+    },
+    {
+        "word": "It’s up to you",
+        "ipa_word": "/ɪts ʌp tu ju/",
+        "type": "Phrase",
+        "meaning_word": "Tùy cậu thôi.",
+        "phrase": "We can go out or stay in — it’s up to you.",
+        "ipa_phrase": "/wi kæn ɡoʊ aʊt ɔr steɪ ɪn ɪts ʌp tu ju/",
+        "meaning_phrase": "Ta có thể ra ngoài hoặc ở nhà — tùy cậu thôi.",
+        "context": "Giao quyền quyết định"
+    },
+    {
+        "word": "Go for it",
+        "ipa_word": "/ɡoʊ fɔr ɪt/",
+        "type": "Expression",
+        "meaning_word": "Cứ làm đi! / Tiến lên nào!",
+        "phrase": "You want to start your own business? Go for it!",
+        "ipa_phrase": "/ju wɑnt tə stɑrt jʊr oʊn ˈbɪznɪs ɡoʊ fɔr ɪt/",
+        "meaning_phrase": "Muốn tự kinh doanh à? Cứ làm đi!",
+        "context": "Khuyến khích mạnh mẽ"
+    },
+    {
+        "word": "No big deal",
+        "ipa_word": "/noʊ bɪɡ dil/",
+        "type": "Phrase",
+        "meaning_word": "Không có gì to tát / Chuyện nhỏ thôi.",
+        "phrase": "I lost the pen, but it’s no big deal.",
+        "ipa_phrase": "/aɪ lɔst ðə pɛn bʌt ɪts noʊ bɪɡ dil/",
+        "meaning_phrase": "Tôi làm mất cây bút, nhưng không sao đâu.",
+        "context": "Giảm nhẹ vấn đề"
+    },
+    {
+        "word": "You’re kidding",
+        "ipa_word": "/jʊr ˈkɪdɪŋ/",
+        "type": "Expression",
+        "meaning_word": "Cậu đang đùa à?",
+        "phrase": "You met Taylor Swift? You’re kidding!",
+        "ipa_phrase": "/ju mɛt ˈteɪlər swɪft jʊr ˈkɪdɪŋ/",
+        "meaning_phrase": "Cậu gặp Taylor Swift thật á? Đùa à!",
+        "context": "Ngạc nhiên, không tin"
+    },
+    {
+        "word": "Not again",
+        "ipa_word": "/nɑt əˈɡɛn/",
+        "type": "Expression",
+        "meaning_word": "Lại nữa à!",
+        "phrase": "He’s late? Not again!",
+        "ipa_phrase": "/hiz leɪt nɑt əˈɡɛn/",
+        "meaning_phrase": "Anh ta lại trễ à! Lại nữa hả!",
+        "context": "Thất vọng, bực nhẹ"
+    },
+    {
+        "word": "I can’t wait",
+        "ipa_word": "/aɪ kænt weɪt/",
+        "type": "Phrase",
+        "meaning_word": "Tôi háo hức lắm rồi!",
+        "phrase": "I can’t wait for the weekend!",
+        "ipa_phrase": "/aɪ kænt weɪt fər ðə ˈwikˌɛnd/",
+        "meaning_phrase": "Tôi mong cuối tuần quá!",
+        "context": "Mong chờ điều gì đó"
+    },
+    {
+        "word": "That makes sense",
+        "ipa_word": "/ðæt meɪks sɛns/",
+        "type": "Phrase",
+        "meaning_word": "Nghe hợp lý đấy.",
+        "phrase": "Oh, so he left early? That makes sense.",
+        "ipa_phrase": "/oʊ soʊ hi lɛft ˈɜrli ðæt meɪks sɛns/",
+        "meaning_phrase": "À, anh ta về sớm à? Nghe hợp lý đấy.",
+        "context": "Thừa nhận logic"
+    },
+    {
+        "word": "What’s the catch?",
+        "ipa_word": "/wʌts ðə kæʧ/",
+        "type": "Question",
+        "meaning_word": "Có điều kiện gì ẩn sau à?",
+        "phrase": "It’s free? What’s the catch?",
+        "ipa_phrase": "/ɪts fri wʌts ðə kæʧ/",
+        "meaning_phrase": "Miễn phí à? Có gì ẩn sau không?",
+        "context": "Nghi ngờ điều tốt bất thường"
+    },
+    {
+        "word": "No worries",
+        "ipa_word": "/noʊ ˈwɜriz/",
+        "type": "Response",
+        "meaning_word": "Không sao đâu / Đừng lo.",
+        "phrase": "Sorry for being late. — No worries!",
+        "ipa_phrase": "/ˈsɑri fər ˈbiɪŋ leɪt noʊ ˈwɜriz/",
+        "meaning_phrase": "Xin lỗi vì đến trễ. — Không sao đâu!",
+        "context": "Thân mật, thoải mái"
+    },
+    {
+        "word": "Piece of cake",
+        "ipa_word": "/pis əv keɪk/",
+        "type": "Idiom",
+        "meaning_word": "Dễ ợt / Dễ như ăn bánh.",
+        "phrase": "That exam was a piece of cake.",
+        "ipa_phrase": "/ðæt ɪɡˈzæm wəz ə pis əv keɪk/",
+        "meaning_phrase": "Bài kiểm tra đó dễ ợt.",
+        "context": "Tự tin, dễ dàng"
+    },
+    {
+        "word": "You nailed it",
+        "ipa_word": "/ju neɪld ɪt/",
+        "type": "Expression",
+        "meaning_word": "Cậu làm xuất sắc lắm!",
+        "phrase": "Your presentation? You nailed it!",
+        "ipa_phrase": "/jʊr ˌprɛzənˈteɪʃən ju neɪld ɪt/",
+        "meaning_phrase": "Bài thuyết trình của cậu à? Xuất sắc luôn!",
+        "context": "Khen ngợi"
+    },
+    {
+        "word": "That’s lit",
+        "ipa_word": "/ðæts lɪt/",
+        "type": "Slang",
+        "meaning_word": "Tuyệt vời / Đỉnh quá!",
+        "phrase": "This party is lit!",
+        "ipa_phrase": "/ðɪs ˈpɑrti ɪz lɪt/",
+        "meaning_phrase": "Bữa tiệc này đỉnh thật!",
+        "context": "Trẻ trung, phấn khích"
+    },
+    {
+        "word": "Hit me up",
+        "ipa_word": "/hɪt mi ʌp/",
+        "type": "Slang",
+        "meaning_word": "Liên lạc với tôi nhé / Gọi tôi nhé.",
+        "phrase": "Hit me up when you’re free.",
+        "ipa_phrase": "/hɪt mi ʌp wɛn jʊr fri/",
+        "meaning_phrase": "Liên lạc với tôi khi rảnh nhé.",
+        "context": "Giao tiếp thân mật"
+    },
+    {
+        "word": "That’s messed up",
+        "ipa_word": "/ðæts mɛst ʌp/",
+        "type": "Expression",
+        "meaning_word": "Tệ quá / Thật không ổn.",
+        "phrase": "He lied to you? That’s messed up.",
+        "ipa_phrase": "/hi laɪd tu ju ðæts mɛst ʌp/",
+        "meaning_phrase": "Anh ta nói dối cậu à? Tệ thật.",
+        "context": "Phản ứng tiêu cực"
+    },
+    {
+        "word": "You wish",
+        "ipa_word": "/ju wɪʃ/",
+        "type": "Expression",
+        "meaning_word": "Cứ mơ đi! / Mơ đẹp đấy.",
+        "phrase": "You think you’ll win? You wish!",
+        "ipa_phrase": "/ju θɪŋk jul wɪn ju wɪʃ/",
+        "meaning_phrase": "Cậu nghĩ sẽ thắng à? Mơ đi!",
+        "context": "Đùa trêu, phản ứng vui"
+    },
+    {
+        "word": "Hang in there",
+        "ipa_word": "/hæŋ ɪn ðɛr/",
+        "type": "Expression",
+        "meaning_word": "Cố lên / Đừng bỏ cuộc nhé.",
+        "phrase": "I know it’s hard, but hang in there.",
+        "ipa_phrase": "/aɪ noʊ ɪts hɑrd bʌt hæŋ ɪn ðɛr/",
+        "meaning_phrase": "Tôi biết khó mà, nhưng cố lên nhé.",
+        "context": "Khích lệ tinh thần"
+    },
+    {
+        "word": "You’re all set",
+        "ipa_word": "/jʊr ɔl sɛt/",
+        "type": "Phrase",
+        "meaning_word": "Mọi thứ sẵn sàng rồi / Cậu ổn rồi đấy.",
+        "phrase": "Your account’s ready. You’re all set!",
+        "ipa_phrase": "/jʊr əˈkaʊnts ˈrɛdi jʊr ɔl sɛt/",
+        "meaning_phrase": "Tài khoản của cậu xong rồi. Mọi thứ sẵn sàng!",
+        "context": "Thông báo hoàn tất"
+    }
+]

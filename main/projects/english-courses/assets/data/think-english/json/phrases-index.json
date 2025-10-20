@@ -183,5 +183,10 @@
         "category": "Teen & Social Media Slang",
         "file": "teen-social-media.json",
         "description": "Các từ vựng và cụm từ thông dụng trong giới trẻ và trên mạng xã hội, thường mang tính xu hướng, hài hước hoặc rút gọn. Ví dụ: lol, omg, btw, fam, flex, vibe, ghosting…"
+    },
+    {
+        "category": "Everyday American Speech",
+        "file": "everyday-american.json",
+        "description": "Các cụm và cách nói tự nhiên trong giao tiếp hằng ngày của người Mỹ, thường xuất hiện trong phim, quán ăn hoặc hội thoại thân mật. Chúng giúp người học nghe – nói tự nhiên và bản ngữ hơn. Ví dụ: hold the ice, grab a bite, you bet, no worries, sounds good, nailed it, hang tight, chill out, give me a sec…"
     }
 ]
