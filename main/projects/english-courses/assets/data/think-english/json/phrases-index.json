@@ -188,5 +188,15 @@
         "category": "Everyday American Speech",
         "file": "everyday-american.json",
         "description": "Các cụm và cách nói tự nhiên trong giao tiếp hằng ngày của người Mỹ, thường xuất hiện trong phim, quán ăn hoặc hội thoại thân mật. Chúng giúp người học nghe – nói tự nhiên và bản ngữ hơn. Ví dụ: hold the ice, grab a bite, you bet, no worries, sounds good, nailed it, hang tight, chill out, give me a sec…"
+    },
+    {
+        "category": "Logistics & Supply Chain English",
+        "file": "logistics-english.json",
+        "description": "Các từ vựng và cụm từ chuyên dùng trong ngành logistics, vận chuyển, và chuỗi cung ứng. Bao gồm thuật ngữ về vận tải, kho bãi, giao nhận, chứng từ, và thương mại quốc tế. Ví dụ: shipment, freight, warehouse, inventory, ETA, bill of lading, customs clearance, tracking number..."
+    },
+    {
+        "category": "Airlines & Aircraft English",
+        "file": "airlines-aircraft.json",
+        "description": "Các từ vựng và cụm từ liên quan đến ngành hàng không, bao gồm hãng bay, loại máy bay, thiết bị, quy trình bay, và giao tiếp trong sân bay. Ví dụ: boarding pass, cabin crew, turbulence, jet engine, runway, Airbus, Boeing..."
     }
 ]

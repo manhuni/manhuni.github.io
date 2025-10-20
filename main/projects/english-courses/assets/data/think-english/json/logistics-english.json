@@ -1,0 +1,992 @@
+[
+    {
+        "word": "shipment",
+        "ipa_word": "/ˈʃɪpmənt/",
+        "type": "Noun",
+        "meaning_word": "lô hàng / kiện hàng được gửi đi",
+        "phrase": "The shipment will arrive next Monday.",
+        "ipa_phrase": "/ðə ˈʃɪpmənt wɪl əˈraɪv nɛkst ˈmʌndeɪ/",
+        "meaning_phrase": "Lô hàng sẽ đến vào thứ Hai tới.",
+        "context": "Vận chuyển hàng hóa"
+    },
+    {
+        "word": "freight",
+        "ipa_word": "/freɪt/",
+        "type": "Noun",
+        "meaning_word": "hàng hóa chuyên chở / cước phí vận chuyển",
+        "phrase": "Air freight is faster but more expensive.",
+        "ipa_phrase": "/ɛr freɪt ɪz ˈfæstər bʌt mɔr ɪkˈspɛnsɪv/",
+        "meaning_phrase": "Vận tải hàng không nhanh hơn nhưng đắt hơn.",
+        "context": "Phân biệt phương thức vận chuyển"
+    },
+    {
+        "word": "warehouse",
+        "ipa_word": "/ˈwɛrˌhaʊs/",
+        "type": "Noun",
+        "meaning_word": "nhà kho / kho hàng",
+        "phrase": "The goods are stored in our main warehouse.",
+        "ipa_phrase": "/ðə ɡʊdz ɑr stɔrd ɪn aʊər meɪn ˈwɛrˌhaʊs/",
+        "meaning_phrase": "Hàng hóa được lưu trữ trong kho chính của chúng tôi.",
+        "context": "Lưu trữ hàng hóa"
+    },
+    {
+        "word": "inventory",
+        "ipa_word": "/ˈɪnvənˌtɔri/",
+        "type": "Noun",
+        "meaning_word": "hàng tồn kho / bảng kiểm kê",
+        "phrase": "We do inventory checks every month.",
+        "ipa_phrase": "/wi du ˈɪnvənˌtɔri ʧɛks ˈɛvri mʌnθ/",
+        "meaning_phrase": "Chúng tôi kiểm kê hàng tháng.",
+        "context": "Quản lý kho"
+    },
+    {
+        "word": "bill of lading",
+        "ipa_word": "/bɪl əv ˈleɪdɪŋ/",
+        "type": "Noun",
+        "meaning_word": "vận đơn (chứng từ vận chuyển)",
+        "phrase": "The bill of lading must be signed by the carrier.",
+        "ipa_phrase": "/ðə bɪl əv ˈleɪdɪŋ mʌst bi saɪnd baɪ ðə ˈkæriər/",
+        "meaning_phrase": "Vận đơn phải được ký bởi người chuyên chở.",
+        "context": "Chứng từ vận tải"
+    },
+    {
+        "word": "customs clearance",
+        "ipa_word": "/ˈkʌstəmz ˈklɪrəns/",
+        "type": "Noun",
+        "meaning_word": "thông quan hải quan",
+        "phrase": "Customs clearance usually takes one or two days.",
+        "ipa_phrase": "/ˈkʌstəmz ˈklɪrəns ˈjuʒuəli teɪks wʌn ɔr tu deɪz/",
+        "meaning_phrase": "Thủ tục thông quan thường mất một đến hai ngày.",
+        "context": "Xuất nhập khẩu"
+    },
+    {
+        "word": "tracking number",
+        "ipa_word": "/ˈtrækɪŋ ˈnʌmbər/",
+        "type": "Noun",
+        "meaning_word": "mã theo dõi đơn hàng",
+        "phrase": "You can check the status using your tracking number.",
+        "ipa_phrase": "/ju kæn ʧɛk ðə ˈstætəs ˈjuzɪŋ jʊr ˈtrækɪŋ ˈnʌmbər/",
+        "meaning_phrase": "Bạn có thể kiểm tra tình trạng bằng mã theo dõi của mình.",
+        "context": "Theo dõi giao hàng"
+    },
+    {
+        "word": "lead time",
+        "ipa_word": "/lid taɪm/",
+        "type": "Noun",
+        "meaning_word": "thời gian từ khi đặt hàng đến khi giao hàng",
+        "phrase": "The lead time for this product is two weeks.",
+        "ipa_phrase": "/ðə lid taɪm fər ðɪs ˈprɑdəkt ɪz tu wiks/",
+        "meaning_phrase": "Thời gian giao hàng của sản phẩm này là hai tuần.",
+        "context": "Kế hoạch cung ứng"
+    },
+    {
+        "word": "dispatch",
+        "ipa_word": "/dɪˈspæʧ/",
+        "type": "Verb",
+        "meaning_word": "gửi đi / xuất kho",
+        "phrase": "All orders will be dispatched today.",
+        "ipa_phrase": "/ɔl ˈɔrdərz wɪl bi dɪˈspæʧt təˈdeɪ/",
+        "meaning_phrase": "Tất cả đơn hàng sẽ được gửi đi hôm nay.",
+        "context": "Hoạt động giao hàng"
+    },
+    {
+        "word": "ETA",
+        "ipa_word": "/ˌiː tiː ˈeɪ/",
+        "type": "Abbreviation",
+        "meaning_word": "thời gian dự kiến đến nơi (Estimated Time of Arrival)",
+        "phrase": "The ETA for your delivery is 5 PM.",
+        "ipa_phrase": "/ði ˌiː tiː ˈeɪ fər jʊr dɪˈlɪvəri ɪz faɪv pi ɛm/",
+        "meaning_phrase": "Thời gian dự kiến giao hàng là 5 giờ chiều.",
+        "context": "Theo dõi vận chuyển"
+    },
+    {
+        "word": "FOB",
+        "ipa_word": "/ɛf oʊ biː/",
+        "type": "Abbreviation",
+        "meaning_word": "Giao hàng lên tàu (Free On Board)",
+        "phrase": "The goods are sold under FOB terms.",
+        "ipa_phrase": "/ðə ɡʊdz ɑr soʊld ˈʌndər ɛf oʊ bi tɜrmz/",
+        "meaning_phrase": "Hàng được bán theo điều kiện FOB.",
+        "context": "Điều kiện thương mại quốc tế"
+    },
+    {
+        "word": "CIF",
+        "ipa_word": "/siː aɪ ɛf/",
+        "type": "Abbreviation",
+        "meaning_word": "Giá bao gồm phí, bảo hiểm và cước (Cost, Insurance, and Freight)",
+        "phrase": "The price is quoted CIF Ho Chi Minh City.",
+        "ipa_phrase": "/ðə praɪs ɪz ˈkwoʊtɪd si aɪ ɛf hoʊ ʧi mɪn ˈsɪti/",
+        "meaning_phrase": "Giá được báo theo điều kiện CIF TP.HCM.",
+        "context": "Xuất nhập khẩu"
+    },
+    {
+        "word": "carrier",
+        "ipa_word": "/ˈkæriər/",
+        "type": "Noun",
+        "meaning_word": "hãng vận tải / người chuyên chở",
+        "phrase": "The carrier is responsible for the goods in transit.",
+        "ipa_phrase": "/ðə ˈkæriər ɪz rɪˈspɑnsəbəl fər ðə ɡʊdz ɪn ˈtrænsɪt/",
+        "meaning_phrase": "Hãng vận tải chịu trách nhiệm cho hàng hóa trong quá trình vận chuyển.",
+        "context": "Trách nhiệm vận chuyển"
+    },
+    {
+        "word": "transit",
+        "ipa_word": "/ˈtrænsɪt/",
+        "type": "Noun",
+        "meaning_word": "quá trình vận chuyển / trung chuyển",
+        "phrase": "The goods are now in transit to Singapore.",
+        "ipa_phrase": "/ðə ɡʊdz ɑr naʊ ɪn ˈtrænsɪt tu ˈsɪŋəpɔr/",
+        "meaning_phrase": "Hàng hiện đang được trung chuyển đến Singapore.",
+        "context": "Theo dõi hành trình"
+    },
+    {
+        "word": "port of loading",
+        "ipa_word": "/pɔrt əv ˈloʊdɪŋ/",
+        "type": "Noun",
+        "meaning_word": "cảng bốc hàng",
+        "phrase": "Hai Phong is the port of loading for this shipment.",
+        "ipa_phrase": "/haɪ fɔŋ ɪz ðə pɔrt əv ˈloʊdɪŋ fər ðɪs ˈʃɪpmənt/",
+        "meaning_phrase": "Hải Phòng là cảng bốc hàng cho lô hàng này.",
+        "context": "Chứng từ vận tải"
+    },
+    {
+        "word": "port of discharge",
+        "ipa_word": "/pɔrt əv ˈdɪsʧɑrdʒ/",
+        "type": "Noun",
+        "meaning_word": "cảng dỡ hàng",
+        "phrase": "The port of discharge is Los Angeles.",
+        "ipa_phrase": "/ðə pɔrt əv ˈdɪsʧɑrdʒ ɪz lɔs ˈænʤələs/",
+        "meaning_phrase": "Cảng dỡ hàng là Los Angeles.",
+        "context": "Vận đơn quốc tế"
+    },
+    {
+        "word": "packing list",
+        "ipa_word": "/ˈpækɪŋ lɪst/",
+        "type": "Noun",
+        "meaning_word": "phiếu đóng gói hàng hóa",
+        "phrase": "Please attach the packing list with the invoice.",
+        "ipa_phrase": "/pliz əˈtæʧ ðə ˈpækɪŋ lɪst wɪð ði ˈɪnvɔɪs/",
+        "meaning_phrase": "Vui lòng đính kèm phiếu đóng gói cùng hóa đơn.",
+        "context": "Chứng từ giao hàng"
+    },
+    {
+        "word": "warehouse receipt",
+        "ipa_word": "/ˈwɛrˌhaʊs rəˈsit/",
+        "type": "Noun",
+        "meaning_word": "phiếu nhập kho / biên nhận kho",
+        "phrase": "The warehouse receipt confirms the goods are stored safely.",
+        "ipa_phrase": "/ðə ˈwɛrˌhaʊs rəˈsit kənˈfɜrmz ðə ɡʊdz ɑr stɔrd ˈseɪfli/",
+        "meaning_phrase": "Phiếu nhập kho xác nhận hàng hóa đã được lưu trữ an toàn.",
+        "context": "Quản lý kho"
+    },
+    {
+        "word": "consignee",
+        "ipa_word": "/ˌkɑnˈsaɪni/",
+        "type": "Noun",
+        "meaning_word": "người nhận hàng",
+        "phrase": "The consignee must present an ID upon delivery.",
+        "ipa_phrase": "/ðə ˌkɑnˈsaɪni mʌst prɪˈzɛnt ən aɪˈdi əˈpɑn dɪˈlɪvəri/",
+        "meaning_phrase": "Người nhận hàng phải xuất trình giấy tờ tùy thân khi nhận hàng.",
+        "context": "Giao hàng cuối cùng"
+    },
+    {
+        "word": "consolidation",
+        "ipa_word": "/kənˌsɑlɪˈdeɪʃən/",
+        "type": "Noun",
+        "meaning_word": "gom hàng (từ nhiều lô nhỏ thành một lô lớn)",
+        "phrase": "Freight consolidation helps reduce shipping costs.",
+        "ipa_phrase": "/freɪt kənˌsɑlɪˈdeɪʃən hɛlps rɪˈdus ˈʃɪpɪŋ kɑsts/",
+        "meaning_phrase": "Gom hàng giúp giảm chi phí vận chuyển.",
+        "context": "Tối ưu logistics"
+    },
+    {
+        "word": "pallet",
+        "ipa_word": "/ˈpælɪt/",
+        "type": "Noun",
+        "meaning_word": "tấm kê hàng / pa-lét",
+        "phrase": "The boxes are stacked on wooden pallets.",
+        "ipa_phrase": "/ðə ˈbɑksɪz ɑr stækt ɑn ˈwʊdən ˈpælɪts/",
+        "meaning_phrase": "Các thùng được xếp trên các pa-lét gỗ.",
+        "context": "Kho bãi"
+    },
+    {
+        "word": "forklift",
+        "ipa_word": "/ˈfɔrklɪft/",
+        "type": "Noun",
+        "meaning_word": "xe nâng hàng",
+        "phrase": "The forklift operator moves the goods to the truck.",
+        "ipa_phrase": "/ðə ˈfɔrklɪft ˈɑpəˌreɪtər muvz ðə ɡʊdz tu ðə trʌk/",
+        "meaning_phrase": "Người điều khiển xe nâng di chuyển hàng lên xe tải.",
+        "context": "Kho bãi, vận hành"
+    },
+    {
+        "word": "cargo",
+        "ipa_word": "/ˈkɑrɡoʊ/",
+        "type": "Noun",
+        "meaning_word": "hàng hóa (vận chuyển bằng tàu hoặc máy bay)",
+        "phrase": "The cargo was damaged during the flight.",
+        "ipa_phrase": "/ðə ˈkɑrɡoʊ wəz ˈdæmɪʤd ˈdjʊrɪŋ ðə flaɪt/",
+        "meaning_phrase": "Hàng hóa bị hư hại trong chuyến bay.",
+        "context": "Vận chuyển quốc tế"
+    },
+    {
+        "word": "container",
+        "ipa_word": "/kənˈteɪnər/",
+        "type": "Noun",
+        "meaning_word": "container / thùng chứa hàng",
+        "phrase": "Each container holds about 25 tons of goods.",
+        "ipa_phrase": "/iʧ kənˈteɪnər hoʊldz əˈbaʊt twɛnti faɪv tʌnz əv ɡʊdz/",
+        "meaning_phrase": "Mỗi container chứa khoảng 25 tấn hàng.",
+        "context": "Vận tải đường biển"
+    },
+    {
+        "word": "delivery note",
+        "ipa_word": "/dɪˈlɪvəri noʊt/",
+        "type": "Noun",
+        "meaning_word": "phiếu giao hàng",
+        "phrase": "The driver asked me to sign the delivery note.",
+        "ipa_phrase": "/ðə ˈdraɪvər æskt mi tu saɪn ðə dɪˈlɪvəri noʊt/",
+        "meaning_phrase": "Người lái xe yêu cầu tôi ký phiếu giao hàng.",
+        "context": "Chứng từ giao hàng"
+    },
+    {
+        "word": "airway bill",
+        "ipa_word": "/ˈɛrweɪ bɪl/",
+        "type": "Noun",
+        "meaning_word": "vận đơn hàng không",
+        "phrase": "Please send me a copy of the airway bill.",
+        "ipa_phrase": "/pliz sɛnd mi ə ˈkɑpi əv ði ˈɛrweɪ bɪl/",
+        "meaning_phrase": "Vui lòng gửi cho tôi bản sao vận đơn hàng không.",
+        "context": "Xuất nhập khẩu hàng không"
+    },
+    {
+        "word": "cargo manifest",
+        "ipa_word": "/ˈkɑrɡoʊ ˈmænəˌfɛst/",
+        "type": "Noun",
+        "meaning_word": "bản kê khai hàng hóa trên tàu",
+        "phrase": "The cargo manifest lists all items on board.",
+        "ipa_phrase": "/ðə ˈkɑrɡoʊ ˈmænəˌfɛst lɪsts ɔl ˈaɪtəmz ɑn bɔrd/",
+        "meaning_phrase": "Bản kê khai liệt kê tất cả hàng hóa trên tàu.",
+        "context": "Vận tải biển"
+    },
+    {
+        "word": "demurrage",
+        "ipa_word": "/dɪˈmʌrɪʤ/",
+        "type": "Noun",
+        "meaning_word": "phí lưu container quá hạn",
+        "phrase": "The company had to pay demurrage for late return.",
+        "ipa_phrase": "/ðə ˈkʌmpəni hæd tu peɪ dɪˈmʌrɪʤ fər leɪt rɪˈtɜrn/",
+        "meaning_phrase": "Công ty phải trả phí lưu container vì trả trễ.",
+        "context": "Chi phí logistics"
+    },
+    {
+        "word": "container yard",
+        "ipa_word": "/kənˈteɪnər jɑrd/",
+        "type": "Noun",
+        "meaning_word": "bãi chứa container",
+        "phrase": "All containers are stored in the yard near the port.",
+        "ipa_phrase": "/ɔl kənˈteɪnərz ɑr stɔrd ɪn ðə jɑrd nɪr ðə pɔrt/",
+        "meaning_phrase": "Tất cả container được lưu ở bãi gần cảng.",
+        "context": "Quản lý cảng"
+    },
+    {
+        "word": "loading dock",
+        "ipa_word": "/ˈloʊdɪŋ dɑk/",
+        "type": "Noun",
+        "meaning_word": "khu vực bốc hàng",
+        "phrase": "Trucks are waiting at the loading dock.",
+        "ipa_phrase": "/trʌks ɑr ˈweɪtɪŋ æt ðə ˈloʊdɪŋ dɑk/",
+        "meaning_phrase": "Xe tải đang chờ tại khu vực bốc hàng.",
+        "context": "Kho vận"
+    },
+    {
+        "word": "proof of delivery",
+        "ipa_word": "/pruf əv dɪˈlɪvəri/",
+        "type": "Noun",
+        "meaning_word": "chứng từ xác nhận giao hàng",
+        "phrase": "The customer signed the proof of delivery form.",
+        "ipa_phrase": "/ðə ˈkʌstəmər saɪnd ðə pruf əv dɪˈlɪvəri fɔrm/",
+        "meaning_phrase": "Khách hàng đã ký xác nhận nhận hàng.",
+        "context": "Hoàn tất giao hàng"
+    },
+    {
+        "word": "bill of entry",
+        "ipa_word": "/bɪl əv ˈɛntri/",
+        "type": "Noun",
+        "meaning_word": "tờ khai nhập khẩu",
+        "phrase": "You must submit the bill of entry to customs.",
+        "ipa_phrase": "/ju mʌst səbˈmɪt ðə bɪl əv ˈɛntri tu ˈkʌstəmz/",
+        "meaning_phrase": "Bạn phải nộp tờ khai nhập khẩu cho hải quan.",
+        "context": "Hải quan"
+    },
+    {
+        "word": "loading plan",
+        "ipa_word": "/ˈloʊdɪŋ plæn/",
+        "type": "Noun",
+        "meaning_word": "kế hoạch bốc xếp hàng hóa",
+        "phrase": "The loading plan helps optimize container space.",
+        "ipa_phrase": "/ðə ˈloʊdɪŋ plæn hɛlps ˈɑptəˌmaɪz kənˈteɪnər speɪs/",
+        "meaning_phrase": "Kế hoạch bốc xếp giúp tối ưu không gian container.",
+        "context": "Vận tải đường biển"
+    },
+    {
+        "word": "cross-docking",
+        "ipa_word": "/krɔs ˈdɑkɪŋ/",
+        "type": "Noun",
+        "meaning_word": "trung chuyển hàng mà không lưu kho",
+        "phrase": "Cross-docking reduces storage costs significantly.",
+        "ipa_phrase": "/krɔs ˈdɑkɪŋ rɪˈdus ˈstɔrɪʤ kɑsts sɪɡˈnɪfɪkəntli/",
+        "meaning_phrase": "Trung chuyển hàng giúp giảm đáng kể chi phí lưu kho.",
+        "context": "Chiến lược logistics"
+    },
+    {
+        "word": "reverse logistics",
+        "ipa_word": "/rɪˈvɜrs loʊˈʤɪstɪks/",
+        "type": "Noun",
+        "meaning_word": "chuỗi hoàn trả / logistics ngược",
+        "phrase": "Reverse logistics manages the return of goods.",
+        "ipa_phrase": "/rɪˈvɜrs loʊˈʤɪstɪks ˈmænəʤɪz ðə rɪˈtɜrn əv ɡʊdz/",
+        "meaning_phrase": "Logistics ngược quản lý việc hoàn trả hàng hóa.",
+        "context": "Thương mại điện tử"
+    },
+    {
+        "word": "stock keeping unit",
+        "ipa_word": "/stɑk ˈkipɪŋ ˈjuːnɪt/",
+        "type": "Noun",
+        "meaning_word": "mã hàng hóa (SKU)",
+        "phrase": "Each product has its own stock keeping unit.",
+        "ipa_phrase": "/iʧ ˈprɑdəkt hæz ɪts oʊn stɑk ˈkipɪŋ ˈjuːnɪt/",
+        "meaning_phrase": "Mỗi sản phẩm có mã hàng riêng.",
+        "context": "Quản lý kho"
+    },
+    {
+        "word": "warehouse management system",
+        "ipa_word": "/ˈwɛrˌhaʊs ˈmænəʤmənt ˈsɪstəm/",
+        "type": "Noun",
+        "meaning_word": "hệ thống quản lý kho (WMS)",
+        "phrase": "The new warehouse management system improved efficiency.",
+        "ipa_phrase": "/ðə nu ˈwɛrˌhaʊs ˈmænəʤmənt ˈsɪstəm ɪmˈpruvd ɪˈfɪʃənsi/",
+        "meaning_phrase": "Hệ thống quản lý kho mới giúp tăng hiệu suất.",
+        "context": "Phần mềm logistics"
+    },
+    {
+        "word": "third-party logistics",
+        "ipa_word": "/θɜrd ˈpɑrti loʊˈʤɪstɪks/",
+        "type": "Noun",
+        "meaning_word": "dịch vụ logistics bên thứ ba (3PL)",
+        "phrase": "Many companies outsource to third-party logistics providers.",
+        "ipa_phrase": "/ˈmɛni ˈkʌmpəniz ˈaʊtˌsɔrs tu θɜrd ˈpɑrti loʊˈʤɪstɪks prəˈvaɪdərz/",
+        "meaning_phrase": "Nhiều công ty thuê ngoài dịch vụ logistics bên thứ ba.",
+        "context": "Mô hình logistics"
+    },
+    {
+        "word": "freight forwarder",
+        "ipa_word": "/freɪt ˈfɔrwərdər/",
+        "type": "Noun",
+        "meaning_word": "người giao nhận hàng hóa (đại lý vận tải)",
+        "phrase": "The freight forwarder arranged customs clearance for us.",
+        "ipa_phrase": "/ðə freɪt ˈfɔrwərdər əˈreɪnʤd ˈkʌstəmz ˈklɪrəns fər ʌs/",
+        "meaning_phrase": "Đại lý vận tải đã sắp xếp thủ tục hải quan cho chúng tôi.",
+        "context": "Xuất nhập khẩu"
+    },
+    {
+        "word": "supply chain",
+        "ipa_word": "/səˈplaɪ ʧeɪn/",
+        "type": "Noun",
+        "meaning_word": "chuỗi cung ứng",
+        "phrase": "A strong supply chain ensures timely delivery.",
+        "ipa_phrase": "/ə strɔŋ səˈplaɪ ʧeɪn ɛnˈʃʊrz ˈtaɪmli dɪˈlɪvəri/",
+        "meaning_phrase": "Chuỗi cung ứng mạnh giúp đảm bảo giao hàng đúng hạn.",
+        "context": "Chiến lược kinh doanh"
+    },
+    {
+        "word": "inbound logistics",
+        "ipa_word": "/ˈɪnbaʊnd loʊˈʤɪstɪks/",
+        "type": "Noun",
+        "meaning_word": "logistics đầu vào (vận chuyển nguyên liệu đến nhà máy)",
+        "phrase": "Inbound logistics focuses on receiving and storing materials.",
+        "ipa_phrase": "/ˈɪnbaʊnd loʊˈʤɪstɪks ˈfoʊkəsɪz ɑn rɪˈsivɪŋ ənd ˈstɔrɪŋ məˈtɪriəlz/",
+        "meaning_phrase": "Logistics đầu vào tập trung vào việc tiếp nhận và lưu trữ nguyên liệu.",
+        "context": "Chuỗi cung ứng"
+    },
+    {
+        "word": "outbound logistics",
+        "ipa_word": "/ˈaʊtˌbaʊnd loʊˈʤɪstɪks/",
+        "type": "Noun",
+        "meaning_word": "logistics đầu ra (phân phối hàng thành phẩm đến khách hàng)",
+        "phrase": "Outbound logistics ensures timely delivery to customers.",
+        "ipa_phrase": "/ˈaʊtˌbaʊnd loʊˈʤɪstɪks ɛnˈʃʊrz ˈtaɪmli dɪˈlɪvəri tu ˈkʌstəmərz/",
+        "meaning_phrase": "Logistics đầu ra đảm bảo giao hàng đúng hạn cho khách hàng.",
+        "context": "Phân phối hàng hóa"
+    },
+    {
+        "word": "handling fee",
+        "ipa_word": "/ˈhændlɪŋ fiː/",
+        "type": "Noun",
+        "meaning_word": "phí bốc dỡ / phí xử lý hàng hóa",
+        "phrase": "A small handling fee applies to all shipments.",
+        "ipa_phrase": "/ə smɔl ˈhændlɪŋ fi əˈplaɪz tu ɔl ˈʃɪpmənts/",
+        "meaning_phrase": "Phí bốc dỡ nhỏ được áp dụng cho tất cả các lô hàng.",
+        "context": "Chi phí logistics"
+    },
+    {
+        "word": "bonded warehouse",
+        "ipa_word": "/ˈbɑndɪd ˈwɛrˌhaʊs/",
+        "type": "Noun",
+        "meaning_word": "kho ngoại quan (hàng chưa nộp thuế nhập khẩu)",
+        "phrase": "Imported goods are stored in a bonded warehouse until clearance.",
+        "ipa_phrase": "/ɪmˈpɔrtɪd ɡʊdz ɑr stɔrd ɪn ə ˈbɑndɪd ˈwɛrˌhaʊs ənˈtɪl ˈklɪrəns/",
+        "meaning_phrase": "Hàng nhập được lưu trong kho ngoại quan cho đến khi thông quan.",
+        "context": "Hải quan"
+    },
+    {
+        "word": "shipper",
+        "ipa_word": "/ˈʃɪpər/",
+        "type": "Noun",
+        "meaning_word": "người gửi hàng / chủ hàng",
+        "phrase": "The shipper is responsible for packaging the goods.",
+        "ipa_phrase": "/ðə ˈʃɪpər ɪz rɪˈspɑnsəbəl fər ˈpækəʤɪŋ ðə ɡʊdz/",
+        "meaning_phrase": "Người gửi hàng chịu trách nhiệm đóng gói hàng hóa.",
+        "context": "Xuất hàng"
+    },
+    {
+        "word": "consignor",
+        "ipa_word": "/kənˈsaɪnər/",
+        "type": "Noun",
+        "meaning_word": "người gửi hàng (đồng nghĩa với shipper)",
+        "phrase": "The consignor must provide the correct documents.",
+        "ipa_phrase": "/ðə kənˈsaɪnər mʌst prəˈvaɪd ðə kəˈrɛkt ˈdɑkjəmənts/",
+        "meaning_phrase": "Người gửi hàng phải cung cấp giấy tờ chính xác.",
+        "context": "Thủ tục xuất khẩu"
+    },
+    {
+        "word": "vessel schedule",
+        "ipa_word": "/ˈvɛsəl ˈskɛʤuːl/",
+        "type": "Noun",
+        "meaning_word": "lịch tàu chạy",
+        "phrase": "Please check the vessel schedule for the next shipment.",
+        "ipa_phrase": "/pliz ʧɛk ðə ˈvɛsəl ˈskɛʤuːl fər ðə nɛkst ˈʃɪpmənt/",
+        "meaning_phrase": "Vui lòng kiểm tra lịch tàu cho chuyến hàng tiếp theo.",
+        "context": "Vận tải đường biển"
+    },
+    {
+        "word": "overland transport",
+        "ipa_word": "/ˈoʊvərlænd ˈtrænspɔrt/",
+        "type": "Noun",
+        "meaning_word": "vận chuyển đường bộ",
+        "phrase": "Overland transport connects ports with inland destinations.",
+        "ipa_phrase": "/ˈoʊvərlænd ˈtrænspɔrt kəˈnɛkts pɔrts wɪð ˈɪnlænd ˌdɛstəˈneɪʃənz/",
+        "meaning_phrase": "Vận chuyển đường bộ kết nối cảng với điểm đến nội địa.",
+        "context": "Vận tải đa phương thức"
+    },
+    {
+        "word": "supply forecast",
+        "ipa_word": "/səˈplaɪ ˈfɔrkæst/",
+        "type": "Noun",
+        "meaning_word": "dự báo cung ứng",
+        "phrase": "A supply forecast helps plan production capacity.",
+        "ipa_phrase": "/ə səˈplaɪ ˈfɔrkæst hɛlps plæn prəˈdʌkʃən kəˈpæsɪti/",
+        "meaning_phrase": "Dự báo cung ứng giúp lập kế hoạch năng lực sản xuất.",
+        "context": "Kế hoạch chuỗi cung ứng"
+    },
+    {
+        "word": "inventory turnover",
+        "ipa_word": "/ˈɪnvənˌtɔri ˈtɜrnˌoʊvər/",
+        "type": "Noun",
+        "meaning_word": "vòng quay hàng tồn kho",
+        "phrase": "Higher inventory turnover means faster sales.",
+        "ipa_phrase": "/ˈhaɪər ˈɪnvənˌtɔri ˈtɜrnˌoʊvər minz ˈfæstər seɪlz/",
+        "meaning_phrase": "Vòng quay hàng tồn cao nghĩa là bán hàng nhanh hơn.",
+        "context": "Phân tích hiệu suất kho"
+    },
+    {
+        "word": "warehouse zoning",
+        "ipa_word": "/ˈwɛrˌhaʊs ˈzoʊnɪŋ/",
+        "type": "Noun",
+        "meaning_word": "phân vùng trong kho (theo loại hàng, tần suất, v.v.)",
+        "phrase": "Warehouse zoning improves picking efficiency.",
+        "ipa_phrase": "/ˈwɛrˌhaʊs ˈzoʊnɪŋ ɪmˈpruvz ˈpɪkɪŋ ɪˈfɪʃənsi/",
+        "meaning_phrase": "Phân vùng kho giúp tăng hiệu suất lấy hàng.",
+        "context": "Tổ chức kho"
+    },
+    {
+        "word": "pick list",
+        "ipa_word": "/pɪk lɪst/",
+        "type": "Noun",
+        "meaning_word": "danh sách lấy hàng trong kho",
+        "phrase": "The worker followed the pick list to prepare the order.",
+        "ipa_phrase": "/ðə ˈwɜrkər ˈfɑloʊd ðə pɪk lɪst tu prɪˈpɛr ði ˈɔrdər/",
+        "meaning_phrase": "Nhân viên làm theo danh sách lấy hàng để chuẩn bị đơn.",
+        "context": "Kho bãi"
+    },
+    {
+        "word": "reorder point",
+        "ipa_word": "/riˈɔrdər pɔɪnt/",
+        "type": "Noun",
+        "meaning_word": "điểm đặt hàng lại (mức tồn kho tối thiểu)",
+        "phrase": "We reorder items when they reach the reorder point.",
+        "ipa_phrase": "/wi riˈɔrdər ˈaɪtəmz wɛn ðeɪ riʧ ðə riˈɔrdər pɔɪnt/",
+        "meaning_phrase": "Chúng tôi đặt hàng lại khi hàng tồn chạm mức tối thiểu.",
+        "context": "Quản lý kho"
+    },
+    {
+        "word": "backorder",
+        "ipa_word": "/ˈbækˌɔrdər/",
+        "type": "Noun",
+        "meaning_word": "đơn hàng bị trễ do thiếu hàng",
+        "phrase": "The supplier promised to deliver the backorder next week.",
+        "ipa_phrase": "/ðə səˈplaɪər ˈprɑməst tu dɪˈlɪvər ðə ˈbækˌɔrdər nɛkst wik/",
+        "meaning_phrase": "Nhà cung cấp hứa giao đơn bị trễ vào tuần sau.",
+        "context": "Chuỗi cung ứng"
+    },
+    {
+        "word": "procurement",
+        "ipa_word": "/prəˈkjʊrmənt/",
+        "type": "Noun",
+        "meaning_word": "mua sắm hàng hóa / thu mua",
+        "phrase": "Procurement is responsible for sourcing materials.",
+        "ipa_phrase": "/prəˈkjʊrmənt ɪz rɪˈspɑnsəbəl fər ˈsɔrsɪŋ məˈtɪriəlz/",
+        "meaning_phrase": "Bộ phận thu mua chịu trách nhiệm tìm nguồn cung nguyên liệu.",
+        "context": "Chuỗi cung ứng"
+    },
+    {
+        "word": "supplier evaluation",
+        "ipa_word": "/səˈplaɪər ɪˌvæljuˈeɪʃən/",
+        "type": "Noun",
+        "meaning_word": "đánh giá nhà cung cấp",
+        "phrase": "We conduct supplier evaluation annually.",
+        "ipa_phrase": "/wi kənˈdʌkt səˈplaɪər ɪˌvæljuˈeɪʃən ˈænjuəli/",
+        "meaning_phrase": "Chúng tôi đánh giá nhà cung cấp hàng năm.",
+        "context": "Quản trị chuỗi cung ứng"
+    },
+    {
+        "word": "just-in-time",
+        "ipa_word": "/ʤʌst ɪn taɪm/",
+        "type": "Adjective",
+        "meaning_word": "vừa kịp lúc (mô hình sản xuất không tồn kho)",
+        "phrase": "The factory uses a just-in-time inventory system.",
+        "ipa_phrase": "/ðə ˈfæktəri juz ə ʤʌst ɪn taɪm ˈɪnvənˌtɔri ˈsɪstəm/",
+        "meaning_phrase": "Nhà máy áp dụng hệ thống tồn kho vừa đủ.",
+        "context": "Sản xuất tinh gọn"
+    },
+    {
+        "word": "last mile delivery",
+        "ipa_word": "/læst maɪl dɪˈlɪvəri/",
+        "type": "Noun",
+        "meaning_word": "giao hàng chặng cuối (đến tay khách hàng)",
+        "phrase": "Last mile delivery is crucial for customer satisfaction.",
+        "ipa_phrase": "/læst maɪl dɪˈlɪvəri ɪz ˈkruʃəl fər ˈkʌstəmər ˌsætəsˈfækʃən/",
+        "meaning_phrase": "Giao hàng chặng cuối rất quan trọng cho sự hài lòng của khách.",
+        "context": "Thương mại điện tử"
+    },
+    {
+        "word": "cold chain",
+        "ipa_word": "/koʊld ʧeɪn/",
+        "type": "Noun",
+        "meaning_word": "chuỗi cung ứng lạnh (cho thực phẩm, dược phẩm...)",
+        "phrase": "Cold chain management is vital for vaccine transport.",
+        "ipa_phrase": "/koʊld ʧeɪn ˈmænəʤmənt ɪz ˈvaɪtəl fər vækˈsin ˈtrænspɔrt/",
+        "meaning_phrase": "Quản lý chuỗi lạnh rất quan trọng khi vận chuyển vaccine.",
+        "context": "Hàng đặc biệt"
+    },
+    {
+        "word": "Incoterms",
+        "ipa_word": "/ˈɪnkoʊtɜrmz/",
+        "type": "Noun",
+        "meaning_word": "tập hợp các điều kiện thương mại quốc tế do ICC quy định",
+        "phrase": "Incoterms define the responsibilities between buyer and seller.",
+        "ipa_phrase": "/ˈɪnkoʊtɜrmz dɪˈfaɪn ðə rɪˌspɑnsəˈbɪlɪtiz bɪˈtwin ˈbaɪər ənd ˈsɛlər/",
+        "meaning_phrase": "Incoterms xác định trách nhiệm giữa người mua và người bán.",
+        "context": "Thương mại quốc tế"
+    },
+    {
+        "word": "FOB (Free On Board)",
+        "ipa_word": "/ɛf oʊ biː/",
+        "type": "Incoterm",
+        "meaning_word": "giao hàng lên tàu — người mua chịu chi phí từ cảng đi",
+        "phrase": "The goods were shipped under FOB terms.",
+        "ipa_phrase": "/ðə ɡʊdz wɜr ʃɪpt ˈʌndər ɛf oʊ bi tɜrmz/",
+        "meaning_phrase": "Hàng hóa được giao theo điều kiện FOB.",
+        "context": "Incoterms"
+    },
+    {
+        "word": "CIF (Cost, Insurance and Freight)",
+        "ipa_word": "/si aɪ ɛf/",
+        "type": "Incoterm",
+        "meaning_word": "giá đã bao gồm chi phí, bảo hiểm và cước phí",
+        "phrase": "The price includes CIF to the destination port.",
+        "ipa_phrase": "/ðə praɪs ɪnˈkludz si aɪ ɛf tu ðə ˌdɛstəˈneɪʃən pɔrt/",
+        "meaning_phrase": "Giá đã bao gồm CIF đến cảng đích.",
+        "context": "Xuất nhập khẩu"
+    },
+    {
+        "word": "EXW (Ex Works)",
+        "ipa_word": "/i ɛks ˈwɜrks/",
+        "type": "Incoterm",
+        "meaning_word": "giao tại xưởng — người mua chịu mọi chi phí vận chuyển",
+        "phrase": "EXW terms require the buyer to handle all shipping costs.",
+        "ipa_phrase": "/i ɛks ˈwɜrks tɜrmz rɪˈkwaɪər ðə ˈbaɪər tu ˈhændəl ɔl ˈʃɪpɪŋ kɔsts/",
+        "meaning_phrase": "Điều kiện EXW yêu cầu người mua chịu mọi chi phí vận chuyển.",
+        "context": "Incoterms"
+    },
+    {
+        "word": "container",
+        "ipa_word": "/kənˈteɪnər/",
+        "type": "Noun",
+        "meaning_word": "thùng chứa hàng tiêu chuẩn cho vận tải quốc tế",
+        "phrase": "The goods were loaded into a 40-foot container.",
+        "ipa_phrase": "/ðə ɡʊdz wɜr ˈloʊdɪd ˈɪntu ə ˈfɔrti fʊt kənˈteɪnər/",
+        "meaning_phrase": "Hàng hóa được chất vào container 40 feet.",
+        "context": "Vận tải đường biển"
+    },
+    {
+        "word": "LCL (Less than Container Load)",
+        "ipa_word": "/ɛl si ɛl/",
+        "type": "Noun",
+        "meaning_word": "hàng lẻ, không đủ đầy container",
+        "phrase": "We shipped the goods by LCL to save cost.",
+        "ipa_phrase": "/wi ʃɪpt ðə ɡʊdz baɪ ɛl si ɛl tu seɪv kɔst/",
+        "meaning_phrase": "Chúng tôi gửi hàng lẻ để tiết kiệm chi phí.",
+        "context": "Vận tải hàng lẻ"
+    },
+    {
+        "word": "FCL (Full Container Load)",
+        "ipa_word": "/ɛf si ɛl/",
+        "type": "Noun",
+        "meaning_word": "hàng nguyên container",
+        "phrase": "An FCL shipment is faster than LCL.",
+        "ipa_phrase": "/æn ɛf si ɛl ˈʃɪpmənt ɪz ˈfæstər ðæn ɛl si ɛl/",
+        "meaning_phrase": "Lô hàng nguyên container nhanh hơn hàng lẻ.",
+        "context": "Vận tải quốc tế"
+    },
+    {
+        "word": "reefer container",
+        "ipa_word": "/ˈriːfər kənˈteɪnər/",
+        "type": "Noun",
+        "meaning_word": "container lạnh (giữ nhiệt độ cho hàng hóa)",
+        "phrase": "Fruits are transported in reefer containers.",
+        "ipa_phrase": "/fruts ɑr ˈtrænspɔrtɪd ɪn ˈriːfər kənˈteɪnərz/",
+        "meaning_phrase": "Trái cây được vận chuyển bằng container lạnh.",
+        "context": "Hàng lạnh"
+    },
+    {
+        "word": "bill of lading",
+        "ipa_word": "/bɪl əv ˈleɪdɪŋ/",
+        "type": "Noun",
+        "meaning_word": "vận đơn — chứng từ vận chuyển hàng hóa",
+        "phrase": "The bill of lading was issued by the shipping line.",
+        "ipa_phrase": "/ðə bɪl əv ˈleɪdɪŋ wəz ˈɪʃud baɪ ðə ˈʃɪpɪŋ laɪn/",
+        "meaning_phrase": "Vận đơn được phát hành bởi hãng tàu.",
+        "context": "Chứng từ vận tải"
+    },
+    {
+        "word": "freight cost",
+        "ipa_word": "/freɪt kɔst/",
+        "type": "Noun",
+        "meaning_word": "chi phí vận chuyển hàng hóa",
+        "phrase": "Freight costs have increased due to fuel prices.",
+        "ipa_phrase": "/freɪt kɔsts hæv ɪnˈkrist du tu fjul ˈpraɪsɪz/",
+        "meaning_phrase": "Chi phí vận chuyển tăng do giá nhiên liệu.",
+        "context": "Chi phí logistics"
+    },
+    {
+        "word": "insurance premium",
+        "ipa_word": "/ɪnˈʃʊrəns ˈpriːmiəm/",
+        "type": "Noun",
+        "meaning_word": "phí bảo hiểm hàng hóa",
+        "phrase": "The insurance premium is paid by the exporter.",
+        "ipa_phrase": "/ðə ɪnˈʃʊrəns ˈpriːmiəm ɪz peɪd baɪ ði ɪkˈspɔrtər/",
+        "meaning_phrase": "Phí bảo hiểm được trả bởi người xuất khẩu.",
+        "context": "Bảo hiểm hàng hóa"
+    },
+    {
+        "word": "customs clearance",
+        "ipa_word": "/ˈkʌstəmz ˈklɪrəns/",
+        "type": "Noun",
+        "meaning_word": "thông quan — quá trình kiểm tra và chấp thuận hàng nhập/xuất",
+        "phrase": "Customs clearance took two days due to inspection.",
+        "ipa_phrase": "/ˈkʌstəmz ˈklɪrəns tʊk tu deɪz du tu ɪnˈspɛkʃən/",
+        "meaning_phrase": "Thông quan mất hai ngày do kiểm tra.",
+        "context": "Hải quan"
+    },
+    {
+        "word": "tariff",
+        "ipa_word": "/ˈtærɪf/",
+        "type": "Noun",
+        "meaning_word": "thuế nhập khẩu / biểu thuế",
+        "phrase": "Import tariffs have been reduced for electronics.",
+        "ipa_phrase": "/ˈɪmpɔrt ˈtærɪfs hæv bɪn rɪˈdusd fər ɪˌlɛkˈtrɑnɪks/",
+        "meaning_phrase": "Thuế nhập khẩu đã được giảm cho hàng điện tử.",
+        "context": "Thuế và hải quan"
+    },
+    {
+        "word": "HS code",
+        "ipa_word": "/eɪʧ ɛs koʊd/",
+        "type": "Noun",
+        "meaning_word": "mã phân loại hàng hóa quốc tế (Harmonized System Code)",
+        "phrase": "Each product must have an HS code for customs.",
+        "ipa_phrase": "/iʧ ˈprɑdəkt mʌst hæv æn eɪʧ ɛs koʊd fər ˈkʌstəmz/",
+        "meaning_phrase": "Mỗi sản phẩm phải có mã HS để làm thủ tục hải quan.",
+        "context": "Hải quan quốc tế"
+    },
+    {
+        "word": "demurrage",
+        "ipa_word": "/dɪˈmɜrɪʤ/",
+        "type": "Noun",
+        "meaning_word": "phí lưu container quá hạn tại cảng",
+        "phrase": "The consignee paid demurrage for delayed pickup.",
+        "ipa_phrase": "/ðə kənˈsaɪni peɪd dɪˈmɜrɪʤ fər dɪˈleɪd ˈpɪkʌp/",
+        "meaning_phrase": "Người nhận hàng phải trả phí lưu container vì lấy hàng trễ.",
+        "context": "Cảng biển"
+    },
+    {
+        "word": "ETA (Estimated Time of Arrival)",
+        "ipa_word": "/i ti eɪ/",
+        "type": "Abbreviation",
+        "meaning_word": "thời gian dự kiến đến nơi",
+        "phrase": "The ETA of the vessel is October 12.",
+        "ipa_phrase": "/ði i ti eɪ əv ðə ˈvɛsəl ɪz ɑkˈtoʊbər twɛlfθ/",
+        "meaning_phrase": "Thời gian dự kiến tàu đến là ngày 12 tháng 10.",
+        "context": "Lịch trình tàu"
+    },
+    {
+        "word": "ETD (Estimated Time of Departure)",
+        "ipa_word": "/i ti di/",
+        "type": "Abbreviation",
+        "meaning_word": "thời gian dự kiến khởi hành",
+        "phrase": "The ETD has been postponed due to bad weather.",
+        "ipa_phrase": "/ði i ti di hæz bɪn poʊstˈpoʊnd du tu bæd ˈwɛðər/",
+        "meaning_phrase": "Giờ khởi hành dự kiến bị hoãn do thời tiết xấu.",
+        "context": "Lịch trình vận chuyển"
+    },
+    {
+        "word": "transshipment",
+        "ipa_word": "/trænzˈʃɪpmənt/",
+        "type": "Noun",
+        "meaning_word": "chuyển tải — chuyển hàng giữa các tàu hoặc cảng",
+        "phrase": "The cargo will be transshipped in Singapore.",
+        "ipa_phrase": "/ðə ˈkɑrgoʊ wɪl bi trænzˈʃɪpt ɪn ˈsɪŋəˌpɔr/",
+        "meaning_phrase": "Hàng sẽ được chuyển tải tại Singapore.",
+        "context": "Vận tải đường biển"
+    },
+    {
+        "word": "tracking number",
+        "ipa_word": "/ˈtrækɪŋ ˈnʌmbər/",
+        "type": "Noun",
+        "meaning_word": "mã theo dõi đơn hàng / lô hàng",
+        "phrase": "You can check the delivery status using the tracking number.",
+        "ipa_phrase": "/ju kæn ʧɛk ðə dɪˈlɪvəri ˈstætəs ˈjuzɪŋ ðə ˈtrækɪŋ ˈnʌmbər/",
+        "meaning_phrase": "Bạn có thể kiểm tra tình trạng giao hàng bằng mã theo dõi.",
+        "context": "Theo dõi vận chuyển"
+    },
+    {
+        "word": "waybill",
+        "ipa_word": "/ˈweɪˌbɪl/",
+        "type": "Noun",
+        "meaning_word": "phiếu gửi hàng (vận đơn nội địa, hàng không, hoặc chuyển phát nhanh)",
+        "phrase": "The courier asked me to sign the waybill.",
+        "ipa_phrase": "/ðə ˈkʊriər æskt mi tu saɪn ðə ˈweɪˌbɪl/",
+        "meaning_phrase": "Nhân viên giao hàng yêu cầu tôi ký phiếu gửi hàng.",
+        "context": "Giao nhận nội địa"
+    },
+    {
+        "word": "3PL (Third-Party Logistics)",
+        "ipa_word": "/θɜrd ˈpɑrti loʊˈʤɪstɪks/",
+        "type": "Noun",
+        "meaning_word": "dịch vụ logistics bên thứ ba",
+        "phrase": "Our company uses a 3PL provider for fulfillment.",
+        "ipa_phrase": "/ˈaʊər ˈkʌmpəni juz ə θɜrd ˈpɑrti loʊˈʤɪstɪks prəˈvaɪdər fər fʊlˈfɪlmənt/",
+        "meaning_phrase": "Công ty chúng tôi sử dụng nhà cung cấp logistics bên thứ ba để xử lý đơn hàng.",
+        "context": "Dịch vụ logistics"
+    },
+    {
+        "word": "reverse logistics",
+        "ipa_word": "/rɪˈvɜrs loʊˈʤɪstɪks/",
+        "type": "Noun",
+        "meaning_word": "chuỗi logistics ngược (hàng trả lại, tái chế...)",
+        "phrase": "Reverse logistics manages returned products.",
+        "ipa_phrase": "/rɪˈvɜrs loʊˈʤɪstɪks ˈmænəʤɪz rɪˈtɜrnd ˈprɑdʌkts/",
+        "meaning_phrase": "Logistics ngược quản lý hàng hoàn trả.",
+        "context": "Thương mại điện tử"
+    },
+    {
+        "word": "cross-docking",
+        "ipa_word": "/krɔs ˈdɑkɪŋ/",
+        "type": "Noun",
+        "meaning_word": "chuyển hàng trực tiếp từ xe đến xe mà không lưu kho",
+        "phrase": "Cross-docking reduces storage time and cost.",
+        "ipa_phrase": "/krɔs ˈdɑkɪŋ rɪˈdusɪz ˈstɔrɪʤ taɪm ənd kɔst/",
+        "meaning_phrase": "Chuyển hàng trực tiếp giúp giảm thời gian và chi phí lưu kho.",
+        "context": "Vận hành kho"
+    },
+    {
+        "word": "SKU (Stock Keeping Unit)",
+        "ipa_word": "/ɛs keɪ juː/",
+        "type": "Noun",
+        "meaning_word": "mã định danh hàng hóa trong kho",
+        "phrase": "Each product has a unique SKU for tracking.",
+        "ipa_phrase": "/iʧ ˈprɑdəkt hæz ə juˈnik ɛs keɪ ju fər ˈtrækɪŋ/",
+        "meaning_phrase": "Mỗi sản phẩm có một mã SKU riêng để theo dõi.",
+        "context": "Quản lý kho"
+    },
+    {
+        "word": "barcode",
+        "ipa_word": "/ˈbɑrˌkoʊd/",
+        "type": "Noun",
+        "meaning_word": "mã vạch",
+        "phrase": "The worker scanned the barcode to confirm the item.",
+        "ipa_phrase": "/ðə ˈwɜrkər skænd ðə ˈbɑrˌkoʊd tu kənˈfɜrm ði ˈaɪtəm/",
+        "meaning_phrase": "Nhân viên quét mã vạch để xác nhận sản phẩm.",
+        "context": "Hệ thống kho tự động"
+    },
+    {
+        "word": "RFID (Radio Frequency Identification)",
+        "ipa_word": "/ˈreɪdioʊ ˈfrikwənsi aɪˌdɛntɪfɪˈkeɪʃən/",
+        "type": "Noun",
+        "meaning_word": "công nghệ nhận dạng bằng sóng vô tuyến",
+        "phrase": "RFID tags allow real-time tracking of shipments.",
+        "ipa_phrase": "/ˈreɪdioʊ ˈfrikwənsi teɡz əˈlaʊ ril taɪm ˈtrækɪŋ əv ˈʃɪpmənts/",
+        "meaning_phrase": "Thẻ RFID cho phép theo dõi lô hàng theo thời gian thực.",
+        "context": "Công nghệ logistics"
+    },
+    {
+        "word": "palletizing",
+        "ipa_word": "/ˈpælɪˌtaɪzɪŋ/",
+        "type": "Verb",
+        "meaning_word": "xếp hàng lên pallet để vận chuyển dễ dàng hơn",
+        "phrase": "The goods were palletized before loading onto the truck.",
+        "ipa_phrase": "/ðə ɡʊdz wɜr ˈpælɪˌtaɪzd bɪˈfɔr ˈloʊdɪŋ ˈɑntu ðə trʌk/",
+        "meaning_phrase": "Hàng hóa được xếp lên pallet trước khi chất lên xe tải.",
+        "context": "Kho bãi và vận chuyển"
+    },
+    {
+        "word": "fulfillment center",
+        "ipa_word": "/fʊlˈfɪlmənt ˈsɛntər/",
+        "type": "Noun",
+        "meaning_word": "trung tâm xử lý đơn hàng (như của Amazon, Shopee...)",
+        "phrase": "The fulfillment center handles thousands of orders daily.",
+        "ipa_phrase": "/ðə fʊlˈfɪlmənt ˈsɛntər ˈhændəlz ˈθaʊzəndz əv ˈɔrdərz ˈdeɪli/",
+        "meaning_phrase": "Trung tâm xử lý hàng ngàn đơn mỗi ngày.",
+        "context": "Thương mại điện tử"
+    },
+    {
+        "word": "WMS (Warehouse Management System)",
+        "ipa_word": "/ˈwɛrhaʊs ˈmænɪʤmənt ˈsɪstəm/",
+        "type": "Noun",
+        "meaning_word": "hệ thống quản lý kho",
+        "phrase": "A WMS helps optimize warehouse operations.",
+        "ipa_phrase": "/ə ˈwɛrhaʊs ˈmænɪʤmənt ˈsɪstəm hɛlps ˈɑptəˌmaɪz ˈwɛrhaʊs ˌɑpəˈreɪʃənz/",
+        "meaning_phrase": "Hệ thống quản lý kho giúp tối ưu hoạt động kho bãi.",
+        "context": "Phần mềm logistics"
+    },
+    {
+        "word": "automation",
+        "ipa_word": "/ˌɔtəˈmeɪʃən/",
+        "type": "Noun",
+        "meaning_word": "tự động hóa",
+        "phrase": "Automation improves efficiency in large warehouses.",
+        "ipa_phrase": "/ˌɔtəˈmeɪʃən ɪmˈpruvz ɪˈfɪʃənsi ɪn lɑrʤ ˈwɛrˌhaʊsɪz/",
+        "meaning_phrase": "Tự động hóa giúp tăng hiệu suất trong các kho lớn.",
+        "context": "Công nghệ logistics"
+    },
+    {
+        "word": "AI optimization",
+        "ipa_word": "/eɪ aɪ ˌɑptɪməˈzeɪʃən/",
+        "type": "Noun",
+        "meaning_word": "tối ưu bằng trí tuệ nhân tạo",
+        "phrase": "AI optimization predicts delivery delays in advance.",
+        "ipa_phrase": "/eɪ aɪ ˌɑptɪməˈzeɪʃən prɪˈdɪkts dɪˈlɪvəri dɪˈleɪz ɪn ædˈvæns/",
+        "meaning_phrase": "Trí tuệ nhân tạo dự đoán trước các chậm trễ giao hàng.",
+        "context": "Phân tích dữ liệu logistics"
+    },
+    {
+        "word": "sustainability",
+        "ipa_word": "/səˌsteɪnəˈbɪlɪti/",
+        "type": "Noun",
+        "meaning_word": "tính bền vững trong vận hành logistics",
+        "phrase": "Sustainability is now a key goal in global supply chains.",
+        "ipa_phrase": "/səˌsteɪnəˈbɪlɪti ɪz naʊ ə ki goʊl ɪn ˈgloʊbəl səˈplaɪ ʧeɪnz/",
+        "meaning_phrase": "Tính bền vững hiện là mục tiêu chính trong chuỗi cung ứng toàn cầu.",
+        "context": "Xu hướng hiện đại"
+    },
+    {
+        "word": "green logistics",
+        "ipa_word": "/ɡrin loʊˈʤɪstɪks/",
+        "type": "Noun",
+        "meaning_word": "logistics xanh — giảm phát thải, tiết kiệm năng lượng",
+        "phrase": "Green logistics focuses on eco-friendly transport.",
+        "ipa_phrase": "/ɡrin loʊˈʤɪstɪks ˈfoʊkəsɪz ɑn ˈikoʊ ˈfrɛndli ˈtrænspɔrt/",
+        "meaning_phrase": "Logistics xanh tập trung vào vận tải thân thiện môi trường.",
+        "context": "Phát triển bền vững"
+    },
+    {
+        "word": "drone delivery",
+        "ipa_word": "/droʊn dɪˈlɪvəri/",
+        "type": "Noun",
+        "meaning_word": "giao hàng bằng máy bay không người lái",
+        "phrase": "Drone delivery is being tested in urban areas.",
+        "ipa_phrase": "/droʊn dɪˈlɪvəri ɪz ˈbiɪŋ ˈtɛstɪd ɪn ˈɜrbən ˈɛriəz/",
+        "meaning_phrase": "Giao hàng bằng drone đang được thử nghiệm ở khu đô thị.",
+        "context": "Công nghệ mới"
+    },
+    {
+        "word": "last-mile optimization",
+        "ipa_word": "/læst maɪl ˌɑptɪməˈzeɪʃən/",
+        "type": "Noun",
+        "meaning_word": "tối ưu chặng giao hàng cuối cùng",
+        "phrase": "Last-mile optimization reduces delivery costs.",
+        "ipa_phrase": "/læst maɪl ˌɑptɪməˈzeɪʃən rɪˈdusɪz dɪˈlɪvəri kɔsts/",
+        "meaning_phrase": "Tối ưu chặng cuối giúp giảm chi phí giao hàng.",
+        "context": "Thương mại điện tử"
+    },
+    {
+        "word": "carrier network",
+        "ipa_word": "/ˈkæriər ˈnɛtwɜrk/",
+        "type": "Noun",
+        "meaning_word": "mạng lưới vận tải (hãng xe, tàu, máy bay...)",
+        "phrase": "A strong carrier network ensures timely deliveries.",
+        "ipa_phrase": "/ə strɔŋ ˈkæriər ˈnɛtwɜrk ɛnˈʃʊrz ˈtaɪmli dɪˈlɪvəriz/",
+        "meaning_phrase": "Mạng lưới vận tải mạnh đảm bảo giao hàng đúng hạn.",
+        "context": "Quản lý vận tải"
+    },
+    {
+        "word": "freight forwarder",
+        "ipa_word": "/freɪt ˈfɔrwərdər/",
+        "type": "Noun",
+        "meaning_word": "người giao nhận hàng hóa (đại lý logistics quốc tế)",
+        "phrase": "The freight forwarder handled all export paperwork.",
+        "ipa_phrase": "/ðə freɪt ˈfɔrwərdər ˈhændəld ɔl ˈɛkspɔrt ˈpeɪpərwɜrk/",
+        "meaning_phrase": "Đại lý giao nhận xử lý toàn bộ giấy tờ xuất khẩu.",
+        "context": "Xuất nhập khẩu"
+    },
+    {
+        "word": "intermodal transport",
+        "ipa_word": "/ˌɪntərˈmoʊdəl ˈtrænspɔrt/",
+        "type": "Noun",
+        "meaning_word": "vận chuyển liên hợp (nhiều phương tiện như tàu + xe tải...)",
+        "phrase": "Intermodal transport combines rail and truck delivery.",
+        "ipa_phrase": "/ˌɪntərˈmoʊdəl ˈtrænspɔrt kəmˈbaɪnz reɪl ənd trʌk dɪˈlɪvəri/",
+        "meaning_phrase": "Vận tải liên hợp kết hợp đường sắt và xe tải.",
+        "context": "Chuỗi cung ứng toàn cầu"
+    },
+    {
+        "word": "supply chain visibility",
+        "ipa_word": "/səˈplaɪ ʧeɪn ˌvɪzəˈbɪlɪti/",
+        "type": "Noun",
+        "meaning_word": "khả năng nhìn thấy toàn bộ chuỗi cung ứng (theo dõi từ đầu đến cuối)",
+        "phrase": "Supply chain visibility improves decision-making.",
+        "ipa_phrase": "/səˈplaɪ ʧeɪn ˌvɪzəˈbɪlɪti ɪmˈpruvz dɪˈsɪʒən ˈmeɪkɪŋ/",
+        "meaning_phrase": "Tăng khả năng nhìn rõ chuỗi cung ứng giúp ra quyết định tốt hơn.",
+        "context": "Phân tích chuỗi cung ứng"
+    },
+    {
+        "word": "E-commerce logistics",
+        "ipa_word": "/i ˈkɑmɜrs loʊˈʤɪstɪks/",
+        "type": "Noun",
+        "meaning_word": "logistics thương mại điện tử",
+        "phrase": "E-commerce logistics requires flexible delivery solutions.",
+        "ipa_phrase": "/i ˈkɑmɜrs loʊˈʤɪstɪks rɪˈkwaɪərz ˈflɛksəbəl dɪˈlɪvəri səˈluʃənz/",
+        "meaning_phrase": "Logistics thương mại điện tử cần giải pháp giao hàng linh hoạt.",
+        "context": "Thương mại điện tử"
+    }
+]

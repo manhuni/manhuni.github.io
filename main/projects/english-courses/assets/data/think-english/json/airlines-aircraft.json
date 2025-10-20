@@ -1,0 +1,802 @@
+[
+    {
+        "word": "airline",
+        "ipa_word": "/ˈɛrˌlaɪn/",
+        "type": "Noun",
+        "meaning_word": "hãng hàng không",
+        "phrase": "The airline offers flights to over 100 destinations.",
+        "ipa_phrase": "/ði ˈɛrˌlaɪn ˈɔfərz flaɪts tu ˈoʊvər wʌn ˈhʌndrəd ˌdɛstəˈneɪʃənz/",
+        "meaning_phrase": "Hãng hàng không cung cấp chuyến bay đến hơn 100 điểm đến.",
+        "context": "Ngành hàng không"
+    },
+    {
+        "word": "aircraft",
+        "ipa_word": "/ˈɛrˌkræft/",
+        "type": "Noun",
+        "meaning_word": "máy bay (nói chung, bao gồm cả trực thăng)",
+        "phrase": "The aircraft is ready for takeoff.",
+        "ipa_phrase": "/ði ˈɛrˌkræft ɪz ˈrɛdi fər ˈteɪˌkɔf/",
+        "meaning_phrase": "Máy bay đã sẵn sàng cất cánh.",
+        "context": "Kỹ thuật hàng không"
+    },
+    {
+        "word": "pilot",
+        "ipa_word": "/ˈpaɪlət/",
+        "type": "Noun",
+        "meaning_word": "phi công",
+        "phrase": "The pilot greeted passengers before departure.",
+        "ipa_phrase": "/ðə ˈpaɪlət ˈɡritɪd ˈpæsənʤərz bɪˈfɔr dɪˈpɑrʧər/",
+        "meaning_phrase": "Phi công chào hành khách trước khi khởi hành.",
+        "context": "Nhân sự hàng không"
+    },
+    {
+        "word": "co-pilot",
+        "ipa_word": "/ˈkoʊˌpaɪlət/",
+        "type": "Noun",
+        "meaning_word": "phi công phụ",
+        "phrase": "The co-pilot assists the captain during the flight.",
+        "ipa_phrase": "/ðə ˈkoʊˌpaɪlət əˈsɪsts ðə ˈkæptən ˈdʊrɪŋ ðə flaɪt/",
+        "meaning_phrase": "Phi công phụ hỗ trợ cơ trưởng trong chuyến bay.",
+        "context": "Tổ lái"
+    },
+    {
+        "word": "flight attendant",
+        "ipa_word": "/flaɪt əˈtɛndənt/",
+        "type": "Noun",
+        "meaning_word": "tiếp viên hàng không",
+        "phrase": "The flight attendant demonstrated the safety procedures.",
+        "ipa_phrase": "/ðə flaɪt əˈtɛndənt ˈdɛməˌstreɪtɪd ðə ˈseɪfti prəˈsiʤərz/",
+        "meaning_phrase": "Tiếp viên hàng không hướng dẫn các quy trình an toàn.",
+        "context": "Dịch vụ hành khách"
+    },
+    {
+        "word": "boarding pass",
+        "ipa_word": "/ˈbɔrdɪŋ pæs/",
+        "type": "Noun",
+        "meaning_word": "thẻ lên máy bay",
+        "phrase": "Please have your boarding pass and passport ready.",
+        "ipa_phrase": "/pliz hæv jʊr ˈbɔrdɪŋ pæs ənd ˈpæˌspɔrt ˈrɛdi/",
+        "meaning_phrase": "Vui lòng chuẩn bị sẵn thẻ lên máy bay và hộ chiếu.",
+        "context": "Làm thủ tục bay"
+    },
+    {
+        "word": "check-in counter",
+        "ipa_word": "/ˈʧɛk ɪn ˈkaʊntər/",
+        "type": "Noun",
+        "meaning_word": "quầy làm thủ tục bay",
+        "phrase": "They arrived early at the check-in counter.",
+        "ipa_phrase": "/ðeɪ əˈraɪvd ˈɜrli æt ðə ˈʧɛk ɪn ˈkaʊntər/",
+        "meaning_phrase": "Họ đến sớm tại quầy làm thủ tục.",
+        "context": "Sân bay"
+    },
+    {
+        "word": "boarding gate",
+        "ipa_word": "/ˈbɔrdɪŋ ɡeɪt/",
+        "type": "Noun",
+        "meaning_word": "cổng lên máy bay",
+        "phrase": "Flight 210 is now boarding at gate 5.",
+        "ipa_phrase": "/flaɪt tu wʌn oʊ ɪz naʊ ˈbɔrdɪŋ æt ɡeɪt faɪv/",
+        "meaning_phrase": "Chuyến bay 210 đang lên máy bay tại cổng số 5.",
+        "context": "Sân bay"
+    },
+    {
+        "word": "runway",
+        "ipa_word": "/ˈrʌnˌweɪ/",
+        "type": "Noun",
+        "meaning_word": "đường băng",
+        "phrase": "The plane is taxiing to the runway.",
+        "ipa_phrase": "/ðə pleɪn ɪz ˈtæksiɪŋ tu ðə ˈrʌnˌweɪ/",
+        "meaning_phrase": "Máy bay đang di chuyển ra đường băng.",
+        "context": "Sân bay"
+    },
+    {
+        "word": "takeoff",
+        "ipa_word": "/ˈteɪˌkɔf/",
+        "type": "Noun",
+        "meaning_word": "sự cất cánh",
+        "phrase": "The flight was delayed before takeoff.",
+        "ipa_phrase": "/ðə flaɪt wʌz dɪˈleɪd bɪˈfɔr ˈteɪˌkɔf/",
+        "meaning_phrase": "Chuyến bay bị hoãn trước khi cất cánh.",
+        "context": "Giai đoạn bay"
+    },
+    {
+        "word": "landing",
+        "ipa_word": "/ˈlændɪŋ/",
+        "type": "Noun",
+        "meaning_word": "hạ cánh",
+        "phrase": "The landing was smooth despite the rain.",
+        "ipa_phrase": "/ðə ˈlændɪŋ wʌz smuð dɪˈspaɪt ðə reɪn/",
+        "meaning_phrase": "Việc hạ cánh diễn ra êm dù có mưa.",
+        "context": "Giai đoạn bay"
+    },
+    {
+        "word": "air traffic control",
+        "ipa_word": "/ɛr ˈtræfɪk kənˈtroʊl/",
+        "type": "Noun",
+        "meaning_word": "kiểm soát không lưu",
+        "phrase": "Air traffic control cleared the plane for takeoff.",
+        "ipa_phrase": "/ɛr ˈtræfɪk kənˈtroʊl klɪrd ðə pleɪn fər ˈteɪˌkɔf/",
+        "meaning_phrase": "Kiểm soát không lưu cho phép máy bay cất cánh.",
+        "context": "Điều hành bay"
+    },
+    {
+        "word": "cockpit",
+        "ipa_word": "/ˈkɑkˌpɪt/",
+        "type": "Noun",
+        "meaning_word": "buồng lái",
+        "phrase": "Only pilots are allowed in the cockpit.",
+        "ipa_phrase": "/ˈoʊnli ˈpaɪləts ɑr əˈlaʊd ɪn ðə ˈkɑkˌpɪt/",
+        "meaning_phrase": "Chỉ phi công được phép vào buồng lái.",
+        "context": "Kỹ thuật bay"
+    },
+    {
+        "word": "cabin crew",
+        "ipa_word": "/ˈkæbən kruː/",
+        "type": "Noun",
+        "meaning_word": "phi hành đoàn (tiếp viên trong khoang hành khách)",
+        "phrase": "The cabin crew prepared the cabin for landing.",
+        "ipa_phrase": "/ðə ˈkæbən kru prɪˈpɛrd ðə ˈkæbən fər ˈlændɪŋ/",
+        "meaning_phrase": "Phi hành đoàn chuẩn bị khoang cho việc hạ cánh.",
+        "context": "Dịch vụ hàng không"
+    },
+    {
+        "word": "jet engine",
+        "ipa_word": "/ʤɛt ˈɛnʤɪn/",
+        "type": "Noun",
+        "meaning_word": "động cơ phản lực",
+        "phrase": "The jet engine produces massive thrust.",
+        "ipa_phrase": "/ðə ʤɛt ˈɛnʤɪn prəˈdusɪz ˈmæsɪv θrʌst/",
+        "meaning_phrase": "Động cơ phản lực tạo ra lực đẩy cực mạnh.",
+        "context": "Kỹ thuật máy bay"
+    },
+    {
+        "word": "turbulence",
+        "ipa_word": "/ˈtɜrbyələns/",
+        "type": "Noun",
+        "meaning_word": "nhiễu loạn không khí (rung lắc khi bay)",
+        "phrase": "The plane experienced light turbulence over the mountains.",
+        "ipa_phrase": "/ðə pleɪn ɪkˈspɪriənst laɪt ˈtɜrbyələns ˈoʊvər ðə ˈmaʊntənz/",
+        "meaning_phrase": "Máy bay gặp nhiễu loạn nhẹ trên vùng núi.",
+        "context": "Kinh nghiệm bay"
+    },
+    {
+        "word": "altitude",
+        "ipa_word": "/ˈæltɪˌtud/",
+        "type": "Noun",
+        "meaning_word": "độ cao so với mực nước biển",
+        "phrase": "The plane is cruising at an altitude of 35,000 feet.",
+        "ipa_phrase": "/ðə pleɪn ɪz ˈkruːzɪŋ æt æn ˈæltɪˌtud əv ˈθɜrti faɪv ˈθaʊzənd fit/",
+        "meaning_phrase": "Máy bay đang bay ổn định ở độ cao 35.000 feet.",
+        "context": "Thông tin chuyến bay"
+    },
+    {
+        "word": "fuselage",
+        "ipa_word": "/ˈfjuːsɪˌlɑʒ/",
+        "type": "Noun",
+        "meaning_word": "thân máy bay",
+        "phrase": "The fuselage was inspected for any damage.",
+        "ipa_phrase": "/ðə ˈfjuːsɪˌlɑʒ wʌz ɪnˈspɛktɪd fər ˈɛni ˈdæmɪʤ/",
+        "meaning_phrase": "Thân máy bay được kiểm tra xem có hư hại không.",
+        "context": "Kỹ thuật hàng không"
+    },
+    {
+        "word": "wing",
+        "ipa_word": "/wɪŋ/",
+        "type": "Noun",
+        "meaning_word": "cánh máy bay",
+        "phrase": "The wings provide lift during flight.",
+        "ipa_phrase": "/ðə wɪŋz prəˈvaɪd lɪft ˈdjʊrɪŋ flaɪt/",
+        "meaning_phrase": "Cánh máy bay tạo lực nâng khi bay.",
+        "context": "Cấu trúc máy bay"
+    },
+    {
+        "word": "Airbus",
+        "ipa_word": "/ˈɛrˌbʌs/",
+        "type": "Proper Noun",
+        "meaning_word": "hãng sản xuất máy bay Airbus (châu Âu)",
+        "phrase": "Airbus A350 is known for its fuel efficiency.",
+        "ipa_phrase": "/ˈɛrˌbʌs eɪ θri ˈfɪfti ɪz noʊn fər ɪts fjul ɪˈfɪʃənsi/",
+        "meaning_phrase": "Airbus A350 nổi tiếng vì tiết kiệm nhiên liệu.",
+        "context": "Thương hiệu máy bay"
+    },
+    {
+        "word": "Boeing",
+        "ipa_word": "/ˈboʊɪŋ/",
+        "type": "Proper Noun",
+        "meaning_word": "hãng sản xuất máy bay Boeing (Mỹ)",
+        "phrase": "Boeing 777 is one of the most popular long-haul aircraft.",
+        "ipa_phrase": "/ˈboʊɪŋ ˈtrɪpəl ˈsɛvən ɪz wʌn əv ðə moʊst ˈpɑpjələr lɔŋ hɔl ˈɛrˌkræft/",
+        "meaning_phrase": "Boeing 777 là một trong những máy bay đường dài phổ biến nhất.",
+        "context": "Thương hiệu máy bay"
+    },
+    {
+        "word": "emergency exit",
+        "ipa_word": "/ɪˈmɜːrdʒənsi ˈɛɡzɪt/",
+        "type": "Noun",
+        "meaning_word": "cửa thoát hiểm khẩn cấp",
+        "phrase": "Please locate your nearest emergency exit.",
+        "ipa_phrase": "/pliːz ˈloʊkeɪt jɔːr ˈnɪrəst ɪˈmɜːrdʒənsi ˈɛɡzɪt/",
+        "meaning_phrase": "Vui lòng xác định cửa thoát hiểm gần nhất của bạn.",
+        "context": "An toàn hàng không"
+    },
+    {
+        "word": "oxygen mask",
+        "ipa_word": "/ˈɑːksɪdʒən mæsk/",
+        "type": "Noun",
+        "meaning_word": "mặt nạ dưỡng khí",
+        "phrase": "Put on your oxygen mask before assisting others.",
+        "ipa_phrase": "/pʊt ɑːn jɔːr ˈɑːksɪdʒən mæsk bɪˈfɔːr əˈsɪstɪŋ ˈʌðərz/",
+        "meaning_phrase": "Hãy đeo mặt nạ dưỡng khí của bạn trước khi giúp người khác.",
+        "context": "An toàn bay"
+    },
+    {
+        "word": "runway",
+        "ipa_word": "/ˈrʌnweɪ/",
+        "type": "Noun",
+        "meaning_word": "đường băng",
+        "phrase": "The plane is waiting on the runway.",
+        "ipa_phrase": "/ðə pleɪn ɪz ˈweɪtɪŋ ɑn ðə ˈrʌnweɪ/",
+        "meaning_phrase": "Máy bay đang chờ trên đường băng.",
+        "context": "Sân bay"
+    },
+    {
+        "word": "takeoff",
+        "ipa_word": "/ˈteɪkˌɔːf/",
+        "type": "Noun",
+        "meaning_word": "sự cất cánh",
+        "phrase": "The takeoff was smooth and quiet.",
+        "ipa_phrase": "/ðə ˈteɪkˌɔːf wʌz smuːð ənd ˈkwaɪət/",
+        "meaning_phrase": "Chuyến cất cánh diễn ra êm ái và yên tĩnh.",
+        "context": "Giai đoạn bay"
+    },
+    {
+        "word": "landing gear",
+        "ipa_word": "/ˈlændɪŋ ɡɪr/",
+        "type": "Noun",
+        "meaning_word": "bánh đáp, bộ phận hạ cánh",
+        "phrase": "The pilot lowered the landing gear.",
+        "ipa_phrase": "/ðə ˈpaɪlət ˈloʊərd ðə ˈlændɪŋ ɡɪr/",
+        "meaning_phrase": "Phi công đã hạ bánh đáp.",
+        "context": "Kỹ thuật máy bay"
+    },
+    {
+        "word": "air traffic control",
+        "ipa_word": "/ɛr ˈtræfɪk kənˈtroʊl/",
+        "type": "Noun",
+        "meaning_word": "kiểm soát không lưu",
+        "phrase": "Air traffic control cleared the plane for landing.",
+        "ipa_phrase": "/ɛr ˈtræfɪk kənˈtroʊl klɪrd ðə pleɪn fɔːr ˈlændɪŋ/",
+        "meaning_phrase": "Trạm kiểm soát không lưu đã cho phép máy bay hạ cánh.",
+        "context": "Điều hành bay"
+    },
+    {
+        "word": "cockpit",
+        "ipa_word": "/ˈkɒkpɪt/",
+        "type": "Noun",
+        "meaning_word": "buồng lái",
+        "phrase": "Only authorized crew can enter the cockpit.",
+        "ipa_phrase": "/ˈoʊnli ˈɔːθəraɪzd kruː kæn ˈɛntər ðə ˈkɒkpɪt/",
+        "meaning_phrase": "Chỉ thành viên được phép mới có thể vào buồng lái.",
+        "context": "Kỹ thuật bay"
+    },
+    {
+        "word": "autopilot",
+        "ipa_word": "/ˈɔːtoʊˌpaɪlət/",
+        "type": "Noun",
+        "meaning_word": "chế độ lái tự động",
+        "phrase": "The aircraft is now on autopilot.",
+        "ipa_phrase": "/ði ˈɛrkræft ɪz naʊ ɑn ˈɔːtoʊˌpaɪlət/",
+        "meaning_phrase": "Máy bay hiện đang ở chế độ lái tự động.",
+        "context": "Công nghệ hàng không"
+    },
+    {
+        "word": "turbulence",
+        "ipa_word": "/ˈtɜːrbjələns/",
+        "type": "Noun",
+        "meaning_word": "nhiễu động không khí",
+        "phrase": "Please fasten your seatbelt due to turbulence.",
+        "ipa_phrase": "/pliːz ˈfæsn jɔːr ˈsiːtbɛlt duː tuː ˈtɜːrbjələns/",
+        "meaning_phrase": "Vui lòng thắt dây an toàn do máy bay đang rung lắc.",
+        "context": "Bay thực tế"
+    },
+    {
+        "word": "black box",
+        "ipa_word": "/blæk bɒks/",
+        "type": "Noun",
+        "meaning_word": "hộp đen (ghi dữ liệu chuyến bay)",
+        "phrase": "The black box records flight data.",
+        "ipa_phrase": "/ðə blæk bɒks rɪˈkɔːrdz flaɪt ˈdeɪtə/",
+        "meaning_phrase": "Hộp đen ghi lại dữ liệu chuyến bay.",
+        "context": "An toàn hàng không"
+    },
+    {
+        "word": "Boeing",
+        "ipa_word": "/ˈboʊɪŋ/",
+        "type": "Proper Noun",
+        "meaning_word": "hãng sản xuất máy bay Boeing",
+        "phrase": "Boeing produces many popular aircraft models.",
+        "ipa_phrase": "/ˈboʊɪŋ prəˈduːsɪz ˈmɛni ˈpɒpjələr ˈɛrkræft ˈmɒdəlz/",
+        "meaning_phrase": "Boeing sản xuất nhiều mẫu máy bay nổi tiếng.",
+        "context": "Hãng chế tạo máy bay"
+    },
+    {
+        "word": "Airbus",
+        "ipa_word": "/ˈɛrbʌs/",
+        "type": "Proper Noun",
+        "meaning_word": "hãng sản xuất máy bay Airbus",
+        "phrase": "The Airbus A350 is known for its efficiency.",
+        "ipa_phrase": "/ði ˈɛrbʌs eɪ θriː ˈfɪfti ɪz noʊn fɔːr ɪts ɪˈfɪʃənsi/",
+        "meaning_phrase": "Máy bay Airbus A350 nổi tiếng với hiệu suất cao.",
+        "context": "Hãng chế tạo máy bay"
+    },
+    {
+        "word": "fuselage",
+        "ipa_word": "/ˈfjuːzəlɑːʒ/",
+        "type": "Noun",
+        "meaning_word": "thân máy bay",
+        "phrase": "The fuselage is painted with the airline logo.",
+        "ipa_phrase": "/ðə ˈfjuːzəlɑːʒ ɪz ˈpeɪntɪd wɪð ði ˈɛrlaɪn ˈloʊɡoʊ/",
+        "meaning_phrase": "Thân máy bay được sơn logo của hãng hàng không.",
+        "context": "Cấu trúc máy bay"
+    },
+    {
+        "word": "wing",
+        "ipa_word": "/wɪŋ/",
+        "type": "Noun",
+        "meaning_word": "cánh máy bay",
+        "phrase": "There was ice forming on the wing.",
+        "ipa_phrase": "/ðɛr wʌz aɪs ˈfɔːrmɪŋ ɑn ðə wɪŋ/",
+        "meaning_phrase": "Có băng đang hình thành trên cánh máy bay.",
+        "context": "Cấu trúc máy bay"
+    },
+    {
+        "word": "engine",
+        "ipa_word": "/ˈɛnʤɪn/",
+        "type": "Noun",
+        "meaning_word": "động cơ máy bay",
+        "phrase": "The engine failure delayed the flight.",
+        "ipa_phrase": "/ði ˈɛnʤɪn ˈfeɪljər dɪˈleɪd ðə flaɪt/",
+        "meaning_phrase": "Sự cố động cơ khiến chuyến bay bị trì hoãn.",
+        "context": "Kỹ thuật máy bay"
+    },
+    {
+        "word": "propeller",
+        "ipa_word": "/prəˈpɛlər/",
+        "type": "Noun",
+        "meaning_word": "cánh quạt (máy bay động cơ cánh quạt)",
+        "phrase": "The propeller spins at a high speed.",
+        "ipa_phrase": "/ðə prəˈpɛlər spɪnz æt ə haɪ spiːd/",
+        "meaning_phrase": "Cánh quạt quay với tốc độ cao.",
+        "context": "Kỹ thuật bay"
+    },
+    {
+        "word": "jet engine",
+        "ipa_word": "/ʤɛt ˈɛnʤɪn/",
+        "type": "Noun",
+        "meaning_word": "động cơ phản lực",
+        "phrase": "Jet engines are used in most modern aircraft.",
+        "ipa_phrase": "/ʤɛt ˈɛnʤɪnz ɑr juːzd ɪn moʊst ˈmɒdərn ˈɛrkræft/",
+        "meaning_phrase": "Động cơ phản lực được dùng trong hầu hết các máy bay hiện đại.",
+        "context": "Công nghệ hàng không"
+    },
+    {
+        "word": "cockpit voice recorder",
+        "ipa_word": "/ˈkɒkpɪt vɔɪs rɪˈkɔːrdər/",
+        "type": "Noun",
+        "meaning_word": "thiết bị ghi âm buồng lái",
+        "phrase": "The cockpit voice recorder captured the last conversation.",
+        "ipa_phrase": "/ðə ˈkɒkpɪt vɔɪs rɪˈkɔːrdər ˈkæpʧərd ðə læst ˌkɒnvərˈseɪʃən/",
+        "meaning_phrase": "Thiết bị ghi âm buồng lái đã ghi lại cuộc hội thoại cuối cùng.",
+        "context": "An toàn bay"
+    },
+    {
+        "word": "flight path",
+        "ipa_word": "/flaɪt pæθ/",
+        "type": "Noun",
+        "meaning_word": "đường bay",
+        "phrase": "The flight path was adjusted due to weather conditions.",
+        "ipa_phrase": "/ðə flaɪt pæθ wʌz əˈʤʌstɪd duː tuː ˈwɛðər kənˈdɪʃənz/",
+        "meaning_phrase": "Đường bay được điều chỉnh do điều kiện thời tiết.",
+        "context": "Điều hành bay"
+    },
+    {
+        "word": "altitude",
+        "ipa_word": "/ˈæltɪtuːd/",
+        "type": "Noun",
+        "meaning_word": "độ cao",
+        "phrase": "The aircraft reached its cruising altitude.",
+        "ipa_phrase": "/ði ˈɛrkræft riːʧt ɪts ˈkruːzɪŋ ˈæltɪtuːd/",
+        "meaning_phrase": "Máy bay đã đạt đến độ cao hành trình.",
+        "context": "Bay thực tế"
+    },
+    {
+        "word": "ground crew",
+        "ipa_word": "/ɡraʊnd kruː/",
+        "type": "Noun",
+        "meaning_word": "đội phục vụ mặt đất",
+        "phrase": "The ground crew is preparing the plane for takeoff.",
+        "ipa_phrase": "/ðə ɡraʊnd kruː ɪz prɪˈpɛrɪŋ ðə pleɪn fɔːr ˈteɪkɔːf/",
+        "meaning_phrase": "Đội mặt đất đang chuẩn bị máy bay cho việc cất cánh.",
+        "context": "Hoạt động mặt đất"
+    },
+    {
+        "word": "gate agent",
+        "ipa_word": "/ɡeɪt ˈeɪʤənt/",
+        "type": "Noun",
+        "meaning_word": "nhân viên quầy lên máy bay",
+        "phrase": "The gate agent announced the final boarding call.",
+        "ipa_phrase": "/ðə ɡeɪt ˈeɪʤənt əˈnaʊnst ðə ˈfaɪnəl ˈbɔːrdɪŋ kɔːl/",
+        "meaning_phrase": "Nhân viên quầy lên máy bay thông báo lần gọi cuối cùng.",
+        "context": "Sân bay"
+    },
+    {
+        "word": "maintenance check",
+        "ipa_word": "/ˈmeɪntənəns ʧɛk/",
+        "type": "Noun",
+        "meaning_word": "kiểm tra bảo dưỡng",
+        "phrase": "The aircraft is undergoing a routine maintenance check.",
+        "ipa_phrase": "/ði ˈɛrkræft ɪz ˌʌndərˈɡoʊɪŋ ə ruːˈtiːn ˈmeɪntənəns ʧɛk/",
+        "meaning_phrase": "Máy bay đang được kiểm tra bảo dưỡng định kỳ.",
+        "context": "Kỹ thuật hàng không"
+    },
+    {
+        "word": "refueling",
+        "ipa_word": "/riːˈfjuːəlɪŋ/",
+        "type": "Noun",
+        "meaning_word": "tiếp nhiên liệu",
+        "phrase": "Refueling takes place before every flight.",
+        "ipa_phrase": "/riːˈfjuːəlɪŋ teɪks pleɪs bɪˈfɔːr ˈɛvri flaɪt/",
+        "meaning_phrase": "Việc tiếp nhiên liệu diễn ra trước mỗi chuyến bay.",
+        "context": "Kỹ thuật bay"
+    },
+    {
+        "word": "hangar",
+        "ipa_word": "/ˈhæŋər/",
+        "type": "Noun",
+        "meaning_word": "nhà chứa máy bay",
+        "phrase": "The aircraft is parked inside the hangar for repairs.",
+        "ipa_phrase": "/ði ˈɛrkræft ɪz pɑːrkt ɪnˈsaɪd ðə ˈhæŋər fɔːr rɪˈpɛrz/",
+        "meaning_phrase": "Máy bay được đỗ trong nhà chứa để sửa chữa.",
+        "context": "Cơ sở vật chất"
+    },
+    {
+        "word": "boarding bridge",
+        "ipa_word": "/ˈbɔːrdɪŋ brɪʤ/",
+        "type": "Noun",
+        "meaning_word": "ống lồng lên máy bay",
+        "phrase": "Passengers are walking through the boarding bridge.",
+        "ipa_phrase": "/ˈpæsɪnʤərz ɑr ˈwɔːkɪŋ θruː ðə ˈbɔːrdɪŋ brɪʤ/",
+        "meaning_phrase": "Hành khách đang đi qua ống lồng để lên máy bay.",
+        "context": "Sân bay"
+    },
+    {
+        "word": "baggage claim",
+        "ipa_word": "/ˈbæɡɪʤ kleɪm/",
+        "type": "Noun",
+        "meaning_word": "khu nhận hành lý",
+        "phrase": "Please proceed to baggage claim area B.",
+        "ipa_phrase": "/pliːz proʊˈsiːd tuː ˈbæɡɪʤ kleɪm ˈɛriə biː/",
+        "meaning_phrase": "Vui lòng di chuyển đến khu nhận hành lý B.",
+        "context": "Sân bay"
+    },
+    {
+        "word": "customs inspection",
+        "ipa_word": "/ˈkʌstəmz ɪnˈspɛkʃən/",
+        "type": "Noun",
+        "meaning_word": "kiểm tra hải quan",
+        "phrase": "Your luggage may be subject to customs inspection.",
+        "ipa_phrase": "/jʊər ˈlʌɡɪʤ meɪ bi ˈsʌbʤɛkt tuː ˈkʌstəmz ɪnˈspɛkʃən/",
+        "meaning_phrase": "Hành lý của bạn có thể bị kiểm tra hải quan.",
+        "context": "Sân bay quốc tế"
+    },
+    {
+        "word": "flight simulator",
+        "ipa_word": "/flaɪt ˈsɪmjəˌleɪtər/",
+        "type": "Noun",
+        "meaning_word": "buồng mô phỏng bay",
+        "phrase": "Pilots train in a flight simulator before real flights.",
+        "ipa_phrase": "/ˈpaɪləts treɪn ɪn ə flaɪt ˈsɪmjəˌleɪtər bɪˈfɔːr riːəl flaɪts/",
+        "meaning_phrase": "Phi công luyện tập trong buồng mô phỏng trước các chuyến bay thực tế.",
+        "context": "Đào tạo hàng không"
+    },
+    {
+        "word": "cabin pressure",
+        "ipa_word": "/ˈkæbɪn ˈprɛʃər/",
+        "type": "Noun",
+        "meaning_word": "áp suất trong khoang",
+        "phrase": "The cabin pressure is automatically adjusted.",
+        "ipa_phrase": "/ðə ˈkæbɪn ˈprɛʃər ɪz ˌɔːtəˈmætɪkli əˈʤʌstɪd/",
+        "meaning_phrase": "Áp suất trong khoang được điều chỉnh tự động.",
+        "context": "Kỹ thuật bay"
+    },
+    {
+        "word": "altimeter",
+        "ipa_word": "/ælˈtɪmɪtər/",
+        "type": "Noun",
+        "meaning_word": "đồng hồ đo độ cao",
+        "phrase": "The altimeter shows the aircraft’s altitude.",
+        "ipa_phrase": "/ði ælˈtɪmɪtər ʃoʊz ði ˈɛrkræfts ˈæltɪtuːd/",
+        "meaning_phrase": "Đồng hồ đo độ cao hiển thị độ cao của máy bay.",
+        "context": "Thiết bị bay"
+    },
+    {
+        "word": "airspeed indicator",
+        "ipa_word": "/ˈɛrspiːd ˈɪndɪˌkeɪtər/",
+        "type": "Noun",
+        "meaning_word": "đồng hồ đo tốc độ bay",
+        "phrase": "The airspeed indicator helps pilots maintain proper speed.",
+        "ipa_phrase": "/ði ˈɛrspiːd ˈɪndɪˌkeɪtər hɛlps ˈpaɪləts meɪnˈteɪn ˈprɒpər spiːd/",
+        "meaning_phrase": "Đồng hồ đo tốc độ giúp phi công duy trì vận tốc thích hợp.",
+        "context": "Buồng lái"
+    },
+    {
+        "word": "navigation system",
+        "ipa_word": "/ˌnævɪˈɡeɪʃən ˈsɪstəm/",
+        "type": "Noun",
+        "meaning_word": "hệ thống định vị",
+        "phrase": "Modern planes use GPS navigation systems.",
+        "ipa_phrase": "/ˈmɒdərn pleɪnz juːz ˌʤiːpiːɛs ˈnævɪˌɡeɪʃən ˈsɪstəmz/",
+        "meaning_phrase": "Máy bay hiện đại sử dụng hệ thống định vị GPS.",
+        "context": "Kỹ thuật hàng không"
+    },
+    {
+        "word": "cockpit door",
+        "ipa_word": "/ˈkɒkpɪt dɔːr/",
+        "type": "Noun",
+        "meaning_word": "cửa buồng lái",
+        "phrase": "The cockpit door must remain locked during flight.",
+        "ipa_phrase": "/ðə ˈkɒkpɪt dɔːr mʌst rɪˈmeɪn lɒkt ˈdjʊərɪŋ flaɪt/",
+        "meaning_phrase": "Cửa buồng lái phải luôn khóa trong khi bay.",
+        "context": "An toàn bay"
+    },
+    {
+        "word": "in-flight entertainment",
+        "ipa_word": "/ɪn flaɪt ˌɛntərˈteɪnmənt/",
+        "type": "Noun",
+        "meaning_word": "giải trí trên chuyến bay",
+        "phrase": "The in-flight entertainment offers movies and games.",
+        "ipa_phrase": "/ði ɪn flaɪt ˌɛntərˈteɪnmənt ˈɔfərz ˈmuːviz ənd ɡeɪmz/",
+        "meaning_phrase": "Hệ thống giải trí trên chuyến bay có phim và trò chơi.",
+        "context": "Dịch vụ hành khách"
+    },
+    {
+        "word": "seat pitch",
+        "ipa_word": "/siːt pɪʧ/",
+        "type": "Noun",
+        "meaning_word": "khoảng cách giữa các hàng ghế",
+        "phrase": "This airline offers generous seat pitch in economy class.",
+        "ipa_phrase": "/ðɪs ˈɛrlaɪn ˈɔfərz ˈʤɛnərəs siːt pɪʧ ɪn ɪˈkɒnəmi klæs/",
+        "meaning_phrase": "Hãng hàng không này có khoảng cách ghế rộng ở hạng phổ thông.",
+        "context": "Tiện nghi bay"
+    },
+    {
+        "word": "overhead bin",
+        "ipa_word": "/ˈoʊvərˌhɛd bɪn/",
+        "type": "Noun",
+        "meaning_word": "ngăn hành lý trên đầu",
+        "phrase": "Please store your bags in the overhead bin.",
+        "ipa_phrase": "/pliːz stɔːr jʊər bægz ɪn ði ˈoʊvərˌhɛd bɪn/",
+        "meaning_phrase": "Vui lòng cất túi của bạn vào ngăn hành lý trên đầu.",
+        "context": "Khoang hành khách"
+    },
+    {
+        "word": "aisle seat",
+        "ipa_word": "/aɪl siːt/",
+        "type": "Noun",
+        "meaning_word": "ghế lối đi",
+        "phrase": "I prefer an aisle seat for easy access.",
+        "ipa_phrase": "/aɪ prɪˈfɜːr æn aɪl siːt fɔːr ˈiːzi ˈæksɛs/",
+        "meaning_phrase": "Tôi thích ngồi ghế lối đi để dễ di chuyển.",
+        "context": "Chọn chỗ ngồi"
+    },
+    {
+        "word": "window seat",
+        "ipa_word": "/ˈwɪndoʊ siːt/",
+        "type": "Noun",
+        "meaning_word": "ghế cạnh cửa sổ",
+        "phrase": "She always books a window seat to enjoy the view.",
+        "ipa_phrase": "/ʃiː ˈɔːlweɪz bʊks ə ˈwɪndoʊ siːt tuː ɪnˈʤɔɪ ðə vjuː/",
+        "meaning_phrase": "Cô ấy luôn đặt ghế cạnh cửa sổ để ngắm cảnh.",
+        "context": "Chọn chỗ ngồi"
+    },
+    {
+        "word": "checked baggage",
+        "ipa_word": "/ʧɛkt ˈbæɡɪʤ/",
+        "type": "Noun",
+        "meaning_word": "hành lý ký gửi",
+        "phrase": "Your checked baggage will be tagged and loaded.",
+        "ipa_phrase": "/jʊər ʧɛkt ˈbæɡɪʤ wɪl bi tæɡd ənd ˈloʊdɪd/",
+        "meaning_phrase": "Hành lý ký gửi của bạn sẽ được gắn thẻ và chất lên máy bay.",
+        "context": "Dịch vụ hành lý"
+    },
+    {
+        "word": "IATA code",
+        "ipa_word": "/aɪˈɑːtə koʊd/",
+        "type": "Noun",
+        "meaning_word": "mã sân bay 3 ký tự theo IATA",
+        "phrase": "The IATA code for Los Angeles International Airport is LAX.",
+        "ipa_phrase": "/ði aɪˈɑːtə koʊd fɔr lɒs ˈænʤələs ˌɪntərˈnæʃənl ˈɛrˌpɔrt ɪz ɛl eɪ ɛks/",
+        "meaning_phrase": "Mã IATA của sân bay Los Angeles là LAX.",
+        "context": "Mã sân bay"
+    },
+    {
+        "word": "ICAO code",
+        "ipa_word": "/aɪˈkeɪoʊ koʊd/",
+        "type": "Noun",
+        "meaning_word": "mã sân bay 4 ký tự theo ICAO",
+        "phrase": "The ICAO code for LAX is KLAX.",
+        "ipa_phrase": "/ði aɪˈkeɪoʊ koʊd fɔr ɛl eɪ ɛks ɪz keɪ ɛl eɪ ɛks/",
+        "meaning_phrase": "Mã ICAO của sân bay LAX là KLAX.",
+        "context": "Mã hàng không"
+    },
+    {
+        "word": "flight level",
+        "ipa_word": "/flaɪt ˈlɛvəl/",
+        "type": "Noun",
+        "meaning_word": "mức bay (độ cao được chuẩn hóa theo hàng trăm feet)",
+        "phrase": "The aircraft is cruising at flight level 350.",
+        "ipa_phrase": "/ði ˈɛrkræft ɪz ˈkruːzɪŋ ət flaɪt ˈlɛvəl θriː faɪv ˈzɪəroʊ/",
+        "meaning_phrase": "Máy bay đang bay ở mức FL350.",
+        "context": "Kiểm soát không lưu"
+    },
+    {
+        "word": "call sign",
+        "ipa_word": "/kɔːl saɪn/",
+        "type": "Noun",
+        "meaning_word": "danh hiệu gọi của máy bay (dùng trong vô tuyến)",
+        "phrase": "The pilot responded to ATC using the call sign Speedbird 123.",
+        "ipa_phrase": "/ðə ˈpaɪlət rɪˈspɒndɪd tu ˈeɪ tiː siː ˈjuːzɪŋ ðə kɔːl saɪn ˈspiːdbɜːd wʌn tuː θriː/",
+        "meaning_phrase": "Phi công trả lời kiểm soát không lưu bằng danh hiệu Speedbird 123.",
+        "context": "Giao tiếp vô tuyến"
+    },
+    {
+        "word": "ATC",
+        "ipa_word": "/ˌeɪ tiː ˈsiː/",
+        "type": "Abbreviation",
+        "meaning_word": "Air Traffic Control – kiểm soát không lưu",
+        "phrase": "ATC instructed the pilot to climb to FL200.",
+        "ipa_phrase": "/ˌeɪ tiː ˈsiː ɪnˈstrʌktɪd ðə ˈpaɪlət tu klaɪm tu ɛf ɛl tuː ˈhʌndrəd/",
+        "meaning_phrase": "ATC hướng dẫn phi công tăng độ cao lên FL200.",
+        "context": "Kiểm soát bay"
+    },
+    {
+        "word": "roger",
+        "ipa_word": "/ˈrɒʤər/",
+        "type": "Phrase",
+        "meaning_word": "đã rõ (trong liên lạc vô tuyến)",
+        "phrase": "Roger, climbing to flight level 250.",
+        "ipa_phrase": "/ˈrɒʤər ˈklaɪmɪŋ tu flaɪt ˈlɛvəl tuː faɪv ˈzɪəroʊ/",
+        "meaning_phrase": "Đã rõ, đang leo lên FL250.",
+        "context": "Thuật ngữ radio"
+    },
+    {
+        "word": "affirmative",
+        "ipa_word": "/əˈfɜːrmətɪv/",
+        "type": "Phrase",
+        "meaning_word": "đúng vậy / đồng ý (trong radio)",
+        "phrase": "Affirmative, cleared for takeoff runway 09.",
+        "ipa_phrase": "/əˈfɜːrmətɪv, klɪrd fɔr ˈteɪkˌɔf ˈrʌnˌweɪ ˈnaɪn/",
+        "meaning_phrase": "Đúng vậy, được phép cất cánh trên đường băng 09.",
+        "context": "Liên lạc phi công"
+    },
+    {
+        "word": "negative",
+        "ipa_word": "/ˈnɛɡətɪv/",
+        "type": "Phrase",
+        "meaning_word": "không / từ chối (trong radio)",
+        "phrase": "Negative, we are not ready for taxi.",
+        "ipa_phrase": "/ˈnɛɡətɪv, wi ɑr nɒt ˈrɛdi fɔr ˈtæksi/",
+        "meaning_phrase": "Không, chúng tôi chưa sẵn sàng di chuyển.",
+        "context": "Liên lạc radio"
+    },
+    {
+        "word": "squawk code",
+        "ipa_word": "/skwɔːk koʊd/",
+        "type": "Noun",
+        "meaning_word": "mã nhận dạng máy bay trên radar",
+        "phrase": "Set squawk code 7500 for hijacking.",
+        "ipa_phrase": "/sɛt skwɔːk koʊd ˈsɛvən faɪv ˈzɪəroʊ ˈzɪəroʊ fər ˈhaɪʤækɪŋ/",
+        "meaning_phrase": "Đặt mã 7500 khi bị không tặc.",
+        "context": "Tín hiệu radar"
+    },
+    {
+        "word": "Mayday",
+        "ipa_word": "/ˈmeɪdeɪ/",
+        "type": "Phrase",
+        "meaning_word": "tín hiệu khẩn cấp nguy hiểm tính mạng",
+        "phrase": "The pilot declared 'Mayday' due to engine failure.",
+        "ipa_phrase": "/ðə ˈpaɪlət dɪˈklɛrd ˈmeɪdeɪ djuː tu ˈɛnʤɪn ˈfeɪljər/",
+        "meaning_phrase": "Phi công phát tín hiệu 'Mayday' vì hỏng động cơ.",
+        "context": "Khẩn cấp hàng không"
+    },
+    {
+        "word": "Pan-Pan",
+        "ipa_word": "/ˈpæn pæn/",
+        "type": "Phrase",
+        "meaning_word": "tín hiệu khẩn cấp không nguy hiểm tính mạng",
+        "phrase": "The aircraft called 'Pan-Pan' due to minor technical issue.",
+        "ipa_phrase": "/ði ˈɛrkræft kɔld ˈpæn pæn djuː tu ˈmaɪnər ˈtɛknɪkəl ˈɪʃuː/",
+        "meaning_phrase": "Máy bay phát tín hiệu 'Pan-Pan' vì trục trặc nhỏ.",
+        "context": "Liên lạc khẩn"
+    },
+    {
+        "word": "runway incursion",
+        "ipa_word": "/ˈrʌnˌweɪ ɪnˈkɜːrʒən/",
+        "type": "Noun",
+        "meaning_word": "xâm nhập đường băng trái phép",
+        "phrase": "ATC reported a runway incursion involving a service truck.",
+        "ipa_phrase": "/ˌeɪ tiː ˈsiː rɪˈpɔːrtɪd ə ˈrʌnˌweɪ ɪnˈkɜːrʒən ɪnˈvɑlvɪŋ ə ˈsɜrvɪs trʌk/",
+        "meaning_phrase": "ATC báo cáo có xe dịch vụ xâm nhập đường băng trái phép.",
+        "context": "An toàn sân bay"
+    },
+    {
+        "word": "taxiway",
+        "ipa_word": "/ˈtæksiˌweɪ/",
+        "type": "Noun",
+        "meaning_word": "đường lăn nối giữa bãi đỗ và đường băng",
+        "phrase": "The aircraft is taxiing via taxiway Bravo.",
+        "ipa_phrase": "/ði ˈɛrkræft ɪz ˈtæksiɪŋ ˈvaɪə ˈtæksiˌweɪ ˈbrɑːvoʊ/",
+        "meaning_phrase": "Máy bay đang di chuyển qua đường lăn Bravo.",
+        "context": "Điều hướng mặt đất"
+    },
+    {
+        "word": "clearance",
+        "ipa_word": "/ˈklɪərəns/",
+        "type": "Noun",
+        "meaning_word": "sự cho phép (từ ATC cho cất hoặc hạ cánh)",
+        "phrase": "We received takeoff clearance from tower.",
+        "ipa_phrase": "/wi rɪˈsiːvd ˈteɪkˌɔf ˈklɪərəns frʌm ˈtaʊər/",
+        "meaning_phrase": "Chúng tôi đã nhận được lệnh cất cánh từ tháp điều khiển.",
+        "context": "Giao tiếp ATC"
+    },
+    {
+        "word": "holding pattern",
+        "ipa_word": "/ˈhoʊldɪŋ ˈpætərn/",
+        "type": "Noun",
+        "meaning_word": "quỹ đạo bay vòng chờ hạ cánh",
+        "phrase": "The aircraft entered a holding pattern due to traffic.",
+        "ipa_phrase": "/ði ˈɛrkræft ˈɛntərd ə ˈhoʊldɪŋ ˈpætərn djuː tu ˈtræfɪk/",
+        "meaning_phrase": "Máy bay bay vòng chờ vì lưu lượng không lưu cao.",
+        "context": "Kiểm soát bay"
+    },
+    {
+        "word": "visual approach",
+        "ipa_word": "/ˈvɪʒuəl əˈproʊʧ/",
+        "type": "Noun",
+        "meaning_word": "tiếp cận bằng mắt thường (không dùng thiết bị)",
+        "phrase": "The pilot performed a visual approach to runway 27.",
+        "ipa_phrase": "/ðə ˈpaɪlət pərˈfɔrmd ə ˈvɪʒuəl əˈproʊʧ tu ˈrʌnˌweɪ twɛnti ˈsɛvən/",
+        "meaning_phrase": "Phi công hạ cánh bằng mắt thường xuống đường băng 27.",
+        "context": "Kỹ năng bay"
+    },
+    {
+        "word": "instrument landing system",
+        "ipa_word": "/ˈɪnstrəmənt ˈlændɪŋ ˈsɪstəm/",
+        "type": "Noun",
+        "meaning_word": "hệ thống hạ cánh bằng thiết bị (ILS)",
+        "phrase": "ILS assists pilots in low visibility.",
+        "ipa_phrase": "/aɪ ɛl ɛs əˈsɪsts ˈpaɪləts ɪn loʊ ˌvɪzəˈbɪlɪti/",
+        "meaning_phrase": "Hệ thống ILS giúp phi công khi tầm nhìn kém.",
+        "context": "Thiết bị hàng không"
+    },
+    {
+        "word": "transponder",
+        "ipa_word": "/trænˈspɒndər/",
+        "type": "Noun",
+        "meaning_word": "thiết bị phát tín hiệu định danh máy bay",
+        "phrase": "The transponder sends a unique code to ATC radar.",
+        "ipa_phrase": "/ðə trænˈspɒndər sɛndz ə juˈnik koʊd tu ˈeɪ tiː siː ˈreɪdɑr/",
+        "meaning_phrase": "Thiết bị transponder gửi mã nhận dạng đến radar ATC.",
+        "context": "Hệ thống điện tử"
+    },
+    {
+        "word": "tower frequency",
+        "ipa_word": "/ˈtaʊər ˈfriːkwənsi/",
+        "type": "Noun",
+        "meaning_word": "tần số liên lạc với tháp điều khiển",
+        "phrase": "Switch to tower frequency one one eight point seven.",
+        "ipa_phrase": "/swɪʧ tu ˈtaʊər ˈfriːkwənsi wʌn wʌn eɪt pɔɪnt ˈsɛvən/",
+        "meaning_phrase": "Chuyển sang tần số tháp điều khiển 118.7.",
+        "context": "Liên lạc radio"
+    }
+]
