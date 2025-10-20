@@ -1,0 +1,1012 @@
+[
+    {
+        "word": "democracy",
+        "ipa_word": "/dɪˈmɒkrəsi/",
+        "type": "Noun",
+        "meaning_word": "nền dân chủ, chế độ dân chủ",
+        "phrase": "Democracy gives people the power to choose their leaders.",
+        "ipa_phrase": "/dɪˈmɒkrəsi ɡɪvz ˈpiːpəl ðə ˈpaʊər tu ʧuːz ðɛr ˈliːdərz/",
+        "meaning_phrase": "Nền dân chủ trao cho người dân quyền lựa chọn người lãnh đạo của họ.",
+        "context": "Chính trị, xã hội"
+    },
+    {
+        "word": "republic",
+        "ipa_word": "/rɪˈpʌblɪk/",
+        "type": "Noun",
+        "meaning_word": "nền cộng hòa",
+        "phrase": "The country became a republic after gaining independence.",
+        "ipa_phrase": "/ðə ˈkʌntri bɪˈkeɪm ə rɪˈpʌblɪk ˈæftər ˈɡeɪnɪŋ ˌɪndɪˈpɛndəns/",
+        "meaning_phrase": "Quốc gia này trở thành một nền cộng hòa sau khi giành độc lập.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "capitalism",
+        "ipa_word": "/ˈkæpɪtəlɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa tư bản",
+        "phrase": "Capitalism encourages private ownership and competition.",
+        "ipa_phrase": "/ˈkæpɪtəlɪzəm ɪnˈkʌrɪʤɪz ˈpraɪvət ˈoʊnərʃɪp ənd ˌkɑːmpəˈtɪʃən/",
+        "meaning_phrase": "Chủ nghĩa tư bản khuyến khích sở hữu tư nhân và cạnh tranh.",
+        "context": "Hệ tư tưởng kinh tế"
+    },
+    {
+        "word": "socialism",
+        "ipa_word": "/ˈsoʊʃəlɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa xã hội",
+        "phrase": "Socialism promotes equality and public ownership of resources.",
+        "ipa_phrase": "/ˈsoʊʃəlɪzəm prəˈmoʊts ɪˈkwɑːləti ənd ˈpʌblɪk ˈoʊnərʃɪp əv ˈrisɔrsɪz/",
+        "meaning_phrase": "Chủ nghĩa xã hội thúc đẩy bình đẳng và sở hữu công cộng về tài nguyên.",
+        "context": "Hệ tư tưởng kinh tế – chính trị"
+    },
+    {
+        "word": "communism",
+        "ipa_word": "/ˈkɒmjʊnɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa cộng sản",
+        "phrase": "Communism aims for a classless society with shared ownership.",
+        "ipa_phrase": "/ˈkɒmjʊnɪzəm eɪmz fɔr ə ˈklæsləs səˈsaɪəti wɪð ʃɛrd ˈoʊnərʃɪp/",
+        "meaning_phrase": "Chủ nghĩa cộng sản hướng tới một xã hội không giai cấp với sở hữu chung.",
+        "context": "Hệ tư tưởng chính trị"
+    },
+    {
+        "word": "liberalism",
+        "ipa_word": "/ˈlɪbərəlɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa tự do",
+        "phrase": "Liberalism values individual rights and freedoms.",
+        "ipa_phrase": "/ˈlɪbərəlɪzəm ˈvæljuːz ˌɪndəˈvɪʤuəl raɪts ənd ˈfriːdəmz/",
+        "meaning_phrase": "Chủ nghĩa tự do đề cao quyền và tự do cá nhân.",
+        "context": "Chính trị học thuyết"
+    },
+    {
+        "word": "conservatism",
+        "ipa_word": "/kənˈsɜːvətɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa bảo thủ",
+        "phrase": "Conservatism supports traditional values and slow change.",
+        "ipa_phrase": "/kənˈsɜːvətɪzəm səˈpɔrts trəˈdɪʃənəl ˈvæljuːz ənd sloʊ ʧeɪnʤ/",
+        "meaning_phrase": "Chủ nghĩa bảo thủ ủng hộ giá trị truyền thống và thay đổi chậm rãi.",
+        "context": "Tư tưởng chính trị"
+    },
+    {
+        "word": "revolution",
+        "ipa_word": "/ˌrɛvəˈluːʃən/",
+        "type": "Noun",
+        "meaning_word": "cuộc cách mạng",
+        "phrase": "The French Revolution changed the history of Europe.",
+        "ipa_phrase": "/ðə frɛnʧ ˌrɛvəˈluːʃən ʧeɪnʤd ðə ˈhɪstəri əv ˈjʊrəp/",
+        "meaning_phrase": "Cách mạng Pháp đã thay đổi lịch sử châu Âu.",
+        "context": "Lịch sử, chính trị"
+    },
+    {
+        "word": "dictatorship",
+        "ipa_word": "/dɪkˈteɪtərʃɪp/",
+        "type": "Noun",
+        "meaning_word": "chế độ độc tài",
+        "phrase": "Under the dictatorship, freedom of speech was restricted.",
+        "ipa_phrase": "/ˈʌndər ðə dɪkˈteɪtərʃɪp ˈfriːdəm əv spiːʧ wəz rɪˈstrɪktɪd/",
+        "meaning_phrase": "Dưới chế độ độc tài, tự do ngôn luận bị hạn chế.",
+        "context": "Chính trị học"
+    },
+    {
+        "word": "monarchy",
+        "ipa_word": "/ˈmɒnərki/",
+        "type": "Noun",
+        "meaning_word": "chế độ quân chủ",
+        "phrase": "The United Kingdom is a constitutional monarchy.",
+        "ipa_phrase": "/ðə juˈnaɪtɪd ˈkɪŋdəm ɪz ə ˌkɒnstɪˈtuːʃənəl ˈmɒnərki/",
+        "meaning_phrase": "Vương quốc Anh là một chế độ quân chủ lập hiến.",
+        "context": "Chính trị – chế độ"
+    },
+    {
+        "word": "oligarchy",
+        "ipa_word": "/ˈɒlɪˌɡɑːki/",
+        "type": "Noun",
+        "meaning_word": "chính quyền của thiểu số (tập đoàn quyền lực nhỏ)",
+        "phrase": "An oligarchy is ruled by a small group of powerful people.",
+        "ipa_phrase": "/ən ˈɒlɪˌɡɑːki ɪz ruːld baɪ ə smɔːl ɡruːp əv ˈpaʊərfəl ˈpiːpəl/",
+        "meaning_phrase": "Chính thể thiểu số do một nhóm nhỏ những người có quyền lực cai trị.",
+        "context": "Chính trị học"
+    },
+    {
+        "word": "proletariat",
+        "ipa_word": "/ˌproʊlɪˈtɛəriət/",
+        "type": "Noun",
+        "meaning_word": "giai cấp vô sản",
+        "phrase": "Marx believed the proletariat would rise against capitalism.",
+        "ipa_phrase": "/mɑːrks bɪˈliːvd ðə ˌproʊlɪˈtɛəriət wʊd raɪz əˈɡɛnst ˈkæpɪtəlɪzəm/",
+        "meaning_phrase": "Marx tin rằng giai cấp vô sản sẽ đứng lên chống lại chủ nghĩa tư bản.",
+        "context": "Triết học Mác – Chính trị"
+    },
+    {
+        "word": "bourgeoisie",
+        "ipa_word": "/ˌbʊərʒwɑːˈziː/",
+        "type": "Noun",
+        "meaning_word": "giai cấp tư sản",
+        "phrase": "The bourgeoisie controlled most of the industry.",
+        "ipa_phrase": "/ðə ˌbʊərʒwɑːˈziː kənˈtroʊld moʊst əv ði ˈɪndəstri/",
+        "meaning_phrase": "Giai cấp tư sản kiểm soát phần lớn nền công nghiệp.",
+        "context": "Kinh tế – Xã hội học"
+    },
+    {
+        "word": "totalitarianism",
+        "ipa_word": "/toʊˌtæləˈtɛəriənɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa toàn trị",
+        "phrase": "Totalitarianism allows no political opposition.",
+        "ipa_phrase": "/toʊˌtæləˈtɛəriənɪzəm əˈlaʊz noʊ pəˈlɪtɪkəl ˌɑːpəˈzɪʃən/",
+        "meaning_phrase": "Chủ nghĩa toàn trị không cho phép đối lập chính trị tồn tại.",
+        "context": "Chính trị học"
+    },
+    {
+        "word": "anarchy",
+        "ipa_word": "/ˈænərki/",
+        "type": "Noun",
+        "meaning_word": "vô chính phủ",
+        "phrase": "The fall of the regime led to anarchy in the streets.",
+        "ipa_phrase": "/ðə fɔːl əv ðə rəˈʒiːm lɛd tu ˈænərki ɪn ðə striːts/",
+        "meaning_phrase": "Sự sụp đổ của chế độ đã dẫn đến tình trạng vô chính phủ trên đường phố.",
+        "context": "Chính trị, xã hội"
+    },
+    {
+        "word": "ideology",
+        "ipa_word": "/ˌaɪdiˈɒləʤi/",
+        "type": "Noun",
+        "meaning_word": "hệ tư tưởng",
+        "phrase": "Political ideology shapes how people see the world.",
+        "ipa_phrase": "/pəˈlɪtɪkəl ˌaɪdiˈɒləʤi ʃeɪps haʊ ˈpiːpəl siː ðə wɜːld/",
+        "meaning_phrase": "Hệ tư tưởng chính trị định hình cách con người nhìn thế giới.",
+        "context": "Triết học, chính trị"
+    },
+    {
+        "word": "left-wing",
+        "ipa_word": "/lɛft wɪŋ/",
+        "type": "Adjective",
+        "meaning_word": "thuộc phe cánh tả (tự do, tiến bộ)",
+        "phrase": "He supports left-wing policies on healthcare and education.",
+        "ipa_phrase": "/hi səˈpɔːrts lɛft wɪŋ ˈpɒləsiz ɒn ˈhɛlθˌkeər ənd ˌɛʤʊˈkeɪʃən/",
+        "meaning_phrase": "Anh ta ủng hộ các chính sách cánh tả về y tế và giáo dục.",
+        "context": "Chính trị hiện đại"
+    },
+    {
+        "word": "right-wing",
+        "ipa_word": "/raɪt wɪŋ/",
+        "type": "Adjective",
+        "meaning_word": "thuộc phe cánh hữu (bảo thủ, truyền thống)",
+        "phrase": "Right-wing parties often emphasize national security.",
+        "ipa_phrase": "/raɪt wɪŋ ˈpɑːrtiz ˈɒfən ˈɛmfəˌsaɪz ˈnæʃənəl sɪˈkjʊərəti/",
+        "meaning_phrase": "Các đảng cánh hữu thường nhấn mạnh an ninh quốc gia.",
+        "context": "Chính trị hiện đại"
+    },
+    {
+        "word": "propaganda",
+        "ipa_word": "/ˌprɒpəˈɡændə/",
+        "type": "Noun",
+        "meaning_word": "tuyên truyền (thường mang tính chính trị)",
+        "phrase": "The government used propaganda to influence public opinion.",
+        "ipa_phrase": "/ðə ˈɡʌvərnmənt juzd ˌprɒpəˈɡændə tu ˈɪnflʊəns ˈpʌblɪk əˈpɪnjən/",
+        "meaning_phrase": "Chính phủ đã sử dụng tuyên truyền để tác động đến dư luận.",
+        "context": "Chính trị, xã hội học"
+    },
+    {
+        "word": "fascism",
+        "ipa_word": "/ˈfæʃɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa phát xít",
+        "phrase": "Fascism rejects democracy and enforces absolute authority.",
+        "ipa_phrase": "/ˈfæʃɪzəm rɪˈʤɛkts dɪˈmɒkrəsi ənd ɪnˈfɔːrsɪz ˈæbsəluːt ɔːˈθɒrɪti/",
+        "meaning_phrase": "Chủ nghĩa phát xít phủ nhận dân chủ và áp đặt quyền lực tuyệt đối.",
+        "context": "Lịch sử, chính trị"
+    },
+    {
+        "word": "authoritarian",
+        "ipa_word": "/ɔːˌθɒrɪˈtɛəriən/",
+        "type": "Adjective",
+        "meaning_word": "độc đoán, chuyên quyền",
+        "phrase": "The country has an authoritarian government.",
+        "ipa_phrase": "/ðə ˈkʌntri hæz ən ɔːˌθɒrɪˈtɛəriən ˈɡʌvənmənt/",
+        "meaning_phrase": "Quốc gia này có một chính phủ độc đoán.",
+        "context": "Chính trị, mô tả chế độ"
+    },
+    {
+        "word": "authoritarianism",
+        "ipa_word": "/ɔːˌθɒrɪˈtɛərɪənɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa độc tài, chế độ độc đoán",
+        "phrase": "Authoritarianism limits people's freedom of speech.",
+        "ipa_phrase": "/ɔːˌθɒrɪˈtɛərɪənɪzəm ˈlɪmɪts ˈpiːpəlz ˈfriːdəm əv spiːʧ/",
+        "meaning_phrase": "Chủ nghĩa độc tài hạn chế tự do ngôn luận của người dân.",
+        "context": "Hệ thống chính trị"
+    },
+    {
+        "word": "totalitarian",
+        "ipa_word": "/təʊˌtælɪˈtɛərɪən/",
+        "type": "Adjective",
+        "meaning_word": "toàn trị, kiểm soát mọi mặt đời sống",
+        "phrase": "A totalitarian regime controls every aspect of life.",
+        "ipa_phrase": "/ə təʊˌtælɪˈtɛərɪən reɪˈʒiːm kənˈtrəʊlz ˈɛvri ˈæspɛkt əv laɪf/",
+        "meaning_phrase": "Một chế độ toàn trị kiểm soát mọi khía cạnh của cuộc sống.",
+        "context": "Chính quyền chuyên chế"
+    },
+    {
+        "word": "anarchy",
+        "ipa_word": "/ˈænəki/",
+        "type": "Noun",
+        "meaning_word": "vô chính phủ, hỗn loạn xã hội",
+        "phrase": "Without laws, society would fall into anarchy.",
+        "ipa_phrase": "/wɪˈðaʊt lɔːz səˈsaɪəti wʊd fɔːl ˈɪntuː ˈænəki/",
+        "meaning_phrase": "Không có luật lệ, xã hội sẽ rơi vào hỗn loạn vô chính phủ.",
+        "context": "Trạng thái xã hội"
+    },
+    {
+        "word": "left-wing",
+        "ipa_word": "/ˈlɛft wɪŋ/",
+        "type": "Adjective",
+        "meaning_word": "cánh tả (ủng hộ tiến bộ, bình đẳng xã hội)",
+        "phrase": "He supports left-wing policies on education.",
+        "ipa_phrase": "/hiː səˈpɔːts ˈlɛft wɪŋ ˈpɒlɪsiz ɒn ˌɛdjuˈkeɪʃən/",
+        "meaning_phrase": "Anh ấy ủng hộ các chính sách giáo dục mang khuynh hướng cánh tả.",
+        "context": "Chính trị học"
+    },
+    {
+        "word": "right-wing",
+        "ipa_word": "/ˈraɪt wɪŋ/",
+        "type": "Adjective",
+        "meaning_word": "cánh hữu (bảo thủ, ủng hộ trật tự truyền thống)",
+        "phrase": "Right-wing parties often emphasize national security.",
+        "ipa_phrase": "/ˈraɪt wɪŋ ˈpɑːtiz ˈɒfən ˈɛmfəsaɪz ˈnæʃənəl sɪˈkjʊərɪti/",
+        "meaning_phrase": "Các đảng cánh hữu thường nhấn mạnh an ninh quốc gia.",
+        "context": "Chính trị học"
+    },
+    {
+        "word": "liberalism",
+        "ipa_word": "/ˈlɪbərəlɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa tự do",
+        "phrase": "Liberalism values individual freedom and equality.",
+        "ipa_phrase": "/ˈlɪbərəlɪzəm ˈvæljuːz ˌɪndɪˈvɪdʒuəl ˈfriːdəm ənd ɪˈkwɒləti/",
+        "meaning_phrase": "Chủ nghĩa tự do coi trọng tự do cá nhân và bình đẳng.",
+        "context": "Triết lý chính trị"
+    },
+    {
+        "word": "populism",
+        "ipa_word": "/ˈpɒpjʊlɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa dân túy (thu hút người dân bằng lời hứa dễ nghe)",
+        "phrase": "Populism often arises during economic crises.",
+        "ipa_phrase": "/ˈpɒpjʊlɪzəm ˈɒfən əˈraɪzɪz ˈdjʊərɪŋ ˌɛkəˈnɒmɪk ˈkraɪsɪz/",
+        "meaning_phrase": "Chủ nghĩa dân túy thường xuất hiện trong thời kỳ khủng hoảng kinh tế.",
+        "context": "Phong trào chính trị"
+    },
+    {
+        "word": "oligarchy",
+        "ipa_word": "/ˈɒlɪɡɑːki/",
+        "type": "Noun",
+        "meaning_word": "chính quyền đầu sỏ (do một nhóm nhỏ nắm quyền)",
+        "phrase": "The country was ruled by an oligarchy of wealthy elites.",
+        "ipa_phrase": "/ðə ˈkʌntri wəz ruːld baɪ ən ˈɒlɪɡɑːki əv ˈwɛlθi ɪˈliːts/",
+        "meaning_phrase": "Đất nước bị cai trị bởi một nhóm nhỏ các nhà tài phiệt giàu có.",
+        "context": "Cấu trúc quyền lực"
+    },
+    {
+        "word": "bureaucracy",
+        "ipa_word": "/bjʊəˈrɒkrəsi/",
+        "type": "Noun",
+        "meaning_word": "bộ máy quan liêu, hành chính cứng nhắc",
+        "phrase": "Excessive bureaucracy can slow down progress.",
+        "ipa_phrase": "/ɪkˈsɛsɪv bjʊəˈrɒkrəsi kən sləʊ daʊn ˈprəʊɡrɛs/",
+        "meaning_phrase": "Sự quan liêu quá mức có thể làm chậm tiến trình.",
+        "context": "Cơ cấu nhà nước"
+    },
+    {
+        "word": "monarchy",
+        "ipa_word": "/ˈmɒnəki/",
+        "type": "Noun",
+        "meaning_word": "chế độ quân chủ, có vua hoặc hoàng hậu",
+        "phrase": "The United Kingdom is a constitutional monarchy.",
+        "ipa_phrase": "/ðə juːˈnaɪtɪd ˈkɪŋdəm ɪz ə ˌkɒnstɪˈtjuːʃənəl ˈmɒnəki/",
+        "meaning_phrase": "Vương quốc Anh là một chế độ quân chủ lập hiến.",
+        "context": "Hệ thống chính trị"
+    },
+    {
+        "word": "republicanism",
+        "ipa_word": "/rɪˈpʌblɪkənɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa cộng hòa",
+        "phrase": "Republicanism opposes the idea of monarchy.",
+        "ipa_phrase": "/rɪˈpʌblɪkənɪzəm əˈpəʊzɪz ði aɪˈdɪə əv ˈmɒnəki/",
+        "meaning_phrase": "Chủ nghĩa cộng hòa phản đối ý tưởng có vua.",
+        "context": "Hệ tư tưởng chính trị"
+    },
+    {
+        "word": "nationalism",
+        "ipa_word": "/ˈnæʃənəlɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa dân tộc",
+        "phrase": "Nationalism can unite or divide a country.",
+        "ipa_phrase": "/ˈnæʃənəlɪzəm kən juːˈnaɪt ɔː dɪˈvaɪd ə ˈkʌntri/",
+        "meaning_phrase": "Chủ nghĩa dân tộc có thể đoàn kết hoặc chia rẽ một quốc gia.",
+        "context": "Tư tưởng xã hội"
+    },
+    {
+        "word": "sovereignty",
+        "ipa_word": "/ˈsɒvrənti/",
+        "type": "Noun",
+        "meaning_word": "chủ quyền, quyền tự quyết quốc gia",
+        "phrase": "Every nation values its sovereignty.",
+        "ipa_phrase": "/ˈɛvri ˈneɪʃən ˈvæljuːz ɪts ˈsɒvrənti/",
+        "meaning_phrase": "Mọi quốc gia đều coi trọng chủ quyền của mình.",
+        "context": "Luật quốc tế"
+    },
+    {
+        "word": "dictatorship",
+        "ipa_word": "/dɪkˈteɪtəʃɪp/",
+        "type": "Noun",
+        "meaning_word": "chế độ độc tài",
+        "phrase": "The dictatorship controlled all media outlets.",
+        "ipa_phrase": "/ðə dɪkˈteɪtəʃɪp kənˈtrəʊld ɔːl ˈmiːdiə ˈaʊtlɛts/",
+        "meaning_phrase": "Chế độ độc tài kiểm soát toàn bộ các phương tiện truyền thông.",
+        "context": "Chính quyền độc đoán"
+    },
+    {
+        "word": "censorship",
+        "ipa_word": "/ˈsɛnsəʃɪp/",
+        "type": "Noun",
+        "meaning_word": "kiểm duyệt, hạn chế thông tin",
+        "phrase": "Censorship prevents people from accessing free information.",
+        "ipa_phrase": "/ˈsɛnsəʃɪp prɪˈvɛnts ˈpiːpəl frɒm ˈæksɛsɪŋ friː ˌɪnfəˈmeɪʃən/",
+        "meaning_phrase": "Kiểm duyệt ngăn cản người dân tiếp cận thông tin tự do.",
+        "context": "Tự do báo chí"
+    },
+    {
+        "word": "civil rights",
+        "ipa_word": "/ˈsɪvəl raɪts/",
+        "type": "Noun",
+        "meaning_word": "quyền công dân",
+        "phrase": "The civil rights movement fought for racial equality.",
+        "ipa_phrase": "/ðə ˈsɪvəl raɪts ˈmuːvmənt fɔːt fɔː ˈreɪʃəl ɪˈkwɒləti/",
+        "meaning_phrase": "Phong trào quyền công dân đấu tranh cho bình đẳng chủng tộc.",
+        "context": "Xã hội, lịch sử"
+    },
+    {
+        "word": "propaganda",
+        "ipa_word": "/ˌprɒpəˈɡændə/",
+        "type": "Noun",
+        "meaning_word": "tuyên truyền (thường mang tính thao túng)",
+        "phrase": "The regime spread propaganda to influence the public.",
+        "ipa_phrase": "/ðə reɪˈʒiːm sprɛd ˌprɒpəˈɡændə tuː ˈɪnflʊəns ðə ˈpʌblɪk/",
+        "meaning_phrase": "Chính quyền phát tán tuyên truyền để tác động đến công chúng.",
+        "context": "Truyền thông chính trị"
+    },
+    {
+        "word": "reform",
+        "ipa_word": "/rɪˈfɔːm/",
+        "type": "Noun/Verb",
+        "meaning_word": "cải cách, đổi mới chính trị",
+        "phrase": "Political reform is needed to fight corruption.",
+        "ipa_phrase": "/pəˈlɪtɪkəl rɪˈfɔːm ɪz ˈniːdɪd tuː faɪt kəˈrʌpʃən/",
+        "meaning_phrase": "Cần cải cách chính trị để chống tham nhũng.",
+        "context": "Cải tổ chính phủ"
+    },
+    {
+        "word": "parliament",
+        "ipa_word": "/ˈpɑːləmənt/",
+        "type": "Noun",
+        "meaning_word": "nghị viện, quốc hội",
+        "phrase": "The new law was debated in parliament.",
+        "ipa_phrase": "/ðə njuː lɔː wəz dɪˈbeɪtɪd ɪn ˈpɑːləmənt/",
+        "meaning_phrase": "Luật mới đã được tranh luận trong nghị viện.",
+        "context": "Cơ quan lập pháp"
+    },
+    {
+        "word": "corruption",
+        "ipa_word": "/kəˈrʌpʃən/",
+        "type": "Noun",
+        "meaning_word": "tham nhũng",
+        "phrase": "Corruption undermines public trust in government.",
+        "ipa_phrase": "/kəˈrʌpʃən ˈʌndəmaɪnz ˈpʌblɪk trʌst ɪn ˈɡʌvənmənt/",
+        "meaning_phrase": "Tham nhũng làm suy giảm niềm tin của công chúng vào chính phủ.",
+        "context": "Chính trị, xã hội"
+    },
+    {
+        "word": "constitution",
+        "ipa_word": "/ˌkɒnstɪˈtjuːʃən/",
+        "type": "Noun",
+        "meaning_word": "hiến pháp",
+        "phrase": "The constitution defines the rights of citizens.",
+        "ipa_phrase": "/ðə ˌkɒnstɪˈtjuːʃən dɪˈfaɪnz ðə raɪts əv ˈsɪtɪzənz/",
+        "meaning_phrase": "Hiến pháp quy định các quyền của công dân.",
+        "context": "Luật và chính trị"
+    },
+    {
+        "word": "amendment",
+        "ipa_word": "/əˈmɛndmənt/",
+        "type": "Noun",
+        "meaning_word": "sửa đổi (thường trong hiến pháp hoặc luật)",
+        "phrase": "The First Amendment protects free speech.",
+        "ipa_phrase": "/ðə fɜːst əˈmɛndmənt prəˈtɛkts friː spiːʧ/",
+        "meaning_phrase": "Tu chính án thứ nhất bảo vệ quyền tự do ngôn luận.",
+        "context": "Luật hiến pháp"
+    },
+    {
+        "word": "election",
+        "ipa_word": "/ɪˈlɛkʃən/",
+        "type": "Noun",
+        "meaning_word": "cuộc bầu cử",
+        "phrase": "The presidential election takes place every four years.",
+        "ipa_phrase": "/ðə ˌprɛzɪˈdɛnʃəl ɪˈlɛkʃən teɪks pleɪs ˈɛvri fɔː jɪəz/",
+        "meaning_phrase": "Cuộc bầu cử tổng thống diễn ra bốn năm một lần.",
+        "context": "Chính trị hiện đại"
+    },
+    {
+        "word": "voter turnout",
+        "ipa_word": "/ˈvoʊtər ˈtɜːrnaʊt/",
+        "type": "Noun",
+        "meaning_word": "tỷ lệ cử tri đi bầu",
+        "phrase": "The voter turnout was lower than expected.",
+        "ipa_phrase": "/ðə ˈvoʊtər ˈtɜːrnaʊt wəz ˈloʊər ðæn ɪkˈspɛktɪd/",
+        "meaning_phrase": "Tỷ lệ cử tri đi bầu thấp hơn dự kiến.",
+        "context": "Bầu cử"
+    },
+    {
+        "word": "ballot",
+        "ipa_word": "/ˈbælət/",
+        "type": "Noun",
+        "meaning_word": "lá phiếu bầu",
+        "phrase": "Citizens cast their ballots in the election.",
+        "ipa_phrase": "/ˈsɪtɪzənz kɑːst ðɛr ˈbælɪts ɪn ði ɪˈlɛkʃən/",
+        "meaning_phrase": "Công dân bỏ phiếu trong cuộc bầu cử.",
+        "context": "Bầu cử"
+    },
+    {
+        "word": "campaign",
+        "ipa_word": "/kæmˈpeɪn/",
+        "type": "Noun",
+        "meaning_word": "chiến dịch (vận động, tranh cử)",
+        "phrase": "The candidate launched a national campaign.",
+        "ipa_phrase": "/ðə ˈkændɪdət lɔːnʧt ə ˈnæʃənəl kæmˈpeɪn/",
+        "meaning_phrase": "Ứng cử viên phát động chiến dịch toàn quốc.",
+        "context": "Chính trị, truyền thông"
+    },
+    {
+        "word": "politician",
+        "ipa_word": "/ˌpɒlɪˈtɪʃən/",
+        "type": "Noun",
+        "meaning_word": "chính trị gia",
+        "phrase": "The politician promised to reduce taxes.",
+        "ipa_phrase": "/ðə ˌpɒlɪˈtɪʃən ˈprɒmɪst tuː rɪˈdjuːs ˈtæksɪz/",
+        "meaning_phrase": "Chính trị gia hứa sẽ giảm thuế.",
+        "context": "Chính trường"
+    },
+    {
+        "word": "candidate",
+        "ipa_word": "/ˈkændɪdət/",
+        "type": "Noun",
+        "meaning_word": "ứng cử viên",
+        "phrase": "Each candidate shared their vision for the country.",
+        "ipa_phrase": "/iːʧ ˈkændɪdət ʃɛəd ðɛər ˈvɪʒən fɔː ðə ˈkʌntri/",
+        "meaning_phrase": "Mỗi ứng cử viên chia sẻ tầm nhìn của mình cho đất nước.",
+        "context": "Bầu cử"
+    },
+    {
+        "word": "debate",
+        "ipa_word": "/dɪˈbeɪt/",
+        "type": "Noun/Verb",
+        "meaning_word": "tranh luận, cuộc tranh luận",
+        "phrase": "The debate between the candidates was broadcast live.",
+        "ipa_phrase": "/ðə dɪˈbeɪt bɪˈtwiːn ðə ˈkændɪdɪts wəz ˈbrɔːdkæst laɪv/",
+        "meaning_phrase": "Cuộc tranh luận giữa các ứng cử viên được phát sóng trực tiếp.",
+        "context": "Chính trị, truyền hình"
+    },
+    {
+        "word": "poll",
+        "ipa_word": "/poʊl/",
+        "type": "Noun",
+        "meaning_word": "cuộc thăm dò, khảo sát ý kiến",
+        "phrase": "Recent polls show a rise in support for the opposition.",
+        "ipa_phrase": "/ˈriːsənt poʊlz ʃoʊ ə raɪz ɪn səˈpɔːt fɔː ði ˌɒpəˈzɪʃən/",
+        "meaning_phrase": "Các cuộc thăm dò gần đây cho thấy sự ủng hộ gia tăng đối với phe đối lập.",
+        "context": "Bầu cử, truyền thông"
+    },
+    {
+        "word": "majority",
+        "ipa_word": "/məˈdʒɒrɪti/",
+        "type": "Noun",
+        "meaning_word": "đa số, phần lớn",
+        "phrase": "The party won by a clear majority.",
+        "ipa_phrase": "/ðə ˈpɑːti wʌn baɪ ə klɪə məˈdʒɒrɪti/",
+        "meaning_phrase": "Đảng đã thắng với đa số rõ ràng.",
+        "context": "Kết quả bầu cử"
+    },
+    {
+        "word": "coalition",
+        "ipa_word": "/ˌkoʊəˈlɪʃən/",
+        "type": "Noun",
+        "meaning_word": "liên minh (giữa các đảng phái)",
+        "phrase": "The coalition formed a new government.",
+        "ipa_phrase": "/ðə ˌkoʊəˈlɪʃən fɔːmd ə njuː ˈɡʌvənmənt/",
+        "meaning_phrase": "Liên minh đã thành lập một chính phủ mới.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "lobby",
+        "ipa_word": "/ˈlɒbi/",
+        "type": "Verb/Noun",
+        "meaning_word": "vận động hành lang, nhóm gây ảnh hưởng",
+        "phrase": "Corporations lobby politicians for favorable laws.",
+        "ipa_phrase": "/ˌkɔːpəˈreɪʃənz ˈlɒbi ˌpɒlɪˈtɪʃənz fɔː ˈfeɪvərəbl lɔːz/",
+        "meaning_phrase": "Các tập đoàn vận động chính trị gia để có luật có lợi.",
+        "context": "Chính trị và kinh tế"
+    },
+    {
+        "word": "diplomacy",
+        "ipa_word": "/dɪˈpləʊməsi/",
+        "type": "Noun",
+        "meaning_word": "ngoại giao",
+        "phrase": "Diplomacy helps maintain peace between nations.",
+        "ipa_phrase": "/dɪˈpləʊməsi hɛlps meɪnˈteɪn piːs bɪˈtwiːn ˈneɪʃənz/",
+        "meaning_phrase": "Ngoại giao giúp duy trì hòa bình giữa các quốc gia.",
+        "context": "Quan hệ quốc tế"
+    },
+    {
+        "word": "sanctions",
+        "ipa_word": "/ˈsæŋkʃənz/",
+        "type": "Noun",
+        "meaning_word": "lệnh trừng phạt (kinh tế hoặc chính trị)",
+        "phrase": "The UN imposed sanctions on the country.",
+        "ipa_phrase": "/ðə juːˈɛn ɪmˈpoʊzd ˈsæŋkʃənz ɒn ðə ˈkʌntri/",
+        "meaning_phrase": "Liên Hợp Quốc áp đặt lệnh trừng phạt lên quốc gia đó.",
+        "context": "Quan hệ quốc tế"
+    },
+    {
+        "word": "embassy",
+        "ipa_word": "/ˈɛmbəsi/",
+        "type": "Noun",
+        "meaning_word": "đại sứ quán",
+        "phrase": "The embassy assists citizens living abroad.",
+        "ipa_phrase": "/ðə ˈɛmbəsi əˈsɪsts ˈsɪtɪzənz ˈlɪvɪŋ əˈbrɔːd/",
+        "meaning_phrase": "Đại sứ quán hỗ trợ công dân sinh sống ở nước ngoài.",
+        "context": "Ngoại giao"
+    },
+    {
+        "word": "asylum",
+        "ipa_word": "/əˈsaɪləm/",
+        "type": "Noun",
+        "meaning_word": "tị nạn (chính trị)",
+        "phrase": "The activist sought asylum in another country.",
+        "ipa_phrase": "/ði ˈæktɪvɪst sɔːt əˈsaɪləm ɪn əˈnʌðə ˈkʌntri/",
+        "meaning_phrase": "Nhà hoạt động tìm nơi tị nạn ở một quốc gia khác.",
+        "context": "Chính trị quốc tế"
+    },
+    {
+        "word": "United Nations",
+        "ipa_word": "/juːˈnaɪtɪd ˈneɪʃənz/",
+        "type": "Noun",
+        "meaning_word": "Liên Hợp Quốc (UN)",
+        "phrase": "The United Nations promotes global peace and cooperation.",
+        "ipa_phrase": "/ðə juːˈnaɪtɪd ˈneɪʃənz prəˈmoʊts ˈɡloʊbəl piːs ənd koʊˌɒpəˈreɪʃən/",
+        "meaning_phrase": "Liên Hợp Quốc thúc đẩy hòa bình và hợp tác toàn cầu.",
+        "context": "Tổ chức quốc tế"
+    },
+    {
+        "word": "NATO",
+        "ipa_word": "/ˈneɪtoʊ/",
+        "type": "Noun",
+        "meaning_word": "Tổ chức Hiệp ước Bắc Đại Tây Dương (North Atlantic Treaty Organization)",
+        "phrase": "NATO members agreed to strengthen defense cooperation.",
+        "ipa_phrase": "/ˈneɪtoʊ ˈmɛmbərz əˈɡriːd tuː ˈstrɛŋθən dɪˈfɛns koʊˌɒpəˈreɪʃən/",
+        "meaning_phrase": "Các thành viên NATO đồng ý tăng cường hợp tác quốc phòng.",
+        "context": "Tổ chức quốc phòng"
+    },
+    {
+        "word": "diplomat",
+        "ipa_word": "/ˈdɪpləmæt/",
+        "type": "Noun",
+        "meaning_word": "nhà ngoại giao",
+        "phrase": "The diplomat negotiated a peace agreement.",
+        "ipa_phrase": "/ðə ˈdɪpləmæt nɪˈɡoʊʃieɪtɪd ə piːs əˈɡriːmənt/",
+        "meaning_phrase": "Nhà ngoại giao đã đàm phán một thỏa thuận hòa bình.",
+        "context": "Quan hệ quốc tế"
+    },
+    {
+        "word": "anarchy",
+        "ipa_word": "/ˈænərki/",
+        "type": "Noun",
+        "meaning_word": "tình trạng vô chính phủ, hỗn loạn",
+        "phrase": "The country fell into anarchy after the revolution.",
+        "ipa_phrase": "/ðə ˈkʌntri fɛl ˈɪntu ˈænərki ˈæftər ðə ˌrɛvəˈluːʃən/",
+        "meaning_phrase": "Đất nước rơi vào tình trạng vô chính phủ sau cuộc cách mạng.",
+        "context": "Chính trị, xã hội"
+    },
+    {
+        "word": "oligarchy",
+        "ipa_word": "/ˈɒlɪɡɑːrki/",
+        "type": "Noun",
+        "meaning_word": "chế độ đầu sỏ, quyền lực nằm trong tay ít người",
+        "phrase": "An oligarchy often benefits a small elite group.",
+        "ipa_phrase": "/ən ˈɒlɪɡɑːrki ˈɒfən ˈbɛnɪfɪts ə smɔːl ɪˈliːt ɡruːp/",
+        "meaning_phrase": "Chế độ đầu sỏ thường mang lại lợi ích cho một nhóm tinh hoa nhỏ.",
+        "context": "Chính trị học"
+    },
+    {
+        "word": "theocracy",
+        "ipa_word": "/θiˈɒkrəsi/",
+        "type": "Noun",
+        "meaning_word": "chính quyền thần quyền, tôn giáo nắm quyền lãnh đạo",
+        "phrase": "Iran is often described as a theocracy.",
+        "ipa_phrase": "/ɪˈrɑːn ɪz ˈɒfən dɪˈskraɪbd æz ə θiˈɒkrəsi/",
+        "meaning_phrase": "Iran thường được mô tả là một nhà nước thần quyền.",
+        "context": "Tôn giáo, chính trị"
+    },
+    {
+        "word": "monarchy",
+        "ipa_word": "/ˈmɒnərki/",
+        "type": "Noun",
+        "meaning_word": "chế độ quân chủ",
+        "phrase": "The United Kingdom is a constitutional monarchy.",
+        "ipa_phrase": "/ðə juˈnaɪtɪd ˈkɪŋdəm ɪz ə ˌkɒnstɪˈtjuːʃənəl ˈmɒnərki/",
+        "meaning_phrase": "Vương quốc Anh là một nền quân chủ lập hiến.",
+        "context": "Hệ thống chính trị"
+    },
+    {
+        "word": "autocracy",
+        "ipa_word": "/ɔːˈtɒkrəsi/",
+        "type": "Noun",
+        "meaning_word": "chế độ chuyên chế, một người nắm toàn quyền",
+        "phrase": "The nation suffered under years of autocracy.",
+        "ipa_phrase": "/ðə ˈneɪʃən ˈsʌfərd ˈʌndər jɪrz ʌv ɔːˈtɒkrəsi/",
+        "meaning_phrase": "Đất nước chịu đựng nhiều năm dưới chế độ chuyên chế.",
+        "context": "Chính trị"
+    },
+    {
+        "word": "authoritarian",
+        "ipa_word": "/əˌθɒrɪˈtɛərɪən/",
+        "type": "Adjective",
+        "meaning_word": "độc đoán, chuyên quyền",
+        "phrase": "The regime became increasingly authoritarian.",
+        "ipa_phrase": "/ðə rɪˈʒiːm bɪˈkeɪm ɪnˈkriːsɪŋli əˌθɒrɪˈtɛərɪən/",
+        "meaning_phrase": "Chế độ ngày càng trở nên độc đoán.",
+        "context": "Chính trị, xã hội"
+    },
+    {
+        "word": "bureaucracy",
+        "ipa_word": "/bjʊəˈrɒkrəsi/",
+        "type": "Noun",
+        "meaning_word": "bộ máy quan liêu, hệ thống hành chính phức tạp",
+        "phrase": "Too much bureaucracy slows down progress.",
+        "ipa_phrase": "/tuː mʌʧ bjʊəˈrɒkrəsi sloʊz daʊn ˈprɒɡrɛs/",
+        "meaning_phrase": "Quá nhiều bộ máy quan liêu làm chậm tiến độ.",
+        "context": "Hành chính, chính trị"
+    },
+    {
+        "word": "technocracy",
+        "ipa_word": "/tɛkˈnɒkrəsi/",
+        "type": "Noun",
+        "meaning_word": "chính quyền do giới kỹ trị lãnh đạo",
+        "phrase": "A technocracy relies on experts rather than politicians.",
+        "ipa_phrase": "/ə tɛkˈnɒkrəsi rɪˈlaɪz ɒn ˈɛkspɜrts ˈrɑːðər ðæn ˌpɒlɪˈtɪʃənz/",
+        "meaning_phrase": "Một chính quyền kỹ trị dựa vào chuyên gia hơn là chính trị gia.",
+        "context": "Chính trị học"
+    },
+    {
+        "word": "plutocracy",
+        "ipa_word": "/pluːˈtɒkrəsi/",
+        "type": "Noun",
+        "meaning_word": "chế độ tài phiệt, giới giàu nắm quyền lực",
+        "phrase": "Critics say the nation is turning into a plutocracy.",
+        "ipa_phrase": "/ˈkrɪtɪks seɪ ðə ˈneɪʃən ɪz ˈtɜrnɪŋ ˈɪntu ə pluːˈtɒkrəsi/",
+        "meaning_phrase": "Các nhà phê bình cho rằng đất nước đang trở thành chế độ tài phiệt.",
+        "context": "Kinh tế – chính trị"
+    },
+    {
+        "word": "aristocracy",
+        "ipa_word": "/ˌærɪˈstɒkrəsi/",
+        "type": "Noun",
+        "meaning_word": "giới quý tộc, tầng lớp thống trị truyền thống",
+        "phrase": "The aristocracy once held great influence over the government.",
+        "ipa_phrase": "/ði ˌærɪˈstɒkrəsi wʌns hɛld ɡreɪt ˈɪnfluəns ˈoʊvər ðə ˈɡʌvərnmənt/",
+        "meaning_phrase": "Giới quý tộc từng có ảnh hưởng lớn đối với chính quyền.",
+        "context": "Lịch sử, xã hội"
+    },
+    {
+        "word": "libertarian",
+        "ipa_word": "/ˌlɪbərˈtɛərɪən/",
+        "type": "Noun",
+        "meaning_word": "người theo chủ nghĩa tự do cá nhân tuyệt đối",
+        "phrase": "Libertarians advocate minimal government interference.",
+        "ipa_phrase": "/ˌlɪbərˈtɛərɪənz ˈædvəˌkeɪt ˈmɪnɪməl ˈɡʌvərnmənt ˌɪntərˈfɪərəns/",
+        "meaning_phrase": "Những người theo chủ nghĩa tự do cá nhân kêu gọi chính phủ can thiệp ở mức tối thiểu.",
+        "context": "Chính trị học"
+    },
+    {
+        "word": "populism",
+        "ipa_word": "/ˈpɒpjʊlɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa dân túy, chính trị chiều theo số đông",
+        "phrase": "Populism often appeals to working-class voters.",
+        "ipa_phrase": "/ˈpɒpjʊlɪzəm ˈɒfən əˈpiːlz tu ˈwɜrkɪŋ klæs ˈvoʊtərz/",
+        "meaning_phrase": "Chủ nghĩa dân túy thường thu hút cử tri tầng lớp lao động.",
+        "context": "Chính trị hiện đại"
+    },
+    {
+        "word": "totalitarianism",
+        "ipa_word": "/toʊˌtæləˈtɛəriənɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa toàn trị, nhà nước kiểm soát mọi mặt",
+        "phrase": "Totalitarianism suppresses individual freedom.",
+        "ipa_phrase": "/toʊˌtæləˈtɛəriənɪzəm səˈprɛsɪz ˌɪndɪˈvɪdʒuəl ˈfriːdəm/",
+        "meaning_phrase": "Chủ nghĩa toàn trị đàn áp tự do cá nhân.",
+        "context": "Chính trị học"
+    },
+    {
+        "word": "propaganda",
+        "ipa_word": "/ˌprɒpəˈɡændə/",
+        "type": "Noun",
+        "meaning_word": "tuyên truyền chính trị, thông tin mang định hướng",
+        "phrase": "The regime used propaganda to control public opinion.",
+        "ipa_phrase": "/ðə rɪˈʒiːm juzd ˌprɒpəˈɡændə tu kənˈtroʊl ˈpʌblɪk əˈpɪnjən/",
+        "meaning_phrase": "Chính quyền sử dụng tuyên truyền để kiểm soát dư luận.",
+        "context": "Truyền thông, chính trị"
+    },
+    {
+        "word": "censorship",
+        "ipa_word": "/ˈsɛnsərʃɪp/",
+        "type": "Noun",
+        "meaning_word": "kiểm duyệt, giới hạn thông tin",
+        "phrase": "Censorship is common in authoritarian states.",
+        "ipa_phrase": "/ˈsɛnsərʃɪp ɪz ˈkɒmən ɪn əˌθɒrɪˈtɛərɪən steɪts/",
+        "meaning_phrase": "Kiểm duyệt phổ biến trong các quốc gia độc đoán.",
+        "context": "Truyền thông, chính trị"
+    },
+    {
+        "word": "sanction",
+        "ipa_word": "/ˈsæŋkʃən/",
+        "type": "Noun",
+        "meaning_word": "lệnh trừng phạt (kinh tế hoặc chính trị)",
+        "phrase": "Economic sanctions were imposed on the regime.",
+        "ipa_phrase": "/ˌiːkəˈnɒmɪk ˈsæŋkʃənz wɜr ɪmˈpoʊzd ɒn ðə rɪˈʒiːm/",
+        "meaning_phrase": "Các biện pháp trừng phạt kinh tế đã được áp dụng với chế độ này.",
+        "context": "Ngoại giao, chính trị"
+    },
+    {
+        "word": "diplomacy",
+        "ipa_word": "/dɪˈploʊməsi/",
+        "type": "Noun",
+        "meaning_word": "ngoại giao, nghệ thuật đàm phán giữa các quốc gia",
+        "phrase": "Diplomacy helped prevent a major conflict.",
+        "ipa_phrase": "/dɪˈploʊməsi hɛlpt prɪˈvɛnt ə ˈmeɪʤər ˈkɒnflɪkt/",
+        "meaning_phrase": "Ngoại giao đã giúp ngăn chặn một cuộc xung đột lớn.",
+        "context": "Quan hệ quốc tế"
+    },
+    {
+        "word": "embargo",
+        "ipa_word": "/ɪmˈbɑːrɡoʊ/",
+        "type": "Noun",
+        "meaning_word": "lệnh cấm vận",
+        "phrase": "The trade embargo severely affected the country's economy.",
+        "ipa_phrase": "/ðə treɪd ɪmˈbɑːrɡoʊ səˈvɪrli əˈfɛktɪd ðə ˈkʌntriz ɪˈkɒnəmi/",
+        "meaning_phrase": "Lệnh cấm vận thương mại đã ảnh hưởng nghiêm trọng đến nền kinh tế của đất nước.",
+        "context": "Kinh tế – chính trị quốc tế"
+    },
+    {
+        "word": "sovereignty",
+        "ipa_word": "/ˈsɒvrənti/",
+        "type": "Noun",
+        "meaning_word": "chủ quyền quốc gia",
+        "phrase": "The country defended its sovereignty against foreign influence.",
+        "ipa_phrase": "/ðə ˈkʌntri dɪˈfɛndɪd ɪts ˈsɒvrənti əˈɡɛnst ˈfɔrən ˈɪnfluəns/",
+        "meaning_phrase": "Đất nước bảo vệ chủ quyền của mình trước ảnh hưởng từ nước ngoài.",
+        "context": "Chính trị quốc tế"
+    },
+    {
+        "word": "statecraft",
+        "ipa_word": "/ˈsteɪtkɹæft/",
+        "type": "Noun",
+        "meaning_word": "nghệ thuật lãnh đạo và điều hành quốc gia",
+        "phrase": "Effective statecraft requires wisdom and foresight.",
+        "ipa_phrase": "/ɪˈfɛktɪv ˈsteɪtkɹæft rɪˈkwaɪərz ˈwɪzdəm ænd ˈfɔrsaɪt/",
+        "meaning_phrase": "Nghệ thuật điều hành quốc gia đòi hỏi trí tuệ và tầm nhìn xa.",
+        "context": "Chính trị, lãnh đạo"
+    },
+    {
+        "word": "geopolitics",
+        "ipa_word": "/ˌdʒiːoʊˈpɒlɪtɪks/",
+        "type": "Noun",
+        "meaning_word": "địa chính trị, mối quan hệ giữa địa lý và quyền lực chính trị",
+        "phrase": "Energy resources play a key role in global geopolitics.",
+        "ipa_phrase": "/ˈɛnərʤi ˈrisɔrsɪz pleɪ ə ki roʊl ɪn ˈɡloʊbəl ˌdʒiːoʊˈpɒlɪtɪks/",
+        "meaning_phrase": "Tài nguyên năng lượng đóng vai trò then chốt trong địa chính trị toàn cầu.",
+        "context": "Chính trị quốc tế"
+    },
+    {
+        "word": "multilateralism",
+        "ipa_word": "/ˌmʌltiˈlætərəlɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa đa phương, hợp tác giữa nhiều quốc gia",
+        "phrase": "The UN promotes peace through multilateralism.",
+        "ipa_phrase": "/ðə juːˈɛn prəˈmoʊts pis θruː ˌmʌltiˈlætərəlɪzəm/",
+        "meaning_phrase": "Liên Hiệp Quốc thúc đẩy hòa bình thông qua chủ nghĩa đa phương.",
+        "context": "Ngoại giao, hợp tác quốc tế"
+    },
+    {
+        "word": "unilateralism",
+        "ipa_word": "/ˌjuːnɪˈlætərəlɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa đơn phương, hành động một mình không qua đồng thuận",
+        "phrase": "Unilateralism can damage international relations.",
+        "ipa_phrase": "/ˌjuːnɪˈlætərəlɪzəm kæn ˈdæmɪʤ ˌɪntərˈnæʃənəl rɪˈleɪʃənz/",
+        "meaning_phrase": "Chủ nghĩa đơn phương có thể làm tổn hại quan hệ quốc tế.",
+        "context": "Chính trị quốc tế"
+    },
+    {
+        "word": "isolationism",
+        "ipa_word": "/ˌaɪsəˈleɪʃənɪzəm/",
+        "type": "Noun",
+        "meaning_word": "chủ nghĩa biệt lập, tránh can dự quốc tế",
+        "phrase": "The U.S. once followed a policy of isolationism.",
+        "ipa_phrase": "/ðə juː ɛs wʌns ˈfɒloʊd ə ˈpɒləsi ʌv ˌaɪsəˈleɪʃənɪzəm/",
+        "meaning_phrase": "Mỹ từng theo đuổi chính sách biệt lập.",
+        "context": "Chính trị quốc tế"
+    },
+    {
+        "word": "foreign policy",
+        "ipa_word": "/ˈfɒrɪn ˈpɒləsi/",
+        "type": "Noun",
+        "meaning_word": "chính sách đối ngoại",
+        "phrase": "The new government aims to reform its foreign policy.",
+        "ipa_phrase": "/ðə njuː ˈɡʌvərnmənt eɪmz tu rɪˈfɔrm ɪts ˈfɒrɪn ˈpɒləsi/",
+        "meaning_phrase": "Chính phủ mới đặt mục tiêu cải cách chính sách đối ngoại.",
+        "context": "Ngoại giao"
+    },
+    {
+        "word": "bilateral relations",
+        "ipa_word": "/baɪˈlætərəl rɪˈleɪʃənz/",
+        "type": "Noun",
+        "meaning_word": "quan hệ song phương",
+        "phrase": "Bilateral relations between the two nations improved.",
+        "ipa_phrase": "/baɪˈlætərəl rɪˈleɪʃənz bɪˈtwin ðə tuː ˈneɪʃənz ɪmˈpruːvd/",
+        "meaning_phrase": "Quan hệ song phương giữa hai quốc gia được cải thiện.",
+        "context": "Quan hệ quốc tế"
+    },
+    {
+        "word": "sanctions regime",
+        "ipa_word": "/ˈsæŋkʃənz rɪˈʒiːm/",
+        "type": "Noun",
+        "meaning_word": "chế độ trừng phạt (do quốc tế áp đặt)",
+        "phrase": "The sanctions regime aimed to pressure the government to reform.",
+        "ipa_phrase": "/ðə ˈsæŋkʃənz rɪˈʒiːm eɪmd tu ˈprɛʃər ðə ˈɡʌvərnmənt tu rɪˈfɔrm/",
+        "meaning_phrase": "Chế độ trừng phạt nhằm gây áp lực buộc chính phủ cải cách.",
+        "context": "Chính trị quốc tế"
+    },
+    {
+        "word": "alliance",
+        "ipa_word": "/əˈlaɪəns/",
+        "type": "Noun",
+        "meaning_word": "liên minh giữa các quốc gia hoặc phe phái",
+        "phrase": "The two countries formed a military alliance.",
+        "ipa_phrase": "/ðə tuː ˈkʌntriz fɔrmd ə ˈmɪlɪˌtɛri əˈlaɪəns/",
+        "meaning_phrase": "Hai quốc gia thành lập liên minh quân sự.",
+        "context": "Quốc phòng, chính trị"
+    },
+    {
+        "word": "bloc",
+        "ipa_word": "/blɒk/",
+        "type": "Noun",
+        "meaning_word": "khối quốc gia hoặc nhóm liên minh (ví dụ: khối NATO, EU)",
+        "phrase": "The Eastern bloc collapsed in the early 1990s.",
+        "ipa_phrase": "/ði ˈiːstərn blɒk kəˈlæpst ɪn ði ˈɜrli ˈnaɪntin ˈnaɪntiz/",
+        "meaning_phrase": "Khối Đông Âu sụp đổ vào đầu thập niên 1990.",
+        "context": "Lịch sử, chính trị quốc tế"
+    },
+    {
+        "word": "summit diplomacy",
+        "ipa_word": "/ˈsʌmɪt dɪˈploʊməsi/",
+        "type": "Noun",
+        "meaning_word": "ngoại giao thượng đỉnh, đối thoại cấp cao",
+        "phrase": "Summit diplomacy can ease tensions between rivals.",
+        "ipa_phrase": "/ˈsʌmɪt dɪˈploʊməsi kæn iz ˈtɛnʃənz bɪˈtwin ˈraɪvəlz/",
+        "meaning_phrase": "Ngoại giao thượng đỉnh có thể xoa dịu căng thẳng giữa các đối thủ.",
+        "context": "Ngoại giao"
+    },
+    {
+        "word": "polarization",
+        "ipa_word": "/ˌpoʊlərəˈzeɪʃən/",
+        "type": "Noun",
+        "meaning_word": "sự chia rẽ, phân cực chính trị",
+        "phrase": "Political polarization has increased in recent years.",
+        "ipa_phrase": "/pəˈlɪtɪkəl ˌpoʊlərəˈzeɪʃən hæz ɪnˈkrist ɪn ˈrisənt jɪrz/",
+        "meaning_phrase": "Sự chia rẽ chính trị đã gia tăng trong những năm gần đây.",
+        "context": "Chính trị hiện đại"
+    },
+    {
+        "word": "superpower",
+        "ipa_word": "/ˈsuːpərˌpaʊər/",
+        "type": "Noun",
+        "meaning_word": "siêu cường quốc, quốc gia có ảnh hưởng toàn cầu",
+        "phrase": "The U.S. and China are global superpowers.",
+        "ipa_phrase": "/ðə juː ɛs ənd ˈʧaɪnə ɑr ˈɡloʊbəl ˈsuːpərˌpaʊərz/",
+        "meaning_phrase": "Mỹ và Trung Quốc là các siêu cường toàn cầu.",
+        "context": "Chính trị quốc tế"
+    },
+    {
+        "word": "arms race",
+        "ipa_word": "/ɑːrmz reɪs/",
+        "type": "Noun",
+        "meaning_word": "cuộc chạy đua vũ trang",
+        "phrase": "The Cold War was marked by an intense arms race.",
+        "ipa_phrase": "/ðə koʊld wɔːr wʌz mɑrkt baɪ ən ɪnˈtɛns ɑːrmz reɪs/",
+        "meaning_phrase": "Chiến tranh Lạnh được đánh dấu bởi một cuộc chạy đua vũ trang khốc liệt.",
+        "context": "Lịch sử, quốc phòng"
+    },
+    {
+        "word": "non-alignment",
+        "ipa_word": "/ˌnɒn əˈlaɪnmənt/",
+        "type": "Noun",
+        "meaning_word": "chính sách không liên kết",
+        "phrase": "Many developing nations adopted non-alignment during the Cold War.",
+        "ipa_phrase": "/ˈmɛni dɪˈvɛləpɪŋ ˈneɪʃənz əˈdɒptɪd ˌnɒn əˈlaɪnmənt ˈdjʊərɪŋ ðə koʊld wɔːr/",
+        "meaning_phrase": "Nhiều quốc gia đang phát triển áp dụng chính sách không liên kết trong Chiến tranh Lạnh.",
+        "context": "Chính trị quốc tế"
+    },
+    {
+        "word": "deterrence",
+        "ipa_word": "/dɪˈtɜːrəns/",
+        "type": "Noun",
+        "meaning_word": "răn đe, ngăn chặn xung đột bằng sức mạnh",
+        "phrase": "Nuclear deterrence was a key Cold War strategy.",
+        "ipa_phrase": "/ˈnjuːkliər dɪˈtɜːrəns wɒz ə ki koʊld wɔːr ˈstrætəʤi/",
+        "meaning_phrase": "Răn đe hạt nhân là chiến lược then chốt trong Chiến tranh Lạnh.",
+        "context": "Quốc phòng, chính trị"
+    },
+    {
+        "word": "détente",
+        "ipa_word": "/deɪˈtɒnt/",
+        "type": "Noun",
+        "meaning_word": "sự hòa dịu, giảm căng thẳng giữa các quốc gia",
+        "phrase": "Détente reduced tensions between the U.S. and the Soviet Union.",
+        "ipa_phrase": "/deɪˈtɒnt rɪˈdjuːst ˈtɛnʃənz bɪˈtwin ði juː ɛs ænd ðə ˈsoʊviət ˈjunjən/",
+        "meaning_phrase": "Sự hòa dịu đã làm giảm căng thẳng giữa Mỹ và Liên Xô.",
+        "context": "Ngoại giao, lịch sử"
+    },
+    {
+        "word": "soft power",
+        "ipa_word": "/sɒft ˈpaʊər/",
+        "type": "Noun",
+        "meaning_word": "sức mạnh mềm (ảnh hưởng văn hóa, giá trị, truyền thông)",
+        "phrase": "Cultural exports are part of a nation's soft power.",
+        "ipa_phrase": "/ˈkʌlʧərəl ˈɛkspɔrts ɑr pɑrt ʌv ə ˈneɪʃənz sɒft ˈpaʊər/",
+        "meaning_phrase": "Xuất khẩu văn hóa là một phần của sức mạnh mềm quốc gia.",
+        "context": "Chính trị quốc tế, văn hóa"
+    },
+    {
+        "word": "hard power",
+        "ipa_word": "/hɑːrd ˈpaʊər/",
+        "type": "Noun",
+        "meaning_word": "sức mạnh cứng (quân sự, kinh tế)",
+        "phrase": "Hard power includes military force and economic pressure.",
+        "ipa_phrase": "/hɑːrd ˈpaʊər ɪnˈkluːdz ˈmɪlɪˌtɛri fɔrs ənd ˌɛkəˈnɒmɪk ˈprɛʃər/",
+        "meaning_phrase": "Sức mạnh cứng bao gồm lực lượng quân sự và áp lực kinh tế.",
+        "context": "Chính trị, quốc phòng"
+    },
+    {
+        "word": "geostrategy",
+        "ipa_word": "/ˌdʒiːoʊˈstrætəʤi/",
+        "type": "Noun",
+        "meaning_word": "chiến lược địa chính trị",
+        "phrase": "The country’s geostrategy focuses on securing maritime routes.",
+        "ipa_phrase": "/ðə ˈkʌntriz ˌdʒiːoʊˈstrætəʤi ˈfoʊkəsɪz ɒn sɪˈkjʊərɪŋ ˈmærɪtaɪm ruːts/",
+        "meaning_phrase": "Chiến lược địa chính trị của quốc gia tập trung vào bảo vệ tuyến đường biển.",
+        "context": "Chiến lược toàn cầu"
+    },
+    {
+        "word": "diplomatic immunity",
+        "ipa_word": "/ˌdɪpləˈmætɪk ɪˈmjunɪti/",
+        "type": "Noun",
+        "meaning_word": "quyền miễn trừ ngoại giao",
+        "phrase": "Diplomatic immunity protects envoys from prosecution abroad.",
+        "ipa_phrase": "/ˌdɪpləˈmætɪk ɪˈmjunɪti prəˈtɛkts ˈɛnvoɪz frʌm ˌprɒsɪˈkjuːʃən əˈbrɔːd/",
+        "meaning_phrase": "Quyền miễn trừ ngoại giao bảo vệ các nhà ngoại giao khỏi bị truy tố ở nước ngoài.",
+        "context": "Luật quốc tế"
+    }
+]

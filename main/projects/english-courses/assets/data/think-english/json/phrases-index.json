@@ -198,5 +198,10 @@
         "category": "Airlines & Aircraft English",
         "file": "airlines-aircraft.json",
         "description": "Các từ vựng và cụm từ liên quan đến ngành hàng không, bao gồm hãng bay, loại máy bay, thiết bị, quy trình bay, và giao tiếp trong sân bay. Ví dụ: boarding pass, cabin crew, turbulence, jet engine, runway, Airbus, Boeing..."
+    },
+    {
+        "category": "Politics & Ideologies",
+        "file": "politics-ideologies.json",
+        "description": "Các từ vựng và cụm từ phổ biến trong lĩnh vực chính trị, hệ tư tưởng, và xã hội. Bao gồm tên đảng phái, học thuyết, hệ thống kinh tế và các khái niệm về quyền lực, dân chủ, bình đẳng. Ví dụ: democracy, republic, capitalism, socialism, communism, liberal, conservative..."
     }
 ]
