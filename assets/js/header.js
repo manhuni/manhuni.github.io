@@ -25,3 +25,32 @@ navList.querySelectorAll('a').forEach(link => {
     backdrop.classList.remove('show');
   });
 });
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js')
+    .then(() => console.log('✅ Service Worker registered!'))
+    .catch(err => console.error('SW registration failed:', err));
+}
+
+let deferredPrompt;
+const installBtn = document.getElementById('installAppBtn');
+
+// Bắt sự kiện beforeinstallprompt
+window.addEventListener('beforeinstallprompt', (e) => {
+  e.preventDefault(); // Ngăn popup mặc định
+  deferredPrompt = e;
+  installBtn.hidden = false; // Hiện nút cài đặt
+
+  installBtn.addEventListener('click', async () => {
+    installBtn.hidden = true;
+    deferredPrompt.prompt(); // Gọi popup “Thêm vào MH chính”
+    const { outcome } = await deferredPrompt.userChoice;
+    console.log(`User response: ${outcome}`);
+    deferredPrompt = null;
+  });
+});
+
+// Khi app đã cài đặt
+window.addEventListener('appinstalled', () => {
+  console.log('PWA đã được cài đặt!');
+});
+

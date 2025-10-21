@@ -66,6 +66,21 @@
   cursor: pointer;
   margin-left: auto;
 }
+.install-btn {
+  background: #2b6cb0;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 16px;
+  font-size: 14px;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: background 0.3s;
+}
+
+.install-btn:hover {
+  background: #1a4e8a;
+}
 
 /* Mobile */
 @media (max-width: 768px) {
