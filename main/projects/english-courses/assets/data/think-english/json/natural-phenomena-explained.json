@@ -1,0 +1,572 @@
+[
+    {
+        "word": "red crab migration",
+        "ipa_word": "/rɛd kræb maɪˈɡreɪʃən/",
+        "type": "Noun phrase",
+        "meaning_word": "hiện tượng cua đỏ di cư",
+        "phrase": "Millions of red crabs migrate across Christmas Island every year.",
+        "ipa_phrase": "/ˈmɪljənz əv rɛd kræbz ˈmaɪɡreɪt əˈkrɒs ˈkrɪsməs ˈaɪlənd ˈɛvri jɪər/",
+        "meaning_phrase": "Hàng triệu con cua đỏ di cư qua đảo Christmas mỗi năm.",
+        "context": "Sinh thái học, hành vi động vật"
+    },
+    {
+        "word": "lemming migration myth",
+        "ipa_word": "/ˈlɛmɪŋ maɪˈɡreɪʃən mɪθ/",
+        "type": "Noun phrase",
+        "meaning_word": "hiểu lầm về chuột lemming tự tử tập thể",
+        "phrase": "The myth of lemmings committing mass suicide was debunked by scientists.",
+        "ipa_phrase": "/ðə mɪθ əv ˈlɛmɪŋz kəˈmɪtɪŋ mæs ˈsuːɪsaɪd wəz dɪˈbʌŋkt baɪ ˈsaɪəntɪsts/",
+        "meaning_phrase": "Hiểu lầm rằng chuột lemming tự tử tập thể đã bị giới khoa học bác bỏ.",
+        "context": "Sinh học, truyền thông"
+    },
+    {
+        "word": "whale stranding",
+        "ipa_word": "/weɪl ˈstrændɪŋ/",
+        "type": "Noun phrase",
+        "meaning_word": "hiện tượng cá voi mắc cạn",
+        "phrase": "Whale strandings often occur when sonar signals confuse the animals.",
+        "ipa_phrase": "/weɪl ˈstrændɪŋz ˈɒfən əˈkɜː wɛn ˈsəʊnɑː ˈsɪɡnəlz kənˈfjuːz ði ˈænɪməlz/",
+        "meaning_phrase": "Cá voi mắc cạn thường xảy ra khi tín hiệu sonar làm chúng mất phương hướng.",
+        "context": "Động vật biển, sinh học"
+    },
+    {
+        "word": "aurora borealis",
+        "ipa_word": "/ɔːˈrɔːrə ˌbɔːriˈælɪs/",
+        "type": "Noun",
+        "meaning_word": "cực quang phương Bắc",
+        "phrase": "The aurora borealis is caused by solar particles colliding with Earth's atmosphere.",
+        "ipa_phrase": "/ði ɔːˈrɔːrə ˌbɔːriˈælɪs ɪz kɔːzd baɪ ˈsəʊlər ˈpɑːtɪkəlz kəˈlaɪdɪŋ wɪð ɜːθs ˈætməsfɪər/",
+        "meaning_phrase": "Cực quang phương Bắc được tạo ra khi các hạt năng lượng Mặt Trời va chạm với khí quyển Trái Đất.",
+        "context": "Vật lý khí quyển, thiên văn"
+    },
+    {
+        "word": "ball lightning",
+        "ipa_word": "/bɔːl ˈlaɪtnɪŋ/",
+        "type": "Noun",
+        "meaning_word": "sét hình cầu",
+        "phrase": "Ball lightning appears as glowing orbs during thunderstorms.",
+        "ipa_phrase": "/bɔːl ˈlaɪtnɪŋ əˈpɪəz æz ˈɡləʊɪŋ ɔːbz ˈdjʊərɪŋ ˈθʌndəstɔːmz/",
+        "meaning_phrase": "Sét hình cầu xuất hiện dưới dạng các khối cầu phát sáng trong cơn dông.",
+        "context": "Hiện tượng khí quyển, điện học"
+    },
+    {
+        "word": "death valley heat",
+        "ipa_word": "/dɛθ ˈvæli hiːt/",
+        "type": "Noun phrase",
+        "meaning_word": "nhiệt độ cực cao ở Thung lũng Chết (Mỹ)",
+        "phrase": "Death Valley holds the record for the highest temperature on Earth.",
+        "ipa_phrase": "/dɛθ ˈvæli həʊldz ðə ˈrɛkɔːd fɔː ðə ˈhaɪɪst ˈtɛmpərətjʊər ɒn ɜːθ/",
+        "meaning_phrase": "Thung lũng Chết giữ kỷ lục về nhiệt độ cao nhất trên Trái Đất.",
+        "context": "Khí hậu, địa lý"
+    },
+    {
+        "word": "fire rainbow",
+        "ipa_word": "/faɪə ˈreɪnbəʊ/",
+        "type": "Noun phrase",
+        "meaning_word": "hiện tượng cầu vồng lửa",
+        "phrase": "A fire rainbow occurs when sunlight passes through ice crystals in cirrus clouds.",
+        "ipa_phrase": "/ə faɪə ˈreɪnbəʊ əˈkɜːz wɛn ˈsʌnlaɪt ˈpɑːsɪz θruː aɪs ˈkrɪstəlz ɪn ˈsɪrəs klaʊdz/",
+        "meaning_phrase": "Cầu vồng lửa xuất hiện khi ánh sáng Mặt Trời đi qua các tinh thể băng trong mây ti tầng cao.",
+        "context": "Khí tượng học, quang học"
+    },
+    {
+        "word": "blood rain",
+        "ipa_word": "/blʌd reɪn/",
+        "type": "Noun phrase",
+        "meaning_word": "mưa màu đỏ (mưa máu)",
+        "phrase": "Blood rain occurs when dust or sand mixes with rainwater, giving it a reddish color.",
+        "ipa_phrase": "/blʌd reɪn əˈkɜːz wɛn dʌst ɔː sænd ˈmɪksɪz wɪð ˈreɪnˌwɔːtə ˈɡɪvɪŋ ɪt ə ˈrɛdɪʃ ˈkʌlə/",
+        "meaning_phrase": "Mưa máu xảy ra khi bụi hoặc cát trộn lẫn với nước mưa, tạo màu đỏ sẫm.",
+        "context": "Khí quyển, môi trường"
+    },
+    {
+        "word": "animal rain",
+        "ipa_word": "/ˈænɪməl reɪn/",
+        "type": "Noun phrase",
+        "meaning_word": "hiện tượng mưa động vật (ếch, cá...)",
+        "phrase": "Animal rain happens when strong winds lift small creatures into the sky and drop them elsewhere.",
+        "ipa_phrase": "/ˈænɪməl reɪn ˈhæpənz wɛn strɒŋ wɪndz lɪft smɔːl ˈkriːʧəz ˈɪntuː ðə skaɪ ənd drɒp ðɛm ˈɛlswɛə/",
+        "meaning_phrase": "Mưa động vật xảy ra khi gió mạnh cuốn các sinh vật nhỏ lên trời và rơi xuống nơi khác.",
+        "context": "Khí tượng học, tự nhiên"
+    },
+    {
+        "word": "volcanic lightning",
+        "ipa_word": "/vɒlˈkænɪk ˈlaɪtnɪŋ/",
+        "type": "Noun phrase",
+        "meaning_word": "sét trong núi lửa",
+        "phrase": "Volcanic lightning is caused by electric charges in volcanic ash clouds.",
+        "ipa_phrase": "/vɒlˈkænɪk ˈlaɪtnɪŋ ɪz kɔːzd baɪ ɪˈlɛktrɪk ʧɑːʤɪz ɪn vɒlˈkænɪk æʃ klaʊdz/",
+        "meaning_phrase": "Sét trong núi lửa được tạo ra bởi điện tích trong đám mây tro núi lửa.",
+        "context": "Địa chất, khí tượng học"
+    },
+    {
+        "word": "fata morgana",
+        "ipa_word": "/ˈfɑːtə mɔːˈɡɑːnə/",
+        "type": "Noun",
+        "meaning_word": "ảo ảnh trên biển (Fata Morgana)",
+        "phrase": "A Fata Morgana makes distant objects appear to float or distort over the horizon.",
+        "ipa_phrase": "/ə ˈfɑːtə mɔːˈɡɑːnə meɪks ˈdɪstənt ˈɒbʤɪkts əˈpɪə tuː fləʊt ɔː dɪsˈtɔːt ˈəʊvə ðə həˈraɪzn/",
+        "meaning_phrase": "Ảo ảnh Fata Morgana khiến vật thể xa trông như nổi hoặc méo trên đường chân trời.",
+        "context": "Quang học, đại dương học"
+    },
+    {
+        "word": "morning glory cloud",
+        "ipa_word": "/ˈmɔːnɪŋ ˈɡlɔːri klaʊd/",
+        "type": "Noun phrase",
+        "meaning_word": "mây cuộn buổi sáng (Morning Glory)",
+        "phrase": "Morning Glory clouds are long, rolling cloud formations seen in northern Australia.",
+        "ipa_phrase": "/ˈmɔːnɪŋ ˈɡlɔːri klaʊdz ɑː lɒŋ ˈrəʊlɪŋ klaʊd fɔːˈmeɪʃənz siːn ɪn ˈnɔːðən ɒˈstreɪliə/",
+        "meaning_phrase": "Mây Morning Glory là những dải mây cuộn dài, xuất hiện ở miền bắc nước Úc.",
+        "context": "Khí tượng học"
+    },
+    {
+        "word": "bioluminescent beach",
+        "ipa_word": "/ˌbaɪoʊluːmɪˈnɛsənt biːʧ/",
+        "type": "Noun phrase",
+        "meaning_word": "biển phát sáng sinh học",
+        "phrase": "Bioluminescent beaches glow at night due to microorganisms emitting light.",
+        "ipa_phrase": "/ˌbaɪoʊluːmɪˈnɛsənt ˈbiːʧɪz ɡləʊ æt naɪt djuː tuː ˌmaɪkrəʊˈɔːɡənɪzəmz ɪˈmɪtɪŋ laɪt/",
+        "meaning_phrase": "Biển phát sáng sinh học tỏa sáng ban đêm nhờ các vi sinh vật phát quang.",
+        "context": "Sinh học biển"
+    },
+    {
+        "word": "lake natron",
+        "ipa_word": "/leɪk ˈnætrɒn/",
+        "type": "Proper noun",
+        "meaning_word": "Hồ Natron (hồ muối hóa đá động vật ở Tanzania)",
+        "phrase": "Lake Natron can turn animals into mummified statues due to its high alkalinity.",
+        "ipa_phrase": "/leɪk ˈnætrɒn kæn tɜːn ˈænɪməlz ˈɪntuː ˈmʌmɪfaɪd ˈstætʃuːz djuː tuː ɪts haɪ ˌælkəˈlɪnɪti/",
+        "meaning_phrase": "Hồ Natron có thể biến động vật chết thành xác khô vì độ kiềm cao.",
+        "context": "Địa lý, hóa học tự nhiên"
+    },
+    {
+        "word": "sailing stones",
+        "ipa_word": "/ˈseɪlɪŋ stəʊnz/",
+        "type": "Noun phrase",
+        "meaning_word": "đá biết đi ở Thung lũng Chết",
+        "phrase": "Sailing stones move slowly across dry lake beds due to thin ice sheets and wind.",
+        "ipa_phrase": "/ˈseɪlɪŋ stəʊnz muːv ˈsləʊli əˈkrɒs draɪ leɪk bɛdz djuː tuː θɪn aɪs ʃiːts ənd wɪnd/",
+        "meaning_phrase": "Những hòn đá biết đi di chuyển chậm qua hồ khô nhờ băng mỏng và gió.",
+        "context": "Địa lý, vật lý tự nhiên"
+    },
+    {
+        "word": "katabatic wind",
+        "ipa_word": "/ˌkætəˈbætɪk wɪnd/",
+        "type": "Noun phrase",
+        "meaning_word": "gió lạnh tràn xuống sườn núi",
+        "phrase": "Katabatic winds occur when cold air flows downhill due to gravity.",
+        "ipa_phrase": "/ˌkætəˈbætɪk wɪndz əˈkɜː wɛn kəʊld eə fləʊz ˈdaʊnhɪl djuː tuː ˈɡrævɪti/",
+        "meaning_phrase": "Gió katabatic xuất hiện khi không khí lạnh tràn xuống sườn núi do trọng lực.",
+        "context": "Khí tượng học, địa lý"
+    },
+    {
+        "word": "green flash",
+        "ipa_word": "/ɡriːn flæʃ/",
+        "type": "Noun phrase",
+        "meaning_word": "tia chớp xanh lúc hoàng hôn hoặc bình minh",
+        "phrase": "A green flash appears for a second when the sun sets over the horizon.",
+        "ipa_phrase": "/ə ɡriːn flæʃ əˈpɪəz fɔːr ə ˈsɛkənd wɛn ðə sʌn sɛts ˈəʊvə ðə həˈraɪzn/",
+        "meaning_phrase": "Tia chớp xanh lóe lên trong khoảnh khắc khi Mặt Trời lặn xuống chân trời.",
+        "context": "Quang học, thiên văn"
+    },
+    {
+        "word": "brinicle",
+        "ipa_word": "/ˈbraɪnɪkl/",
+        "type": "Noun",
+        "meaning_word": "cột băng tử thần dưới biển (brinicle)",
+        "phrase": "A brinicle forms when supercold salty water sinks and freezes sea life below.",
+        "ipa_phrase": "/ə ˈbraɪnɪkl fɔːmz wɛn ˈsuːpəkəʊld ˈsɔːlti ˈwɔːtə sɪŋks ənd ˈfriːzɪz siː laɪf bɪˈləʊ/",
+        "meaning_phrase": "Brinicle hình thành khi nước mặn siêu lạnh chìm xuống và đóng băng sinh vật biển bên dưới.",
+        "context": "Hải dương học, băng học"
+    },
+    {
+        "word": "milky sea effect",
+        "ipa_word": "/ˈmɪlki siː ɪˈfɛkt/",
+        "type": "Noun phrase",
+        "meaning_word": "hiện tượng biển phát sáng trắng (milky sea)",
+        "phrase": "The milky sea effect is caused by glowing bacteria covering large ocean areas.",
+        "ipa_phrase": "/ðə ˈmɪlki siː ɪˈfɛkt ɪz kɔːzd baɪ ˈɡləʊɪŋ bækˈtɪəriə ˈkʌvərɪŋ lɑːʤ ˈəʊʃən ˈeərɪəz/",
+        "meaning_phrase": "Hiện tượng biển sữa xảy ra khi vi khuẩn phát sáng bao phủ vùng biển rộng lớn.",
+        "context": "Sinh học biển, quang sinh học"
+    },
+    {
+        "word": "cryoseism",
+        "ipa_word": "/ˈkraɪəʊˌsaɪzəm/",
+        "type": "Noun",
+        "meaning_word": "động đất do băng (frost quake)",
+        "phrase": "A cryoseism occurs when frozen ground suddenly cracks due to temperature changes.",
+        "ipa_phrase": "/ə ˈkraɪəʊˌsaɪzəm əˈkɜːz wɛn ˈfrəʊzən ɡraʊnd ˈsʌdənli kræks djuː tuː ˈtɛmpərətjʊər ˈʧeɪnʤɪz/",
+        "meaning_phrase": "Động đất băng xảy ra khi mặt đất đóng băng nứt ra đột ngột do thay đổi nhiệt độ.",
+        "context": "Địa chất học, khí tượng lạnh"
+    },
+    {
+        "word": "blood rain",
+        "ipa_word": "/blʌd reɪn/",
+        "type": "Noun phrase",
+        "meaning_word": "mưa máu (mưa có màu đỏ)",
+        "phrase": "Blood rain occurs when dust or sand particles mix with rainwater, giving it a reddish color.",
+        "ipa_phrase": "/blʌd reɪn əˈkɜːz wɛn dʌst ɔː sænd ˈpɑːtɪkəlz mɪks wɪð ˈreɪnˌwɔːtə ˈɡɪvɪŋ ɪt ə ˈrɛdɪʃ ˈkʌlə/",
+        "meaning_phrase": "Mưa máu xảy ra khi bụi hoặc cát hòa trộn với nước mưa, tạo màu đỏ.",
+        "context": "Khí tượng học, bụi sa mạc"
+    },
+    {
+        "word": "animal rain",
+        "ipa_word": "/ˈænɪməl reɪn/",
+        "type": "Noun phrase",
+        "meaning_word": "mưa động vật (cá, ếch rơi từ trời)",
+        "phrase": "Animal rain happens when strong winds lift small animals into the air and drop them far away.",
+        "ipa_phrase": "/ˈænɪməl reɪn ˈhæpənz wɛn strɒŋ wɪndz lɪft smɔːl ˈænɪməlz ˈɪntuː ði eə ænd drɒp ðɛm fɑːr əˈweɪ/",
+        "meaning_phrase": "Mưa động vật xảy ra khi gió mạnh cuốn các sinh vật nhỏ lên không và thả xuống nơi khác.",
+        "context": "Khí tượng học, gió lốc"
+    },
+    {
+        "word": "fata morgana",
+        "ipa_word": "/ˈfɑːtə mɔːˈɡɑːnə/",
+        "type": "Noun",
+        "meaning_word": "ảo ảnh Fata Morgana",
+        "phrase": "A Fata Morgana is a complex mirage seen over the horizon caused by temperature inversion.",
+        "ipa_phrase": "/ə ˈfɑːtə mɔːˈɡɑːnə ɪz ə ˈkɒmplɛks mɪˈrɑːʒ siːn ˈəʊvə ðə həˈraɪzn kɔːzd baɪ ˈtɛmpərətjʊər ɪnˈvɜːʃən/",
+        "meaning_phrase": "Fata Morgana là ảo ảnh phức tạp xuất hiện trên đường chân trời do nghịch đảo nhiệt độ.",
+        "context": "Quang học khí quyển"
+    },
+    {
+        "word": "volcanic lightning",
+        "ipa_word": "/vɒlˈkænɪk ˈlaɪtnɪŋ/",
+        "type": "Noun phrase",
+        "meaning_word": "sét trong núi lửa",
+        "phrase": "Volcanic lightning is caused by static charges generated in volcanic ash clouds.",
+        "ipa_phrase": "/vɒlˈkænɪk ˈlaɪtnɪŋ ɪz kɔːzd baɪ ˈstætɪk ʧɑːʤɪz ˈʤɛnəreɪtɪd ɪn vɒlˈkænɪk æʃ klaʊdz/",
+        "meaning_phrase": "Sét núi lửa hình thành do điện tích tĩnh trong mây tro núi lửa.",
+        "context": "Núi lửa, khí tượng học"
+    },
+    {
+        "word": "green flash",
+        "ipa_word": "/ɡriːn flæʃ/",
+        "type": "Noun phrase",
+        "meaning_word": "tia chớp xanh (hiện tượng mặt trời lặn)",
+        "phrase": "A green flash can be seen just as the sun sets or rises due to light refraction.",
+        "ipa_phrase": "/ə ɡriːn flæʃ kæn bi siːn ʤʌst æz ðə sʌn sɛts ɔː ˈraɪzɪz djuː tuː laɪt rɪˈfrækʃən/",
+        "meaning_phrase": "Tia chớp xanh xuất hiện khi Mặt Trời vừa lặn hoặc mọc do khúc xạ ánh sáng.",
+        "context": "Quang học, thiên văn"
+    },
+    {
+        "word": "morning glory cloud",
+        "ipa_word": "/ˈmɔːnɪŋ ˈɡlɔːri klaʊd/",
+        "type": "Noun phrase",
+        "meaning_word": "mây cuộn Morning Glory",
+        "phrase": "The Morning Glory cloud is a rare roll cloud formation seen in northern Australia.",
+        "ipa_phrase": "/ðə ˈmɔːnɪŋ ˈɡlɔːri klaʊd ɪz ə reə rəʊl klaʊd fɔːˈmeɪʃən siːn ɪn ˈnɔːðən ɒˈstreɪliə/",
+        "meaning_phrase": "Mây Morning Glory là dạng mây cuộn hiếm thấy ở miền bắc nước Úc.",
+        "context": "Khí tượng học, thời tiết hiếm"
+    },
+    {
+        "word": "brinicle",
+        "ipa_word": "/ˈbraɪnɪkəl/",
+        "type": "Noun",
+        "meaning_word": "cột băng tử thần dưới biển (brinicle)",
+        "phrase": "A brinicle forms when salty water freezes underwater, creating a deadly ice finger.",
+        "ipa_phrase": "/ə ˈbraɪnɪkəl fɔːmz wɛn ˈsɔːlti ˈwɔːtə ˈfriːzɪz ˈʌndəˌwɔːtə krɪˈeɪtɪŋ ə ˈdɛdli aɪs ˈfɪŋɡə/",
+        "meaning_phrase": "Brinicle hình thành khi nước mặn đóng băng dưới biển, tạo thành cột băng hạ sát sinh vật.",
+        "context": "Đại dương học, băng giá"
+    },
+    {
+        "word": "moonbow",
+        "ipa_word": "/ˈmuːnbəʊ/",
+        "type": "Noun",
+        "meaning_word": "cầu vồng trăng",
+        "phrase": "A moonbow is a rainbow produced by moonlight instead of sunlight.",
+        "ipa_phrase": "/ə ˈmuːnbəʊ ɪz ə ˈreɪnbəʊ prəˈdjuːst baɪ ˈmuːnlaɪt ɪnˈstɛd əv ˈsʌnlaɪt/",
+        "meaning_phrase": "Cầu vồng trăng được tạo ra bởi ánh sáng Mặt Trăng thay vì Mặt Trời.",
+        "context": "Quang học, thiên nhiên"
+    },
+    {
+        "word": "fire whirl",
+        "ipa_word": "/ˈfaɪə wɜːl/",
+        "type": "Noun",
+        "meaning_word": "vòi rồng lửa",
+        "phrase": "A fire whirl occurs when intense heat and turbulent air create a spinning column of fire.",
+        "ipa_phrase": "/ə ˈfaɪə wɜːl əˈkɜːz wɛn ɪnˈtɛns hiːt ænd ˈtɜːbjʊlənt eə kriːˈeɪt ə ˈspɪnɪŋ ˈkɒləm əv ˈfaɪə/",
+        "meaning_phrase": "Vòi rồng lửa hình thành khi nhiệt độ cao và không khí xoáy tạo ra cột lửa xoáy.",
+        "context": "Hiện tượng cháy rừng, khí tượng"
+    },
+    {
+        "word": "sailing stones",
+        "ipa_word": "/ˈseɪlɪŋ stəʊnz/",
+        "type": "Noun phrase",
+        "meaning_word": "đá biết đi (sỏi di chuyển trên sa mạc)",
+        "phrase": "Sailing stones move slowly across desert floors due to thin ice sheets and wind.",
+        "ipa_phrase": "/ˈseɪlɪŋ stəʊnz muːv ˈsləʊli əˈkrɒs ˈdɛzət flɔːz djuː tuː θɪn aɪs ʃiːts ænd wɪnd/",
+        "meaning_phrase": "Đá biết đi di chuyển chậm trên sa mạc nhờ lớp băng mỏng và gió.",
+        "context": "Địa lý, vật lý tự nhiên"
+    },
+    {
+        "word": "hair ice",
+        "ipa_word": "/heə aɪs/",
+        "type": "Noun phrase",
+        "meaning_word": "băng tóc (hiện tượng băng mọc như tóc trên cây)",
+        "phrase": "Hair ice forms on dead wood under humid conditions when fungi release moisture.",
+        "ipa_phrase": "/heə aɪs fɔːmz ɒn dɛd wʊd ˈʌndə ˈhjuːmɪd kənˈdɪʃənz wɛn ˈfʌnʤaɪ rɪˈliːs ˈmɔɪsʧə/",
+        "meaning_phrase": "Băng tóc hình thành trên gỗ mục khi nấm tiết hơi ẩm trong điều kiện ẩm ướt.",
+        "context": "Sinh học, hiện tượng lạnh"
+    },
+    {
+        "word": "raining spiders",
+        "ipa_word": "/ˈreɪnɪŋ ˈspaɪdəz/",
+        "type": "Noun phrase",
+        "meaning_word": "mưa nhện (nhện bay lơ lửng rồi rơi xuống)",
+        "phrase": "Raining spiders occur when thousands of spiders use silk to float through the air.",
+        "ipa_phrase": "/ˈreɪnɪŋ ˈspaɪdəz əˈkɜː wɛn ˈθaʊzəndz əv ˈspaɪdəz juːz sɪlk tuː fləʊt θruː ði eə/",
+        "meaning_phrase": "Mưa nhện xảy ra khi hàng ngàn con nhện dùng tơ để bay và rơi xuống đất.",
+        "context": "Động vật học, khí tượng"
+    },
+    {
+        "word": "ice circle",
+        "ipa_word": "/aɪs ˈsɜːkəl/",
+        "type": "Noun phrase",
+        "meaning_word": "vòng tròn băng trôi trên sông",
+        "phrase": "Ice circles form in slow-moving water when rotating ice discs shape naturally.",
+        "ipa_phrase": "/aɪs ˈsɜːkəlz fɔːm ɪn sləʊ ˈmuːvɪŋ ˈwɔːtə wɛn rəʊˈteɪtɪŋ aɪs dɪsks ʃeɪp ˈnæʧrəli/",
+        "meaning_phrase": "Vòng tròn băng hình thành trên sông chảy chậm khi các tảng băng quay tròn tự nhiên.",
+        "context": "Địa lý lạnh, vật lý chất lỏng"
+    },
+    {
+        "word": "milky sea",
+        "ipa_word": "/ˈmɪlki siː/",
+        "type": "Noun phrase",
+        "meaning_word": "biển sữa (vùng biển phát sáng trắng)",
+        "phrase": "A milky sea occurs when bacteria produce light over vast ocean areas.",
+        "ipa_phrase": "/ə ˈmɪlki siː əˈkɜːz wɛn bækˈtɪərɪə prəˈdjuːs laɪt ˈəʊvə vɑːst ˈəʊʃən ˈeərɪəz/",
+        "meaning_phrase": "Biển sữa xảy ra khi vi khuẩn phát sáng bao phủ vùng biển rộng lớn.",
+        "context": "Sinh học biển, quang sinh học"
+    },
+    {
+        "word": "catatumbo lightning",
+        "ipa_word": "/ˌkætəˈtʊmboʊ ˈlaɪtnɪŋ/",
+        "type": "Noun phrase",
+        "meaning_word": "sét Catatumbo (ở Venezuela, sét đánh liên tục)",
+        "phrase": "Catatumbo lightning strikes the same area in Venezuela almost every night.",
+        "ipa_phrase": "/ˌkætəˈtʊmboʊ ˈlaɪtnɪŋ straɪks ðə seɪm ˈeərɪə ɪn ˌvɛnɪˈzweɪlə ˈɔːlməʊst ˈɛvri naɪt/",
+        "meaning_phrase": "Sét Catatumbo đánh vào cùng khu vực ở Venezuela gần như mỗi đêm.",
+        "context": "Khí tượng học, địa lý Nam Mỹ"
+    },
+    {
+        "word": "earthquake lights",
+        "ipa_word": "/ˈɜːθkweɪk laɪts/",
+        "type": "Noun phrase",
+        "meaning_word": "ánh sáng động đất",
+        "phrase": "Earthquake lights appear as glowing flashes before or during earthquakes.",
+        "ipa_phrase": "/ˈɜːθkweɪk laɪts əˈpɪə æz ˈɡləʊɪŋ flæʃɪz bɪˈfɔː ɔː ˈdjʊərɪŋ ˈɜːθkweɪks/",
+        "meaning_phrase": "Ánh sáng động đất xuất hiện dưới dạng tia chớp phát sáng trước hoặc trong khi động đất xảy ra.",
+        "context": "Địa chất, hiện tượng quang học"
+    },
+    {
+        "word": "ice volcano",
+        "ipa_word": "/aɪs vɒlˈkeɪnəʊ/",
+        "type": "Noun phrase",
+        "meaning_word": "núi lửa băng",
+        "phrase": "Ice volcanoes form on frozen lakes when water is forced up through cracks by pressure.",
+        "ipa_phrase": "/aɪs vɒlˈkeɪnəʊz fɔːm ɒn ˈfrəʊzən leɪks wɛn ˈwɔːtə ɪz fɔːst ʌp θruː kræks baɪ ˈprɛʃə/",
+        "meaning_phrase": "Núi lửa băng hình thành khi nước bị ép trồi lên qua các khe nứt trên hồ băng.",
+        "context": "Địa chất lạnh, vật lý nước"
+    },
+    {
+        "word": "sandfall",
+        "ipa_word": "/ˈsændfɔːl/",
+        "type": "Noun",
+        "meaning_word": "thác cát (hiện tượng cát chảy như nước)",
+        "phrase": "A sandfall occurs when sand cascades down steep slopes like a waterfall.",
+        "ipa_phrase": "/ə ˈsændfɔːl əˈkɜːz wɛn sænd kæˈskeɪdz daʊn stiːp sləʊps laɪk ə ˈwɔːtəfɔːl/",
+        "meaning_phrase": "Thác cát xảy ra khi cát đổ xuống các dốc đứng trông giống thác nước.",
+        "context": "Địa lý sa mạc, vật lý hạt"
+    },
+    {
+        "word": "sun dog",
+        "ipa_word": "/sʌn dɒɡ/",
+        "type": "Noun phrase",
+        "meaning_word": "mặt trời giả (vầng sáng bên cạnh Mặt Trời)",
+        "phrase": "A sun dog is a bright spot beside the sun caused by ice crystals in the atmosphere.",
+        "ipa_phrase": "/ə sʌn dɒɡ ɪz ə braɪt spɒt bɪˈsaɪd ðə sʌn kɔːzd baɪ aɪs ˈkrɪstəlz ɪn ði ˈætməsfɪə/",
+        "meaning_phrase": "Mặt trời giả là vầng sáng xuất hiện cạnh Mặt Trời do tinh thể băng trong khí quyển.",
+        "context": "Quang học, khí quyển lạnh"
+    },
+    {
+        "word": "red tide",
+        "ipa_word": "/rɛd taɪd/",
+        "type": "Noun phrase",
+        "meaning_word": "thủy triều đỏ",
+        "phrase": "A red tide is caused by algae blooms that release toxins into the water.",
+        "ipa_phrase": "/ə rɛd taɪd ɪz kɔːzd baɪ ˈælʤi bluːmz ðæt rɪˈliːs ˈtɒksɪnz ˈɪntuː ðə ˈwɔːtə/",
+        "meaning_phrase": "Thủy triều đỏ xảy ra khi tảo nở hoa và thải độc tố vào nước.",
+        "context": "Sinh học biển, môi trường"
+    },
+    {
+        "word": "singing sand dunes",
+        "ipa_word": "/ˈsɪŋɪŋ sænd djuːnz/",
+        "type": "Noun phrase",
+        "meaning_word": "cồn cát biết hát",
+        "phrase": "Singing sand dunes produce deep humming sounds when sand grains slide over each other.",
+        "ipa_phrase": "/ˈsɪŋɪŋ sænd djuːnz prəˈdjuːs diːp ˈhʌmɪŋ saʊndz wɛn sænd ɡreɪnz slaɪd ˈəʊvə iːʧ ˈʌðə/",
+        "meaning_phrase": "Cồn cát biết hát phát ra âm thanh trầm khi các hạt cát trượt lên nhau.",
+        "context": "Vật lý, địa lý sa mạc"
+    },
+    {
+        "word": "stone forest",
+        "ipa_word": "/stəʊn ˈfɒrɪst/",
+        "type": "Noun phrase",
+        "meaning_word": "rừng đá",
+        "phrase": "A stone forest is formed by limestone erosion over millions of years.",
+        "ipa_phrase": "/ə stəʊn ˈfɒrɪst ɪz fɔːmd baɪ ˈlaɪmstəʊn ɪˈrəʊʒən ˈəʊvə ˈmɪljənz əv jɪəz/",
+        "meaning_phrase": "Rừng đá hình thành do sự xói mòn đá vôi qua hàng triệu năm.",
+        "context": "Địa chất học"
+    },
+    {
+        "word": "frozen methane bubbles",
+        "ipa_word": "/ˈfrəʊzən ˈmiːθeɪn ˈbʌbəlz/",
+        "type": "Noun phrase",
+        "meaning_word": "bọt khí metan đóng băng",
+        "phrase": "Frozen methane bubbles form when gas is trapped under ice in frozen lakes.",
+        "ipa_phrase": "/ˈfrəʊzən ˈmiːθeɪn ˈbʌbəlz fɔːm wɛn ɡæs ɪz træpt ˈʌndə aɪs ɪn ˈfrəʊzən leɪks/",
+        "meaning_phrase": "Bọt khí metan đóng băng hình thành khi khí bị kẹt dưới băng trong hồ đóng băng.",
+        "context": "Địa lý lạnh, hóa học"
+    },
+    {
+        "word": "blue lava",
+        "ipa_word": "/bluː ˈlɑːvə/",
+        "type": "Noun phrase",
+        "meaning_word": "dung nham xanh",
+        "phrase": "Blue lava appears when burning sulfur gives the lava a bright blue glow.",
+        "ipa_phrase": "/bluː ˈlɑːvə əˈpɪəz wɛn ˈbɜːnɪŋ ˈsʌlfə ɡɪvz ðə ˈlɑːvə ə braɪt bluː ɡləʊ/",
+        "meaning_phrase": "Dung nham xanh xuất hiện khi lưu huỳnh cháy tạo ánh sáng xanh rực rỡ.",
+        "context": "Núi lửa, hóa học"
+    },
+    {
+        "word": "black sun",
+        "ipa_word": "/blæk sʌn/",
+        "type": "Noun phrase",
+        "meaning_word": "mặt trời đen (hiện tượng đàn chim che kín trời)",
+        "phrase": "The black sun occurs when thousands of starlings fly together, blocking the sunlight.",
+        "ipa_phrase": "/ðə blæk sʌn əˈkɜːz wɛn ˈθaʊzəndz əv ˈstɑːlɪŋz flaɪ təˈɡɛðə ˈblɒkɪŋ ðə ˈsʌnlaɪt/",
+        "meaning_phrase": "Mặt trời đen xuất hiện khi hàng ngàn con chim sáo bay cùng nhau che kín ánh Mặt Trời.",
+        "context": "Động vật học, hành vi đàn"
+    },
+    {
+        "word": "supercell storm",
+        "ipa_word": "/ˈsuːpə sɛl stɔːm/",
+        "type": "Noun phrase",
+        "meaning_word": "bão siêu tế bào",
+        "phrase": "A supercell storm is a powerful thunderstorm with a rotating updraft.",
+        "ipa_phrase": "/ə ˈsuːpə sɛl stɔːm ɪz ə ˈpaʊəfʊl ˈθʌndəstɔːm wɪð ə rəʊˈteɪtɪŋ ˈʌpdrɑːft/",
+        "meaning_phrase": "Bão siêu tế bào là cơn dông mạnh có luồng khí xoáy lên cao.",
+        "context": "Khí tượng học, thời tiết cực đoan"
+    },
+    {
+        "word": "lake turnover",
+        "ipa_word": "/leɪk ˈtɜːnəʊvə/",
+        "type": "Noun phrase",
+        "meaning_word": "đảo lớp nước hồ",
+        "phrase": "Lake turnover happens when the surface and bottom water layers mix due to temperature changes.",
+        "ipa_phrase": "/leɪk ˈtɜːnəʊvə ˈhæpənz wɛn ðə ˈsɜːfɪs ænd ˈbɒtəm ˈwɔːtə ˈleɪəz mɪks djuː tuː ˈtɛmpərətjʊər ˈʧeɪnʤɪz/",
+        "meaning_phrase": "Hiện tượng đảo lớp nước hồ xảy ra khi lớp nước mặt và đáy hòa trộn do thay đổi nhiệt độ.",
+        "context": "Thủy học, sinh thái hồ"
+    },
+    {
+        "word": "light pillar",
+        "ipa_word": "/laɪt ˈpɪlə/",
+        "type": "Noun phrase",
+        "meaning_word": "cột sáng",
+        "phrase": "A light pillar is created when light reflects off ice crystals in the air.",
+        "ipa_phrase": "/ə laɪt ˈpɪlə ɪz kriːˈeɪtɪd wɛn laɪt rɪˈflɛkts ɒf aɪs ˈkrɪstəlz ɪn ði eə/",
+        "meaning_phrase": "Cột sáng hình thành khi ánh sáng phản chiếu từ các tinh thể băng trong không khí.",
+        "context": "Quang học khí quyển"
+    },
+    {
+        "word": "zebra rainbow",
+        "ipa_word": "/ˈziːbrə ˈreɪnbəʊ/",
+        "type": "Noun phrase",
+        "meaning_word": "cầu vồng sọc (với nhiều lớp màu xen kẽ)",
+        "phrase": "A zebra rainbow appears when sunlight interacts with multiple layers of rain droplets.",
+        "ipa_phrase": "/ə ˈziːbrə ˈreɪnbəʊ əˈpɪəz wɛn ˈsʌnlaɪt ˌɪntərˈæks wɪð ˈmʌltɪpl ˈleɪəz əv reɪn ˈdrɒpləts/",
+        "meaning_phrase": "Cầu vồng sọc xuất hiện khi ánh sáng Mặt Trời khúc xạ qua nhiều lớp giọt mưa.",
+        "context": "Quang học, khí tượng"
+    },
+    {
+        "word": "snow roller",
+        "ipa_word": "/snəʊ ˈrəʊlə/",
+        "type": "Noun phrase",
+        "meaning_word": "cuộn tuyết (tuyết tự cuộn thành hình ống)",
+        "phrase": "Snow rollers form when wind pushes snow across the ground, creating cylindrical shapes.",
+        "ipa_phrase": "/snəʊ ˈrəʊləz fɔːm wɛn wɪnd ˈpʊʃɪz snəʊ əˈkrɒs ðə ɡraʊnd krɪˈeɪtɪŋ sɪˈlɪndrɪkəl ʃeɪps/",
+        "meaning_phrase": "Cuộn tuyết hình thành khi gió đẩy tuyết tạo thành hình trụ tự nhiên.",
+        "context": "Khí hậu lạnh, vật lý"
+    },
+    {
+        "word": "sand pillar",
+        "ipa_word": "/sænd ˈpɪlə/",
+        "type": "Noun phrase",
+        "meaning_word": "trụ cát (cột cát hình thành do gió xoáy)",
+        "phrase": "Sand pillars rise when wind vortices lift dry sand into tall columns.",
+        "ipa_phrase": "/sænd ˈpɪləz raɪz wɛn wɪnd ˈvɔːtɪsiːz lɪft draɪ sænd ˈɪntuː tɔːl ˈkɒləmz/",
+        "meaning_phrase": "Trụ cát hình thành khi gió xoáy nâng cát khô thành các cột cao.",
+        "context": "Khí tượng sa mạc"
+    },
+    {
+        "word": "firefall",
+        "ipa_word": "/ˈfaɪəfɔːl/",
+        "type": "Noun",
+        "meaning_word": "thác lửa (ánh hoàng hôn phản chiếu trên thác nước)",
+        "phrase": "The firefall occurs when sunset light makes a waterfall glow like lava.",
+        "ipa_phrase": "/ðə ˈfaɪəfɔːl əˈkɜːz wɛn ˈsʌnsɛt laɪt meɪks ə ˈwɔːtəfɔːl ɡləʊ laɪk ˈlɑːvə/",
+        "meaning_phrase": "Thác lửa xuất hiện khi ánh hoàng hôn khiến thác nước phát sáng như dung nham.",
+        "context": "Quang học, du lịch thiên nhiên"
+    },
+    {
+        "word": "penitentes",
+        "ipa_word": "/ˌpɛnɪˈtɛnteɪz/",
+        "type": "Noun",
+        "meaning_word": "cột băng nhọn (Penitentes)",
+        "phrase": "Penitentes are tall thin ice spikes formed by sunlight melting snow unevenly.",
+        "ipa_phrase": "/ˌpɛnɪˈtɛnteɪz ɑː tɔːl θɪn aɪs spaɪks fɔːmd baɪ ˈsʌnlaɪt ˈmɛltɪŋ snəʊ ʌnˈiːvnli/",
+        "meaning_phrase": "Penitentes là những cột băng nhọn hình thành khi ánh nắng làm tan tuyết không đều.",
+        "context": "Khí hậu núi cao"
+    },
+    {
+        "word": "white rainbow",
+        "ipa_word": "/waɪt ˈreɪnbəʊ/",
+        "type": "Noun phrase",
+        "meaning_word": "cầu vồng trắng (fogbow)",
+        "phrase": "A white rainbow or fogbow forms when sunlight shines through tiny water droplets in fog.",
+        "ipa_phrase": "/ə waɪt ˈreɪnbəʊ ɔː ˈfɒɡbəʊ fɔːmz wɛn ˈsʌnlaɪt ʃaɪnz θruː ˈtaɪni ˈwɔːtə ˈdrɒpləts ɪn fɒɡ/",
+        "meaning_phrase": "Cầu vồng trắng hay cầu vồng sương xuất hiện khi ánh Mặt Trời chiếu qua sương mù.",
+        "context": "Khí tượng, quang học"
+    },
+    {
+        "word": "salar de uyuni mirror",
+        "ipa_word": "/səˈlɑː də juːˈjuːni ˈmɪrə/",
+        "type": "Noun phrase",
+        "meaning_word": "hiệu ứng gương Uyuni (Bolivia)",
+        "phrase": "After rain, the Uyuni Salt Flat becomes a giant mirror reflecting the sky.",
+        "ipa_phrase": "/ˈɑːftə reɪn ði juːˈjuːni sɔːlt flæt bɪˈkʌmz ə ˈʤaɪənt ˈmɪrə rɪˈflɛktɪŋ ðə skaɪ/",
+        "meaning_phrase": "Sau cơn mưa, cánh đồng muối Uyuni trở thành tấm gương khổng lồ phản chiếu bầu trời.",
+        "context": "Địa lý tự nhiên, hiện tượng phản xạ"
+    },
+    {
+        "word": "fire ice",
+        "ipa_word": "/ˈfaɪər aɪs/",
+        "type": "Noun phrase",
+        "meaning_word": "băng cháy (methane hydrate)",
+        "phrase": "Fire ice is a frozen gas compound that burns when exposed to heat.",
+        "ipa_phrase": "/ˈfaɪər aɪs ɪz ə ˈfrəʊzən ɡæs ˈkɒmpaʊnd ðæt bɜːnz wɛn ɪkˈspəʊzd tuː hiːt/",
+        "meaning_phrase": "Băng cháy là hợp chất khí metan đóng băng có thể cháy khi gặp nhiệt độ cao.",
+        "context": "Địa chất học, năng lượng tự nhiên"
+    },
+    {
+        "word": "blooming desert",
+        "ipa_word": "/ˈbluːmɪŋ ˈdɛzət/",
+        "type": "Noun phrase",
+        "meaning_word": "sa mạc nở hoa",
+        "phrase": "A blooming desert occurs when rare rain causes dormant seeds to sprout and bloom.",
+        "ipa_phrase": "/ə ˈbluːmɪŋ ˈdɛzət əˈkɜːz wɛn reə reɪn ˈkɔːzɪz ˈdɔːmənt siːdz tuː spraʊt ænd bluːm/",
+        "meaning_phrase": "Sa mạc nở hoa xảy ra khi mưa hiếm hoi khiến hạt giống ngủ đông nảy mầm và nở rộ.",
+        "context": "Sinh thái học, khí hậu khô"
+    }
+]

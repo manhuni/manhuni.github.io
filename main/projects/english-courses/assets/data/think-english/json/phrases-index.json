@@ -203,5 +203,10 @@
         "category": "Politics & Ideologies",
         "file": "politics-ideologies.json",
         "description": "Các từ vựng và cụm từ phổ biến trong lĩnh vực chính trị, hệ tư tưởng, và xã hội. Bao gồm tên đảng phái, học thuyết, hệ thống kinh tế và các khái niệm về quyền lực, dân chủ, bình đẳng. Ví dụ: democracy, republic, capitalism, socialism, communism, liberal, conservative..."
+    },
+    {
+        "category": "Natural Phenomena Explained",
+        "file": "natural-phenomena-explained.json",
+        "description": "Các hiện tượng tự nhiên kỳ lạ và nổi tiếng trên Trái Đất, từng khiến con người ngạc nhiên hoặc hiểu lầm, nhưng sau đó đã được khoa học giải thích rõ ràng. Bao gồm hiện tượng động vật, thời tiết, ánh sáng, và môi trường. Ví dụ: red crab migration, whale stranding, aurora borealis, ball lightning..."
     }
 ]
